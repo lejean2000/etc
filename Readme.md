@@ -7,7 +7,9 @@ To identify a point refer to the *NonETCNames.csv* file and the following conven
 The following transformations have been used for descriptions of non-ETC points:
 
 IsogConj - isogonal conjugate
+
 IsotConj - isotomic conjugate
+
 PolarConj - polar conjugate
 
 CM1 - first X-circumconcevian conjugate introduced here: https://groups.io/g/euclid/message/5569 
