@@ -29,3 +29,14 @@ CM3 - third X-circumconcevian image introduced here: https://groups.io/g/euclid/
 It may not be trivial if this is your first time working with Git version control.
 
 If you want to submit a point for inclusion in ETC, you should either: manually remove the properties related to Y- and Z- points, or recalculate the properties, or submit a request and I will recalculate and prepare an ETC entry.
+
+If you choose to remove the Y- and Z- properties yourself, here is an easy procedure which will remove most (not all!) Y and Z properties.
+
+1. Navigate to https://regex101.com
+2. In the left panel above choose Python, and in the left panel below choose Substitution.
+3. Paste the following regex in the "Regual expression" field on top:
+
+       \{([Y|Z]*?[\d, \(\)ABCX])*[Y|Z].*?\}[, ]*
+
+4. Paste the ETC entry in the textbox. Make sure you have a new line at the end.
+5. In the textbox below will be your entry, stripped of Y and Z properties.
