@@ -34,7 +34,7 @@ If you choose to remove the Y- and Z- properties yourself, here is an easy proce
 
 1. Navigate to https://regex101.com
 2. In the left panel above choose Python, and in the left panel below choose Substitution.
-3. Paste the following regex in the "Regual expression" field on top:
+3. Paste the following regex in the "Regular expression" field on top:
 
        \{([Y|Z]*?[\d, \(\)ABCX])*[Y|Z].*?\}[, ]*
 
