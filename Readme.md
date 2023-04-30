@@ -8,6 +8,8 @@ To identify a point refer to the *NonETCNames.csv* file and the following conven
 **To submit a change make a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) !** 
 It may not be trivial if this is your first time working with Git version control.
 
+If you want to submit a point for inclusion in ETC, you should either: manually remove the properties related to Y- and Z- points, or recalculate the properties, or submit a request and I will recalculate and prepare an ETC entry.
+
 The following transformations have been used for descriptions of points:
 
 IsogConj - isogonal conjugate
