@@ -1,0 +1,21 @@
+Y(11142)
+
+X(2)X(7269)∩X(4671)Z(37381)
+
+Barycentrics    (a^3+a^2*(b+c)-(b-c)^2*(b+c)-a*(b^2+4*b*c+c^2))*(a^3+a^2*(b-c)-(b-c)*(b+c)^2-a*(b^2+4*b*c+c^2))*(a^3+a^2*(-b+c)+(b-c)*(b+c)^2-a*(b^2+4*b*c+c^2))
+
+Let P be a point and  DEF be circumcevian triangle of P. Ka, symmedian point of BDC. A1 orthogonal projection of Ka on BC. Define B1,C1, cyclically.
+ABC and A1B1C1 are perspective iff P lies on K243 (see  Abdilkadir Altıntaş, https://groups.io/g/euclid/message/1093)
+For P=X(5119) the perspector is Y(11142)
+
+Y(11142) lies on these lines: {2, 7269}, {4671, Z37381}, {16704, Z45570}
+
+Y(11142) lies on these circumconics: {A,B,C,X(2),X(31018)}, {A,B,C,X(5119),X(25417)}
+
+Y(11142) = X(i)-isoconjugate-of-X(j) for these {i, j}: {3338, Z20003}
+
+Y(11142) = isotomic conjugate of Y(11143)
+
+Y(11142) = barycentric product X(i)*X(j) for these (i, j): {5119, Z37381}, {7162, Z40582}
+
+Y(11142) = barycentric quotient X(i)/X(j) for these (i, j): {5119, 3338}, {7162, 7284}, {Z37381, Z38714}, {Z40582, Z40492}
