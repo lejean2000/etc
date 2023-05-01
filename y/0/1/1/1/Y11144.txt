@@ -1,0 +1,18 @@
+Y(11144)
+
+X(1)X(4681)∩X(75)Z(60305)
+
+Barycentrics    (3*a-b-c)*(3*a*b-2*a*c-2*b*c)*(2*a*b-3*a*c+2*b*c)
+
+Y(11144) is the triple conic conjugate of X(1) wrt {A/2+X(2)/2, C/2+X(2)/2, C/2+X(2)/2}
+
+
+Y(11144) lies on these lines: {1, 4681}, {75, Z60305}, {993, 8686}, {1125, Z957}, {3625, Z3898}, {5793, 39123}, {23617, Z764}, {Z14571, Z26416}
+
+Y(11144) lies on these circumconics: {A,B,C,X(1),X(145)}, {A,B,C,X(75),X(3667)}, {A,B,C,X(3161),X(28626)}, {A,B,C,X(4681),X(18743)}, {A,B,C,X(8643),X(36873)}, {A,B,C,X(42285),X(44720)}, {A,B,C,X(43531),X(52352)}
+
+Y(11144) = X(i)-isoconjugate-of-X(j) for these {i, j}: {3644, 38266}
+
+Y(11144) = barycentric product X(i)*X(j) for these (i, j): {145, Z37616}, {Z37470, Z764}
+
+Y(11144) = barycentric quotient X(i)/X(j) for these (i, j): {145, 3644}, {Z764, 3445}, {Z37616, 4373}

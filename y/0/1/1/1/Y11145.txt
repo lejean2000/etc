@@ -1,0 +1,22 @@
+Y(11145)
+
+X(3)X(15576)∩X(381)Z(27085)
+
+Barycentrics    (3*a^4-(b^2-c^2)^2-2*a^2*(b^2+c^2))*(a^6*(2*b^2-3*c^2)+2*b^2*c^2*(b^2-c^2)^2-2*a^4*(2*b^4+b^2*c^2-3*c^4)+a^2*(2*b^6+3*b^4*c^2-2*b^2*c^4-3*c^6))*(a^6*(3*b^2-2*c^2)-2*b^2*c^2*(b^2-c^2)^2+a^4*(-6*b^4+2*b^2*c^2+4*c^4)+a^2*(3*b^6+2*b^4*c^2-3*b^2*c^4-2*c^6))
+
+Y(11145) is the triple conic conjugate of X(3) wrt {A/2+X(2)/2, C/2+X(2)/2, C/2+X(2)/2}
+
+
+Y(11145) lies on these lines: {3, 15576}, {381, Z27085}, {3090, Z28147}, {15394, Z81949}, {Z43068, Z72011}
+
+Y(11145) lies on these circumconics: {A,B,C,X(3),X(20)}, {A,B,C,X(264),X(8057)}, {A,B,C,X(1249),X(15576)}, {A,B,C,X(14249),Z(7571)}, {A,B,C,X(14944),Z(28798)}, {A,B,C,X(18852),Z(27289)}, {A,B,C,X(38808),Z(731)}
+
+Y(11145) = X(i)-isoconjugate-of-X(j) for these {i, j}: {2184, 41367}, {19614, 51877}
+
+Y(11145) = X(i)-Dao conjugate of X(j) for these {i, j}: {4, 51877}
+
+Y(11145) = X(i)-Ceva conjugate of X(j) for these {i, j}: {Z81949, Z27493}
+
+Y(11145) = barycentric product X(i)*X(j) for these (i, j): {20, Z27493}, {154, Z72011}, {1249, Z81949}, {15466, Z34429}
+
+Y(11145) = barycentric quotient X(i)/X(j) for these (i, j): {154, 41367}, {1249, 51877}, {Z27493, 253}, {Z34429, 1073}, {Z72011, 41530}, {Z81949, 34403}

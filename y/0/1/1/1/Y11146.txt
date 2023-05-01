@@ -1,0 +1,20 @@
+Y(11146)
+
+X(4)X(3629)∩X(5)Z(29642)
+
+Barycentrics    (3*a^2+3*b^2-7*c^2)*(3*a^2-7*b^2+3*c^2)*(5*a^4-3*(b^2-c^2)^2-2*a^2*(b^2+c^2))
+
+Y(11146) is the triple conic conjugate of X(4) wrt {A/2+X(2)/2, C/2+X(2)/2, C/2+X(2)/2}
+
+
+Y(11146) lies on these lines: {4, 3629}, {5, Z29642}, {Z5245, Z64330}
+
+Y(11146) lies on these circumconics: {A,B,C,X(4),X(3146)}, {A,B,C,X(69),Z(28764)}, {A,B,C,X(4846),X(27082)}, {A,B,C,X(5102),X(38292)}, {A,B,C,X(45245),Z(9757)}
+
+Y(11146) lies on these curves: K124, K616 (Thomson nodal cubic with node H)
+
+Y(11146) = X(i)-Waw conjugate of X(j) for these {i, j}: {2, 39142}
+
+Y(11146) = barycentric product X(i)*X(j) for these (i, j): {3146, Z44033}, {Z37534, Z5245}
+
+Y(11146) = barycentric quotient X(i)/X(j) for these (i, j): {3146, 11008}, {Z5245, 3532}, {Z44033, 35510}
