@@ -6,26 +6,6 @@ The **/y/** and **/z/** refer to an extended database of triangle centers - i.e.
 
 To identify a point refer to the *NonETCNames.csv* file and the following convention. Tradtitional ETC points are refered with X(n). The rest follow these https://github.com/lejean2000/etc/wiki/Naming-Conventions.
 
-The following transformations have been used for descriptions of non-ETC points:
-
-IsogConj - isogonal conjugate
-
-IsotConj - isotomic conjugate
-
-PolarConj - polar conjugate
-
-CM1 - first X-circumconcevian conjugate introduced here: https://groups.io/g/euclid/message/5569 
-
-    u/((v/a2 + w/a3)(v/b2 + w/b3) - u^2/(a1*b1)) 
-
-CM2 - second X-circumconcevian image introduced here: https://groups.io/g/euclid/message/5576 
-
-    u/((v/a2 - w/a3)(v/b2 - w/b3) - u^2/(a1*b1))
-
-CM3 - third X-circumconcevian image introduced here: https://groups.io/g/euclid/message/5576 
-
-    u/((v/a2 + w/a3)(v/b2 + w/b3) + u^2/(a1*b1))
-
 
 **To submit a change make a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) !** 
 It may not be trivial if this is your first time working with Git version control.
