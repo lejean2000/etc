@@ -1,0 +1,12 @@
+Y(11148)
+
+4th intersection point of circumconics {A,B,C,X(6),X(193)} and {A,B,C,X(76),X(3566)}
+
+Barycentrics    (3*a^2-b^2-c^2)*(2*b^2*c^2+a^2*(2*b^2-3*c^2))*(-2*b^2*c^2+a^2*(3*b^2-2*c^2))
+
+
+Y(11148) lies on these lines: {6, 7781}
+
+Y(11148) lies on these circumconics: {A,B,C,X(6),X(193)}, {A,B,C,X(76),X(3566)}, {A,B,C,X(6337),X(18841)}, {A,B,C,X(7816),Z(1834)}, {A,B,C,X(32450),Z(35312)}, {A,B,C,Z(7585),Z(31384)}
+
+Y(11148) = triple conic conjugate of X(6) wrt {A/2+X(2)/2, B/2+X(2)/2, C/2+X(2)/2}

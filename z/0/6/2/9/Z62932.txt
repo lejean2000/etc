@@ -1,0 +1,20 @@
+Z(62932)
+
+X(142)X(3244)∩X(17169)X(29590)
+
+Barycentrics    (2*a^2+3*b^2-5*b*c+2*c^2-a*(5*b+c))*(2*a^2+2*b^2-5*b*c+3*c^2-a*(b+5*c))
+
+
+Z(62932) lies on these lines: {142, 3244}, {17169, 29590}, {20880, Z70855}
+
+Z(62932) lies on these circumconics: {A,B,C,X(1),X(15570)}, {A,B,C,X(2),X(3244)}, {A,B,C,X(4),X(38201)}, {A,B,C,X(7),X(142)}, {A,B,C,X(10),X(29590)}, {A,B,C,X(57),Z(1012)}, {A,B,C,X(85),X(5560)}, {A,B,C,X(274),X(40509)}, {A,B,C,X(514),X(5559)}, {A,B,C,X(1125),X(29575)}, {A,B,C,X(1389),X(27003)}, {A,B,C,X(4395),Y(2921)}, {A,B,C,X(4852),X(28650)}, {A,B,C,X(10405),X(43734)}, {A,B,C,X(17390),Z(2016)}, {A,B,C,X(32015),X(34578)}, {A,B,C,X(39724),X(44572)}, {A,B,C,X(43758),Z(24732)}
+
+Z(62932) = trilinear pole of line {21104,28217}
+
+Z(62932) = isotomic conjugate of X(31333}
+
+Z(62932) = barycentric product X(i)*X(j) for these (i, j): {76, Z20317}
+
+Z(62932) = barycentric quotient X(i)/X(j) for these (i, j): {2, 31333}, {Z20317, 6}
+
+Z(62932) = triple conic conjugate of X(142) wrt {A/2+X(2)/2, C/2+X(2)/2, C/2+X(2)/2}

@@ -1,0 +1,18 @@
+Y(11161)
+
+X(57)X(899)∩X(106)X(6016)
+
+Barycentrics    a^2*(a^2-b^2+4*b*c-c^2)*(a*(b-2*c)+b*(3*b+c))*(a*(2*b-c)-c*(b+3*c))
+
+
+Y(11161) lies on these lines: {55, Z9338}, {57, 899}, {106, 6016}, {Z982, Z32533}
+
+Y(11161) lies on these circumconics: {A,B,C,X(57),X(106)}, {A,B,C,X(899),X(3872)}
+
+Y(11161) = X(i)-isoconjugate-of-X(j) for these {i, j}: {16834, Z681}, {49462, Z828}
+
+Y(11161) = barycentric product X(i)*X(j) for these (i, j): {999, Z49534}, {4054, Z32533}, {21183, 6016}, {42697, Z8921}, {Z34167, Z3884}
+
+Y(11161) = barycentric quotient X(i)/X(j) for these (i, j): {999, 16834}, {6016, 51564}, {21183, Z39515}, {Z8921, 1000}, {Z32533, Z37877}, {Z34167, 6008}, {Z49534, Z35681}
+
+Y(11161) = triple conic conjugate of X(57) wrt {2A-X(1), 2B-X(1), 2C-X(1)}

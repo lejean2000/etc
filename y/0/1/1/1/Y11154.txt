@@ -1,0 +1,18 @@
+Y(11154)
+
+X(1)X(25269)∩Z(38354)Z(67818)
+
+
+Barycentrics    (5*a*b-3*a*c-3*b*c)*(3*a*b-5*a*c+3*b*c)*(5*a-2*(b+c))
+
+Y(11154) lies on these lines: {1, 25269}, {Z38354, Z67818}
+
+Y(11154) lies on these circumconics: {A,B,C,X(1),X(3633)}
+
+Y(11154) = X(i)-isoconjugate-of-X(j) for these {i, j}: {4788, Z30686}, {36634, Z761}, {36647, Z77153}
+
+Y(11154) = barycentric product X(i)*X(j) for these (i, j): {3633, Z24047}, {46938, Z24034}
+
+Y(11154) = barycentric quotient X(i)/X(j) for these (i, j): {3633, 4788}, {Z1649, Z761}, {Z24034, Z77153}, {Z24047, Z37606}
+
+Y(11154) = triple conic conjugate of X(1) wrt {A/3+X(2)/3, B/3+X(2)/3, C/3+X(2)/3}

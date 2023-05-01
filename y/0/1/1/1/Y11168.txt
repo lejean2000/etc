@@ -1,0 +1,26 @@
+Y(11168)
+
+X(2)Z(26641)∩X(6)X(14370)
+
+Barycentrics    a^2*(a^2+b^2)*(a^2+c^2)*(a^6+a^4*(b^2+c^2)+2*b^2*c^2*(b^2+c^2)+a^2*(b^4+3*b^2*c^2+c^4))
+
+
+Y(11168) lies on these lines: {2, Z26641}, {6, 14370}, {83, 316}, {251, 3124}, {827, 12212}, {1176, Z21485}, {2076, 9481}, {3456, 5007}, {4577, 32449}, {5116, 46228}, {9484, Z12382}, {13331, 14247}, {17949, 40163}, {41295, Z28553}, {Z3529, Z13825}
+
+Y(11168) lies on these circumconics: {A,B,C,X(6),X(41884)}, {A,B,C,X(83),X(3456)}, {A,B,C,X(6656),X(9484)}, {A,B,C,X(52395),Z(60394)}, {A,B,C,Z(3494),Z(18367)}, {A,B,C,Z(3534),Z(7802)}
+
+Y(11168) = midpoint of X(i) in X(j) for these {i,j}: {6, 14370}
+
+Y(11168) = X(i)-isoconjugate-of-X(j) for these {i, j}: {38, Z56079}, {1930, Z14665}
+
+Y(11168) = X(i)-Dao conjugate of X(j) for these {i, j}: {Z7231, Z51279}
+
+Y(11168) = X(i)-Ceva conjugate of X(j) for these {i, j}: {18898, 46288}
+
+Y(11168) = barycentric product X(i)*X(j) for these (i, j): {24273, 251}
+
+Y(11168) = barycentric quotient X(i)/X(j) for these (i, j): {251, Z56079}, {24273, 8024}, {46288, Z14665}
+
+Y(11168) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {1691, Z3494, 46288}
+
+Y(11168) = triple conic conjugate of X(83) wrt {A/2+X(6)/2, B/2+X(6)/2, C/2+X(6)/2}

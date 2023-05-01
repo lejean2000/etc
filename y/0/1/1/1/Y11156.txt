@@ -1,0 +1,20 @@
+Y(11156)
+
+X(2)X(3715)∩X(3241)Z(60036)
+
+Barycentrics    (4*a+b+c)*(a^2+b^2+b*c-2*c^2+a*(4*b+c))*(a^2-2*b^2+b*c+c^2+a*(b+4*c))
+
+
+Y(11156) lies on these lines: {2, 3715}, {3241, Z60036}, {3679, Z27530}, {31145, Y5599}, {36887, Z35236}, {Z48059, Z49388}
+
+Y(11156) lies on these circumconics: {A,B,C,X(2),X(551)}, {A,B,C,X(7),X(28209)}, {A,B,C,X(5220),X(16666)}, {A,B,C,X(14435),Z(22353)}
+
+Y(11156) = X(i)-isoconjugate-of-X(j) for these {i, j}: {15254, 41434}, {28210, 47811}, {50095, Z14970}
+
+Y(11156) = X(i)-Dao conjugate of X(j) for these {i, j}: {16590, 50095}, {51570, 15254}
+
+Y(11156) = barycentric product X(i)*X(j) for these (i, j): {551, Z80238}, {16666, Z48059}, {24589, Z7718}, {Z32894, Z72076}
+
+Y(11156) = barycentric quotient X(i)/X(j) for these (i, j): {551, 50095}, {16666, 15254}, {Z7718, 40434}, {Z32894, 41434}, {Z48059, Z49383}, {Z80238, Y2921}
+
+Y(11156) = triple conic conjugate of X(2) wrt {2A-X(1), 2B-X(1), 2C-X(1)}

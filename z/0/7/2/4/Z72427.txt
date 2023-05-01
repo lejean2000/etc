@@ -1,0 +1,20 @@
+Z(72427)
+
+X(10)X(7227)∩X(86)X(35141)
+
+Barycentrics    (a-b-c)*(2*a^2+2*b^2+b*c-3*c^2+a*(b+c))*(2*a^2-3*b^2+b*c+2*c^2+a*(b+c))
+
+Z(72427) is the triple conic conjugate of X(10) wrt {A/2+X(2)/2, C/2+X(2)/2, C/2+X(2)/2}
+
+
+Z(72427) lies on these lines: {8, Z27829}, {10, 7227}, {86, 35141}, {3634, 6757}, {7321, Z73285}
+
+Z(72427) lies on these circumconics: {A,B,C,X(1),Z(18278)}, {A,B,C,X(8),X(10)}, {A,B,C,X(9),X(15481)}, {A,B,C,X(37),Z(8375)}, {A,B,C,X(86),X(522)}, {A,B,C,X(273),X(2166)}, {A,B,C,X(318),Z(2044)}, {A,B,C,X(897),Z(30787)}, {A,B,C,X(1125),Z(10166)}, {A,B,C,X(1268),X(36910)}, {A,B,C,X(3634),X(4420)}, {A,B,C,X(7227),Y(2455)}, {A,B,C,X(13602),Z(2509)}, {A,B,C,X(17351),X(36800)}, {A,B,C,X(17501),Z(13034)}, {A,B,C,X(18490),Z(33985)}, {A,B,C,X(31618),X(40510)}, {A,B,C,X(43733),Z(84)}, {A,B,C,X(44572),Z(23669)}, {A,B,C,X(44693),Z(10207)}, {A,B,C,Z(27603),Z(28338)}
+
+Z(72427) = isotomic conjugate of X(41807)
+
+Z(72427) = X(i)-isoconjugate-of-X(j) for these {i, j}: {31, 41807}, {42749, Z34769}
+
+Z(72427) = barycentric product X(i)*X(j) for these (i, j): {76, Z27829}
+
+Z(72427) = barycentric quotient X(i)/X(j) for these (i, j): {2, 41807}, {Z27829, 6}

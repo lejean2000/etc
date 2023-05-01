@@ -1,0 +1,22 @@
+Y(11170)
+
+X(2)X(575)∩X(6)Z(4364)
+
+Barycentrics    (7*a^2-2*(b^2+c^2))*(2*a^4+b^4-3*b^2*c^2+2*c^4-a^2*(3*b^2+2*c^2))*(2*a^4+2*b^4-3*b^2*c^2+c^4-a^2*(2*b^2+3*c^2))
+
+
+Y(11170) lies on these lines: {2, 575}, {6, Z4364}, {1992, 35178}, {9214, Z34714}, {25555, Z8173}, {Z8301, Z34707}
+
+Y(11170) lies on these circumconics: {A,B,C,X(2),X(15534)}, {A,B,C,X(4),Z(21887)}, {A,B,C,X(6),X(9716)}, {A,B,C,X(575),Z(1856)}, {A,B,C,X(3292),Z(34714)}, {A,B,C,X(5486),X(38397)}, {A,B,C,X(15850),X(33554)}
+
+Y(11170) lies on these curves: K295
+
+Y(11170) = X(i)-Dao conjugate of X(j) for these {i, j}: {51589, Z40885}
+
+Y(11170) = X(i)-cross conjugate of X(j) for these {i, j}: {33554, 15534}
+
+Y(11170) = barycentric product X(i)*X(j) for these (i, j): {15534, 7607}, {33554, Z48623}, {35178, Z21887}
+
+Y(11170) = barycentric quotient X(i)/X(j) for these (i, j): {7607, Z48313}, {15534, Z40885}, {33554, 15850}, {Z8173, Z21841}, {Z21887, Z66455}, {Z48623, Z65024}
+
+Y(11170) = triple conic conjugate of X(2) wrt {-A/2+3X(6)/2, -B/2+3X(6)/2, -C/2+3X(6)/2}

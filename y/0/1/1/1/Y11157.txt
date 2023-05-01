@@ -1,0 +1,16 @@
+Y(11157)
+
+X(6)X(52959)∩X(1001)Z(18288)
+
+Barycentrics    a*(2*a^2+b^2+c^2+a*(b+c))*(a^2*(b-2*c)-2*b*c*(b+c)+a*(b^2-2*c^2))*(a^2*(2*b-c)+2*b*c*(b+c)+a*(2*b^2-c^2))
+
+
+Y(11157) lies on these lines: {6, 52959}, {1001, Z18288}, {52902, Z970}
+
+Y(11157) lies on these circumconics: {A,B,C,X(6),X(1386)}, {A,B,C,X(4026),X(52902)}
+
+Y(11157) = barycentric product X(i)*X(j) for these (i, j): {1386, Y2917}, {17023, Y54}
+
+Y(11157) = barycentric quotient X(i)/X(j) for these (i, j): {Y54, Y2455}, {Y2917, Y4658}
+
+Y(11157) = triple conic conjugate of X(6) wrt {2A-X(1), 2B-X(1), 2C-X(1)}

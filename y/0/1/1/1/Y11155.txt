@@ -1,0 +1,20 @@
+Y(11155)
+
+X(2)Z(33830)∩X(6)X(51122)
+
+Barycentrics    (5*a^2-b^2-c^2)*(4*b^2*c^2+a^2*(4*b^2-5*c^2))*(-4*b^2*c^2+a^2*(5*b^2-4*c^2))
+
+
+Y(11155) lies on these lines: {2, Z33830}, {6, 51122}, {599, Z4461}
+
+Y(11155) lies on these circumconics: {A,B,C,X(2),X(51122)}, {A,B,C,X(6),X(1384)}, {A,B,C,X(76),X(1499)}, {A,B,C,X(22100),Z(20505)}, {A,B,C,X(25409),X(45103)}
+
+Y(11155) = midpoint of X(i) in X(j) for these {i,j}: {2, Z33830}
+
+Y(11155) = X(i)-Dao conjugate of X(j) for these {i, j}: {11147, 11055}
+
+Y(11155) = barycentric product X(i)*X(j) for these (i, j): {1992, Z44078}, {11059, Z5281}
+
+Y(11155) = barycentric quotient X(i)/X(j) for these (i, j): {1992, 11055}, {Z5281, 21448}, {Z44078, 5485}
+
+Y(11155) = triple conic conjugate of X(6) wrt {3A/4+X(2)/4, 3B/4+X(2)/4, 3C/4+X(2)/4}

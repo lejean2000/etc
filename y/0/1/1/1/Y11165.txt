@@ -1,0 +1,22 @@
+Y(11165)
+
+X(5)X(8)∩Z(70694)Z(74217)
+
+Barycentrics    (4*a-b-c)*(a^3+2*b^3-a*(b-c)^2-b^2*c-2*b*c^2+c^3-a^2*(2*b+c))*(a^3+b^3-a*(b-c)^2-2*b^2*c-b*c^2+2*c^3-a^2*(b+2*c))
+
+
+Y(11165) lies on these lines: {5, 8}, {Z70694, Z74217}
+
+Y(11165) lies on these circumconics: {A,B,C,X(4),X(5844)}, {A,B,C,X(8),X(3244)}, {A,B,C,X(3940),Z(1207)}, {A,B,C,X(5730),X(16669)}, {A,B,C,X(39777),X(43734)}
+
+Y(11165) lies on these curves: K054
+
+Y(11165) = X(i)-isoconjugate-of-X(j) for these {i, j}: {1385, Z672}, {2317, 39962}
+
+Y(11165) = X(i)-cross conjugate of X(j) for these {i, j}: {39777, 3244}
+
+Y(11165) = barycentric product X(i)*X(j) for these (i, j): {1389, Z70855}, {3244, Z450}, {16669, Y4725}, {Z26418, Z36651}
+
+Y(11165) = barycentric quotient X(i)/X(j) for these (i, j): {1389, 39962}, {16669, 1385}, {Y4725, Z49386}, {Z450, 39710}, {Z26418, 2317}, {Z70855, Z35910}
+
+Y(11165) = triple conic conjugate of X(8) wrt {-2A+3X(1), -2B+3X(1), -2C+3X(1)}

@@ -1,0 +1,16 @@
+Y(11149)
+
+4th intersection point of circumconics {A,B,C,X(69),X(20080)} and {A,B,C,X(550),X(38282)}
+
+Barycentrics    (3*a^4-7*b^4+4*b^2*c^2+3*c^4+a^2*(4*b^2-6*c^2))*(5*a^2-3*(b^2+c^2))*(3*a^4+3*b^4+4*b^2*c^2-7*c^4+a^2*(-6*b^2+4*c^2))
+
+
+Y(11149) lies on these lines: {69, 550}
+
+Y(11149) lies on these circumconics: {A,B,C,X(69),X(20080)}, {A,B,C,X(550),X(38282)}, {A,B,C,X(5023),Z(33445)}
+
+Y(11149) = barycentric product X(i)*X(j) for these (i, j): {20080, Z37531}, {43719, Z67801}
+
+Y(11149) = barycentric quotient X(i)/X(j) for these (i, j): {20080, 3529}, {43719, 36616}, {Z37531, 38259}, {Z67801, Z74202}
+
+Y(11149) = triple conic conjugate of X(69) wrt {A/2+X(2)/2, B/2+X(2)/2, C/2+X(2)/2}
