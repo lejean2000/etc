@@ -4,7 +4,8 @@ The **/etc/** folder contains individually exported the points from ETC (not all
 
 The **/y/** and **/z/** refer to an extended database of triangle centers - i.e. centers which are not in ETC currently. The main reason for having those is that it is easier to just calculate the coordinates of a potentially interesting triangle center and let it be used for property searching, instead of checking the properties of each point. Many of the unlisted points (surely many thousands!) are not interesting as triangle centers.
 
-To identify a point refer to the *NonETCNames.csv* file and the following convention. Tradtitional ETC points are refered with X(n).
+To identify a point refer to the *NonETCNames.csv* file and the following convention. Tradtitional ETC points are refered with X(n). The rest follow these https://github.com/lejean2000/etc/wiki/Naming-Conventions.
+
 The following transformations have been used for descriptions of non-ETC points:
 
 IsogConj - isogonal conjugate
