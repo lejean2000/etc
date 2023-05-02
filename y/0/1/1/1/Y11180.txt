@@ -1,0 +1,14 @@
+Y(11180)
+
+X(1)X(26)∩X(36)X(5693)
+
+Barycentrics    a^2*(a+b-c)*(a-b+c)*(a^6-2*a^3*b*c*(b+c)-a^2*(b^2-c^2)^2-a^4*(b^2+c^2)+(b^2-c^2)^2*(b^2+c^2)+2*a*b*c*(b^3+c^3))
+
+
+Y(11180) lies on these lines: {1, 26}, {36, 5693}, {56, 58}, {1125, 25541}, {1193, 27682}, {1411, 8185}, {1415, 21771}, {2178, 19350}, {9672, 45272}
+
+Y(11180) = midpoint of X(i) in X(j) for these {i,j}: {1, Y9286}
+
+Y(11180) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {56, Y11179, Y11173}, {Y11176, Y11178, 56}
+
+Y(11180) = triple conic conjugate of X(26) wrt X(1)-circumcevian triangle.
