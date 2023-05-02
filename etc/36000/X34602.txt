@@ -1,0 +1,14 @@
+<h3 id="X34602">X(34602)&nbsp;=&nbsp; X(15)X(115)&cap;X(18)X(542) </h3>
+Barycentrics &nbsp;&nbsp; 36*S^4+3*(3*SA^2-5*SW^2)*S^2+6*SB*SC*SW^2+S*sqrt(3)*(3*(5*SA+SW)*(SB+SC)*SW-(6*SA+14*SW)*S^2) : :
+<p>
+See Tran Quang Hung and César Lozada, <a href="https://groups.io/g/euclid/message/68">Euclid 68 </a>.
+</p>
+<p>
+X(34602) lies on these lines: {13, 15561}, {15, 115}, {18, 542}, {114, 6108}, {620, 14145}, {628, 33460}, {630, 2482}, {5470, 12355}, {9698, 20415}, {12815, 20190}, {22511, 25559}
+</p>
+<p>
+X(34602) = reflection of X(i) in X(j) for these (i,j): (115, 22846), (9115, 14139), (14145, 620) <br>
+</p>
+
+
+

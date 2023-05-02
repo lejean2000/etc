@@ -1,0 +1,31 @@
+<!-- preamble start -->
+<header class="triheader">
+<img src="leftri.svg" style="height:30px" alt="leftri">
+<p class="preamble-title">
+P-vertex conjugate of P, for P on the line at infinity: X(34178)-X(34193)
+</p>
+<img src="rightri.svg" style="height:30px" alt="rightri">
+</header>
+<div class="preamble-sect">
+<p>
+Let P be a point on the line at infinity.  The locus of the P-vertex conjugate of P, as P varies, is a quartic which is the isogonal conjugate of the anticomplementary circle.  This quartic passes through the vertices of ABC and the tangential triangle, the circular points at infinity, and centers X(3446), X(3447), X(9217), X(22259), X(34130), X(34178), X(34179), X(34180), X(34181), X(34182), X(34183), X(34184), X(34185), X(34187), X(34189), X(34190), X(34191) and X(34192).  If ABC is acute, the quartic is a closed curve.  If ABC is obtuse, it meets the line at infinity at the isogonal conjugates of the anticomplements of PU(4) (the circumcircle intercepts of the anticomplementary circle).
+</p>
+<p>
+Peter Moses gives the equation for the quartic as:
+</p>
+<p>
+c^6 x^2 y^2 + b^2 c^2 (a^2 + b^2 + c^2) x^2 y z + a^2 c^2 (a^2 + b^2 + c^2) x y^2 z + b^6 x^2 z^2 + a^2 b^2 (a^2 + b^2 + c^2) x y z^2 + a^6 y^2 z^2 = 0
+</p>
+<p>
+The quartic is not currently listed in Bernard Gibert's CTC.
+</p>
+<p>
+See <a href="http://www.hyacinthos.epizy.com/message.php?msg=29443">Hyacinthos 29443</a>.
+</p>
+<p>
+Contributed by Randy Hutson, August 31, 2019.
+</p>
+<p>
+<hr class="end-preamble">
+</div>
+<!-- preamble end -->

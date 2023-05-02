@@ -1,0 +1,13 @@
+<h3 id="X35306">X(35306)&nbsp;=&nbsp; CENTROID OF THREE POINTS IN &Gamma;&cap;nK0(X(6),X(492))</h3>
+Barycentrics &nbsp;&nbsp; 7*a^4 - 4*a^2*b^2 + b^4 - 4*a^2*c^2 + 2*b^2*c^2 + c^4 + 2*(a^2 + b^2 + c^2)*S : :
+<p>
+X(35306) lies on these lines: {2, 3}, {99, 13638}, {187, 492}, {485, 13669}, {524, 12968}, {590, 32459}, {591, 3053}, {1992, 6423}, {2482, 13637}, {3103, 11158}, {3618, 9600}, {3926, 5861}, {7801, 32809}, {11147, 13882}
+</p>
+<p>
+X(35306) = {X(2),X(32985)}-harmonic conjugate of X(35305)<br>
+X(35306) = {X(3),X(35297)}-harmonic conjugate of X(35305)<br>
+</p>
+<hr class="gray">
+
+
+

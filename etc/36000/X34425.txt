@@ -1,0 +1,13 @@
+<h3 id="X34425">X(34425)&nbsp;=&nbsp; X(3)X(54)&cap;X(16)X(1338)</h3>
+Barycentrics &nbsp;&nbsp; a^2*(4*(-a^2+b^2+c^2)*S+(a^4-(b^2+c^2)*a^2-b^2*c^2)*sqrt(3)) : :
+<p>
+See Kadir Altintas and César Lozada, <a href="http://www.hyacinthos.epizy.com/message.php?msg=29617">Hyacinthos 29617</a>.
+</p>
+<p>
+X(34425) lies on these lines: {2, 16627}, {3, 54}, {16, 1338}, {23, 21402}, {62, 21462}, {110, 11145}, {395, 11138}, {3060, 22238}, {3130, 14169}, {3131, 12834}, {3170, 10646}, {5237, 6030}, {5888, 11131}, {8930, 16963}, {11481, 15080}, {14705, 31939}
+</p>
+<p>
+X(34425) = {X(3),X(5012)}-harmonic conjugate of X(34424)<br>
+</p>
+
+

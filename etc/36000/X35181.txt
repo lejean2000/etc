@@ -1,0 +1,14 @@
+<h3 id="X35181">X(35181)&nbsp;=&nbsp; ANTICOMPLEMENT OF X(35135)</h3>
+Barycentrics &nbsp;&nbsp; (a - b)*b*(a - c)*c*(a^2 + 3*a*b + b^2 + c^2)*(a^2 + b^2 + 3*a*c + c^2) : :
+<p>
+X(35181) lies on the Steiner circumellipse and these lines: {2, 35135}, {75, 671}, {99, 8691}, {799, 892}, {903, 26234}, {3226, 34916}, {3227, 17320}, {4389, 18827}, {4441, 14616}
+</p>
+<p>
+X(35181) = isotomic conjugate of X(4160)<br>
+X(35181) = anticomplement of X(35135)<br>
+X(35181) = trilinear pole of line X(2)X(14210)<br>
+</p>
+
+
+
+

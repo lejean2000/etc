@@ -1,0 +1,19 @@
+<h3 id="X34913">X(34913)&nbsp;=&nbsp; X(1)X(4)&cap;X(56)X(31825) </h3>
+Barycentrics &nbsp;&nbsp;  a^2*(a^2 - b^2 + b*c - c^2)*(a^5*b - a^4*b^2 - 2*a^3*b^3 + 2*a^2*b^4 + a*b^5 - b^6 + a^5*c - 2*a^4*b*c + 3*a^3*b^2*c + a^2*b^3*c - 4*a*b^4*c + b^5*c - a^4*c^2 + 3*a^3*b*c^2 - 6*a^2*b^2*c^2 + 3*a*b^3*c^2 + b^4*c^2 - 2*a^3*c^3 + a^2*b*c^3 + 3*a*b^2*c^3 - 2*b^3*c^3 + 2*a^2*c^4 - 4*a*b*c^4 + b^2*c^4 + a*c^5 + b*c^5 - c^6) : :
+<p>
+See Tran Quang Hung and Peter Moses, <a href="https://groups.io/g/euclid/message/220"><b>Euclid 220 </b></a>.
+</p>
+<p>
+X(34913) lies on these lines: {1, 4}, {56, 31825}, {214, 3738}, {6001, 34345}, {7335, 34880}, {22350, 23703}
+</p>
+<p>
+X(34913) = X(80)-isoconjugate of X(2716) <br>
+X(34913) = crossdifference of every pair of points on line {652, 2161} <br>
+X(34913) = barycentric product X(2800)*X(3218) <br>
+X(34913) = barycentric quotient X(i)/X(j) for these {i,j}: {2800, 18359}, {7113, 2716} <br>
+X(34913) = {X(1),X(1745)}-harmonic conjugate of X(18340) <br>
+</p>
+
+
+
+

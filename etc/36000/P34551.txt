@@ -1,0 +1,41 @@
+<!-- preamble start -->
+<header class="triheader">
+<img src="leftri.svg" style="height:30px" alt="leftri">
+<p class="preamble-title">
+Bankoff equilateral triangles: X(34551)-X(34562)
+</p>
+<img src="rightri.svg" style="height:30px" alt="rightri">
+</header>
+<div class="preamble-sect">
+<p>
+This preamble and centers X(34551)-X(34562) were contributed by César Eliud Lozada, October 29, 2019.
+</p>
+<p>
+<i>Let OA<sub>1</sub>A<sub>2</sub>, OB<sub>1</sub>B<sub>2</sub>, OC<sub>1</sub>C<sub>2</sub> be three congruent equilateral triangles with the same orientation. Then the midpoints of A<sub>2</sub>B<sub>1</sub>, B<sub>2</sub>C<sub>1</sub> and C<sub>2</sub>A<sub>1</sub> are vertices of an equilateral triangle.</i> (Martin Gardner, <i><u>The Asymmetric Propeller</u></i>, The College Mathematics Journal, Vol. 30, No. 1, Jan. 1999, pp. 18-22, based on the article by Leon Bankoff, Paul Erd&ouml;s, and Murray Klamkin, <i><u>The asymmetric propeller</u></i>, Mathematics Magazine, 46: 5, 1973, pp 270-272)<b><sup>1 2</sup></b>.
+</p>
+<p>Application: Let ABC be a triangle with circumcenter O. Centering at O, let A<sub>b</sub> be the rotation of A toward B by an angle |&pi;/6| and let A<sub>c</sub> be the rotation of A toward C by the same angle |&pi;/6| (triangle OA<sub>b</sub>A<sub>c</sub> is an equilateral triangle). Build (B<sub>c</sub>, B<sub>a</sub>) and (C<sub>a</sub>, C<sub>b</sub>) cyclically and let A<sub>m</sub>, B<sub>m</sub>, C<sub>m</sub> be the midpoints of B<sub>c</sub>C<sub>b</sub>, C<sub>a</sub>A<sub>c</sub>, A<sub>b</sub>B<sub>a</sub>, respectively. Then, by the precedent theorem, A<sub>m</sub>B<sub>m</sub>C<sub>m</sub> is equilateral.</p>
+<p>The triangle A<sub>m</sub>B<sub>m</sub>C<sub>m</sub> will be named here the <b>(ABC)-Bankoff equilateral triangle</b>.
+<p></p>
+<b><sup>1</sup></b> The original work by Bankoff, Erd&ouml;s, and Klamkin refers to three equilateral triangles, not necessarily congruent, but with the same result, i.e, the indicated midpoints are vertices of another equilateral triangle. Martin Gardner added:<p>
+<blockquote>
+<p class="cite">
+...The original propeller theorem goes back at least to the early 1930's and is of unknown origin. It concerns three congruent equilateral triangles with corners meeting at a point as shown shaded in Figure 1. The triangles resemble the blades of a propeller.</p>
+<p class="cite">...They showed that the three equilateral triangles need not be congruent. They can be of any size, as shown in Figure 2, and the theorem still holds.</p>
+<p class="cite">... Later, Bankoff made three further generalizations. As far as I know they have not been published.</p>
+
+<ul>
+
+<li class="cite">Second generalization: The propeller triangles need not meet at a point. They may meet at the corners of any equilateral triangle, as shown in Figure 3. </li>
+<li class="cite">Third generalization: The propeller triangles need not be equilateral! They need only be similar triangles of any sizes that meet at a point. The midpoints of the three added lines will then form a triangle similar to each of the propellers, as shown in Figure 4.</li>
+<li class="cite">Fourth generalization: The similar triangles need not meet at a point! If the propellers meet at the corners of a fourth triangle of any size, provided it is similar to each propeller, the midpoints of the added lines will form a triangle similar to each propeller. Vertices of the interior triangle must touch corresponding corners of the propellers.</li>
+</ul>
+
+<p>See the above mentioned figures <a href="./Bankoff_theorem.gif">here</a>.
+</blockquote>
+
+<p>
+<b><sup>2</sup></b> The cited Martin Gardner's article was referenced by Richard Guy and Antreas Hatzipolakis in Hyacinthos #26 &amp; #28 (December 28, 1999).
+</p>
+<hr class="end-preamble">
+</div>
+<!-- preamble end -->

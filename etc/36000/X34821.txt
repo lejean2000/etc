@@ -1,0 +1,13 @@
+<h3 id="X34821">X(34821)&nbsp;=&nbsp; PERSPECTOR OF PERSPECONIC OF ABC AND CIRCUMCEVIAN TRIANGLE OF X(56)</h3>
+Barycentrics &nbsp;&nbsp; a^2*(a + b - c)*(a - b + c)*(a^2 - 4*a*b + 3*b^2 - 2*a*c - 4*b*c + c^2)*(a^2 - 2*a*b + b^2 - 4*a*c - 4*b*c + 3*c^2) : :
+<p>
+X(34821) lies on the conic {{A,B,C,X(1),X(6)}} and these lines: {1, 1418}, {1458, 2334}, {3445, 21002}
+</p>
+<p>
+X(34821) = isogonal conjugate of the anticomplement of X(10580)<br>
+X(34821) = X(i)-isoconjugate of X(j) for these (i,j): {8, 10389}, {9, 18230}<br>
+X(34821) = barycentric product X(57)*X(10390)<br>
+X(34821) = barycentric quotient X(i)/X(j) for these {i,j}: {56, 18230}, {604, 10389}, {10390, 312}<br>
+</p>
+
+

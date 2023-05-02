@@ -1,0 +1,19 @@
+
+
+<!-- preamble start -->
+<header class="triheader">
+<img src="leftri.svg" style="height:30px" alt="leftri">
+<p class="preamble-title">
+Orthology centers associated with osculatory triangle of K721: X(34924)-X(34935)
+</p>
+<img src="rightri.svg" style="height:30px" alt="rightri">
+</header>
+<div class="preamble-sect">
+<p>
+This preamble and centers X(34924)-X(34935) were contributed by Peter Moses, November 24, 2019.<br>
+</p>
+Suppose that a curve K passes through A, B, C and has osculating circle Oa at A. Let A' be the center of Oa, and define B' and C' cyclically.  The triangle A'B'C' is here named the <b>osculatory triangle of K.</b>
+<p></p>
+<hr class="end-preamble">
+</div>
+<!-- preamble end -->

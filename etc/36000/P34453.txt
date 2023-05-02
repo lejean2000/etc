@@ -1,0 +1,29 @@
+
+<!-- preamble start -->
+<header class="triheader">
+<img src="leftri.svg" style="height:30px" alt="leftri">
+<p class="preamble-title">
+Points on the Apollonius circle: X(34453)-X(34466)
+</p>
+<img src="rightri.svg" style="height:30px" alt="rightri">
+</header>
+<div class="preamble-sect">
+<p>
+This preamble and centers X(34453)-X(34466) are ased on notes by Peter Moses, October, 2019.
+<p>
+The excircles are tangent to the Apollonius circle and the nine-point circle.  The centers of the excircles, therefore, lie on an ellipse, here named the <b>Moses-Apollonius ellipse</b>, that is the locus of the center of a (dynamic) circle tangent to the Apollonius and nine-point circles.  An equation for this ellipse follows:
+</p>
+<p>
+b^2*c^2*(a + b - c)*(a - b + c)*(b + c)^2*x^2 - 2*a^2*b*c*(a + b + c)*(a^3 - a^2*b - a*b^2 + b^3 - a^2*c + a*b*c - b^2*c - a*c^2 - b*c^2 + c^3)*y*z + (cyclic) = 0
+</p>
+<p>
+The ellipse passes through the vertices of the vertices of the excentral triangle and X(i) for these i: 5400, 34460, 34461, 34462, 34463, 34464, 34465 and has
+</p>
+<p>
+center X(34466)<br>
+perspector X(2051)<br>
+foci X(5) and X(970)<br>
+eccentricity Sqrt[1-S/(R s)] = OI/R = |X(1)X(3)|/R<br>
+<hr class="end-preamble">
+</div>
+<!-- preamble end -->

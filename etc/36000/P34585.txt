@@ -1,0 +1,45 @@
+
+<!-- preamble start -->
+<header class="triheader">
+<img src="leftri.svg" style="height:30px" alt="leftri">
+<p class="preamble-title">
+Points related to the circumellipse of the medial and incentral triangles:  X(34585)-X(34593)
+</p>
+<img src="rightri.svg" style="height:30px" alt="rightri">
+</header>
+<div class="preamble-sect">
+<p>
+This preamble is based on notes from Dasari Naga Vijay Krishna and Peter Moses, November, 2019.
+</p>
+
+<p>
+The circumellipse of the medial and incentral triangles (the CEMIT), given by the equation
+<p>
+b*c*x^2 - a*c*x*y - b*c*x*y + a*c*y^2 - a*b*x*z - b*c*x*z - a*b*y*z - a*c*y*z + a*b*z^2 = 0,
+</p>
+<p>
+has center X(1125) and perpsector X(34585).  The axes are parallel to the asymptotes of the Feuerbach hyperbola, and
+</p>
+<p>
+Major axis has length = (b + c) (c + a) (a + b) (R + |OI|) / (32 R s), in the line X(1125)X(3307)<br>
+Minor axis has length = (b + c) (c + a) (a + b) (R - |OI|) / (32 R s), in the line X(1125)X(3308)<br>
+</p>
+<p>
+The CEMIT passes through the following points:<br>
+vertices of the medial triangle<br>
+vertices of the incentral triangle<br>
+vertices of the anti-Aquila triangle<br>
+X(i) for these i: 11, 214, 244, 1015, 8054, 8299, 10494, 14714, 17417, 17419, 17421, 17761, 17793, 34586, 34587, 34588, 34589, 34590, 34591, 34592, 34593.
+</p>
+<p>
+If P = p:q;r lies on the circumcircle then the point f(P) = a (q c (a + c) + r b (a + b)) : : lies on the CEMIT.  Inversely, if U lies on the CEMIT, then the point g(U) = (a (a + b) (a + c) (-u + v + w) : : lies on the circumcircle.
+</p>
+<p>
+The appearance of (i,j) in the following list means that f(X(i)) = X(j): (99,1015), (100,244), (101,17761), (104,34586), (105,8299), (106,34587), (109,34589), (110,11), (741,17793), (759,214), (901,34590), (934,345191), (1113,34592), (1114,34593), (34594,8054).
+</p>
+<p>
+The CEMIT is the bicevian conic of X(1) and X(2).  For a discussion of general bicevian conics, see Bernard Gibert,
+<a href="https://bernard-gibert.pagesperso-orange.fr/files/bicevian.html">Bicevian Conics and CPCC Cubics</a>
+<hr class="end-preamble">
+</div>
+<!-- preamble end -->

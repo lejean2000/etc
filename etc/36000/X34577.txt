@@ -1,0 +1,23 @@
+<h3 id="X34577">X(34577)&nbsp;=&nbsp;  MIDPOINT OF X(5) AND X(7488) </h3>
+Barycentrics &nbsp;&nbsp; 2 a^10-5 a^8 (b^2+c^2)+(b^2-c^2)^4 (b^2+c^2)+2 a^6 (b^4+b^2 c^2+c^4)-a^2 (b^2-c^2)^2 (4 b^4+3 b^2 c^2+4 c^4)+a^4 (4 b^6+b^4 c^2+b^2 c^4+4 c^6) : : <br>
+Barycentrics &nbsp;&nbsp; 19 R^2 S^2-R^2 SB SC-6 S^2 SW+2 SB SC SW : :
+<p>
+As a point on the Euler line, X(34577) has Shinagawa coefficients [-5e-24f,7e+8f].
+</p>
+<p>
+See Tran Quang Hung, Angel Montesdeoca and Ercole Suppa, <a href="https://groups.io/g/euclid/message/21">Euclid 21 </a> and <a href="https://groups.io/g/euclid/message/23"><b>Euclid 23 </b></a>.
+</p>
+<p>
+X(34577) lies on these lines: {2,3}, {52,22051}, {110,10203}, {143,8254}, {1154,15806}, {1291,15641}, {3470,16243}, {3519,9705}, {3580,32165}, {5944,32423}, {5972,32142}, {6689,10095}, {10272,10628}, {11743,18874}, {11808,15426}, {13364,20193}, {14128,32348}, {14449,23292}, {20299,20391}, {20379,23060}
+</p>
+<p>
+X(34577) = midpoint of X(5) and X(7488) <br>
+X(34577) = reflection of X(i) in X(j) for these {i, j}: {140,7542}, {1594,3628}, {20299,20391} <br>
+X(34577) = center of pedal circle of X(5) wrt anticevian triangle of X(5)<br>
+</p>
+
+
+
+
+
+

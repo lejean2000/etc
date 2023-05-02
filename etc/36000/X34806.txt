@@ -1,0 +1,16 @@
+<h3 id="X34806">X(34806)&nbsp;=&nbsp; X(4)X(1499)&cap;X(111)X(524) </h3>
+Barycentrics &nbsp;&nbsp;  (2*a^8-6*(b^2+c^2)*a^6+(19*b^4-20*b^2*c^2+19*c^4)*a^4-4*(b^2+c^2)*(2*b^4-3*b^2*c^2+2*c^4)*a^2+(b^4-c^4)^2)*(a^2-2*b^2+c^2)*(a^2+b^2-2*c^2) : : <br>
+Barycentrics &nbsp;&nbsp; (3*SB-SW)*(3*SC-SW)*((9*SA^2+54*(SB+SC)*R^2-5*SW^2)*S^2-2*(SB+SC)*SW^3) : :
+<p>
+See Kadir Altintas, Antreas Hatzipolakis and César Lozada, <a href="https://groups.io/g/euclid/message/171">Euclid 171 </a>.
+</p>
+<p>
+X(34806) lies these lines: {4, 1499}, {111, 524}, {2374, 15387}, {16317, 32583}
+</p>
+<p>
+X(34806) = reflection of X(111) in X(15638) <br>
+X(34806) = lies on the circumconic with center X(6092)) <br>
+</p>
+
+
+

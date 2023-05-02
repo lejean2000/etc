@@ -1,0 +1,21 @@
+<h3 id="X35236">X(35236)&nbsp;=&nbsp; X(2)X(3)&cap;X(3269)X(9409) </h3>
+Barycentrics &nbsp;&nbsp;  a^2*(b - c)^2*(b + c)^2*(a^2 - b^2 - c^2)*(a^4 - a^2*b^2 + a^2*b*c - b^3*c - a^2*c^2 + 2*b^2*c^2 - b*c^3)*(a^4 - a^2*b^2 - a^2*b*c + b^3*c - a^2*c^2 + 2*b^2*c^2 + b*c^3) : :
+<p>
+See Antreas P. Hatzipolakis, Chris van Tienhoven and Peter Moses, <a href="https://groups.io/g/euclid/message/347"><b>Euclid 347 </b></a>.
+</p>
+<p>
+X(35236) lies on these lines: {2, 3}, {3269, 9409}
+</p>
+<p>
+X(35236) = X(1942)-Ceva conjugate of X(647) <br>
+X(35236) = X(i)-isoconjugate of X(j) for these (i,j): {811, 2713}, {1942, 23999} <br>
+X(35236) = crosspoint of X(647) and X(1942) <br>
+X(35236) = crosssum of X(450) and X(648) <br>
+X(35236) = crossdifference of every pair of points on line {647, 648} <br>
+X(35236) = barycentric product X(i)*X(j) for these {i,j}: {450, 3269}, {647, 2797}, {851, 16573} <br>
+X(35236) = barycentric quotient X (i)/X(j) for these {i,j}: {2797, 6331}, {3049, 2713} <br>
+</p>
+
+
+
+

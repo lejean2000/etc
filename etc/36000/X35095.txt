@@ -1,0 +1,13 @@
+<h3 id="X35095">X(35095)&nbsp;=&nbsp; E(X(115),X(1329))-ANTIPODE OF X(115)</h3>
+Barycentrics &nbsp;&nbsp; a^2*(a - b - c)^2*(a^2*b^2 + a*b^3 - a*b^2*c + a^2*c^2 - a*b*c^2 - 2*b^2*c^2 + a*c^3)^2 : :
+<p>
+X(35095) lies on the Steiner inellipse and these lines: {9, 1084}, {115, 1329}, {220, 2311}, {960, 1015}, {1086, 21246}, {1146, 3704}, {3037, 35040}
+</p>
+<p>
+X(35095) = complement of X(35159)<br>
+X(35095) = X(2)-Ceva conjugate of X(35104)<br>
+X(35095) = barycentric square of X(35104)<br>
+</p>
+
+
+

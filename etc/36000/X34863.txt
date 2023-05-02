@@ -1,0 +1,15 @@
+<h3 id="X34863">X(34863)&nbsp;=&nbsp; (name pending) </h3>
+Barycentrics &nbsp;&nbsp;  ((b-2*c)*a^4-2*(b-c)*c*a^3-2*(b+c)*(b^2-c^2)*a^2+2*(b-c)*(3*b^2+2*b*c+c^2)*c*a+(b^2-c^2)^2*b)*((2*b-c)*a^4-2*(b-c)*b*a^3-2*(b+c)*(b^2-c^2)*a^2+2*(b-c)*(b^2+2*b*c+3*c^2)*b*a-(b^2-c^2)^2*c) : :
+<p>
+See Antreas Hatzipolakis and César Lozada, <a href="https://groups.io/g/euclid/message/195">Euclid 195 </a>.
+</p>
+<p>
+X(34863) lies on this line: {3177, 20211}
+</p>
+<p>
+X(34863) = intersection, other than A,B,C of conics {{A, B, C, X(85), X(3177)}} and {{A, B, C, X(189), X(20211)}} <br>
+</p>
+
+
+
+

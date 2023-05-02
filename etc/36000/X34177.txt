@@ -1,0 +1,16 @@
+<h3 id="X34177">X(34177)&nbsp;=&nbsp; MIDPOINT OF X(22) AND X(66)</h3>
+Barycentrics &nbsp;&nbsp; (b^2+c^2)*a^12-2*(b^4+c^4)*a^10-(b^4-c^4)*(b^2-c^2)*a^8+4*(b^8+c^8)*a^6-(b^4-c^4)^2*(b^2+c^2)*a^4-2*(b^4-c^4)^2*(b^4+c^4)*a^2+(b^4-c^4)^3*(b^2-c^2) : : <br>
+Barycentrics &nbsp;&nbsp; (2*(7*SW+3*SA)*R^4-(5*SA+8*SW)*SW*R^2+(SA+SW)*SW^2)*S^2+R^2*SB*SC*SW^2 : :
+<p>
+See Antreas Hatzipolakis and César Lozada, <a href="http://www.hyacinthos.epizy.com/message.php?msg=29439">Hyacinthos 29439</a>.
+</p>
+<p>
+X(34177) lies on these lines: {5, 2781}, {22, 66}, {26, 34118}, {141, 206}, {343, 2393}, {427, 6697}, {1503, 7502}, {3580, 23327}, {9019, 23300}
+</p>
+<p>
+X(34177) = midpoint of X(22) and X(66)<br>
+X(34177) = reflection of X(i) in X(j) for these (i,j): (206, 6676), (427, 6697)  <br>
+</p>
+
+
+

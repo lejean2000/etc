@@ -1,0 +1,11 @@
+<h3 id="X34519">X(34519)&nbsp;=&nbsp; PARALOGIC CENTER OF THESE TRIANGLES: PARRY TO ORTHIC INCONIC ORTHOPTIC</h3>
+Barycentrics &nbsp;&nbsp; a^2*(b^2 - c^2)*(3*a^8 - 3*a^6*b^2 - 3*a^4*b^4 + 3*a^2*b^6 - 3*a^6*c^2 + 17*a^4*b^2*c^2 - 5*a^2*b^4*c^2 - b^6*c^2 - 3*a^4*c^4 - 5*a^2*b^2*c^4 - 2*b^4*c^4 + 3*a^2*c^6 - b^2*c^6) : :
+<p>
+X(34519) lies on these lines: {3, 9125}, {22, 9123}, {23, 385}, {25, 2793}, {351, 6091}, {690, 2936}, {8644, 30209}, {9156, 9157}
+</p>
+<p>
+X(34519) = crosssum of X(i) and X(j) for these (i,j): {512, 24855}, {523, 19510}, {690, 30739}, {5159, 30209}<br>
+</p>
+
+
+
