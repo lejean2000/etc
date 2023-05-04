@@ -1,0 +1,22 @@
+Y(11391)
+
+X(521)X(651)∩X(765)X(4571)
+
+Barycentrics    a*(a-b)*(a-c)*(-4*a^6*b*c+3*a^4*b*(b-c)^2*c+a^7*(b+c)-b*(b-c)^4*c*(b+c)^2+2*a^2*b*(b-c)^2*c*(b^2+4*b*c+c^2)+a^5*(-3*b^3+4*b^2*c+4*b*c^2-3*c^3)+a^3*(b-c)^2*(3*b^3-b^2*c-b*c^2+3*c^3)-a*(b-c)^2*(b^5+7*b^3*c^2+7*b^2*c^3+c^5))
+
+Y(11391) lies on these lines: {519, Z14437}, {521, 651}, {765, 4571}, {1897, 7253}, {13136, 13138}, {22350, Z14440}
+
+Y(11391) lies on these circumconics: {A,B,C,Z(14437),Z(14440)}
+
+Y(11391) = X(i)-isoconjugate-of-X(j) for these {i, j}: {513, Z22041}, {667, Z65249}
+
+Y(11391) = X(i)-Dao conjugate of X(j) for these {i, j}: {1020, 3668}, {6631, Z65249}, {39026, Z22041}
+
+Y(11391) = X(i)-Ceva conjugate of X(j) for these {i, j}: {1043, 100}
+
+Y(11391) = barycentric product X(i)*X(j) for these (i, j): {190, 33811}
+
+Y(11391) = barycentric quotient X(i)/X(j) for these (i, j): {101, Z22041}, {190, Z65249}, {33811, 514}
+
+Y(11391) = triple conic conjugate of X(100) wrt Dao triangle
+

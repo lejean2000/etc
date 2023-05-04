@@ -1,0 +1,26 @@
+Y(11245)
+
+X(1)X(187)∩X(7)X(21)
+
+Barycentrics    a*(2*a^4-a^2*(b-c)^2+a^3*(b+c)-b*c*(b^2+c^2)+a*(-2*b^3+b^2*c+b*c^2-2*c^3))
+
+Y(11245) lies on these lines: {1, 187}, {7, 21}, {36, 2482}, {55, 35276}, {100, 4433}, {172, 4649}, {241, 34977}, {292, 9264}, {514, 659}, {518, 1055}, {524, 21009}, {740, 7267}, {896, 5168}, {898, Z38211}, {956, 19329}, {1023, 22116}, {1083, 5030}, {1464, Y11211}, {2275, 16468}, {2975, 19318}, {4413, 25946}, {4973, 11712}, {5563, Y11238}, {6667, 43053}, {8691, Y11177}, {11194, 42048}, {16702, 39688}, {18206, Z23062}, {20360, 37539}, {26702, Y11244}
+
+Y(11245) lies on these circumconics: {A,B,C,X(1001),Z(27035)}, {A,B,C,X(1014),Z(868)}, {A,B,C,X(1434),X(4817)}, {A,B,C,X(4367),Z(859)}, {A,B,C,X(5184),Z(1949)}
+
+Y(11245) = X(i)-isoconjugate-of-X(j) for these {i, j}: {2, Z15008}, {6, Z56423}
+
+Y(11245) = X(i)-vertex conjugate of X(j) for these {i, j}: {1001, 4367}
+
+Y(11245) = X(i)-Dao conjugate of X(j) for these {i, j}: {9, Z56423}, {32664, Z15008}
+
+Y(11245) = X(i)-Ceva conjugate of X(j) for these {i, j}: {Y179, 6}
+
+Y(11245) = barycentric product X(i)*X(j) for these (i, j): {1, 24628}
+
+Y(11245) = barycentric quotient X(i)/X(j) for these (i, j): {1, Z56423}, {31, Z15008}, {24628, 75}
+
+Y(11245) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {56, Y11183, Y11185}, {10647, 10648, 1284}
+
+Y(11245) = triple conic conjugate of X(187) wrt X(1)-circumcevian triangle
+

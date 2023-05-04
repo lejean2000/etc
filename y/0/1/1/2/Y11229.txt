@@ -1,0 +1,12 @@
+Y(11229)
+
+X(1)X(156)∩X(56)X(759)
+
+Barycentrics    a*(a+b-c)*(a-b+c)*(a^7-a^6*(b+c)+b*(b-c)^2*c*(b+c)^3-a^3*(b^2-c^2)^2-a^5*(b^2+c^2)+a*(b^2-c^2)^2*(b^2+c^2)+2*a^4*(b^3+c^3)-a^2*(b^5+c^5))
+
+Y(11229) lies on these lines: {1, 156}, {56, 759}, {2594, 13733}, {10571, Y11189}, {23843, 52383}, {Y11180, Y11227}
+
+Y(11229) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {Y11227, Y11228, Y11180}
+
+Y(11229) = triple conic conjugate of X(156) wrt X(1)-circumcevian triangle
+

@@ -1,0 +1,18 @@
+Y(11278)
+
+X(2)X(13)∩X(23)X(5981)
+
+Barycentrics    sqrt(3)*a^6-sqrt(3)*a^2*b^4+4*sqrt(3)*a^2*b^2*c^2-sqrt(3)*a^2*c^4+a^4*sqrt((a+b-c)*(a-b+c)*(-a+b+c)*(a+b+c))-a^2*b^2*sqrt((a+b-c)*(a-b+c)*(-a+b+c)*(a+b+c))-a^2*c^2*sqrt((a+b-c)*(a-b+c)*(-a+b+c)*(a+b+c))-2*b^2*c^2*sqrt((a+b-c)*(a-b+c)*(-a+b+c)*(a+b+c))
+
+Y(11278) lies on these lines: {2, 13}, {23, 5981}, {99, 38432}, {110, Z74040}, {183, 1995}, {299, 15360}, {301, 476}, {385, 37775}, {3130, 41001}, {5640, Z74039}, {7426, Y11276}, {7771, 38431}, {16464, Z44131}
+
+Y(11278) lies on these circumconics: {A,B,C,X(3457),X(45819)}
+
+Y(11278) = X(i)-vertex conjugate of X(j) for these {i, j}: {4108, Y11277}
+
+Y(11278) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {183, 1995, Y11277}
+
+Y(11278) = triple conic conjugate of X(16) wrt X(2)-circumcevian triangle
+
+Y(11278) = (A,B,C,X(2); A',B',C',X(2)) collineation image of  X(16), where A'B'C' = Gemini-44 triangle
+

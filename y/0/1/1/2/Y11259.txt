@@ -1,0 +1,12 @@
+Y(11259)
+
+X(1)X(62)∩X(2)X(11)
+
+Barycentrics    a (a (a - b - c) (a + b + c)^2 + 2 Sqrt[3] (a^2 - 2 b c - a (b + c)) S)
+
+Y(11259) lies on these lines: {1, 62}, {2, 11}, {3, Y11193}, {21, Z68070}, {36, 10648}, {999, 10647}, {1250, 16484}, {2170, 5240}, {3685, Z65123}, {10638, 15485}, {30301, 52769}, {36941, 37525}
+
+Y(11259) lies on these circumconics: {A,B,C,X(673),X(33655)}
+
+Y(11259) = triple conic conjugate of X(202) wrt X(1)-circumcevian triangle
+

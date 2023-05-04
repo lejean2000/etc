@@ -1,0 +1,20 @@
+Y(11330)
+
+X(1)X(6)∩X(902)X(3248)
+
+Barycentrics    a^2*(2*a^2*(b+c)-b*c*(b+c)+2*a*(b^2-3*b*c+c^2))
+
+Y(11330) lies on these lines: {1, 6}, {649, 53314}, {902, 3248}, {1015, Z28577}, {1149, Z24459}, {14996, 24593}, {14997, 30829}, {17455, Z24121}, {52981, Z1748}, {Z3081, Z9334}, {Z8835, Z24228}, {Z10522, Z19988}, {Z12130, Z27970}, {Z17772, Z19594}
+
+Y(11330) lies on these circumconics: {A,B,C,X(1),Z(1632)}, {A,B,C,X(44),X(739)}, {A,B,C,X(45),X(649)}, {A,B,C,X(901),X(23343)}, {A,B,C,X(1023),X(34075)}, {A,B,C,X(3230),X(9456)}, {A,B,C,X(3973),Z(27970)}, {A,B,C,X(4867),X(53314)}, {A,B,C,X(15492),Z(647)}, {A,B,C,X(16814),Z(23470)}, {A,B,C,Z(20156),Z(22134)}
+
+Y(11330) = X(i)-isoconjugate-of-X(j) for these {i, j}: {1, Y2923}, {2, Y96}
+
+Y(11330) = X(i)-Dao conjugate of X(j) for these {i, j}: {3, Y2923}, {32664, Y96}
+
+Y(11330) = barycentric quotient X(i)/X(j) for these (i, j): {6, Y2923}, {31, Y96}
+
+Y(11330) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {6, 3230, 44}, {6, Y11308, Y11325}, {6, Z26409, 3230}, {3230, Z24119, 6}
+
+Y(11330) = triple conic conjugate of X(44) wrt X(6)-circumcevian triangle
+

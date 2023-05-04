@@ -1,0 +1,16 @@
+Y(11309)
+
+X(6)X(10)∩X(3051)X(3997)
+
+Barycentrics    -(a^2*b^2*c^2*(b+c))+2*a^5*(b^2+c^2)+2*a^4*(b^3+c^3)
+
+Y(11309) lies on these lines: {6, 10}, {106, 26714}, {551, Z17772}, {2206, Z14337}, {3009, 9463}, {3051, 3997}, {Y11305, Y11308}
+
+Y(11309) lies on these circumconics: {A,B,C,X(43531),Z(9342)}
+
+Y(11309) = isogonal conjugate of Y(2900)
+
+Y(11309) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {9463, Y11307, Z24178}
+
+Y(11309) = triple conic conjugate of X(10) wrt X(6)-circumcevian triangle
+

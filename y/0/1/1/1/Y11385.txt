@@ -1,0 +1,24 @@
+Y(11385)
+
+X(21)X(84)∩X(110)X(1819)
+
+Barycentrics    a^2*(a+b)*(a+c)*(a^6+4*a^3*b*c*(b+c)-4*a*b*(b-c)^2*c*(b+c)+a^4*(-3*b^2+4*b*c-3*c^2)-(b^2-c^2)^2*(b^2+c^2)+a^2*(3*b^4-4*b^3*c-6*b^2*c^2-4*b*c^3+3*c^4))
+
+Y(11385) lies on these lines: {21, 84}, {58, 13370}, {110, 1819}, {283, Z6237}, {572, 5129}, {1437, 3420}, {1813, 40660}, {2327, Y4988}, {5358, Z11806}, {Z34570, Z34762}
+
+Y(11385) lies on these circumconics: {A,B,C,X(285),Z(12190)}
+
+Y(11385) = X(i)-isoconjugate-of-X(j) for these {i, j}: {10, Y4998}, {37, 34546}, {65, 2123}, {213, Z36076}, {1402, Z36493}, {1427, Z2658}
+
+Y(11385) = X(i)-Dao conjugate of X(j) for these {i, j}: {1407, 3668}, {6626, Z36076}, {40589, 34546}, {40602, 2123}, {40605, Z36493}
+
+Y(11385) = X(i)-Ceva conjugate of X(j) for these {i, j}: {1043, 58}
+
+Y(11385) = barycentric product X(i)*X(j) for these (i, j): {58, Z65891}, {284, Z36494}, {1043, 6609}, {1604, 86}, {2122, 333}
+
+Y(11385) = barycentric quotient X(i)/X(j) for these (i, j): {58, 34546}, {86, Z36076}, {284, 2123}, {333, Z36493}, {1043, Z40006}, {1333, Y4998}, {1604, 10}, {2122, 226}, {2328, Z2658}, {6609, 3668}, {Z36494, 349}, {Z65891, 313}
+
+Y(11385) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {2360, Z12229, 21}
+
+Y(11385) = triple conic conjugate of X(58) wrt Dao triangle
+

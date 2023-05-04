@@ -1,0 +1,12 @@
+Y(11211)
+
+X(1)X(115)∩X(741)X(995)
+
+Barycentrics    a^2*(b^6-b^5*c+2*b^3*c^3-b*c^5+c^6+a^5*(b+c)+a^4*(b^2+c^2)-2*a^3*(b^3+c^3)-2*a^2*(b^4+c^4)+a*(b^5+c^5))
+
+Y(11211) lies on these lines: {1, 115}, {56, Y7347}, {741, 995}, {1193, 4128}, {1201, 28392}, {8299, 34586}, {10571, 26702}, {21784, 34990}, {Y11173, Y11185}
+
+Y(11211) lies on these circumconics: {A,B,C,X(13178),Z(6488)}
+
+Y(11211) = triple conic conjugate of X(115) wrt X(1)-circumcevian triangle
+

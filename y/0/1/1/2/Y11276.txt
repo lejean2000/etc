@@ -1,0 +1,14 @@
+Y(11276)
+
+X(2)X(14)∩X(110)X(299)
+
+Barycentrics    -5*a^6+a^4*(2*b^2+2*c^2+sqrt(-3*a^4-3*(b^2-c^2)^2+6*a^2*(b^2+c^2)))-a^2*(-5*b^4-5*c^4+b^2*sqrt(-3*a^4-3*(b^2-c^2)^2+6*a^2*(b^2+c^2))+c^2*sqrt(-3*a^4-3*(b^2-c^2)^2+6*a^2*(b^2+c^2)))-2*(b^6-b^4*c^2+c^6+b^2*(-c^4+c^2*sqrt(-3*a^4-3*(b^2-c^2)^2+6*a^2*(b^2+c^2))))
+
+Y(11276) lies on these lines: {2, 14}, {99, 46825}, {110, 299}, {111, 52750}, {183, 7664}, {303, 10546}, {616, 14169}, {7771, 46824}, {15360, Z74040}, {16644, 20998}, {51013, Z67510}
+
+Y(11276) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {183, 47596, Y11275}
+
+Y(11276) = triple conic conjugate of X(14) wrt X(2)-circumcevian triangle
+
+Y(11276) = (A,B,C,X(2); A',B',C',X(2)) collineation image of  X(14), where A'B'C' = Gemini-44 triangle
+

@@ -1,0 +1,12 @@
+Y(11357)
+
+X(1)X(7)∩X(675)X(36079)
+
+Barycentrics    (a+b-c)^2*(a-b+c)^2*(a^6-4*a^5*(b+c)+(b^2-c^2)^2*(b^2+c^2)+a^4*(3*b^2+4*b*c+3*c^2)-a^2*(b+c)^2*(5*b^2-6*b*c+5*c^2)+4*a^3*(b^3+b^2*c+b*c^2+c^3))
+
+Y(11357) lies on these lines: {1, 7}, {675, 36079}, {7365, Z38848}, {32065, 34855}, {38900, Y11352}
+
+Y(11357) lies on these circumconics: {A,B,C,X(20),X(675)}, {A,B,C,X(104),X(30265)}, {A,B,C,X(516),X(35512)}, {A,B,C,X(4303),Z(654)}
+
+Y(11357) = triple conic conjugate of X(20) wrt X(7)-circumcevian triangle
+

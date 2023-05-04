@@ -1,0 +1,16 @@
+Y(11209)
+
+X(1)X(29)∩X(48)X(112)
+
+Barycentrics    a^2*(-(b^2*c^2*(b^2-c^2)^2)+a^6*(b^2+c^2)+a^2*(b^2-c^2)^2*(b^2+c^2)+a^5*(b^3+c^3)+a^4*(-2*b^4+b^2*c^2-2*c^4)-2*a^3*(b^5+c^5)+a*(b^7-b^4*c^3-b^3*c^4+c^7))
+
+Y(11209) lies on these lines: {1, 29}, {48, 112}, {595, 2352}, {1319, 10571}, {1614, 36033}, {37817, Y11175}
+
+Y(11209) lies on these circumconics: {A,B,C,X(48),Z(16725)}, {A,B,C,X(92),X(26701)}, {A,B,C,X(1896),Z(15694)}
+
+Y(11209) = midpoint of X(i) in X(j) for these {i,j}: {1, Y8775}
+
+Y(11209) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {1, Y8775, Z16725}
+
+Y(11209) = triple conic conjugate of X(92) wrt X(1)-circumcevian triangle
+

@@ -1,0 +1,22 @@
+Y(11207)
+
+X(1)X(89)∩X(45)X(101)
+
+Barycentrics    a*(8*a^3-3*a^2*(b+c)-3*a*(3*b^2+b*c+3*c^2)+2*(b^3-3*b^2*c-3*b*c^2+c^3))
+
+Y(11207) lies on these lines: {1, 89}, {45, 101}, {993, 49712}, {995, 3246}, {1001, Y11206}, {4653, Y48}, {4794, 23838}, {10448, 25431}, {40587, 41451}
+
+Y(11207) lies on these circumconics: {A,B,C,X(89),X(25057)}, {A,B,C,X(52924),Z(151)}
+
+Y(11207) = midpoint of X(i) in X(j) for these {i,j}: {1, Y8701}
+
+Y(11207) = X(i)-isoconjugate-of-X(j) for these {i, j}: {2, Z15413}, {6, Z56850}
+
+Y(11207) = X(i)-Dao conjugate of X(j) for these {i, j}: {9, Z56850}, {32664, Z15413}
+
+Y(11207) = barycentric product X(i)*X(j) for these (i, j): {1, 25057}
+
+Y(11207) = barycentric quotient X(i)/X(j) for these (i, j): {1, Z56850}, {31, Z15413}, {25057, 75}
+
+Y(11207) = triple conic conjugate of X(89) wrt X(1)-circumcevian triangle
+

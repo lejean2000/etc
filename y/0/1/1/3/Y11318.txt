@@ -1,0 +1,14 @@
+Y(11318)
+
+X(6)X(26)∩X(237)X(1384)
+
+Barycentrics    a^2*(5*a^8-10*a^6*(b^2+c^2)+4*a^4*(b^4+c^4)-(b^2-c^2)^2*(b^4+c^4)+2*a^2*(b^6+c^6))
+
+Y(11318) lies on these lines: {6, 26}, {156, 3053}, {187, 15068}, {237, 1384}, {5023, 11591}, {5210, 33533}, {18358, 37466}
+
+Y(11318) = isogonal conjugate of Y(2910)
+
+Y(11318) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {Y11316, Y11317, 1384}
+
+Y(11318) = triple conic conjugate of X(26) wrt X(6)-circumcevian triangle
+

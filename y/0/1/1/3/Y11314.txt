@@ -1,0 +1,16 @@
+Y(11314)
+
+X(6)X(20)∩X(237)X(1384)
+
+Barycentrics    -(a^2*b^2*c^2*(b^2-c^2)^2)+2*a^8*(b^2+c^2)+a^6*(-4*b^4+11*b^2*c^2-4*c^4)+2*a^4*(b^6-2*b^4*c^2-2*b^2*c^4+c^6)
+
+Y(11314) lies on these lines: {6, 20}, {32, 52525}, {112, 44077}, {237, 1384}, {800, 15072}, {1285, Z22796}, {1625, 46453}, {2030, 52471}, {3010, Z24178}, {3331, 37689}, {3523, Z30545}, {9292, 33632}, {37190, 50678}, {45938, Z2604}
+
+Y(11314) lies on these circumconics: {A,B,C,X(9292),Z(16467)}
+
+Y(11314) =  isogonal conjugate of Y(2906)
+
+Y(11314) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {1384, Y11305, 9463}
+
+Y(11314) = triple conic conjugate of X(20) wrt X(6)-circumcevian triangle
+

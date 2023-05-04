@@ -1,0 +1,16 @@
+Y(11329)
+
+X(6)X(43)∩X(1)X(1977)
+
+Barycentrics    a^2*(2*a^2*(b-c)^2-b^2*c^2-a*b*c*(b+c))
+
+Y(11329) lies on these lines: {1, 1977}, {6, 43}, {739, 2177}, {750, Z24245}, {2163, Z19361}, {3009, 9463}, {3501, Z9987}, {4393, Z72919}, {7121, Z14342}, {9336, 38346}, {20332, 24615}, {21214, 23525}, {23538, 26102}, {23565, 29820}, {Y11308, Z23063}
+
+Y(11329) lies on these circumconics: {A,B,C,X(87),Z(9342)}, {A,B,C,X(739),X(40753)}, {A,B,C,X(51864),Z(1541)}
+
+Y(11329) = isogonal conjugate of Y(2922)
+
+Y(11329) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {2162, 21757, 43}, {9463, 21747, Z24178}
+
+Y(11329) = triple conic conjugate of X(43) wrt X(6)-circumcevian triangle
+

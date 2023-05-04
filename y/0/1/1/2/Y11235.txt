@@ -1,0 +1,12 @@
+Y(11235)
+
+X(1)X(164)∩X(56)X(12809)
+
+Barycentrics    a*(b*sqrt(a*(a^2-(b-c)^2))+sqrt(a*(a^2-(b-c)^2))*c-b*sqrt(-(c*(a^2-2*a*b+b^2-c^2)))+b*sqrt(b*(-a^2+b^2+2*a*c-c^2))+c*sqrt(c*(-a^2+2*a*b-b^2+c^2))-c*sqrt(-(b*(a^2-b^2-2*a*c+c^2)))-a*(-3*sqrt(a*(a^2-(b-c)^2))+sqrt(c*(-a^2+2*a*b-b^2+c^2))+sqrt(-(b*(a^2-b^2-2*a*c+c^2)))))
+
+Y(11235) lies on these lines: {1, 164}, {56, 12809}, {3361, 10490}, {6585, 45086}, {8082, 45087}, {8111, 12114}
+
+Y(11235) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {1, 18291, 8094}
+
+Y(11235) = triple conic conjugate of X(164) wrt X(1)-circumcevian triangle
+

@@ -1,0 +1,16 @@
+Y(11291)
+
+X(4)X(9)∩X(112)X(917)
+
+Barycentrics    (a^2+b^2-c^2)*(a^2-b^2+c^2)*(2*a^6-a^3*b*c*(b+c)+a*b*(b-c)^2*c*(b+c)+a^2*b*c*(b+c)^2-3*a^4*(b^2+c^2)+(b^2-c^2)^2*(b^2-b*c+c^2))
+
+Y(11291) lies on these lines: {4, 9}, {24, 23383}, {112, 917}, {321, 31832}, {412, 5146}, {517, Z27257}, {915, 30250}, {946, 37168}, {1042, 1870}, {1852, 40149}, {2390, 5890}, {3575, 41013}, {7354, 37790}, {7559, 52412}, {18533, Y11289}, {39529, 46468}
+
+Y(11291) lies on these circumconics: {A,B,C,X(10),X(917)}, {A,B,C,X(71),Z(31980)}, {A,B,C,X(2724),X(41327)}, {A,B,C,X(5587),Z(28152)}
+
+Y(11291) = reflection of X(i) in X(j) for these {i,j}: {4, 1842}
+
+Y(11291) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {516, 1842, 4}, {18533, Y11290, Y11289}
+
+Y(11291) = triple conic conjugate of X(10) wrt X(4)-circumcevian triangle
+

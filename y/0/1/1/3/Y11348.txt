@@ -1,0 +1,14 @@
+Y(11348)
+
+X(5)X(6)∩X(112)X(44077)
+
+Barycentrics    a^2*(2*a^12*(b^2+c^2)-b^2*c^2*(b^2-c^2)^4*(b^2+c^2)-a^10*(6*b^4+11*b^2*c^2+6*c^4)+a^8*(4*b^6+13*b^4*c^2+13*b^2*c^4+4*c^6)+4*a^6*(b^8-2*b^6*c^2+b^4*c^4-2*b^2*c^6+c^8)+a^2*(b^2-c^2)^2*(2*b^8-b^6*c^2+6*b^4*c^4-b^2*c^6+2*c^8)-2*a^4*(3*b^10-5*b^8*c^2+4*b^6*c^4+4*b^4*c^6-5*b^2*c^8+3*c^10))
+
+Y(11348) lies on these lines: {5, 6}, {112, 44077}, {2030, Y11346}, {9463, Y11337}, {Y11305, Y11335}, {Y11320, Y11344}, {Z20165, Z28967}
+
+Y(11348) lies on these circumconics: {A,B,C,X(44077),X(45938)}
+
+Y(11348) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {6, 45938, 68}
+
+Y(11348) = triple conic conjugate of X(68) wrt X(6)-circumcevian triangle
+

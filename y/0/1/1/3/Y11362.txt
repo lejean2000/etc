@@ -1,0 +1,16 @@
+Y(11362)
+
+X(6)X(41)∩X(112)X(2291)
+
+Barycentrics    4*a^7-3*a^6*(b+c)-4*a^5*(b^2+c^2)+2*a^4*(b^3+c^3)+a^2*(b-c)^2*(b^3+5*b^2*c+5*b*c^2+c^3)
+
+Y(11362) lies on these lines: {6, 41}, {112, 2291}, {580, 5526}, {4262, 14547}, {21747, Y11345}, {43694, Z20140}, {45932, Y11305}, {53290, Z26888}, {Y11324, Y11337}, {Y11344, Z24000}, {Z1903, Z23561}
+
+Y(11362) lies on these circumconics: {A,B,C,X(73),X(2291)}, {A,B,C,X(112),X(23346)}, {A,B,C,X(1055),X(2299)}
+
+Y(11362) = isogonal conjugate of Y(2879)
+
+Y(11362) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {6, 1055, 73}
+
+Y(11362) = triple conic conjugate of X(73) wrt X(6)-circumcevian triangle
+

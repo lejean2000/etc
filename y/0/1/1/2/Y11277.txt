@@ -1,0 +1,14 @@
+Y(11277)
+
+X(2)X(14)∩X(23)X(5980)
+
+Barycentrics    sqrt(3)*a^6-sqrt(3)*a^2*b^4+4*sqrt(3)*a^2*b^2*c^2-sqrt(3)*a^2*c^4-a^4*sqrt((a+b-c)*(a-b+c)*(-a+b+c)*(a+b+c))+a^2*b^2*sqrt((a+b-c)*(a-b+c)*(-a+b+c)*(a+b+c))+a^2*c^2*sqrt((a+b-c)*(a-b+c)*(-a+b+c)*(a+b+c))+2*b^2*c^2*sqrt((a+b-c)*(a-b+c)*(-a+b+c)*(a+b+c))
+
+Y(11277) lies on these lines: {2, 14}, {23, 5980}, {99, 38431}, {110, Z74039}, {183, 1995}, {298, 15360}, {300, 476}, {385, 37776}, {3129, 41000}, {5640, Z74040}, {7426, Y11275}, {7771, 38432}, {16463, Z44132}
+
+Y(11277) lies on these circumconics: {A,B,C,X(3458),X(45819)}
+
+Y(11277) = triple conic conjugate of X(15) wrt X(2)-circumcevian triangle
+
+Y(11277) = (A,B,C,X(2); A',B',C',X(2)) collineation image of  X(15), where A'B'C' = Gemini-44 triangle
+

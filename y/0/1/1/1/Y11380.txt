@@ -1,0 +1,14 @@
+Y(11380)
+
+X(522)X(4546)∩X(523)X(4724)
+
+Barycentrics    (a-b-c)*(b-c)*(2*a^3-4*a*b*c-a^2*(b+c)+3*(b-c)^2*(b+c))
+
+Y(11380) lies on these lines: {522, 4546}, {523, 4724}, {900, 21102}, {1638, 7649}, {1639, 20294}, {3737, Z7838}, {4162, 28147}, {4777, 14284}, {23729, 23749}, {28161, 47921}, {30725, 44409}, {48292, Z2505}
+
+Y(11380) = reflection of X(i) in X(j) for these {i,j}: {30725, 44409}
+
+Y(11380) = X(i)-Ceva conjugate of X(j) for these {i, j}: {1043, 11}
+
+Y(11380) = triple conic conjugate of X(11) wrt Dao triangle
+

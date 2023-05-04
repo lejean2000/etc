@@ -23,4 +23,4 @@ Y(11163) = barycentric quotient X(i)/X(j) for these (i, j): {36, 1022}, {101, 11
 
 Y(11163) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {100, 6163, 14513}
 
-Y(11163) = triple conic conjugate of X(100) wrt {2A-X(1), 2B-X(1), 2C-X(1)}
+Y(11163) = triple conic conjugate of X(100) wrt Aquilla triangle

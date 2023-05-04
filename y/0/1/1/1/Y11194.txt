@@ -1,0 +1,16 @@
+Y(11194)
+
+X(1)X(62)∩X(7)X(21)
+
+Barycentrics    a*(a*(a+b-c)*(a-b+c)*(a+b+c)+2*sqrt(3)*(a^2-2*b*c-a*(b+c))*S)
+
+Y(11194) lies on these lines: {1, 62}, {7, 21}, {238, 2307}, {5240, 17451}, {7051, 15485}, {16484, 19373}, {21842, 36941}
+
+Y(11194) lies on these circumconics: {A,B,C,X(86),X(19551)}, {A,B,C,X(1434),X(33655)}
+
+Y(11194) = midpoint of X(i) in X(j) for these {i,j}: {1, Y7716}
+
+Y(11194) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {56, 1001, Y11193}, {1001, 10647, 10648}, {10647, Y11193, 56}, {30385, 30386, 10647}
+
+Y(11194) = triple conic conjugate of X(62) wrt X(1)-circumcevian triangle
+

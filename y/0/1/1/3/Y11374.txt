@@ -1,0 +1,20 @@
+Y(11374)
+
+X(6)X(8)∩X(197)X(8707)
+
+Barycentrics    a^6+2*a^4*b*c-2*a^3*b*c*(b+c)+4*a*b^2*c^2*(b+c)-2*b^2*c^2*(b+c)^2-a^2*(b^4+c^4)
+
+Y(11374) lies on these lines: {6, 8}, {183, Z81544}, {197, 8707}, {997, Y11241}, {3435, Z49793}, {22769, 40875}
+
+Y(11374) lies on these circumconics: {A,B,C,X(38882),Y(11307)}
+
+Y(11374) = X(i)-isoconjugate-of-X(j) for these {i, j}: {1106, Z28266}, {24443, 51445}
+
+Y(11374) = X(i)-Dao conjugate of X(j) for these {i, j}: {6552, Z28266}
+
+Y(11374) = barycentric product X(i)*X(j) for these (i, j): {2985, Z34081}, {42828, Z34805}, {Z81540, Z852}
+
+Y(11374) = barycentric quotient X(i)/X(j) for these (i, j): {346, Z28266}, {42828, 1407}, {Z852, 51445}, {Z34081, 3782}, {Z34805, Z73363}
+
+Y(11374) = triple conic conjugate of X(6) wrt X(8)-circumcevian triangle
+

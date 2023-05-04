@@ -1,0 +1,12 @@
+Y(11213)
+
+X(1)X(117)∩X(73)X(1385)
+
+Barycentrics    a^2*(a+b-c)*(a-b+c)*(a^8*(b+c)-12*a^4*b*(b-c)^2*c*(b+c)+a*(b-c)^4*(b+c)^2*(b^2-3*b*c+c^2)-a^7*(b^2+4*b*c+c^2)+a^6*(-2*b^3+5*b^2*c+5*b*c^2-2*c^3)-3*a^3*(b-c)^2*(b^4-4*b^2*c^2+c^4)-(b-c)^2*(b+c)^3*(b^4-2*b^3*c+4*b^2*c^2-2*b*c^3+c^4)+a^5*(3*b^4+3*b^3*c-14*b^2*c^2+3*b*c^3+3*c^4)+a^2*(b-c)^2*(2*b^5+9*b^4*c-b^3*c^2-b^2*c^3+9*b*c^4+2*c^5))
+
+Y(11213) lies on these lines: {1, 117}, {56, Z9556}, {73, 1385}, {104, 10571}, {108, 995}, {603, 2818}, {997, 4551}, {1457, 6001}
+
+Y(11213) lies on these circumconics: {A,B,C,X(50899),Z(33631)}
+
+Y(11213) = triple conic conjugate of X(117) wrt X(1)-circumcevian triangle
+

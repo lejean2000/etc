@@ -1,0 +1,14 @@
+Y(11226)
+
+X(1)X(147)∩X(105)X(995)
+
+Barycentrics    -(a^6*b*c)+a^7*(b+c)-a^5*(b^3+b^2*c+b*c^2+c^3)+a^2*(b-c)^2*(b^4-b^2*c^2+c^4)-a^4*(b^4-3*b^3*c+b^2*c^2-3*b*c^3+c^4)
+
+Y(11226) lies on these lines: {1, 147}, {105, 995}, {386, 2170}, {934, 4306}, {991, 37525}, {2700, 34179}, {14413, Y11225}
+
+Y(11226) lies on these circumconics: {A,B,C,X(150),X(2700)}, {A,B,C,X(2784),X(34179)}, {A,B,C,X(7281),X(29015)}
+
+Y(11226) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {105, Y11212, 995}
+
+Y(11226) = triple conic conjugate of X(150) wrt X(1)-circumcevian triangle
+

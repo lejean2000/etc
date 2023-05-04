@@ -1,0 +1,22 @@
+Y(11202)
+
+X(1)X(82)∩X(37)X(572)
+
+Barycentrics    a*(a^5-a^3*(b^2+c^2)-a^2*(b^3+b^2*c+b*c^2+c^3)-b*c*(b^3+b^2*c+b*c^2+c^3)-a*(b^4+b^2*c^2+c^4))
+
+Y(11202) lies on these lines: {1, 82}, {37, 572}, {38, 110}, {238, 1201}, {984, 4579}, {993, Y11197}, {1386, Z28011}, {3242, 23095}, {3733, 24286}, {10329, 16587}, {17055, 29012}, {21008, Z26130}, {38862, 40585}
+
+Y(11202) lies on these circumconics: {A,B,C,X(24614),X(52376)}, {A,B,C,Z(2265),Z(7893)}
+
+Y(11202) = midpoint of X(i) in X(j) for these {i,j}: {1, 16556}
+
+Y(11202) = X(i)-isoconjugate-of-X(j) for these {i, j}: {2, Z14995}, {6, Z56410}
+
+Y(11202) = X(i)-Dao conjugate of X(j) for these {i, j}: {9, Z56410}, {32664, Z14995}
+
+Y(11202) = barycentric product X(i)*X(j) for these (i, j): {1, 24614}
+
+Y(11202) = barycentric quotient X(i)/X(j) for these (i, j): {1, Z56410}, {31, Z14995}, {24614, 75}
+
+Y(11202) = triple conic conjugate of X(82) wrt X(1)-circumcevian triangle
+

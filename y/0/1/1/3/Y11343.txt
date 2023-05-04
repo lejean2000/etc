@@ -1,0 +1,20 @@
+Y(11343)
+
+X(6)X(63)∩X(2177)X(3747)
+
+Barycentrics    a^2*(a^2*b*c+2*a^3*(b+c)+2*a*(b-c)^2*(b+c)-b*c*(b^2+c^2))
+
+Y(11343) lies on these lines: {6, 63}, {739, 26716}, {1973, 32691}, {2177, 3747}, {3306, 16782}, {9463, Y11308}, {16488, 30677}, {37819, Z24452}, {Y11307, Y11314}
+
+Y(11343) lies on these circumconics: {A,B,C,Z(100),Z(1547)}
+
+Y(11343) = X(i)-isoconjugate-of-X(j) for these {i, j}: {1, Y2873}, {2, Y30}, {92, Y6063}
+
+Y(11343) = X(i)-Dao conjugate of X(j) for these {i, j}: {3, Y2873}, {22391, Y6063}, {32664, Y30}
+
+Y(11343) = barycentric quotient X(i)/X(j) for these (i, j): {6, Y2873}, {31, Y30}, {184, Y6063}
+
+Y(11343) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {2177, Y11326, Z24178}, {21750, 21775, 63}, {Y11308, Y11339, 9463}
+
+Y(11343) = triple conic conjugate of X(63) wrt X(6)-circumcevian triangle
+

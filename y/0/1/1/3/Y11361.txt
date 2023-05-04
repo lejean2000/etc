@@ -1,0 +1,16 @@
+Y(11361)
+
+X(1)X(6)∩X(112)X(739)
+
+Barycentrics    a^2*(2*a^4*(b+c)+2*a*(b^2-c^2)^2+2*a^3*(b^2+c^2)-b*c*(b^3+b^2*c+b*c^2+c^3)+a^2*(2*b^3-b^2*c-b*c^2+2*c^3))
+
+Y(11361) lies on these lines: {1, 6}, {112, 739}, {1384, Y11343}, {Y11305, Y11307}, {Y11309, Y11345}, {Y11327, Y11344}, {Z1915, Z8305}, {Z20139, Z28969}
+
+Y(11361) lies on these circumconics: {A,B,C,X(72),X(739)}, {A,B,C,X(112),X(23343)}, {A,B,C,X(2203),X(3230)}, {A,B,C,Z(8347),Z(20139)}
+
+Y(11361) = isogonal conjugate of Y(2878)
+
+Y(11361) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {6, 3230, 72}
+
+Y(11361) = triple conic conjugate of X(72) wrt X(6)-circumcevian triangle
+

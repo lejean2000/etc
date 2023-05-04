@@ -15,4 +15,4 @@ Y(11161) = barycentric product X(i)*X(j) for these (i, j): {999, Z49534}, {4054,
 
 Y(11161) = barycentric quotient X(i)/X(j) for these (i, j): {999, 16834}, {6016, 51564}, {21183, Z39515}, {Z8921, 1000}, {Z32533, Z37877}, {Z34167, 6008}, {Z49534, Z35681}
 
-Y(11161) = triple conic conjugate of X(57) wrt {2A-X(1), 2B-X(1), 2C-X(1)}
+Y(11161) = triple conic conjugate of X(57) wrt Aquilla triangle

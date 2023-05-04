@@ -1,0 +1,14 @@
+Y(11369)
+
+X(6)X(88)∩X(31)X(101)
+
+Barycentrics    a^2*(4*a^3*(b+c)+b*c*(-2*b^2+5*b*c-2*c^2)-5*a^2*(2*b^2-b*c+2*c^2)+a*(4*b^3-b^2*c-b*c^2+4*c^3))
+
+Y(11369) lies on these lines: {6, 88}, {31, 101}, {2251, 4588}, {2384, 8693}, {9463, Y11331}, {16501, 35326}, {Z20123, Z27161}
+
+Y(11369) lies on these circumconics: {A,B,C,X(89),Z(35071)}, {A,B,C,Z(1748),Z(2595)}
+
+Y(11369) = isogonal conjugate of Y(2892)
+
+Y(11369) = triple conic conjugate of X(88) wrt X(6)-circumcevian triangle
+

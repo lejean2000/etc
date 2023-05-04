@@ -1,0 +1,10 @@
+Y(11358)
+
+X(7)X(21)∩X(6183)Z(29168)
+
+Barycentrics    a*(a+b-c)*(a-b+c)*(a^7-2*a^6*(b+c)-a^3*(b+c)^2*(b^2-4*b*c+c^2)+a*(b^2-c^2)^2*(b^2-b*c+c^2)-a^5*(b^2+b*c+c^2)+a^4*(4*b^3+3*b^2*c+3*b*c^2+4*c^3)-2*a^2*(b^5+c^5)-b*c*(b^5-b^4*c-b*c^4+c^5))
+
+Y(11358) lies on these lines: {7, 21}, {3212, 35976}, {6183, Z29168}, {30839, 37797}, {37583, Z36654}, {38900, Y11352}
+
+Y(11358) = triple conic conjugate of X(21) wrt X(7)-circumcevian triangle
+

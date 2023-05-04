@@ -1,0 +1,12 @@
+Y(11321)
+
+X(6)X(33)∩X(603)X(8059)
+
+Barycentrics    a^2*(2*a^6*(b+c)-b*(b-c)^2*c*(b+c)^3-4*a^3*(b-c)^2*(b^2+b*c+c^2)+a^5*(2*b^2-5*b*c+2*c^2)+a*(b^2-c^2)^2*(2*b^2+b*c+2*c^2)+a^4*(-4*b^3+b^2*c+b*c^2-4*c^3)+2*a^2*(b^5-b^4*c-b*c^4+c^5))
+
+Y(11321) lies on these lines: {6, 33}, {603, 8059}, {1614, Z26419}, {3941, 26864}, {5312, 11461}, {5315, 11456}, {9638, Z26416}, {26716, 32726}, {45932, Y11305}
+
+Y(11321) = isogonal conjugate of Y(2914)
+
+Y(11321) = triple conic conjugate of X(33) wrt X(6)-circumcevian triangle
+

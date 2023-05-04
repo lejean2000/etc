@@ -1,0 +1,12 @@
+Y(11192)
+
+X(1)X(52)∩X(7)X(21)
+
+Barycentrics    a*(a+b-c)*(a-b+c)*(2*a^3*b^2*c^2+a^6*(b+c)-b*(b-c)^2*c*(b+c)^3-a^4*(2*b^3+3*b^2*c+3*b*c^2+2*c^3)+a^2*(b^5+3*b^4*c+3*b*c^4+c^5))
+
+Y(11192) lies on these lines: {1, 52}, {7, 21}, {1068, 11398}, {1411, 13724}, {5172, 37116}, {7299, 15507}, {20803, 26475}, {Y11173, Y11191}
+
+Y(11192) = midpoint of X(i) in X(j) for these {i,j}: {1, Y9769}
+
+Y(11192) = triple conic conjugate of X(52) wrt X(1)-circumcevian triangle
+

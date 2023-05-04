@@ -1,0 +1,16 @@
+Y(11244)
+
+X(1)X(186)∩X(36)X(1725)
+
+Barycentrics    a^2*(a+b-c)*(a-b+c)*(a^6-a^3*b*c*(b+c)-a^4*(b^2+c^2)+(b^2-c^2)^2*(b^2+c^2)+a*b*c*(b^3+c^3)-a^2*(b^4-3*b^2*c^2+c^4))
+
+Y(11244) lies on these lines: {1, 186}, {36, 1725}, {56, 58}, {102, 22765}, {108, 38945}, {1630, 21773}, {2245, Z24971}, {2605, 8677}, {5563, 12266}, {6261, Z28561}, {11597, 34586}, {37587, Y11184}
+
+Y(11244) lies on these circumconics: {A,B,C,X(58),Z(10230)}, {A,B,C,X(1437),Z(738)}, {A,B,C,X(10571),Z(2753)}
+
+Y(11244) = X(i)-vertex conjugate of X(j) for these {i, j}: {2605, 10571}
+
+Y(11244) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {56, Y11178, 10571}, {56, Y11180, 4306}
+
+Y(11244) = triple conic conjugate of X(186) wrt X(1)-circumcevian triangle
+

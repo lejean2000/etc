@@ -1,0 +1,18 @@
+Y(11218)
+
+X(1)X(124)∩X(31)Z(1872)
+
+Barycentrics    a^2*(-2*a*b*c+a^2*(b+c)-(b-c)^2*(b+c))*(a^5-b^5+b^4*c-a*b*(b-c)^2*c+b*c^4-c^5+a^2*(b-c)^2*(b+c)-a^3*(b^2-b*c+c^2))
+
+Y(11218) lies on these lines: {1, 124}, {31, Z1872}, {102, 8750}, {104, 995}, {108, 10571}, {1191, 20999}, {1193, 1858}, {1201, Y11215}, {1457, 1875}, {1769, 14299}, {3192, 36121}, {6261, 36103}, {22084, 53252}, {22350, 41389}, {47411, Z7819}, {Y11173, Y11213}
+
+Y(11218) lies on these circumconics: {A,B,C,X(1457),X(45272)}, {A,B,C,X(13532),Z(6722)}
+
+Y(11218) = X(i)-isoconjugate-of-X(j) for these {i, j}: {1309, Z30442}, {2342, Z75644}, {14776, Z76867}, {38955, 39435}, {51565, Z29660}
+
+Y(11218) = barycentric product X(i)*X(j) for these (i, j): {1465, 45272}
+
+Y(11218) = barycentric quotient X(i)/X(j) for these (i, j): {1465, Z75644}, {45272, 36795}, {Z24111, Z29660}
+
+Y(11218) = triple conic conjugate of X(124) wrt X(1)-circumcevian triangle
+

@@ -1,0 +1,18 @@
+Y(11333)
+
+X(6)X(49)∩X(111)Y(11306)
+
+Barycentrics    a^2*(a^8-2*(b^2-c^2)^4-a^6*(b^2+c^2)-3*a^4*(b^4-b^2*c^2+c^4)+a^2*(5*b^6-6*b^4*c^2-6*b^2*c^4+5*c^6))
+
+Y(11333) lies on these lines: {6, 49}, {111, Y11306}, {1384, 34417}, {3581, 43620}, {7545, 50387}, {12367, Z27948}
+
+Y(11333) = X(i)-isoconjugate-of-X(j) for these {i, j}: {1, Y2928}
+
+Y(11333) = X(i)-Dao conjugate of X(j) for these {i, j}: {3, Y2928}
+
+Y(11333) = X(i)-Zayin conjugate of X(j) for these {i, j}: {1, Y2928}
+
+Y(11333) = barycentric quotient X(i)/X(j) for these (i, j): {6, Y2928}
+
+Y(11333) = triple conic conjugate of X(49) wrt X(6)-circumcevian triangle
+

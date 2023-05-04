@@ -1,0 +1,14 @@
+Y(11224)
+
+X(1)X(147)∩X(741)X(4306)
+
+Barycentrics    a^2*(a+b-c)*(a-b+c)*(-b^7-a^5*b*c+b^5*c^2+b^4*c^3+b^3*c^4+b^2*c^5-c^7+a^6*(b+c)-a^4*b*c*(b+c)+a^3*b*c*(b^2+c^2)-a^2*b*c*(b^3+c^3)-a*b*c*(b^4-b^2*c^2+c^4))
+
+Y(11224) lies on these lines: {1, 147}, {741, 4306}, {759, 995}, {1423, 37817}, {2700, 34130}, {27691, 30115}
+
+Y(11224) lies on these circumconics: {A,B,C,X(147),X(2700)}, {A,B,C,X(759),X(7061)}, {A,B,C,X(2784),X(34130)}
+
+Y(11224) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {29055, Y11210, 995}
+
+Y(11224) = triple conic conjugate of X(147) wrt X(1)-circumcevian triangle
+

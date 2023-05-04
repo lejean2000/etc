@@ -1,0 +1,16 @@
+Y(11319)
+
+X(6)X(28)∩X(237)X(1384)
+
+Barycentrics    a^2*(5*a^5*b*c*(b+c)-a*b*(b-c)^2*c*(b+c)^3-b^2*c^2*(b^2-c^2)^2+a^2*(b^2-c^2)^2*(2*b^2-b*c+2*c^2)+a^6*(2*b^2+5*b*c+2*c^2)-4*a^3*b*c*(b^3+b^2*c+b*c^2+c^3)-a^4*(4*b^4+4*b^3*c-b^2*c^2+4*b*c^3+4*c^4))
+
+Y(11319) lies on these lines: {6, 28}, {74, 8693}, {228, 36080}, {237, 1384}, {13509, 37237}, {26717, 32722}, {42669, Y11313}
+
+Y(11319) = X(i)-isoconjugate-of-X(j) for these {i, j}: {1, Y2912}, {2, Y67}
+
+Y(11319) = X(i)-Dao conjugate of X(j) for these {i, j}: {3, Y2912}, {32664, Y67}
+
+Y(11319) = barycentric quotient X(i)/X(j) for these (i, j): {6, Y2912}, {31, Y67}
+
+Y(11319) = triple conic conjugate of X(28) wrt X(6)-circumcevian triangle
+

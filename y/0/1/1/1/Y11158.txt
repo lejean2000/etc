@@ -26,4 +26,4 @@ Y(11158) = barycentric product X(i)*X(j) for these (i, j): {10, Z50354}, {37, Z3
 
 Y(11158) = barycentric quotient X(i)/X(j) for these (i, j): {10, 17781}, {37, 3579}, {321, Z43362}, {523, 41800}, {1213, 3650}, {10308, 81}, {21933, 41543}, {Z769, 1171}, {Z9738, 58}, {Z27597, Z12918}, {Z27822, 110}, {Z37573, 274}, {Z37621, 32014}, {Z50354, 86}, {Z72174, Z53849}, {Z72422, 99}
 
-Y(11158) = triple conic conjugate of X(8) wrt {2A-X(1), 2B-X(1), 2C-X(1)}
+Y(11158) = triple conic conjugate of X(8) wrt Aquilla triangle

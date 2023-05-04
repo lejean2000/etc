@@ -1,0 +1,14 @@
+Y(11365)
+
+X(6)X(78)∩X(1384)Y(11343)
+
+Barycentrics    a^2*(2*a^4*(b+c)+a^3*(2*b^2-5*b*c+2*c^2)-b*c*(b^3+b^2*c+b*c^2+c^3)+a^2*(2*b^3-b^2*c-b*c^2+2*c^3)+a*(2*b^4+b^3*c-4*b^2*c^2+b*c^3+2*c^4))
+
+Y(11365) lies on these lines: {6, 78}, {739, 26715}, {1384, Y11343}, {3009, 9463}, {Y11308, Y11315}, {Y11349, Y11362}
+
+Y(11365) = isogonal conjugate of Y(2883)
+
+Y(11365) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {1384, Y11361, Y11343}
+
+Y(11365) = triple conic conjugate of X(78) wrt X(6)-circumcevian triangle
+

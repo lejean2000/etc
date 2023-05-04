@@ -1,0 +1,14 @@
+Y(11326)
+
+X(6)X(38)∩X(2176)X(3722)
+
+Barycentrics    a^2*(2*a^3*(b+c)-b*c*(b^2+c^2)+2*a*(b^3+c^3))
+
+Y(11326) lies on these lines: {6, 38}, {213, 46904}, {2176, 3722}, {2177, 3747}, {14997, 17755}, {16782, 17450}, {18098, 31264}, {46289, Z14341}
+
+Y(11326) lies on these circumconics: {A,B,C,Z(961),Z(1547)}
+
+Y(11326) = isogonal conjugate of Y(2918)
+
+Y(11326) = triple conic conjugate of X(38) wrt X(6)-circumcevian triangle
+

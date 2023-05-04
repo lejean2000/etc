@@ -1,0 +1,10 @@
+Y(11346)
+
+X(6)X(66)∩X(112)X(206)
+
+Barycentrics    a^2*(a^8*b^2*c^2+2*a^10*(b^2+c^2)-b^2*c^2*(b^4-c^4)^2-4*a^6*(b^6+c^6)+2*a^2*(b^10-b^8*c^2-b^2*c^8+c^10))
+
+Y(11346) lies on these lines: {6, 66}, {69, 36828}, {112, 206}, {1384, Z30113}, {7737, 16285}, {Z7553, Z20118}, {Z16452, Z34794}, {Z18391, Z22593}
+
+Y(11346) = triple conic conjugate of X(66) wrt X(6)-circumcevian triangle
+

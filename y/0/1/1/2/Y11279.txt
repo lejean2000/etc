@@ -1,0 +1,12 @@
+Y(11279)
+
+X(2)X(17)∩X(110)X(302)
+
+Barycentrics    3*a^6+a^4*(-2*b^2-2*c^2+sqrt(-3*a^4-3*(b^2-c^2)^2+6*a^2*(b^2+c^2)))-a^2*(3*b^4+3*c^4+c^2*sqrt(-3*a^4-3*(b^2-c^2)^2+6*a^2*(b^2+c^2))+b^2*(8*c^2+sqrt(-3*a^4-3*(b^2-c^2)^2+6*a^2*(b^2+c^2))))+2*(b^6-b^4*c^2+c^6-b^2*(c^4+c^2*sqrt(-3*a^4-3*(b^2-c^2)^2+6*a^2*(b^2+c^2))))
+
+Y(11279) lies on these lines: {2, 17}, {110, 302}, {183, 1273}, {298, 11422}, {635, 34395}, {1995, Y11275}, {5169, 5980}, {7493, Y11277}, {7495, Y11276}, {7496, 14369}
+
+Y(11279) = triple conic conjugate of X(17) wrt X(2)-circumcevian triangle
+
+Y(11279) = (A,B,C,X(2); A',B',C',X(2)) collineation image of  X(17), where A'B'C' = Gemini-44 triangle
+

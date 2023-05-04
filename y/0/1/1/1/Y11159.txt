@@ -25,4 +25,4 @@ Y(11159) = barycentric quotient X(i)/X(j) for these (i, j): {4, 27475}, {10, Z63
 
 Y(11159) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {4, 242, 19}, {4, 281, 1861}, {29, 5342, 34}, {92, 14004, 33}, {1851, 4207, 1848}, {7090, 14121, 1855}
 
-Y(11159) = triple conic conjugate of X(9) wrt {2A-X(1), 2B-X(1), 2C-X(1)}
+Y(11159) = triple conic conjugate of X(9) wrt Aquilla triangle

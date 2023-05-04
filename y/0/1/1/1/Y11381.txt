@@ -1,0 +1,14 @@
+Y(11381)
+
+X(48)X(55)∩X(21)X(572)
+
+Barycentrics    a^3*(a^7*(b+c)+3*a^4*b*c*(b^2+c^2)-b*c*(b^2-c^2)^2*(b^2+c^2)-2*a^2*b*c*(b^2+c^2)^2+a^5*(-3*b^3+2*b^2*c+2*b*c^2-3*c^3)+3*a^3*(b^5-b^4*c-b*c^4+c^5)-a*(b^7+2*b^5*c^2-3*b^4*c^3-3*b^3*c^4+2*b^2*c^5+c^7))
+
+Y(11381) lies on these lines: {21, 572}, {48, 55}, {604, 28348}, {39167, Z12116}
+
+Y(11381) lies on these circumconics: {A,B,C,X(1436),Z(13255)}, {A,B,C,X(2357),X(43739)}
+
+Y(11381) = X(i)-Ceva conjugate of X(j) for these {i, j}: {1043, 31}
+
+Y(11381) = triple conic conjugate of X(31) wrt Dao triangle
+

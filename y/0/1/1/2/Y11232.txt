@@ -1,0 +1,20 @@
+Y(11232)
+
+X(1)X(160)∩X(56)X(608)
+
+Barycentrics    a^2*(-(b^2*(b-c)^2*c^2*(b+c))-a*b*c*(b^2-c^2)^2+a^5*(b^2+c^2)+a^4*(b^3+c^3)-a^3*(b^4-b^3*c+b^2*c^2-b*c^3+c^4)-a^2*(b^5-b^3*c^2-b^2*c^3+c^5))
+
+Y(11232) lies on these lines: {1, 160}, {56, 608}, {611, 5135}, {2217, Z16900}, {2975, Z48118}, {24349, 27472}
+
+Y(11232) = X(i)-isoconjugate-of-X(j) for these {i, j}: {9, Z60506}, {312, Z18476}
+
+Y(11232) = X(i)-Dao conjugate of X(j) for these {i, j}: {478, Z60506}
+
+Y(11232) = X(i)-Ceva conjugate of X(j) for these {i, j}: {Y167, 6}
+
+Y(11232) = barycentric product X(i)*X(j) for these (i, j): {28792, 56}
+
+Y(11232) = barycentric quotient X(i)/X(j) for these (i, j): {56, Z60506}, {1397, Z18476}, {28792, 3596}
+
+Y(11232) = triple conic conjugate of X(160) wrt X(1)-circumcevian triangle
+

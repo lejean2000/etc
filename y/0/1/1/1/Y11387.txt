@@ -1,0 +1,14 @@
+Y(11387)
+
+X(69)X(19611)∩X(333)X(24635)
+
+Barycentrics    (a^2-b^2-c^2)*(a^7-a^6*(b+c)+b*(b-c)^4*c*(b+c)+a^3*(b^2-c^2)^2-2*a*(b^2-c^2)^2*(b^2+c^2)+a^4*(-2*b^3+3*b^2*c+3*b*c^2-2*c^3)+3*a^2*(b^5-b^4*c-b*c^4+c^5))
+
+Y(11387) lies on these lines: {69, 19611}, {200, Z50468}, {333, 24635}, {345, 26006}, {3265, 32929}, {4847, 42696}
+
+Y(11387) = X(i)-Dao conjugate of X(j) for these {i, j}: {Z36654, 3668}
+
+Y(11387) = X(i)-Ceva conjugate of X(j) for these {i, j}: {1043, 69}
+
+Y(11387) = triple conic conjugate of X(69) wrt Dao triangle
+

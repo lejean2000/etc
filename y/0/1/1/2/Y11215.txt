@@ -1,0 +1,22 @@
+Y(11215)
+
+X(1)X(5)∩X(109)X(995)
+
+Barycentrics    a^2*(a+b-c)*(a-b+c)*(a^5*(b+c)-(b^2-c^2)^2*(b^2-b*c+c^2)-a^4*(b^2+4*b*c+c^2)+a^3*(-2*b^3+5*b^2*c+5*b*c^2-2*c^3)+a*(b-c)^2*(b^3-4*b^2*c-4*b*c^2+c^3)+a^2*(2*b^4+3*b^3*c-12*b^2*c^2+3*b*c^3+2*c^4))
+
+Y(11215) lies on these lines: {1, 5}, {36, Z6292}, {56, 3937}, {106, 10571}, {109, 995}, {244, 1457}, {953, 15381}, {1191, 51236}, {1399, 5315}, {1464, 5193}, {1769, Y11213}, {1772, 37562}, {6735, Y8347}, {11249, 36052}, {11505, 11509}, {14413, Y11214}, {Z5201, Z16554}, {Z5205, Z16556}
+
+Y(11215) lies on these circumconics: {A,B,C,X(36),X(12749)}, {A,B,C,X(80),X(12758)}, {A,B,C,X(119),X(953)}, {A,B,C,X(952),X(15381)}, {A,B,C,X(10944),Z(16554)}, {A,B,C,X(10950),Z(16556)}, {A,B,C,X(12751),Z(6294)}, {A,B,C,X(14584),Z(2166)}, {A,B,C,X(26476),Z(5201)}, {A,B,C,X(26482),Z(5205)}, {A,B,C,X(34586),X(41282)}, {A,B,C,X(34858),X(52371)}
+
+Y(11215) = X(i)-isoconjugate-of-X(j) for these {i, j}: {8, Z6299}, {55, Z45718}
+
+Y(11215) = X(i)-Dao conjugate of X(j) for these {i, j}: {223, Z45718}
+
+Y(11215) = barycentric product X(i)*X(j) for these (i, j): {12758, 57}
+
+Y(11215) = barycentric quotient X(i)/X(j) for these (i, j): {57, Z45718}, {604, Z6299}, {12758, 312}
+
+Y(11215) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {1, 6127, 12749}
+
+Y(11215) = triple conic conjugate of X(119) wrt X(1)-circumcevian triangle
+
