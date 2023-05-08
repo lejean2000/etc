@@ -1,0 +1,10 @@
+Y(11403)
+
+X(22)X(65)∩X(1)X(987)
+
+Barycentrics    a*(a+b-c)*(a-b+c)*(a^7-a^6*(b+c)+a^4*(b-c)^2*(b+c)-a^5*(b+c)^2-(b-c)^2*(b+c)^3*(b^2+c^2)+a*(b^2-c^2)^2*(b^2+c^2)-a^3*(b^4+c^4)+a^2*(b^5+b^4*c+b*c^4+c^5))
+
+Y(11403) lies on these lines: {1, 987}, {22, 65}, {855, Y11392}, {960, 25883}, {3485, 26096}, {28109, 36571}
+
+Y(11403) = triple conic conjugate of X(22) wrt anti-tangential-midarc triangle
+

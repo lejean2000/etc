@@ -1,0 +1,10 @@
+Y(11446)
+
+X(65)X(88)∩X(3340)X(4551)
+
+Barycentrics    a*(a+b-c)*(a-b+c)*(a^4-6*a^3*(b+c)-3*(b^2-c^2)^2+3*a^2*(b^2+5*b*c+c^2)+a*(7*b^3-12*b^2*c-12*b*c^2+7*c^3))
+
+Y(11446) lies on these lines: {56, 20843}, {65, 88}, {3340, 4551}, {3485, 26136}, {11011, 20586}, {Y11392, Y11421}
+
+Y(11446) = triple conic conjugate of X(88) wrt anti-tangential-midarc triangle
+

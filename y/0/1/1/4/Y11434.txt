@@ -1,0 +1,20 @@
+Y(11434)
+
+X(7)X(8)∩X(56)X(2305)
+
+Barycentrics    a^2*(a+b-c)*(a-b+c)*(-(b^2*c^2*(b+c))+a^2*(b^3+b^2*c+b*c^2+c^3)+a*(b^4-b^2*c^2+c^4))
+
+Y(11434) lies on these lines: {7, 8}, {56, 2305}, {960, 25895}, {986, 17114}, {1403, 1407}, {3485, 26107}, {3666, 7248}, {9292, 40933}, {28087, 28109}, {Y11392, Y11413}, {Y11400, Y11429}
+
+Y(11434) lies on these circumconics: {A,B,C,X(8),X(1911)}, {A,B,C,X(75),Z(368)}, {A,B,C,X(1407),X(10030)}, {A,B,C,X(24524),Z(4889)}
+
+Y(11434) = X(i)-isoconjugate-of-X(j) for these {i, j}: {55, Y4171}
+
+Y(11434) = X(i)-Dao conjugate of X(j) for these {i, j}: {223, Y4171}
+
+Y(11434) = barycentric quotient X(i)/X(j) for these (i, j): {57, Y4171}
+
+Y(11434) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {65, 1463, 75}, {1469, Y11396, Y11430}
+
+Y(11434) = triple conic conjugate of X(75) wrt anti-tangential-midarc triangle
+

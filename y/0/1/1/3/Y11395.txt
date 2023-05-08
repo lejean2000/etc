@@ -1,0 +1,14 @@
+Y(11395)
+
+X(5)X(65)∩X(56)X(106)
+
+Barycentrics    a^2*(a+b-c)*(a-b+c)*(-4*a^3*b*c*(b+c)+4*a*b*(b-c)^2*c*(b+c)+a^4*(b+c)^2+(b-c)^4*(b+c)^2-2*a^2*(b^4-3*b^2*c^2+c^4))
+
+Y(11395) lies on these lines: {5, 65}, {56, 106}, {855, Y11392}, {960, 25877}, {1411, 42448}, {1454, 28349}, {3485, 26092}, {18838, 28013}, {24806, 30362}, {37558, Y11192}
+
+Y(11395) lies on these circumconics: {A,B,C,X(36058),Z(24383)}
+
+Y(11395) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {Y11392, Y11394, Y11393}
+
+Y(11395) = triple conic conjugate of X(5) wrt anti-tangential-midarc triangle
+

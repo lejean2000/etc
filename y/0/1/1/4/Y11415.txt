@@ -1,0 +1,10 @@
+Y(11415)
+
+X(39)X(65)∩X(1)X(7198)
+
+Barycentrics    a*(a+b-c)*(a-b+c)*(b*(b-c)^2*c*(b+c)+a*b*c*(b+c)^2+2*a^3*(b^2+b*c+c^2)-2*a^2*(b^3+c^3))
+
+Y(11415) lies on these lines: {1, 7198}, {39, 65}, {56, 16691}, {960, 25888}, {2263, Y11393}, {3485, 26100}
+
+Y(11415) = triple conic conjugate of X(39) wrt anti-tangential-midarc triangle
+

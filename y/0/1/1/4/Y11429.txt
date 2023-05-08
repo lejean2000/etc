@@ -1,0 +1,20 @@
+Y(11429)
+
+X(63)X(65)∩X(56)X(1626)
+
+Barycentrics    a*(a+b-c)*(a-b+c)*(a^4-3*a^3*(b+c)-2*(b^2-c^2)^2-a^2*(b^2+c^2)+a*(b^3+b^2*c+b*c^2+c^3))
+
+Y(11429) lies on these lines: {1, 28037}, {56, 1626}, {63, 65}, {674, 1469}, {960, 25894}, {1122, 44840}, {1401, 15934}, {1411, Z4792}, {1473, 3924}, {3485, 26132}, {8240, 37549}, {23206, Z24113}, {24914, 25967}, {28036, 36574}, {Y11396, Y11401}, {Y11398, Y11422}
+
+Y(11429) lies on these circumconics: {A,B,C,X(4492),Z(22756)}, {A,B,C,Z(1940),Z(3436)}
+
+Y(11429) = X(i)-isoconjugate-of-X(j) for these {i, j}: {9, Y122}, {281, Y6565}
+
+Y(11429) = X(i)-Dao conjugate of X(j) for these {i, j}: {478, Y122}
+
+Y(11429) = barycentric quotient X(i)/X(j) for these (i, j): {56, Y122}, {603, Y6565}
+
+Y(11429) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {2099, Y11397, Y11392}, {Y11408, Y11414, 56}
+
+Y(11429) = triple conic conjugate of X(63) wrt anti-tangential-midarc triangle
+

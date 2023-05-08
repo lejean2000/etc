@@ -1,0 +1,20 @@
+Y(11430)
+
+X(7)X(8)∩X(478)X(1428)
+
+Barycentrics    a^2*(a+b-c)*(a-b+c)*(b^5-3*b^3*c^2-3*b^2*c^3+c^5+a^3*(b^2+b*c+c^2)+a^2*(b^3+c^3)+a*(b^4+b^3*c-2*b^2*c^2+b*c^3+c^4))
+
+Y(11430) lies on these lines: {1, 7145}, {7, 8}, {56, Z26408}, {207, Y11401}, {478, 1428}, {940, 7248}, {992, 2285}, {1042, 38252}, {1435, Z786}, {1876, 28078}, {2263, Y11392}, {3485, 26106}, {4310, 21334}, {10441, 24231}, {12721, 37613}
+
+Y(11430) lies on these circumconics: {A,B,C,X(8),X(38252)}, {A,B,C,X(69),Z(786)}, {A,B,C,X(75),Z(23144)}, {A,B,C,X(1435),X(10030)}, {A,B,C,X(10369),X(43070)}, {A,B,C,X(10370),Z(796)}
+
+Y(11430) = X(i)-isoconjugate-of-X(j) for these {i, j}: {55, Y3883}
+
+Y(11430) = X(i)-Dao conjugate of X(j) for these {i, j}: {223, Y3883}
+
+Y(11430) = barycentric quotient X(i)/X(j) for these (i, j): {57, Y3883}
+
+Y(11430) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {65, 1463, 69}
+
+Y(11430) = triple conic conjugate of X(69) wrt anti-tangential-midarc triangle
+
