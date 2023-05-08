@@ -16,7 +16,7 @@ If you choose to remove the Y- and Z- properties yourself, here is an easy proce
 
 If you use Wolfram Mathematica you can just pass the whole text entry to the following function:
 
-    reg = "[, ]*{([Y|Z]*?[\\d, \\(\\)ABCX])*[Y|Z].*?\}"
+    reg = "[, ]*{([{]*[Y|Z]*?[\\ d, \\(\\)ABCX])*[Y|Z].*?(})*}"
     StringReplace[somestring, RegularExpression[reg] -> ""]
 
 Alternatively :
@@ -25,7 +25,7 @@ Alternatively :
 2. In the left panel above choose Python, and in the left panel below choose Substitution.
 3. Paste the following regex in the "Regular expression" field on top:
 
-       \[, ]*{([Y|Z]*?[\d, \(\)ABCX])*[Y|Z].*?\}
+       [, ]*\{+([Y|Z]*?[\d, \(\)ABCX])*[Y|Z].*?\}+
 
 4. Paste the ETC entry in the textbox. Make sure you have a new line at the end.
 5. In the textbox below will be your entry, stripped of Y and Z properties.
