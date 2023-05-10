@@ -1,0 +1,20 @@
+Y(11472)
+
+X(257)X(312)∩X(2234)X(3647)
+
+Barycentrics    a*(-(b*c)+a*(b+c))*(b^4+a^2*b*c-b^2*c^2+c^4+a*(b^3+c^3))
+
+Y(11472) lies on these lines: {257, 312}, {2234, 3647}, {27646, 40592}, {Y11457, Y11460}
+
+Y(11472) = intersection, other than A, B, C, of circumconics {{A, B, C, X(257), Z(21402)}}
+
+Y(11472) = X(i)-isoconjugate-of-X(j) for these {i, j}: {2162, Y7193}
+
+Y(11472) = X(i)-Ceva conjugate of X(j) for these {i, j}: {52935, 4083}
+
+Y(11472) = X(i)-complementary conjugate of X(j) for these {i, j}: {267, 20255}, {2209, 40592}, {3444, 3840}, {Z12120, 75}, {Z12330, 4083}, {Z20728, 21191}, {Z27830, 20258}, {Z30787, 20545}
+
+Y(11472) = barycentric quotient X(i)/X(j) for these (i, j): {43, Y7193}
+
+Y(11472) = {X(1),X(2)}-bicevian centroidal collineation of X(58)
+

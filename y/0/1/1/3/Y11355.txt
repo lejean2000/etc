@@ -6,7 +6,7 @@ Barycentrics    (a+b-c)*(a-b+c)*(a^6-b*(b-c)^4*c-4*a^5*(b+c)-a*b*(b-c)^2*c*(b+c)
 
 Y(11355) lies on these lines: {2, 7}, {934, 2369}, {3174, 21272}, {30628, Z30027}, {Y11351, Y11353}
 
-Y(11355) lies on these circumconics: {A,B,C,X(9),X(2369)}, {A,B,C,X(8012),Z(15966)}
+Y(11355) = intersection, other than A, B, C, of circumconics {A,B,C,X(9),X(2369)}, {A,B,C,X(8012),Z(15966)}
 
 Y(11355) = triple conic conjugate of X(9) wrt X(7)-circumcevian triangle
 

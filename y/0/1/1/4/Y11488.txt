@@ -1,0 +1,12 @@
+Y(11488)
+
+X(214)X(995)∩X(5718)X(6376)
+
+Barycentrics    a*(2*a*b-b^2-a*c+b*c-c^2)*(b^2+a*(b-2*c)-b*c+c^2)*(-(b*c)+a*(b+c))
+
+Y(11488) lies on these lines: {214, 995}, {5718, 6376}, {40594, Y11461}, {40612, Y11472}
+
+Y(11488) = X(i)-complementary conjugate of X(j) for these {i, j}: {2209, 40594}, {41526, 36909}, {Y5074, 20255}, {Z12125, 75}, {Z12336, 4083}, {Z19597, 3840}, {Z27825, 20258}
+
+Y(11488) = {X(1),X(2)}-bicevian centroidal collineation of X(106)
+

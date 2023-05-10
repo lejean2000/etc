@@ -1,0 +1,24 @@
+Y(11466)
+
+X(10)X(75)∩X(513)X(6687)
+
+Barycentrics    (-(b*c)+a*(b+c))*(-(b*c*(b+c))+a*(3*b^2-4*b*c+3*c^2))
+
+Y(11466) lies on these lines: {2, 27440}, {10, 75}, {513, 6687}, {5123, 25351}, {16590, Y11464}, {23633, 27106}, {35123, 40610}
+
+Y(11466) = intersection, other than A, B, C, of circumconics {{A, B, C, X(513), X(20943)}}
+
+Y(11466) = perspector of circumconic {{A, B, C, X(1978), X(38247)}}
+
+Y(11466) = center of circumconic {{A, B, C, Z(1439), Z(53352)}}
+
+Y(11466) = X(i)-isoconjugate-of-X(j) for these {i, j}: {2162, Y7254}
+
+Y(11466) = X(i)-Ceva conjugate of X(j) for these {i, j}: {Z1439, 4083}, {Z53352, 23886}
+
+Y(11466) = barycentric quotient X(i)/X(j) for these (i, j): {43, Y7254}
+
+Y(11466) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {41886, Y11452, 34832}
+
+Y(11466) = {X(1),X(2)}-bicevian centroidal collineation of X(44)
+

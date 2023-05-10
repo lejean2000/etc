@@ -6,7 +6,7 @@ Barycentrics    a^2*(-(b^3*c^3)-a*b^2*c^2*(b+c)+a^2*b*c*(2*b^2+3*b*c+2*c^2)+2*a^
 
 Y(11368) lies on these lines: {2, 6}, {101, 729}, {717, 28841}, {8649, Z20121}, {41412, 44120}, {Y11315, Y11338}, {Y11363, Z10523}
 
-Y(11368) lies on these circumconics: {A,B,C,X(86),X(729)}, {A,B,C,X(101),X(23342)}, {A,B,C,X(717),X(51356)}, {A,B,C,X(1918),X(3231)}
+Y(11368) = intersection, other than A, B, C, of circumconics {A,B,C,X(86),X(729)}, {A,B,C,X(101),X(23342)}, {A,B,C,X(717),X(51356)}, {A,B,C,X(1918),X(3231)}
 
 Y(11368) = isogonal conjugate of Y((2890)
 

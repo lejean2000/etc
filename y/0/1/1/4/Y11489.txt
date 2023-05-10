@@ -1,0 +1,14 @@
+Y(11489)
+
+X(6376)Z(42452)∩X(39063)Y(11458)
+
+Barycentrics    a*(-b^3+a*b*(b-2*c)+a^2*c+2*b*c^2-c^3)*(a^2*b-b^3+2*b^2*c-c^3+a*c*(-2*b+c))*(-(b*c)+a*(b+c))
+
+Y(11489) lies on these lines: {6376, Z42452}, {39063, Y11458}, {Y11470, Y11488}, {Y11472, Y11473}
+
+Y(11489) = X(i)-Ceva conjugate of X(j) for these {i, j}: {Z5306, 4083}
+
+Y(11489) = X(i)-complementary conjugate of X(j) for these {i, j}: {29374, 20255}, {Z24959, 3840}
+
+Y(11489) = {X(1),X(2)}-bicevian centroidal collineation of X(109)
+

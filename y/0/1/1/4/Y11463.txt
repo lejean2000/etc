@@ -1,0 +1,22 @@
+Y(11463)
+
+X(12)X(85)∩X(3)X(238)
+
+Barycentrics    a*(-(b*c)+a*(b+c))*(a^2*b*c+(b-c)^2*(b^2+c^2)-a*(b^3+c^3))
+
+Y(11463) lies on these lines: {3, 238}, {12, 85}, {15487, Y11456}, {20275, 34847}, {26068, Y11451}, {40606, Y11458}, {Y11452, Y11455}
+
+Y(11463) = intersection, other than A, B, C, of circumconics {{A, B, C, X(334), Y(5353)}}, {{A, B, C, X(7233), Z(21401)}}
+
+Y(11463) = perspector of circumconic {{A, B, C, Z(12475), Z(38194)}}
+
+Y(11463) = X(i)-isoconjugate-of-X(j) for these {i, j}: {2162, Y7252}
+
+Y(11463) = X(i)-Ceva conjugate of X(j) for these {i, j}: {1292, 4083}
+
+Y(11463) = X(i)-complementary conjugate of X(j) for these {i, j}: {2209, 5452}, {3433, 3840}, {40141, 20258}, {44178, 20255}, {Z12115, 75}, {Z12324, 4083}, {Z16579, 31286}, {Z22245, 20545}, {Z58316, 21191}
+
+Y(11463) = barycentric quotient X(i)/X(j) for these (i, j): {43, Y7252}
+
+Y(11463) = {X(1),X(2)}-bicevian centroidal collineation of X(41)
+

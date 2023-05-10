@@ -1,0 +1,24 @@
+Y(11477)
+
+X(2)X(87)∩X(4687)X(6376)
+
+Barycentrics    (-(b*c)+a*(b+c))*(-(b^3*c^3)+a^3*(b-c)^2*(b+c))
+
+Y(11477) lies on these lines: {2, 87}, {10, Z83049}, {37, Z83048}, {75, 40610}, {1213, 21250}, {4687, 6376}, {14823, 17030}, {17277, Z21101}, {17353, 24502}, {21835, Z40455}, {26756, 27105}
+
+Y(11477) = perspector of circumconic {{A, B, C, X(32039), Z(80661)}}
+
+Y(11477) = X(i)-isoconjugate-of-X(j) for these {i, j}: {2162, Y7208}, {7121, Y9869}
+
+Y(11477) = X(i)-Dao conjugate of X(j) for these {i, j}: {40598, Y9869}
+
+Y(11477) = X(i)-Ceva conjugate of X(j) for these {i, j}: {Z53089, 4083}
+
+Y(11477) = X(i)-complementary conjugate of X(j) for these {i, j}: {2209, 6374}, {3223, 20255}, {3224, 3840}, {34248, 75}, {51951, 16604}, {Z9128, 20258}, {Z12329, 4083}, {Z14283, 31286}, {Z33283, 21191}
+
+Y(11477) = barycentric quotient X(i)/X(j) for these (i, j): {43, Y7208}, {192, Y9869}
+
+Y(11477) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {Y11450, Y11451, Y11474}
+
+Y(11477) = {X(1),X(2)}-bicevian centroidal collineation of X(75)
+

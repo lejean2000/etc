@@ -1,0 +1,22 @@
+Y(11465)
+
+X(2)X(330)∩X(43)X(4595)
+
+Barycentrics    (-(b*c)+a*(b+c))*(2*a^2*(b-c)^2-b^2*c^2+a*b*c*(b+c))
+
+Y(11465) lies on these lines: {2, 330}, {43, 4595}, {1015, 40027}, {3501, 32011}, {5241, 21250}, {6377, 8026}, {6686, 17353}, {9315, 30610}, {14823, 16569}, {25287, 27105}, {33681, Z9373}
+
+Y(11465) = intersection, other than A, B, C, of circumconics {{A, B, C, X(9315), X(40881)}}
+
+Y(11465) = X(i)-isoconjugate-of-X(j) for these {i, j}: {2162, Y7253}
+
+Y(11465) = X(i)-Ceva conjugate of X(j) for these {i, j}: {Z60938, 4083}
+
+Y(11465) = X(i)-complementary conjugate of X(j) for these {i, j}: {2209, 40598}, {29227, 21191}, {36598, 20255}, {36614, 3840}, {36630, 20545}, {Z1743, 20257}, {Z9136, 20258}, {Z12131, 75}
+
+Y(11465) = barycentric quotient X(i)/X(j) for these (i, j): {43, Y7253}
+
+Y(11465) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {2, Y11464, 6376}
+
+Y(11465) = {X(1),X(2)}-bicevian centroidal collineation of X(43)
+

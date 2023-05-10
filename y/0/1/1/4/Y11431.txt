@@ -6,7 +6,7 @@ Barycentrics    a*(a+b-c)*(a-b+c)*(b+c)*(a^5-4*a^3*b*c-2*a^4*(b+c)-2*b*(b-c)^2*c
 
 Y(11431) lies on these lines: {37, 65}, {209, 28387}, {1042, 6046}, {1429, 22390}, {2263, Y11408}, {5698, 12560}, {6210, 11529}, {18673, 40965}, {37755, 40961}, {45229, Y11420}, {Y11393, Y11424}, {Y11394, Y11397}, {Y11429, Y11430}
 
-Y(11431) lies on these circumconics: {A,B,C,X(1042),X(2198)}, {A,B,C,X(39258),Z(21)}
+Y(11431) intersection, other than A, B, C, of circumconics {{A, B, C, X(1042), X(2198)}}, {{A, B, C, X(39258), Z(21)}}
 
 Y(11431) = barycentric product X(i)*X(j) for these (i, j): {226, Y11273}
 

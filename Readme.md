@@ -30,3 +30,5 @@ Alternatively :
 4. Paste the ETC entry in the textbox. Make sure you have a new line at the end.
 5. In the textbox below will be your entry, stripped of Y and Z properties.
 
+
+The relevant databases and Mathematica files with barycentric coordinates are available for download [here] (https://1drv.ms/f/s!AsiGbkiH3kBAgc5SY738UEOmIfWugg?e=jB7iUA).

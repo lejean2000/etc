@@ -1,0 +1,22 @@
+Y(11481)
+
+X(2)X(256)∩X(37)X(6386)
+
+Barycentrics    (-(b*c)+a*(b+c))*(-(a^2*b^2*c^2)-b^3*c^3+a^3*(b-c)^2*(b+c)-a*b^2*c^2*(b+c))
+
+Y(11481) lies on these lines: {2, 256}, {37, 6386}, {1978, 22201}, {3229, Z82224}, {4687, 6376}, {5257, 20528}, {6375, 24732}, {6378, 19567}, {21835, Z55364}, {24505, 27289}, {25850, 44187}, {27069, 52043}, {29571, 34832}, {Y11457, Z59092}, {Y11460, Y11478}
+
+Y(11481) = intersection, other than A, B, C, of circumconics {{A, B, C, X(42328), Z(21259)}}
+
+Y(11481) = X(i)-isoconjugate-of-X(j) for these {i, j}: {2162, Y7218}, {7121, Y9892}
+
+Y(11481) = X(i)-Dao conjugate of X(j) for these {i, j}: {40598, Y9892}
+
+Y(11481) = X(i)-Ceva conjugate of X(j) for these {i, j}: {Z80624, 4083}
+
+Y(11481) = X(i)-complementary conjugate of X(j) for these {i, j}: {2209, 34021}, {40737, 20255}, {40770, 3840}, {Z17850, 30038}, {Z22234, 21024}, {Z34421, 75}
+
+Y(11481) = barycentric quotient X(i)/X(j) for these (i, j): {43, Y7218}, {192, Y9892}
+
+Y(11481) = {X(1),X(2)}-bicevian centroidal collineation of X(86)
+

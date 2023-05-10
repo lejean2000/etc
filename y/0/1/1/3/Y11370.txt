@@ -6,7 +6,7 @@ Barycentrics    a^2*(4*a^3*(b+c)+b*c*(-2*b^2+5*b*c-2*c^2)-2*a^2*(5*b^2+2*b*c+5*c
 
 Y(11370) lies on these lines: {6, 88}, {739, 28911}, {869, 902}, {8693, 28317}, {9463, Y11330}
 
-Y(11370) lies on these circumconics: {A,B,C,X(89),Z(1457)}, {A,B,C,Z(836),Z(1748)}
+Y(11370) = intersection, other than A, B, C, of circumconics {A,B,C,X(89),Z(1457)}, {A,B,C,Z(836),Z(1748)}
 
 Y(11370) = isogonal conjugate of Y(2893)
 

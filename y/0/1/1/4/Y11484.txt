@@ -1,0 +1,22 @@
+Y(11484)
+
+X(4358)X(6376)∩X(2)X(27440)
+
+Barycentrics    (3*a*b-a*c-b*c+2*c^2)*(a*(b-3*c)+b*(-2*b+c))*(-(b*c)+a*(b+c))
+
+Y(11484) lies on these lines: {2, 27440}, {4358, 6376}, {4393, Z31954}, {36791, Z83048}, {41886, Y11483}, {Z78513, Z82822}
+
+Y(11484) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2), X(6376)}}, {{A, B, C, X(43), X(17230)}}, {{A, B, C, X(88), Z(9145)}}, {{A, B, C, X(89), X(4083)}}, {{A, B, C, X(192), X(3835)}}, {{A, B, C, X(3971), X(30588)}}, {{A, B, C, X(4080), X(20691)}}, {{A, B, C, X(6382), Z(1840)}}, {{A, B, C, X(27538), Z(22366)}}, {{A, B, C, X(39698), Z(27518)}}, {{A, B, C, X(40434), X(40780)}}
+
+Y(11484) = X(i)-isoconjugate-of-X(j) for these {i, j}: {2162, Y7221}, {34071, 48344}, {47779, Z12095}
+
+Y(11484) = X(i)-Dao conjugate of X(j) for these {i, j}: {6377, 47779}, {40610, 48344}
+
+Y(11484) = X(i)-complementary conjugate of X(j) for these {i, j}: {Y1729, 20255}, {Z9496, 3840}
+
+Y(11484) = barycentric product X(i)*X(j) for these (i, j): {192, Y5852}, {3835, Z77962}, {4083, Z78513}, {20906, Z31954}, {Z31430, Z65483}
+
+Y(11484) = barycentric quotient X(i)/X(j) for these (i, j): {43, Y7221}, {3835, 47779}, {4083, 48344}, {Y5852, 330}, {Z31430, 34071}, {Z31954, 932}, {Z77962, 4598}, {Z78513, 18830}
+
+Y(11484) = {X(1),X(2)}-bicevian centroidal collineation of X(89)
+

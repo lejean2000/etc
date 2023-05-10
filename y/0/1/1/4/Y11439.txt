@@ -6,7 +6,7 @@ Barycentrics    a^2*(a+b-c)*(a-b+c)*(-3*a^3*b*c*(b+c)+3*a*b*(b-c)^2*c*(b+c)+(b-c
 
 Y(11439) lies on these lines: {56, 106}, {65, 79}, {1406, 41282}, {1469, 24836}, {1875, 17101}, {2099, 7986}, {52129, Z34783}, {Y11398, Y11402}
 
-Y(11439) lies on these circumconics: {A,B,C,X(79),X(16944)}, {A,B,C,X(106),X(2166)}, {A,B,C,X(265),X(17101)}, {A,B,C,X(41282),Z(4606)}
+Y(11439) intersection, other than A, B, C, of circumconics {{A, B, C, X(79), X(16944)}}, {{A, B, C, X(106), X(2166)}}, {{A, B, C, X(265), X(17101)}}, {{A, B, C, X(41282), Z(4606)}}
 
 Y(11439) = triple conic conjugate of X(80) wrt anti-tangential-midarc triangle
 

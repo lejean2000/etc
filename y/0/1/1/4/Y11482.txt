@@ -1,0 +1,26 @@
+Y(11482)
+
+X(37)X(2998)∩X(2)Y(5452)
+
+Barycentrics    (-(b*c)+a*(b+c))*(-(a^2*b*(b-c)^2*c)-b^3*c^3+2*a^3*(b-c)^2*(b+c))
+
+Y(11482) lies on these lines: {2, Y5452}, {37, 2998}, {75, 40610}, {4664, Z83048}, {4687, 25113}, {6686, 17353}, {8026, 23643}, {14823, 45209}, {17248, 21250}, {17322, 27289}, {18194, 38986}, {21892, Y11451}
+
+Y(11482) = midpoint of X(i) in X(j) for these {i,j}: {Y5452, Z73632}, {Z63220, Z63221}
+
+Y(11482) = complement of Z(73632)
+
+Y(11482) = X(i)-isoconjugate-of-X(j) for these {i, j}: {2162, Y7219}
+
+Y(11482) = X(i)-Ceva conjugate of X(j) for these {i, j}: {Z56934, 4083}
+
+Y(11482) = X(i)-complementary conjugate of X(j) for these {i, j}: {2209, Z73632}, {43115, 2887}, {Y1638, 20255}, {Z12354, 3840}, {Z28355, 141}, {Z73631, 626}
+
+Y(11482) = X(i)-Waw conjugate of X(j) for these {i, j}: {2, 6376}
+
+Y(11482) = barycentric quotient X(i)/X(j) for these (i, j): {43, Y7219}
+
+Y(11482) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {40610, Y11477, 75}
+
+Y(11482) = {X(1),X(2)}-bicevian centroidal collineation of X(87)
+

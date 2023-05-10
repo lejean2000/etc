@@ -1,0 +1,16 @@
+Y(11478)
+
+X(344)X(6376)∩Y(11471)Z(4130)
+
+Barycentrics    (-(b*c)+a*(b+c))*(-4*a^3*(b-c)^2*(b+c)+b*(b-c)^2*c*(b^2+c^2)+a^4*(2*b^2-3*b*c+2*c^2)+2*a^2*(b^4-b^3*c-b^2*c^2-b*c^3+c^4))
+
+Y(11478) lies on these lines: {344, 6376}, {3290, 40593}, {Y11471, Z4130}, {Y11474, Y11476}
+
+Y(11478) = X(i)-isoconjugate-of-X(j) for these {i, j}: {2162, Y7210}
+
+Y(11478) = X(i)-complementary conjugate of X(j) for these {i, j}: {15374, 20258}, {Y1265, 20255}, {Z19695, 3840}
+
+Y(11478) = barycentric quotient X(i)/X(j) for these (i, j): {43, Y7210}
+
+Y(11478) = {X(1),X(2)}-bicevian centroidal collineation of X(77)
+

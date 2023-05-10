@@ -1,0 +1,16 @@
+Y(11486)
+
+X(12)X(85)∩X(2)X(27462)
+
+Barycentrics    a*(-b^2+b*c+(a-c)*c)*(a*b-b^2+b*c-c^2)*(-(b*c)+a*(b+c))
+
+Y(11486) lies on these lines: {2, 27462}, {12, 85}, {214, 995}, {Y11452, Y11467}
+
+Y(11486) = intersection, other than A, B, C, of circumconics {{A, B, C, X(7233), Z(21391)}}
+
+Y(11486) = X(i)-Ceva conjugate of X(j) for these {i, j}: {Z2527, 4083}
+
+Y(11486) = X(i)-complementary conjugate of X(j) for these {i, j}: {2209, 5375}, {3446, 3840}, {Y5071, 20255}, {Z9998, 75}, {Z12339, 4083}, {Z24956, 20258}
+
+Y(11486) = {X(1),X(2)}-bicevian centroidal collineation of X(101)
+

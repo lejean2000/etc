@@ -6,7 +6,7 @@ Barycentrics    a^3*(a^7*(b+c)+3*a^4*b*c*(b^2+c^2)-b*c*(b^2-c^2)^2*(b^2+c^2)-2*a
 
 Y(11381) lies on these lines: {21, 572}, {48, 55}, {604, 28348}, {39167, Z12116}
 
-Y(11381) lies on these circumconics: {A,B,C,X(1436),Z(13255)}, {A,B,C,X(2357),X(43739)}
+Y(11381) = intersection, other than A, B, C, of circumconics {A,B,C,X(1436),Z(13255)}, {A,B,C,X(2357),X(43739)}
 
 Y(11381) = X(i)-Ceva conjugate of X(j) for these {i, j}: {1043, 31}
 

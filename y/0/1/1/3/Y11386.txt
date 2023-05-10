@@ -6,7 +6,7 @@ Barycentrics    a^2*(a^2-b^2-c^2)*(-3*a^5*b*c+a^6*(b+c)+a*b*c*(b^2-c^2)^2+2*a^3*
 
 Y(11386) lies on these lines: {1, 23529}, {2, Z35445}, {21, 991}, {219, 1804}, {326, 345}, {394, 1073}, {1498, Y11385}, {2062, 2289}, {2063, 6514}, {6332, 25252}, {11413, 52158}, {17811, 37504}, {25019, Z74245}, {Z657, Z68478}
 
-Y(11386) lies on these circumconics: {A,B,C,X(1073),Y(5425)}, {A,B,C,X(14642),X(41087)}, {A,B,C,Z(659),Z(35275)}
+Y(11386) = intersection, other than A, B, C, of circumconics {A,B,C,X(1073),Y(5425)}, {A,B,C,X(14642),X(41087)}, {A,B,C,Z(659),Z(35275)}
 
 Y(11386) = X(i)-Dao conjugate of X(j) for these {i, j}: {1439, 3668}
 

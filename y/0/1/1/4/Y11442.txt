@@ -6,7 +6,7 @@ Barycentrics    a*(a+b-c)*(a-b+c)*(a^7-4*a^6*(b+c)+6*a^4*(b-c)^2*(b+c)+8*a^2*b*(
 
 Y(11442) lies on these lines: {1, 19904}, {25, 34}, {65, 84}, {517, 1720}, {1118, 7354}, {1359, 36127}, {1361, 2098}, {1854, 2099}, {2829, 14257}, {21147, Z30244}, {Y11393, Y11397}, {Y11396, Y11401}, {Y11422, Y11439}
 
-Y(11442) lies on these circumconics: {A,B,C,X(56),Z(10113)}, {A,B,C,X(208),X(3577)}
+Y(11442) intersection, other than A, B, C, of circumconics {{A, B, C, X(56), Z(10113)}}, {{A, B, C, X(208), X(3577)}}
 
 Y(11442) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {208, 1455, 56}, {Y11401, Y11429, Y11416}
 

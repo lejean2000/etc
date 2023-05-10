@@ -1,0 +1,20 @@
+Y(11454)
+
+Y(11452)Y(11453)∩X(6376)X(18749)
+
+Barycentrics    (a*(b+c)-b*c)*(a^4*b*c-2*a^3*(b-c)^2*(b+c)-b*c*(b^2-c^2)^2+2*a*(b^5-b^4*c-b*c^4+c^5))
+
+Y(11454) lies on these lines: {5518, 25640}, {6260, 41886}, {6376, 18749}, {Y11452, Y11453}
+
+Y(11454) = X(i)-isoconjugate-of-X(j) for these {i, j}: {2162, Y7232}, {7121, Y9915}
+
+Y(11454) = X(i)-Dao conjugate of X(j) for these {i, j}: {40598, Y9915}
+
+Y(11454) = X(i)-Ceva conjugate of X(j) for these {i, j}: {Y8099, 4083}
+
+Y(11454) = X(i)-complementary conjugate of X(j) for these {i, j}: {43, 2883}, {64, 3840}, {2155, 75}, {2176, 36908}, {2184, 20255}, {2209, 1249}, {19614, 20254}, {30457, 20258}, {33581, 16604}, {44692, 20545}, {Z12312, 4083}, {Z13653, 20308}, {Z17360, 20257}, {Z21914, 3061}, {Z34763, 17063}
+
+Y(11454) = barycentric quotient X(i)/X(j) for these (i, j): {43, Y7232}, {192, Y9915}
+
+Y(11454) = {X(1),X(2)}-bicevian centroidal collineation of X(19)
+

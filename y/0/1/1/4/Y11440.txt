@@ -6,7 +6,7 @@ Barycentrics    a*(a+b-c)*(a-b+c)*(a^4-(b^2-c^2)^2+a^2*(b^2+3*b*c+c^2)+a*(b^3+2*
 
 Y(11440) lies on these lines: {1, 37425}, {34, 44092}, {56, 1626}, {57, 5429}, {65, 81}, {960, 25897}, {1319, 29817}, {1411, Z1529}, {1469, 2393}, {2099, 51653}, {2263, Y11392}, {3485, 26109}, {30285, 33097}, {41350, Y11418}
 
-Y(11440) lies on these circumconics: {A,B,C,X(1798),Z(1940)}, {A,B,C,X(2363),Z(22756)}
+Y(11440) intersection, other than A, B, C, of circumconics {{A, B, C, X(1798), Z(1940)}}, {{A, B, C, X(2363), Z(22756)}}
 
 Y(11440) = X(i)-isoconjugate-of-X(j) for these {i, j}: {9, Y146}, {281, Y6663}
 

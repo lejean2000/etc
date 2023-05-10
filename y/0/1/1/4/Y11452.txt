@@ -1,0 +1,26 @@
+Y(11452)
+
+X(2)X(9309)∩X(10)X(75)
+
+Barycentrics    (-(b*c)+a*(b+c))*(-(b*c*(b+c))+a*(2*b^2-3*b*c+2*c^2))
+
+Y(11452) lies on these lines: {2, 9309}, {10, 75}, {3123, 4110}, {16604, 26135}, {17341, 24517}, {21826, 40610}, {24456, 25140}, {26059, Y11451}, {38986, Y11186}
+
+Y(11452) = intersection, other than A, B, C, of circumconics {{A, B, C, X(75), X(20286)}}, {{A, B, C, X(76), X(27498)}}, {{A, B, C, X(6376), X(9309)}}
+
+Y(11452) = X(i)-isoconjugate-of-X(j) for these {i, j}: {6, Z11561}, {32, Z52578}, {2162, Y7226}, {7121, Y9870}
+
+Y(11452) = X(i)-Dao conjugate of X(j) for these {i, j}: {9, Z11561}, {6376, Z52578}, {40598, Y9870}
+
+Y(11452) = X(i)-Ceva conjugate of X(j) for these {i, j}: {Z37917, 4083}
+
+Y(11452) = X(i)-complementary conjugate of X(j) for these {i, j}: {43, 2885}, {1293, 4083}, {1403, 12640}, {2209, 3161}, {3445, 3840}, {3680, 20545}, {4083, 5510}, {5382, 40562}, {8056, 20255}, {8640, 40621}, {16945, 17063}, {20979, 40617}, {27834, 21191}, {34080, 31286}, {38266, 75}, {40151, 20257}, {Z1701, 20256}, {Z2101, 20258}, {Z17470, 2}, {Z26042, 3061}, {Z59239, 141}
+
+Y(11452) = barycentric product X(i)*X(j) for these (i, j): {20286, 75}
+
+Y(11452) = barycentric quotient X(i)/X(j) for these (i, j): {1, Z11561}, {43, Y7226}, {75, Z52578}, {192, Y9870}, {20286, 1}
+
+Y(11452) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {34832, 41886, 6376}
+
+Y(11452) = {X(1),X(2)}-bicevian centroidal collineation of X(9)
+

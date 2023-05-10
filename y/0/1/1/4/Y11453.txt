@@ -1,0 +1,22 @@
+Y(11453)
+
+X(2)X(330)∩X(1698)X(14823)
+
+Barycentrics    (-(b*c)+a*(b+c))*(a^3*(b-c)^2+a^2*(b-c)^2*(b+c)-b^2*c^2*(b+c))
+
+Y(11453) lies on these lines: {2, 330}, {10, 38986}, {1698, 14823}, {23652, 25122}, {34832, 51073}, {Z12789, Z15531}
+
+Y(11453) = intersection, other than A, B, C, of circumconics {{A, B, C, X(40881), Z(15531)}}
+
+Y(11453) = X(i)-isoconjugate-of-X(j) for these {i, j}: {2162, Y7227}, {7121, Y9923}
+
+Y(11453) = X(i)-Dao conjugate of X(j) for these {i, j}: {40598, Y9923}
+
+Y(11453) = X(i)-complementary conjugate of X(j) for these {i, j}: {2209, 40603}, {39748, 20255}, {39964, 3840}, {Z9980, 75}, {Z26632, 16604}
+
+Y(11453) = barycentric quotient X(i)/X(j) for these (i, j): {43, Y7227}, {192, Y9923}
+
+Y(11453) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {2, Y11451, 6376}
+
+Y(11453) = {X(1),X(2)}-bicevian centroidal collineation of X(10)
+
