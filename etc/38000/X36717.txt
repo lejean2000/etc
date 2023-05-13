@@ -1,0 +1,7 @@
+<h3 id="X36717">X(36717) = HOMOTHETOR OF THESE TRIANGLES: T(-S/(2*(a^2 + b^2 + c^2)); ) AND REFLECTION OF ABC IN X(3)</h3>
+Barycentrics &nbsp;&nbsp; 4*a^2*(a^2 - b^2 - c^2)*(a^2 + b^2 + c^2) + (a^2 + b^2 - c^2)*(a^2 - b^2 + c^2)*S : :
+<p>
+X(36717) lies on these lines: {2, 3}, {141, 14227}, {1350, 7582}, {1588, 31884}, {5085, 7581}, {5286, 6410}, {10517, 12257}, {10519, 10784}, {14228, 18840}
+</p>
+
+

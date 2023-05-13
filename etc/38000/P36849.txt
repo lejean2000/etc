@@ -1,0 +1,105 @@
+
+<!-- preamble start -->
+<header class="triheader">
+<img src="leftri.svg" style="height:30px" alt="leftri">
+<p class="preamble-title">
+Perspectors associated with Gemini triangles: X(36849)-X(36469)
+</p>
+<img src="rightri.svg" style="height:30px" alt="rightri">
+</header>
+<div class="preamble-sect">
+<p>
+Contributed by Clark Kimberling and Peter Moses, February 29, 2020.
+</p>
+<p>
+Many triangles, including Gemini triangles 1-111, are itemized in <a href="IndexOfTrianglesReferencedInETC.html">Index of Triangles Referenced in ETC</a>.  Gemini triangles 112-119 are introduced here by A-vertex, A', as follows:
+</p>
+<p>
+Gemini triangle 112: A' = a^2 : b^2 - c^2 : c^2 - b^2 <br>
+Gemini triangle 113: A' = a^2 : c^2 - b^2 : b^2 - c^2 (see note below)<br>
+Gemini triangle 114: A' = b c : a(b - c) : a(c - b) <br>
+Gemini triangle 115: A' = b c : a(c - b) : a(b - c) <br>
+Gemini triangle 116: A' = a^2 : 2(b^2 - c^2) : 2(c^2 - b^2) <br>
+Gemini triangle 117: A' = a^2 : 2(c^2 - b^2) : 2(b^2 - c^2) <br>
+Gemini triangle 118: A' = 2 a : b - c : c - b <br>
+Gemini triangle 119: A' = 2 a : c - b : b - c <br>
+</p>
+<p>
+Note: Gemini triangle 113 is the orthic triangle of the anticomplementary triangle.
+</p>
+<p>
+The appearance of (T, i) in the following list means that Gemini triangle 112 is perspective to T, and the perspector is X(i):
+(anticomplementary, 193)<br>
+(orthic, 193)<br>
+(circum-orthic, 5889)<br>
+(half-altitude, 2)<br>
+(MacBeath, 1993)<br>
+(reflection of ABC in X(5), 15801)<br>
+(Steiner, 4558)<br>
+(2nd Ehrmann, 895)<br>
+(1st Conway, 9965)<br>
+(intouch-of-orthic, 12272)<br>
+(infinite altitude, 3146)<br>
+(anti-3rd-Euler, 5889)<br>
+(Yff contact, 1331)<br>
+(Gemini 41, 69)<br>
+(Gemini 43, 6)<br>
+</p>
+<p>
+The appearance of (T, i) in the following list means that Gemini triangle 113 is perspective to T, and the perspector is X(i):
+</p>
+<p>
+(anticomplementary, 20)<br>
+(orthic, 2)<br>
+(tangential, 22)<br>
+(intangents, 3100)<br>
+(X(3)-reflection of ABC, 20)<br>
+(extangents, 3101)<br>
+(circum-orthic, 3)<br>
+(MacBeath, 3)<br>
+(Kosnita, 7488)<br>
+(Trinh, 2071)<br>
+(anti-1st-Brocard, 98)<br>
+(Steiner, 110)<br>
+(2nd Euer, 4)<br>
+(1st Parry, 11419)<br>
+(2nd Ehrmann, 11416)<br>
+(2nd Conway, 11415)<br>
+(anti-1st-Euler, 11411)<br>
+(1st Kenmotu diagonal triangle, 11417)<br>
+(2nd Kenmotu diagonal triangle, 11418)<br>
+(infinite altitude, 20)<br>
+(inner tri-equilateral, 11420)<br>
+(outer tri-equilateral 11421)<br>
+(anti-Ascella, 3)<br>
+(anti-Coway 51012)<br>
+(medial-of-orthic, 3060)<br>
+(anti-3rd-Euler, 2979)<br>
+(anti-4th Euler, 11412)<br>
+(5th-mixtilinear-of-orthic, 3146)<br>
+(anti-Hutson intouch, 11413)<br>
+(anti-incircle-circles triangle, 11414 )<br>
+(tangential-of-anticomplementary, 1370)<br>
+(orthic-of-medial, 2)<br>
+(Yff contact, 101)<br>
+(1st excosine triangle, 394)<br>
+(Ehrmann side-triangle, 30)<br>
+(Ehrmann vertex-triangle, 3153)<br>
+(anti-Atik, 6515)<br>
+(1st anti-Sharygin, 97)<br>
+(anti-Honsberger, 19121)<br>
+(anti-Wasat, 511)<br>
+(Gemini 44, 22)<br>
+(1st half-squares triangle, 638)<br>
+(2nd half-squares triangle, 637)<br>
+</p>
+<p>
+The appearance of (T, i) in the following list means that Gemini triangle 114 is perspective to T, and the perspector is X(i):
+(anticomplementary, 21219)<br>
+(incentral, 17149)<br>
+(Steiner, 799)<br>
+(Yff contact, 668)<br>
+(Gemini 104, 17149)<br>
+<hr class="end-preamble">
+</div>
+<!-- preamble end -->

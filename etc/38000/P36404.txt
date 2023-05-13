@@ -1,0 +1,32 @@
+
+
+<!-- preamble start -->
+<header class="triheader">
+<img src="leftri.svg" style="height:30px" alt="leftri">
+<p class="preamble-title">
+Centers of TC conics: X(36404)-X(36411)
+</p>
+<img src="rightri.svg" style="height:30px" alt="rightri">
+</header>
+<div class="preamble-sect">
+<p>
+This preamble and centers X(36404)-X(36411) were contributed by Clark Kimberling and Peter Moses, January 16, 2020.
+<p>
+Trilinear permutation conics TC(P) are defined in the preamble just before X(36256).  Briefly, if P = p : q : r (trilinears), then TC(P), is the conic that passes through the six points
+</p>
+<p>
+p : q : r, &nbsp;&nbsp; q : r : p, &nbsp;&nbsp; r : p : q, &nbsp;&nbsp; p : r : q, &nbsp;&nbsp; q : p : r,&nbsp;&nbsp;  r : q : p.
+</p>
+<p>
+An equation for TC(P) is (q r + r p + p q)(x^2 + y^2 + z^2) - (p^2 + q^2 + r^2)(y z + z x + x y) = 0.
+</p>
+<p>
+For the equivalent formulation using barycentrics, see the aforementioned preamble.  If P = p : q : r (barycentrics), then the center of TC(P) is given by
+</p>
+<p>
+a(2a(q r + r p + p q) + (-a + b + c)(p^2 + q^2 + r^2)) : :
+</p>
+<p>
+<hr class="end-preamble">
+</div>
+<!-- preamble end -->

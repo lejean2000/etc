@@ -1,0 +1,22 @@
+<h3 id="X36948">X(36948)&nbsp;=&nbsp;ISOGONAL CONJUGATE OF X(9777)</h3>
+Barycentrics &nbsp;&nbsp; (3 a^4-6 a^2 b^2+3 b^4-4 a^2 c^2-4 b^2 c^2+c^4) (3 a^4-4 a^2 b^2+b^4-6 a^2 c^2-4 b^2 c^2+3 c^4) : : <br>
+Barycentrics &nbsp;&nbsp; (2 S^2+SA SC) (3 S^2-(SA+SB) SC) : :
+<p>
+See Tran Quang Hung and Ercole Suppa, <a href="https://groups.io/g/euclid/message/693"><b>Euclid 693 </b></a>.
+</p>
+<p>
+X(36948) lies on these lines: {2,6748}, {3,8797}, {69,140}, {95,3525}, {253,10303}, {264,631}, {287,3619}, {305,1232}, {306,21012}, {317,3533}, {1007,1799}, {1441,6921}, {1494,15702}, {5054,36889}, {6337,20563}, {6340,9723}, {6527,15721}, {9229,33001}, {11090,32806}, {11091,32805}, {31360,32978}
+</p>
+<p>
+X(36948) = isogonal conjugate of X(9777)<br>
+X(36948) = isotomic conjugate of X(3090)<br>
+X(36948) = X(3526)-cross conjugate of X(2)<br>
+X(36948) = X(i)-isoconjugate of X(j) for these (i,j): (19,36751), (31,3090), (3090,31)<br>
+X(36948) = X(i)-reciprocal conjugate of X(j) for these {i,j}: {2,3090}, {3,36751}, {6,9777}  <br>
+X(36948) = cevapoint of X(i) and X(j) for these {i,j}: {2,3523}, {3,10601}  <br>
+X(36948) = barycentric quotient X(i)/X(j) for these {i,j}: {2,3090}, {3,36751}, {6,9777}  <br>
+X(36948) = trilinear quotient X(i)/X(j) for these (i,j): (1,9777), (63,36751), (75,3090)<br>
+</p>
+
+
+

@@ -1,0 +1,26 @@
+<!-- preamble start -->
+<header class="triheader">
+<img src="leftri.svg" style="height:30px" alt="leftri">
+<p class="preamble-title">
+Points on the dual of the circumcircle: X(36789)-X(36793)
+</p>
+<img src="rightri.svg" style="height:30px" alt="rightri">
+</header>
+<div class="preamble-sect">
+Contributed by Clark Kimberling and Peter Moses, January 9, 2020.
+<p>
+Suppose that P = p : q : r (barycentrics) is a point on the line at infinity, and U = u : v : w is a point.  Then the point D(P,U) = p<sup>2</sup>u : q<sup>2</sup>v : r<sup>2</sup>w is on the inconic with perspector U.  In particular, if U = X(76), then D(P,U) lies on the inellipse having perspector X(76) and center X(141).  This inellipse is the dual of the circumcircle.
+</p>
+<p>
+Also, D(P,X(76)) is the barycentric quotient P*/P, where P*, the isogonal conjugate of P, lies on the circumcircle.
+</p>
+<p>
+The appearance of (i,j) in the following list means that D(X(i),X(76)) = X(j): (30,36789), (511,36790), (512, 3124), (513,1086), (514,23989), (517,26611), (518,4437), (519,36791), (521,23983), (522,23978), (523,338), (524,36792), (525,36793), (3900,23970)
+</p>
+<p>
+The dual of the circumcircle is the barycentric square of line X(514)X(661) (the trilinear polar of X(75)).  (Randy Hutson, March 29, 2020)
+</p>
+<p>
+<hr class="end-preamble">
+</div>
+<!-- preamble end -->

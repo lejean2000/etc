@@ -1,0 +1,11 @@
+<h3 id="X37868">X(37868)&nbsp;=&nbsp; PERSPECTOR OF THESE TRIANGLES: ABC AND 3rd JENKINS </h3>
+Barycentrics &nbsp;&nbsp; (b+c) (-a+b+c)/(a^2 b^2+a b^3+3 a^2 b c+a b^2 c+b^3 c+a^2 c^2+a b c^2+2 b^2 c^2+a c^3+b c^3) : :
+<p>
+See César Lozada and Angel Montesdeoca <a href="https://groups.io/g/euclid/message/815"><b>Euclid 815 </b></a>.
+</p>
+<p>
+X(37868) lies on this line: {14624,17751}
+</p>
+
+
+

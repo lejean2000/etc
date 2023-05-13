@@ -1,0 +1,60 @@
+
+<!-- preamble start -->
+<header class="triheader">
+<img src="leftri.svg" style="height:30px" alt="leftri">
+<p class="preamble-title">
+TC(X(i),X(j)-antipodes: X(36256)-X(36295)
+</p>
+<img src="rightri.svg" style="height:30px" alt="rightri">
+</header>
+<div class="preamble-sect">
+<p>
+This preamble and centers X(36256)-X(36295) were contributed by Clark Kimberling and Peter Moses, January 13, 2020.
+<p>
+In this paragraph, all coordinates are trilinears.  Suppose that P = p : q : r.  The <b>trilinear permutation conic</b> denoted by TC(P), is the conic that passes through the six points
+</p>
+<p>
+p : q : r, &nbsp;&nbsp; q : r : p, &nbsp;&nbsp; r : p : q, &nbsp;&nbsp; p : r : q, &nbsp;&nbsp; q : p : r,&nbsp;&nbsp;  r : q : p.
+</p>
+<p>
+An equation for TC(P) is (q r + r p + p q)(x^2 + y^2 + z^2) - (p^2 + q^2 + r^2)(y z + z x + x y) = 0.
+</p>
+<p>
+Thus, TC(P) is analogous, and symbolically identical to, the permutation ellipse E(P), defined in the preamble just before X(34341).
+</p>
+<p>
+**************************
+</p>
+<p>
+
+Suppose that P = p : q : r (trilinears).  For the rest of this paragraph, p:q:r are trilinears, but all other coordinates, and the equation for TC(P), are in barycentric coordinates. The conic TC(P) passes through the six points
+</p>
+<p>
+ap : bq : cr, &nbsp;&nbsp; aq : br : cp, &nbsp;&nbsp; ar : bp : cq, &nbsp;&nbsp; ap : br : cq, &nbsp;&nbsp; aq : bp : cr,&nbsp;&nbsp; ar : bq : cp.
+</p>
+<p>
+(Note that these six points are not six permutations of ap: bq : cr.)
+</p>
+<p>
+An equation for TC(P) is (q r + r p + p q)(b^2 c^2 x^2 + c^2 a^2 y^2 + a^2 b^2 z^2) - abc(p^2 + q^2 + r^2)(ayz + bzx + cxy) = 0.
+</p>
+<p>
+**************************
+</p>
+<p>
+The <b>TC(P,U)-antipode of P</b> is the point, other than P, in which the line PU meets TC(P), where
+</p>
+<p>
+P = p : q : r (trilinears) = ap : bq : cr (barycentrics)<br>
+U = u : v : w (trilinears) = au : bv : cw (barycentrics)
+</p>
+<p>
+Barycentrics for TC(P,U)-antipode of P are f(a,b,c,p,q,r,u,v,w) : f(b,c,a,q,r,p,v,w,u) : f(c,a,b,r,p,q,w,u,v), where
+</p>
+<p>
+f(a,b,c,p,q,r,u,v,w) = a (b^2 c^2 q^3 u^2 - b^2 c^2 p q r u^2 + b^2 c^2 q^2 r u^2 + b^2 c^2 q r^2 u^2 + b^2 c^2 r^3 u^2 - 2 a b c^2 p q^2 u v + a b c^2 p^2 r u v - 2 a b c^2 p q r u v - a b c^2 q^2 r u v + a b c^2 r^3 u v + a^2 c^2 p^2 q v^2 + a^2 c^2 p^2 r v^2 + a^2 c^2 p q r v^2 + a b^2 c p^2 q u w + a b^2 c q^3 u w - 2 a b^2 c p q r u w - 2 a b^2 c p r^2 u w - a b^2 c q r^2 u w - a^2 b c p^3 v w - a^2 b c p q^2 v w - a^2 b c p r^2 v w + a^2 b^2 p^2 q w^2 + a^2 b^2 p^2 r w^2 + a^2 b^2 p q r w^2)
+</p>
+<p>
+<hr class="end-preamble">
+</div>
+<!-- preamble end -->

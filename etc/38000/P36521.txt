@@ -1,0 +1,27 @@
+
+<!-- preamble start -->
+<header class="triheader">
+<img src="leftri.svg" style="height:30px" alt="leftri">
+<p class="preamble-title">
+Points on the Steiner Midellipse: X(36521)-X(36525)
+</p>
+<img src="rightri.svg" style="height:30px" alt="rightri">
+</header>
+<div class="preamble-sect">
+<p>
+This preamble and centers X(36521)-X(36525) were contributed by Clark Kimberling and Peter Moses, January 21, 2020.
+<p>
+The ellipse midway between the Steiner inellipse (SIE) and the Steiner circumellipse (SCE) is here named the Steiner Midellipse (SME).  Specifically, for any X on SCE, let U = segment GX ^ CIE<br>
+  Let M = midpoint of XU<br>  Then SME is the locus of M as X goes around SCE
+MSE is, like SIE and SCE, a permutation ellipse; ie., if P = pqr = p : q : r is on SME, then all six permutations, pqr, qrp, rpq, prq, qpr, rqp are on SME.
+</p>
+<p>
+Let G = X(2) = centroid of ABC. If P is on SCE then the point given by the combo G + 3 P is on SME; likewise, if P is on SIE, then G - 3 P is on SIE.  An equation for SME follows:
+</p>
+<p>
+7 (x^2 + y^2 + z^2) - 34 (y z + z x + x y) = 0.
+</p>
+<p>
+<hr class="end-preamble">
+</div>
+<!-- preamble end -->

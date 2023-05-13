@@ -1,0 +1,42 @@
+
+
+<!-- preamble start -->
+<header class="triheader">
+<img src="leftri.svg" style="height:30px" alt="leftri">
+<p class="preamble-title">
+Points on permutation ellipses: X(36215)-X(36240)
+</p>
+<img src="rightri.svg" style="height:30px" alt="rightri">
+</header>
+<div class="preamble-sect">
+<p>
+Contributed by Clark Kimberling and Peter Moses, January 7, 2020.
+<p>
+Suppose that P = p : q : r (barycentrics) is a point other than X(2) = 1 : 1 : 1 in the plane of a triangle ABC. Let T denote the triangle with vertices
+</p>
+<p>
+p : q : r <br>
+q : r : p <br>
+r : p : q
+</p>
+<p>
+Let T' denote the obverse of T, defined in the preamble just before X(24307) by vertices
+</p>
+<p>
+p : r : q <br>
+q : p : r <br>
+r : q : p
+</p>
+<p>
+The six points, corresponding to the permutations pqr, qrp, rpq, prq, qpr, rqp, lie on the permutation ellipse of P, as defined in the preamble just before X(34341), given by
+</p>
+<p>
+(q r + r p + p q)(x^2 + y^2 + z^2) - (p^2 + q^2 + r^2)(y z + z x + x y) = 0.
+</p>
+<p>
+If P' lies on E(P), then E(P') = E(P).  Moreover, if U = u : v : w is a point, other than P, then the point, other than P', in which the line UP' meets E(P), is the E(P,U)-antipode of P', as defined and formulated in the preamble just before X(35025).
+</p>
+<p>
+<hr class="end-preamble">
+</div>
+<!-- preamble end -->

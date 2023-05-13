@@ -1,0 +1,17 @@
+<h3 id="X36809">X(36809)&nbsp;=&nbsp; (name pending)</h3>
+Barycentrics &nbsp;&nbsp;  (S^2+SB SC)/(SA(3S^2+5 SB SC)) : :
+<br>
+Barycentrics &nbsp;&nbsp;  (a^2 (b^2+c^2)-(b^2-c^2)^2)/((b^2+c^2-a^2) (a^4+3 a^2 (b^2+c^2)-4 (b^2-c^2)^2)) : :
+<p>
+Let H be the orthocenter and M the midpoint of AH. Let B<sub>a</sub> and C<sub>a</sub> be the orthogonal projections of B and C on CM and BM, respectively. Define C<sub>b</sub> and A<sub>c</sub> cyclically, and define A<sub>b</sub> and B<sub>c</sub> cyclically. Let A'B'C' be the triangle having sidelines B<sub>a</sub>C<sub>a</sub>, C<sub>b</sub>A<sub>b</sub>, A<sub>c</sub>B<sub>c</sub>. Then A'B'C' is perspective to ABC, and the perspector is X(36809).  (Angel Montesdeoca, February 21,2020)
+</p>
+<p>
+See Angel Montesdeoca, <a href="https://groups.io/g/euclid/message/641"><b>Euclid 641 </b></a>.
+</p>
+<p>
+X(36809) lies on this line: {3855, 8797}
+</p>
+
+
+
+

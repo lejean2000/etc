@@ -1,0 +1,24 @@
+<!-- preamble start -->
+<header class="triheader">
+<img src="leftri.svg" style="height:30px" alt="leftri">
+<p class="preamble-title">
+Cevian-circumconic triangles: X(36598)-X(36650)
+</p>
+<img src="rightri.svg" style="height:30px" alt="rightri">
+</header>
+<div class="preamble-sect">
+<p>
+This preamble and centers X(36598)-X(36650) were contributed by César Eliud Lozada, January 23, 2020.
+</p>
+<p><i>Let ABC be a triangle, P a point, A'B'C' the cevian triangle of P and K a conic through A', B', C'. If A", B", C" are the points, others than A', B', C', at which K cuts BC, CA, AB, respectively, then AA", BB", CC" are concurrent.</i></p>
+<p>If P<sub>k</sub> is the perspector of K with respect to ABC, the triangle A"B"C" is named here the <b>(P, P<sub>k</sub>)-cevian-circumconic triangle</b>.</p>
+<p>If P = x : y : z and P<sub>k</sub> = x<sub>k</sub> : y<sub>k</sub> : z<sub>k</sub> (barycentrics) then:
+<p style="padding-left:25px;">A" = 0 : 1/(z*(x<sub>k</sub>*y*z+x*y*z<sub>k</sub>-3*x*y<sub>k</sub>*z)) : 1/(y*(x*y<sub>k</sub>*z+x<sub>k</sub>*y*z-3*x*y*z<sub>k</sub>))</p>
+<p>The perspector Q(P, P<sub>k</sub>) of ABC and A"B"C" is:</p>
+<p style="padding-left:25px;">Q(P, P<sub>k</sub>) = x*(x<sub>k</sub>*y*z+x*y*z<sub>k</sub>-3*x*y<sub>k</sub>*z)*(x*y<sub>k</sub>*z+x<sub>k</sub>*y*z-3*x*y*z<sub>k</sub>) : : </p>
+<p>If P<sub>k</sub> = P then Q(P, P<sub>k</sub>) = P = P<sub>k</sub>.
+<p>If P = X(2) then Q(P, P<sub>k</sub>) is the isotomic conjugate-of-the anticomplement-of-the anticomplement-of-P<sub>k</sub>.
+<p>As a cevian triangle with respect to ABC, A"B"C" is perspective to these named anticevian triangles: anticomplementary, Bevan antipodal, excentral, Pelletier, Schroeter, Soddy, tangential, X-parabola-tangential.</p>
+<hr class="end-preamble">
+</div>
+<!-- preamble end -->

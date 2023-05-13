@@ -1,0 +1,19 @@
+<h3 id="X37993">X(37993)&nbsp;=&nbsp; X(11)X(118)&cap;X(48)X(51) </h3>
+Barycentrics &nbsp;&nbsp; a^2*(a-b-c)*(a^2*b-b^3+a^2*c+2*a*b*c+b^2*c+b*c^2-c^3)^2 : :
+<br>
+Barycentrics &nbsp;&nbsp; a^2*(b+c-a)*(a b c + b SB + c SC)^2 : :
+<p>
+See Kadir Altintas and Ercole Suppa <a href="https://groups.io/g/euclid/message/833"><b>Euclid 833 </b></a>.
+</p>
+<p>
+X(37993) lies on these lines: {1,7066}, {6,6056}, {11,118}, {48,51}, {55,579}, {56,581}, {81,1364}, {181,2352}, {215,2194}, {938,1857},
+{942,1838}, {1397,10833}, {1449,11436}, {1682,2646}, {1745,3333}, {1953,3611}, {2260,14547}, {3022,7073}, {11529,32065},{19762,26357}, {21321,27659}
+</p>
+<p>
+X(37993) = barycentric product X(i)*X(j) for these (i,j): (1859,18607), (2260,6734), (5249,14547) <br>
+X(37993) = trilinear product X(i)*X(j) for these (i,j): (942,14547), (1838,23207), (1859,4303) <br>
+X(37993) = trilinear quotient X(2260)/X(2982) <br>
+X(37993) = {X(2260),X(14547)}-harmonic conjugate of X(23207)) <br>
+</p>
+
+

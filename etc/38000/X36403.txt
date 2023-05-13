@@ -1,0 +1,14 @@
+<h3 id="X36403">X(36403) = ORTHOLOGIC CENTER OF THESE TRIANGLES: 3rd OUTER-FERMAT-DAO-NHI TO 1st MORLEY</h3>
+Barycentrics &nbsp;&nbsp;  8*(4*Cos[A/3 - B/3 + Pi/6]*Sin[A/3 + (2*B)/3]*Sin[B]*Sin[A/3 - C/3]^2 - 5*Sin[A]*Sin[(2*A)/3 + B/3]*Sin[(B - C)/3]^2*Sin[(2*A)/3 + C/3] + 4*Cos[A/3 - C/3 + Pi/6]*Sin[A/3 - B/3]^2*Sin[A/3 + (2*C)/3]*Sin[C]) - Sqrt[3]*(-5*Sin[A]^2 + 4*Sin[B]^2 + 4*Sin[C]^2)  :  :
+<br>
+<b>
+X(36403) = 4 X[2] - 3 X[8010], 2 X[2] - 3 X[8011], 7 X[2] - 6 X[33492], 5 X[2] - 6 X[33493], 7 X[8010] - 8 X[33492], 5 X[8010] - 8 X[33493], 3 X[8010] - 2 X[36402], 7 X[8011] - 4 X[33492], 5 X[8011] - 4 X[33493], 3 X[8011] - X[36402], 5 X[33492] - 7 X[33493], 12 X[33492] - 7 X[36402], 12 X[33493] - 5 X[36402]
+</b>
+<p>
+X(36403) lies on the line {2,8010}</p>
+<p>
+X(36403) = reflection of X(i) in X(j) for these {i,j}: {8010, 8011}, {36402, 2}<br>
+X(36403) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {2, 36402, 8010}, {8011, 36402, 2}<br>
+</p>
+
+

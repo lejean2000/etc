@@ -1,0 +1,8 @@
+<h3 id="X36513">X(36513)&nbsp;=&nbsp; HOMOTHETOR OF THESE TRIANGLES: T((a^3+b^3+c^3)/(abc)) AND 2ND ANTI-CIRCUMPERP-TANGENTIAL</h3>
+Barycentrics &nbsp;&nbsp; (a + b - c)*(a - b + c)*(a^3*b^2 + b^5 + a^3*b*c + 2*b^4*c + a^3*c^2 + b^3*c^2 + b^2*c^3 + 2*b*c^4 + c^5) : :
+<p>
+X(36513) lies on these lines: {2, 12}, {5, 33144}, {226, 28109}, {976, 5252}, {1478, 19548}, {2476, 24349}, {3953, 7951}, {5293, 9578}, {11375, 28082}, {17111, 26481}, {24995, 30617}
+</p>
+
+
+

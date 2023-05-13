@@ -1,0 +1,13 @@
+<h3 id="X37840">X(37840)&nbsp;=&nbsp; ISOTOMIC CONJUGATE OF X(37838) </h3>
+Barycentrics &nbsp;&nbsp; b^2*c^2*(a^2*(7*a^4 - 18*a^2*b^2 + 11*b^4 - 18*a^2*c^2 - 14*b^2*c^2 + 11*c^4) - 4*(4*a^4 + a^2*b^2 - 2*b^4 + a^2*c^2 + 4*b^2*c^2 - 2*c^4)*S) : :
+
+<p>
+X(37840) lies on these lines: (none found)
+</p>
+<p>
+X(37840) = isotomic conjugate of X(37838)<br>
+</p>
+
+
+
+

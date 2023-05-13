@@ -1,0 +1,8 @@
+<h3 id="X36032">X(36032) = EULER LINE INTERCEPT OF X(101)X(691)</h3>
+Barycentrics &nbsp;&nbsp; a^2*(a^2 - b^2)*(a^2 - c^2)*(a^5*b^2 - a^4*b^3 - a*b^6 + b^7 + a^5*c^2 - 2*a^3*b^2*c^2 + a^2*b^3*c^2 + a*b^4*c^2 - 3*b^5*c^2 - a^4*c^3 + a^2*b^2*c^3 + 2*b^4*c^3 + a*b^2*c^4 + 2*b^3*c^4 - 3*b^2*c^5 - a*c^6 + c^7) : :
+<p>
+X(36032) lies on these lines: {2, 3}, {99, 2690}, {101, 691}, {935, 1305}, {2696, 9057}
+</p>
+
+
+
