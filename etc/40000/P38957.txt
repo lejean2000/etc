@@ -1,0 +1,23 @@
+
+<!-- preamble start -->
+<header class="triheader">
+<img src="leftri.svg" style="height:30px" alt="leftri">
+<p class="preamble-title">
+Crosssums of circumcircle-P-antipodes and line intercepts: X(38957)-X(39102)
+</p>
+<img src="rightri.svg" style="height:30px" alt="rightri">
+</header>
+<div class="preamble-sect">
+<p>
+Let P = p : q : r (barycentrics) be a point in the plane of triangle ABC.  Let P' be the isogonal conjugate of P.  Then the locus of the crosssum of circumcircle-P-antipodes is the bicevian conic of X(2) and P', with center 2 a^2/p + b^2/q + c^2/r : :.  For example, the locus of the crosssum of circumcircle antipodes is the nine-point circle, which is the bicevian conic of X(2) and X(4), and the locus of the crosssum of circumcircle-X(6)-antipodes is the Steiner inellipse, which is the limit of the bicevian conic of X(2) and Q as Q approaches X(2).
+</p>
+<p>
+Let L be a line.  The crosssum of the (real or nonreal) circumcircle-intercepts of L is the X(2)-Ceva conjugate of the crossdifference of every pair of points on L, and is the center of the circumconic that is the isogonal conjugate of L.  If L passes through X(3), then the crosssum is also the orthopole of L, and lies on the cevian circle of the isogonal conjugate of every point on L.
+</p>
+<p>
+Contributed by Randy Hutson, June 17, 2020.
+</p>
+
+<hr class="end-preamble">
+</div>
+<!-- preamble end -->

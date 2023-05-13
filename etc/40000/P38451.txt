@@ -1,0 +1,45 @@
+<!-- preamble start -->
+<header class="triheader">
+<img src="leftri.svg" style="height:30px" alt="leftri">
+<p class="preamble-title">
+Points associated with Vu P-cirumcircle points: X(38451)-X(38456)
+</p>
+<img src="rightri.svg" style="height:30px" alt="rightri">
+</header>
+<div class="preamble-sect">
+<p>
+This preamble is based on notes from Vu Thanh Tung, May 16, 2020.<br>
+<p>
+</p>
+<p>
+Let P = p : q : r (barycentrics) be a point in the plane of a triangle ABC, but not X(1) and not on the circumcircle.  Let
+</p>
+<p>
+P' = isogonal conjugate of P<br>
+Ta = line tangent to the circle APP' at A, and define Tb and Tc cyclically.<br>
+</p>
+<p>
+The lines Ta, Tb, Tc concur in a point V(P) on the circumcircle:
+</p>
+<p>
+V(P) = V(P') = a^2 / (c^2 p^2 q + b^2 p^2 r - a^2 q^2 r - a^2 q r^2) : :
+</p>
+<p>
+The point V(P) is here named the <b>Vu P-circumcircle point</b>.
+</p>
+<p>
+The appearance of (i,j) in the following list means that V(X(i)) = X(j):
+</p>
+<p>
+(2,111), (3,74), (4,74), (5,14979), (6,111), (9,2291), (7,38451), (8,38452), (10,38453)
+</p>
+<p>
+See <a href="Vu%20Circumcircle%20Point.pdf"><b>Vu Circumcircle Point</b></a>.
+</p>
+<p>
+V(P) is the trilinear pole of the line through X(6) and the PK-transform of P.  (Randy Hutson, May 19, 2020)
+</p>
+
+<hr class="end-preamble">
+</div>
+<!-- preamble end -->

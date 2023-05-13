@@ -1,0 +1,15 @@
+<h3 id="X38486">X(38486) = COMPLEMENT OF CONWAY-CIRCLE-INVERSE OF X(2291)</h3>
+Barycentrics &nbsp;&nbsp; a*(a^3*b + 3*a^2*b^2 - 3*a*b^3 - b^4 + a^3*c - a^2*b*c - 2*a*b^2*c + 2*b^3*c - 2*a^2*c^2 + 2*a*b*c^2 - b^2*c^2 + a*c^3)*(a^3*b - 2*a^2*b^2 + a*b^3 + a^3*c - a^2*b*c + 2*a*b^2*c + 3*a^2*c^2 - 2*a*b*c^2 - b^2*c^2 - 3*a*c^3 + 2*b*c^3 - c^4) : :
+<p>
+Let A'B'C' be as at X(10440). Then X(38486) = X(111)-of-A'B'C'.  (Randy Hutson, May 31, 2020)
+</p>
+<p>
+X(38486) lies on the Apollonius circle and these lines: {10, 31844}, {181, 3321}, {386, 14074}, {573, 15731}, {5851, 34458}, {10440, 34457}
+</p>
+<p>
+X(38486) = Spieker-radical-circle-inverse of X(31844)
+</p>
+
+
+
+

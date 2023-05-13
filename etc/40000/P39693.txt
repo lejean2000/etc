@@ -1,0 +1,90 @@
+
+<!-- preamble start -->
+<header class="triheader">
+<img src="leftri.svg" style="height:30px" alt="leftri">
+<p class="preamble-title">
+Points on cubics: X(39693)-X(39749)
+</p>
+<img src="rightri.svg" style="height:30px" alt="rightri">
+</header>
+<div class="preamble-sect">
+<p>
+This preamble is contributed by Clark Kimberling, September 28, 2020.
+<p>
+Suppose that P = p(a,b,c) : p(b,c,a) : p(c,a,b) is an polynomial triangle center such that the point (b-c)p(a,b,c) : (c-a)p(b,c,a) : (a-b)p(c,a,b) is on the line at infinity; i.e.,
+</p>
+<p>
+(b-c)p(a,b,c) + (c-a)p(b,c,a) + (a-b)p(c,a,b) = 0.
+</p>
+<p>
+Let &chi;(P) denote the cubic given by
+</p>
+<p>
+(b+c)p(a,b,c)(y-z)(x+y)(x+z) + (c+a)p(b,c,a)(z-x)(y+z)(y+x) + (a+b)p(c,a,b)(x-y)(z+x)(z+y) = 0.
+</p>
+<p>
+This is the cubic pK(X(2)),P*), where P* = (b + c)*p - (a + c)*q - (a + b)*r : :
+</p>
+<p>
+Let A'B'C' denote the anticomplementary triangle of ABC. It is easy to check that the following 9 points lie on &chi;(P): A, B, C, A', B', C', X(1), X(2), X(75) .
+</p>
+<p>
+It is also easy to check that if U is a point on &chi;(P), then the isotomic conjugate of U also lies on &chi;(P). This section consists of isotomic conjugates of points on cubics &chi;(P) for selected points P. In column 1 of the following table, the appearance of u(a,b,c) in a row means that the points indicated in column 2 lie on the cubic
+</p>
+<p>
+u(a,b,c)(y-z)(x+y)(x+z) + u(b,c,a)(z-x)(y+z)(y+x) + u(c,a,b)(x-y)(z+x)(z+y) = 0;
+</p>
+<p>
+so that the point P is given by u(a,b,c) = (b+c)p(a,b,c).  The appearance of {i,j} in column 2 means that {X(i),X(j)} are a pair of isotomic conjugate points that lie on &chi;(P).
+</p>
+
+<table>
+<tr><td>b+c</td> <td>{192,330}, {3224,17149}</td> </tr>
+<tr><td>(b+c)^2</td> <td>{596,4360}, {17147,35058}, {24068,39693} </td> </tr>
+<tr><td>a^2 (b+c)^2</td> <td>{8049,17135}, {13476,17143} </td> </tr>
+<tr><td>(b+c)(b+c-a)</td> <td>{145,4373}, {3210,39694}, {3875,34860} </td> </tr>
+<tr><td>a(b+c)(b+c-a)(b^2+c^2-a^2)</td> <td>{12649,39695}, {30699,39696} </td> </tr>
+<tr><td>(b+c)^2 cos^2 A</td> <td>{2997,3868} </td> </tr>
+<tr><td>(b+c)(2a-b-c)</td> <td>{519,903}, {17160,39697}, {17495,39698}, {30579,39699} </td> </tr>
+<tr><td>(b+c)(-a+b+c)</td> <td>{3187,39700} </td> </tr>
+<tr><td>(b+c)(3a+b+c)</td> <td>{3617,30712}, {10436,31359}, {27835,39701}  </td> </tr>
+<tr><td>(b+c)(-3a+b+c)</td> <td>{3621,36606}, {17151,39702}, {17490,39703}  </td> </tr>
+<tr><td>(b+c)(4a+b+c)</td> <td>{3679,39704}, {30564,39705}, {31035,39706}  </td> </tr>
+<tr><td>(b+c)(-4a+b+c)</td> <td>{3632,39707} </td> </tr>
+<tr><td>(b+c)(3a+2b+2c)</td> <td>{9780,28626}, {17394,39708}, {28626,9780} </td> </tr>
+<tr><td>(b+c)(-3a+2b+2c)</td> <td>{20050,39709} </td> </tr>
+<tr><td>(b+c)(2a+3b+3c)</td> <td>{1125,1268} </td> </tr>
+<tr><td>(b+c)(-2a+3b+3c)</td> <td>{3244,39710} </td> </tr>
+<tr><td>(b+c)(a+2b+2c)</td> <td>{3616,5936},{17393,39711} </td> </tr>
+<tr><td>(b+c)(-a+2b+2c)</td> <td>{3241,36588} </td> </tr>
+<tr><td>(b+c)(a^2+b^2+c^2+a(a+b+c))</td> <td>{3661,14621}, {5263,39712}, {31087,39713} </td> </tr>
+<tr><td>(b+c)(a^2+b^2+c^2-a(a+b+c))</td> <td>{239,335}, {32922,39714} </td> </tr>
+<tr><td>(b+c)(a^2+b^2+c^2-2a(a+b+c))</td> <td>{26274,39715} </td> </tr>
+<tr><td>(b+c)(2(a^2+b^2+c^2)+a(a+b+c))</td> <td>{29611,39716} </td> </tr>
+<tr><td>(b+c)(2(a^2+b^2+c^2)-a(a+b+c))</td> <td>{5222,39749} </td> </tr>
+<tr><td>(b+c)(bc+ca+ab+a(a+b+c))</td> <td>{24325,39717} </td> </tr>
+<tr><td>(b+c)(bc+ca+ab-a(a+b+c))</td> <td>{740,18827}, {6542,6650}, {13174,39718}, {39367,39719} </td> </tr>
+<tr><td>(b+c)(bc+ca+ab-2a(a+b+c))</td> <td>{20055,39720} </td> </tr>
+<tr><td>(b+c)(2(bc+ca+ab)-a(a+b+c))</td> <td>{17316,39721} </td> </tr>
+<tr><td>(b+c)(abc+a(a^2+b^2+c^2))</td> <td>{17302,39722}, {33090,39723} </td> </tr>
+<tr><td>(b+c)(abc-a(a^2+b^2+c^2))</td> <td>{82,1930}, {17280,39724}, {20934,39725}, {21289,39726}, {21378,39727}, {33091,39728} </td> </tr>
+<tr><td>(b+c)(abc+2a(a^2+b^2+c^2))</td> <td>{17383,39729} </td> </tr>
+<tr><td>(b+c)(abc-2a(a^2+b^2+c^2))</td> <td>{17358,39730} </td> </tr>
+<tr><td>(b+c)(2abc+a(a^2+b^2+c^2))</td> <td>{1219,3672}, {23051,39731} </td> </tr>
+<tr><td>(b+c)(2abc-a(a^2+b^2+c^2)); (K605)</td> <td>{19,304}, {279,346}, {2184,18750},{4329,7219}, {10327, 39732},{33091,39733} </td> </tr>
+<tr><td>(b+c)(abc+a(bc+ca+ab))</td> <td>{37,274},{4651,39734}, {16552,39735} </td> </tr>
+<tr><td>(b+c)(abc-a(bc+ca+ab))</td> <td>{8049,17135}, {13476,17143} </td> </tr>
+<tr><td>(b+c)(abc+2a(bc+ca+ab))</td> <td>{27268,39736}, {32092,39737} </td> </tr>
+<tr><td>(b+c)(abc-2a(bc+ca+ab))</td> <td>{4699,39738}, {32104,39739} </td> </tr>
+<tr><td>(b+c)(2abc+a(bc+ca+ab))</td> <td>{4704,39740, {17038,31997} </td> </tr>
+<tr><td>(b+c)(2abc-a(bc+ca+ab))</td> <td>{1278,38247}, {10453,39741}, {17144, 39742} </td> </tr>
+<tr><td>(b+c)(a^3+b^3+c^3+a(bc+ca+ab))</td> <td>{31079,39743} </td> </tr>
+<tr><td>(b+c)(b^2c^2+c^2a^2+a^2b^2+a^2bc)</td> <td>{17445,39744}, {26801,39745} </td> </tr>
+<tr><td>(b+c)(b^2c^2+c^2a^2+a^2b^2-a^2bc)</td> <td>{1964,18833}, {26752,39746} </td> </tr>
+<tr><td>(b+c)(2a+b+c)</td> <td>{10,86},{3995,39747}, {18133,39748} </td> </tr>
+</table>
+
+
+<hr class="end-preamble">
+</div>
+<!-- preamble end -->

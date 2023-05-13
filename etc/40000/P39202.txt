@@ -1,0 +1,42 @@
+<!-- preamble start -->
+<header class="triheader">
+<img src="leftri.svg" style="height:30px" alt="leftri">
+<p class="preamble-title">
+Vertices of the real and imaginary Steiner ellipses: X(39202)-X(39209)
+</p>
+<img src="rightri.svg" style="height:30px" alt="rightri">
+</header>
+<div class="preamble-sect">
+<p>
+This preamble and centers X(39202)-X(39209) were contributed by Peter Moses, July 3, 2020.
+</p>
+<p>
+The vertices of the Steiner circumellipse and the Steiner inellipse are all given by the following form for 1st barycentric:
+</p>
+<p>
+2*a^6 - 2*a^4*b^2 + a^2*b^4 - b^6 - 2*a^4*c^2 + b^4*c^2 + a^2*c^4 + b^2*c^4 - c^6 - sgn1*(2*a^4 - a^2*b^2 - b^4 - a^2*c^2 + 2*b^2*c^2 - c^4)*Sqrt[a^4 - a^2*b^2 + b^4 - a^2*c^2 - b^2*c^2 + c^4] + 2*const*S*sgn2*Sqrt[Sqrt[a^4 - a^2*b^2 + b^4 - a^2*c^2 - b^2*c^2 + c^4]/(a^2 + b^2 + c^2 + 2*sgn1*Sqrt[a^4 - a^2*b^2 + b^4 - a^2*c^2 - b^2*c^2 + c^4])]*Sqrt[sgn1*(-2*a^8 + 3*a^6*b^2 - 2*a^4*b^4 + 3*a^2*b^6 - 2*b^8 + 3*a^6*c^2 - 2*a^4*b^2*c^2 - 2*a^2*b^4*c^2 + 3*b^6*c^2 - 2*a^4*c^4 - 2*a^2*b^2*c^4 - 2*b^4*c^4 + 3*a^2*c^6 + 3*b^2*c^6 - 2*c^8 + 2*sgn1*a^2*b^2*c^2*Sqrt[a^4 - a^2*b^2 + b^4 - a^2*c^2 - b^2*c^2 + c^4]*J^2)]
+</p>
+<p>
+The Steiner circumellipse has const = 1.  Specifically,
+X(39202) is given by (sgn1,sgn2) = (1,1)<br>
+X(39203) is given by (sgn1,sgn2) = (1,-1)<br>
+X(39204) is given by (sgn1,sgn2) = (-1,1)<br>
+X(39205) is given by (sgn1,sgn2) = (-1,-1)<br>
+</p>
+<p>
+The Steiner inellipse has const = 2.  Specifically,
+X(39206) is given by (sgn1,sgn2) = (1,1)<br>
+X(39207) is given by (sgn1,sgn2) = (1,-1)<br>
+X(39208) is given by (sgn1,sgn2) = (-1,1)<br>
+X(39209) is given by (sgn1,sgn2) = (-1,-1)<br>
+</p>
+<p>
+The points X(39202) and X(39203) are endpoints of the major axis of the Steiner circumellipse, and X(39204) and X(39205) lies on the minor axis. The points X(39206) and X(39207) are endpoints of the major axis of the Steiner inellipse, and X(39208) and X(39209) lies on the minor axis.
+</p>
+<p>
+See the preamble just before X(39158) for foci of the two ellipses.
+</p>
+
+<hr class="end-preamble">
+</div>
+<!-- preamble end -->

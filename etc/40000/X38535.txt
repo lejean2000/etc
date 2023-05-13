@@ -1,0 +1,27 @@
+<h3 id="X38535">X(38535)&nbsp;=&nbsp; ISOGONAL CONJUGATE OF X(2073)</h3>
+Barycentrics &nbsp;&nbsp; ((b+c)*(-a^2+b^2+c^2)*(a^4+a^3*(b-c)+a*(b-c)^2*(b+c)+b*(b-c)^2*(b+c)+a^2*(b^2-b*c-c^2))*(a^4+a^3*(-b+c)+a*(b-c)^2*(b+c)+(b-c)^2*c*(b+c)-a^2*(b^2+b*c-c^2))): :
+<p>
+See Thanh Tung Vu and Ercole Suppa, <a href="https://groups.io/g/euclid/message/897"><b>Euclid 897 </b></a>.
+</p>
+<p>
+The trilinear polar of X(38535) passes through X(647) and the crosspoint of X(2) and X(71).  (Randy Hutson, May 31, 2020)
+</p>
+<p>
+X(38535) lies on the Jerabek circumhyperbola and these lines: {3,4466}, {4,2772}, {6,3120}, {54,11263}, {67,674}, {71,125}, {72,20902}, {74,516}, {110,34830}, {265,916}, {895,9028}, {1175,12047}, {1243,2771}, {3448,8044}, {5057,37142}, {10693,20718}, {16686,34435}
+</p>
+<p>
+X(38535) = isogonal conjugate of X(2073) <br>
+X(38535) = antigonal conjugate of X(71) <br>
+X(38535) = midpoint of X(3448) and X(17220) <br>
+X(38535) = reflection of X(i) in X(j) for these (i,j): (71,125), (110,34830) <br>
+X(38535) = X(i)-isoconjugate of X(j) for these (i,j): (162,2774), (2774,162) <br>
+X(38535) = Jerabek-hyperbola-antipode of X(71)<br>
+X(38535) = X(i)-reciprocal conjugate of X(j) for these {i,j}: {6,2073}, {647,2774}, {2690,648} <br>
+X(38535) = barycentric product X(525)*X(2690) <br>
+X(38535) = barycentric quotient X(i)/X(j) for these {i,j}: {647,2774}, {2690,648} <br>
+X(38535) = trilinear product X(656)*X(2690) <br>
+X(38535) = trilinear quotient X(i)/X(j) for these (i,j): (656,2774), (2690,162) <br>
+</p>
+
+
+

@@ -1,0 +1,44 @@
+<!-- preamble start -->
+<header class="triheader">
+<img src="leftri.svg" style="height:30px" alt="leftri">
+<p class="preamble-title">
+Points associated with the <i>Cip</i> transform: X(39371)-X(39372)
+</p>
+<img src="rightri.svg" style="height:30px" alt="rightri">
+</header>
+<div class="preamble-sect">
+<p>
+This preamble is contributed by Peter Moses, August 3, 2020.<br>
+<p>
+The <i>Cip</i> transform is introduced in <b>Suren, Moses, and Kimberling, "The Circumcevian-Inversion Perspector of Two Triangles",</b> to appear in <i>Journal for Geometry and Graphics,</i> as follows: In the plane of a triangle ABC, let P be a point that is not on one of the sidelines, BC, CA, AB.  Let &Gamma; be the circumcircle of ABC, and let DEF be the circumcevian triangle of P; that is, D is the point, other than A, in which the line AP meets &Gamma;, and likewise for the vertices E and F. Let X,Y,Z be the reflections of P in D,E,F, respectively, and let X',Y',Z' be the &Gamma;-inverse of X,Y,Z, respectively.  Let P' = BY'&cap;CZ'. Then ABC and X'Y'Z' are perspective triangles, and P' is the <b> circumcevian-inversion perspector</b> of X'Y'Z' and ABC. The mapping P &rarr; P' is the <b><i>Cip</i>  transform.</b>
+</p>
+<p>
+If &Lambda; is a conic that passes through the circumcenter, O, then it is the <i>Cip</i>  transform of a circular cubic.  If you have Geogebra, you can view seven examples, named according to the choice of &Lambda;:
+</p>
+<p>
+<a href="CIP_ABCIO.ggb"><b>CIP_ABCIO</b></a>.  <br>
+<a href="CIP_BrocardCircle.ggb"><b>CIP_BrocardCircle</b></a>.  <br>
+<a href="CIP_FeuerbachOfTangential.ggb"><b>CIP_FeuerbachOfTangential
+</b></a>.  <br>
+<a href="CIP_Jerabek.ggb"><b>CIP_Jerabek</b></a>.  <br>
+<a href="CIP_KiepertOfMedial.ggb"><b>CIP_KiepertOfMedial</b></a>.  <br>
+<a href="CIP_Lester.ggb"><b>CIP_Lester</b></a>.  <br>
+<a href="CIP_Thomson-Gibert-Moses%20hyperbola"><b>CIP_Thomson-Gibert-Moses hyperbola
+</b></a>.
+</p>
+<p>
+Names for the seven circular cubics are introduced here as <b>ABCIO circular cubic</b>, <b>Brocard circular cubic</b>, <b>Feuerbach-of-tangential circular cubic</b>, <b>Jerabek circular cubic</b>, <b>Kiepert-of-medial circular cubic</b>, <b>Lester circular cubic</b>, and  <b>Thomson-Gibert-Moses-hyperbola circular cubic</b>.  For each of these, O is the <i>Cip</i>-image of O and every point on the infinity line.
+Aside from O, two of the seven circular cubics have <i>Cip</i>-fixed points: X(102) on the ABCIO circular cubic, and X(110) on the Thomson-Gibert-Moses-hyperbola circular cubic.
+</p>
+<p>
+Another point on the ABCIO circular cubic is X(38599), and two on the Jerabek circular cubic are X(35372) and X(35465);
+</p>
+<p>
+If &Lambda; is a conic that does not pass through O, then the curve having &Lambda; as <i>Cip</i> image has formal degree 4.  An example is the <span class="bold">Steiner circumquartic</span>,
+see <a href="CIP_SteinerCircum.ggb"><b>CIP_SteinerCircum</b></a>,
+which passes through X(12188).
+</p>
+
+<hr class="end-preamble">
+</div>
+<!-- preamble end -->

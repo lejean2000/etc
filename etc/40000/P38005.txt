@@ -1,0 +1,41 @@
+
+<!-- preamble start -->
+<header class="triheader">
+<img src="leftri.svg" style="height:30px" alt="leftri">
+<p class="preamble-title">
+Vu pedal translations: X(38005)-X(38009)
+</p>
+<img src="rightri.svg" style="height:30px" alt="rightri">
+</header>
+<div class="preamble-sect">
+<p>
+This preamble is based on notes from Vu Thanh Tung, April 25, 2020.<br>
+<p>
+Let P = p : q : r (barycentrics) be a point in the plane of a triangle ABC, but not on the circumcircle, and not the incenter or any of the three excenters.  Let
+</p>
+<p>
+P' = isogonal conjugate of P<br>
+A'B'C' = pedal triangle of ABC<br>
+V = vector PP'<br>
+A<sub>1</sub>B<sub>1</sub>C<sub>1</sub> = V(A'B'C')
+</p>
+<p>
+Then  A<sub>1</sub>B<sub>1</sub>C<sub>1</sub> is perspective to ABC, and the perspector, here named the <b>Vu pedal translation of P</b>, is the point
+</p>
+<p>
+V(P) =  (a^4 q r + (b^2 - c^2) p (c^2 q + b^2 r) + a^2 (c^2 q (p - r) + b^2 r (3 p + 3 q + 2 r)))*(a^4 q r - (b^2 - c^2) p (c^2 q + b^2 r) + a^2 (b^2 (p - q) r + c^2 q (3 p + 2 q + 3 r)))  : :
+</p>
+<p>
+See <a href="VuPedalTranslation.pdf"><b>Vu Pedal Translation</b></a>.
+</p>
+<p>
+The appearance of (i,j) in the following list means that V(X(i)) = X(j): <br>
+(2,38005), (3,4), (4,4846), (5,38006), (6,18842), (7,38007), (8,38008), (9,38009)
+</p>
+<p>
+See the preamble just before X(38305) for Vu antipedal translation.
+</p>
+
+<hr class="end-preamble">
+</div>
+<!-- preamble end -->

@@ -1,0 +1,50 @@
+
+
+
+<!-- preamble start -->
+<header class="triheader">
+<img src="leftri.svg" style="height:30px" alt="leftri">
+<p class="preamble-title">
+Centers of osculating circles to Steiner ellipses: X(39300)-X(39307)
+</p>
+<img src="rightri.svg" style="height:30px" alt="rightri">
+</header>
+<div class="preamble-sect">
+<p>
+This preamble and centers X(39300)-X(39307) were contributed by Peter Moses, July 23-24, 2020.
+</p>
+<p>
+The centers of osculating circles at the four vertices of the Steiner circumellipse and the Steiner inellipse are all given by the following form for 1st barycentric:
+</p>
+<p>
+2*a^6 - 2*a^4*b^2 + a^2*b^4 - b^6 - 2*a^4*c^2 + b^4*c^2 + a^2*c^4 + b^2*c^4 - c^6 - (2*a^4 - a^2*b^2 - b^4 - a^2*c^2 + 2*b^2*c^2 - c^4)*Sqrt[a^4 - a^2*b^2 + b^4 - a^2*c^2 - b^2*c^2 + c^4]*sgn1 + const*S*Sqrt[-2*a^8 + 3*a^6*b^2 - 2*a^4*b^4 + 3*a^2*b^6 - 2*b^8 + 3*a^6*c^2 - 2*a^4*b^2*c^2 - 2*a^2*b^4*c^2 + 3*b^6*c^2 - 2*a^4*c^4 - 2*a^2*b^2*c^4 - 2*b^4*c^4 + 3*a^2*c^6 + 3*b^2*c^6 - 2*c^8 + 2*a^2*b^2*c^2*Sqrt[a^4 - a^2*b^2 + b^4 - a^2*c^2 - b^2*c^2 + c^4]*J^2*sgn1]*sgn2*Sqrt[2 - ((a^2 + b^2 + c^2)*sgn3)/Sqrt[a^4 - a^2*b^2 + b^4 - a^2*c^2 - b^2*c^2 + c^4]]
+</p>
+<p>
+The Steiner circumellipse has const = 1/2.  Specifically,
+X(39300) is given by (sgn1,sgn2,sgn3) = (1,1,-1)<br>
+X(39301) is given by (sgn1,sgn2,sgn3) = (1,-1,-1)<br>
+X(39302) is given by (sgn1,sgn2,sgn3) = (-1,1,1)<br>
+X(39303) is given by (sgn1,sgn2,sgn3) = (-1,-1,1)<br>
+</p>
+<p>
+The Steiner inellipse has const = 1.  Specifically,
+X(39304) is given by (sgn1,sgn2,sgn3) = (1,1,-1)<br>
+X(39305) is given by (sgn1,sgn2,sgn3) = (1,-1,-1)<br>
+X(39306) is given by (sgn1,sgn2,sgn3) = (-1,1,1)<br>
+X(39307) is given by (sgn1,sgn2,sgn3) = (-1,-1,1)<br>
+</p>
+<p>
+For the placement of the circles within the ellipses, see .
+</p>
+<p>
+<a href="SteinerCircumellipseOsculatingCircles.pdf"><b>Steiner Cirumellipse Osculating Circles</b></a>
+<br>
+<a href="SteinerInellipseOsculatingCircles.pdf"><b>Steiner Inellipse Osculating Circles</b></a>
+</p>
+<p>
+See also the preambles just before X(39202 (vertices) and X(39158) (foci).
+</p>
+
+<hr class="end-preamble">
+</div>
+<!-- preamble end -->

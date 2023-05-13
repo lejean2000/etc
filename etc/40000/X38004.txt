@@ -1,0 +1,19 @@
+<h3 id="X38004">X(38004)&nbsp;=&nbsp;  PERSPECTOR OF THESE TRIANGLES: PAASCHE-HUTSON AND EXCENTRAL</h3>
+Barycentrics &nbsp;&nbsp; a*(a*b*c*(a - b - c) - S*(2*b*c + S)) : : : :
+<p>
+The Paasche-Hutson triangle is introduced in the preamble just before X(37994).
+</p>
+X(38004) lies on the Jerabek circumhyperbola of the excentral triangle and these lines: {{1, 1123}, {2, 77}, {9, 13389}, {40, 30556}, {380, 7348}, {610, 31438}, {1045, 8945}, {1490, 31562}, {2270, 16432}, {2324, 3083}, {3646, 30557}
+
+<p>
+X(38004) = X(i)-Ceva conjugate of X(j) for these (i,j): {3083, 1}, {30412, 9}<br>
+X(38004) = perspector of these triangles: Paasche-Hutson and cevian triangle of X(3083)<br>
+X(38004) = barycentric product X(8)*X(34494)<br>
+X(38004) = barycentric quotient X(34494)/X(7)<br>
+X(38004) = {X(3083),X(30412)}-harmonic conjugate of X(2324)<br>
+</p>
+
+
+
+
+

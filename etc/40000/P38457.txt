@@ -1,0 +1,46 @@
+<!-- preamble start -->
+<header class="triheader">
+<img src="leftri.svg" style="height:30px" alt="leftri">
+<p class="preamble-title">
+Points associated with Vu (P,U)-circles points: X(38457)-X(38468)
+</p>
+<img src="rightri.svg" style="height:30px" alt="rightri">
+</header>
+<div class="preamble-sect">
+<p>
+This preamble is based on notes from Vu Thanh Tung, May 18-19, 2020.<br>
+<p>
+</p>
+<p>
+Let P = p : q : r and U = u : v : w be distinct points in the plane of a triangle ABC, not both on the circumcircle.  Let A' be the point, other than A, that lies on both circles (ABC) and (APU), and define B' and C' cyclically.  The four lines AA', BB", CC", PU concur in a point, V(P,U), here named the <b>Vu {P,U}-circles point</b> point, given by
+</p>
+<p>
+V(P,U) = V(U,P) = a^2 (- p y w  (p + r + q) + q r u (u + v + w)) + b^2 p u (r (u + v) - (p + q) w) + c^2 p u (-(p + r) v + q (u + w)) : :
+</p>
+<p>
+The appearance of (i,j,k) in the following list means that V(X(i),X(j)) = V(X(j),X(i)) = X(k): (1,2,7292), (1,3,36), (1,6,16784), (1,4,1870
+), (1,5,38458), (1,6,16784), (1,7,38459), (1,8,38460), (2,3,23), (2,4,468), (2,5,37760), (2,6 11580), (2 7,37761), (2,8,37762), (3,4,186), (3,5,2070), (3,6,187), (3,7,32624), (3,8,17100), (4,5,37943), (4,6,8744), (4,75,38457), (13,14,1989), (15,16,6), (61,62,35006), (371,372,1692)
+</p>
+<p>
+See <a href="VuPUCirclesPoint.pdf"><b>Vu PU Circles Point</b></a>.
+</p>
+<p>
+Let V<sub>2</sub>(P,U) denote the point introduced in the preamble just before X(37756), given by
+</p>
+<p>
+V<sub>2</sub>( (P, U) = q r (a^2 (q r u (u+v+w) - p v w (p+q+r)) - b^2 p u (w (p+q) - r (u+v)) - c^2 p u (v (p+r) - q (u+w))) : :
+</p>
+<p>
+Then
+V(P,U)  =  barycentric product P* V<sub>2</sub>(P,U) <br>
+V(P,U)  =  barycentric product U* V<sub>2</sub>(U,P) <br>
+V<sub>2</sub>(P,U) =  barycentric product U*V<sub>2</sub>(U,P)<br>
+V(X(2),U)  =  V(U,X(2))  = V2(X(2),U)<br>
+V(X(3),U)  =  V(U,X(3))  = circumcircle-inverse of U<br>
+</p>
+<p>
+The Vu {P,U}-circles point is related to the Vu circlecevian point as follows:  Let P' and U' be the isogonal conjugates of P and U, resp.  Then the Vu {P,U}-circles point is the isogonal conjugate of the Vu circlecevian point V(P',U').  (Randy Hutson, May 20, 2020)
+</p>
+<hr class="end-preamble">
+</div>
+<!-- preamble end -->

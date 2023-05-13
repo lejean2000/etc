@@ -1,0 +1,36 @@
+
+
+<!-- preamble start -->
+<header class="triheader">
+<img src="leftri.svg" style="height:30px" alt="leftri">
+<p class="preamble-title">
+2nd Vu circumcevian-orthocenter perspectors and trilinear poles: X(38336)-X(38343)
+</p>
+<img src="rightri.svg" style="height:30px" alt="rightri">
+</header>
+<div class="preamble-sect">
+<p>
+This preamble is based on notes from Vu Thanh Tung, May 10, 2020.<br>
+<p>
+As in the preamble just before X(38331), let P = p : q : r (barycentrics), and let <br>
+A<sub>1</sub>B<sub>1</sub>C<sub>1</sub> = circumcevian triangle of P<br>
+H<sub>bc</sub> = orthocenter of PB<sub>1</sub>C, and define H<sub>ca</sub> and H<sub>ab</sub> cyclically<br>
+H<sub>cb</sub> = orthocenter of PC<sub>1</sub>B, and define H<sub>ac</sub> and H<sub>ba</sub> cyclically<br>
+A' = H<sub>ca</sub>H<sub>ac</sub>&cap;H<sub>ab</sub>H<sub>ba</sub>, and define B' and C' cyclically.<br>
+Then A'B'C' is perspective to A<sub>1</sub>B<sub>1</sub>C<sub>1</sub>, and the perspector, here named the 2nd Vu circumcevian-orthocenter perspector of P, denoted by V<sub>2</sub>2(P).  The points P, V(P), V<sub>2</sub>(P) are collinear in a line d(P), here named the Vu circumcevian-orthocenter perspectrix.  The trilinear pole of d(P) is denoted by T(P).  Barycentrics for V(P) are given in the preamble just before X(38331), and barycentrics for V<sub>2</sub>(P) and T(P) are given <a href="VuBarycentricsPreambleX(38336).txt"><b>here</b></a>.
+</p>
+<p>
+See <a href="SecondVuCircumcevianOrthocenterPerspector.pdf"><b>Second Vu Circumcevian-Orthocenter Perspector</b></a>.
+</p>
+<p>.
+The appearance of (i,j) in the following list means that V<sub>2</sub>(X(i)) = X(j):  (1,38336), (2,38337), (3,3), (4,6242), (6,38339), (25,38338).
+</p>
+
+The appearance of (i,j) in the following list means that T(X(i)) = X(j):  (1,38340), (2,38341), (4,38342), (6,38343)
+<hr class="end-preamble">
+</div>
+<p>
+If T<sub>X</sub>=pedal-of-X and T<sub>U</sub>=pedal-of-U, then E(T<sub>X</sub>,T<sub>U</sub>) is the orthopole of line XU.  (Randy Hutson, May 19, 2020)
+</p>
+
+<!-- End preamble -->

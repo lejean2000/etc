@@ -1,0 +1,38 @@
+<h3 id="X39388">X(39388) = EULER LINE INTERCEPT OF X(39)X(13638)</h3>
+Barycentrics &nbsp;&nbsp; 3*a^4-4*(b^2+c^2)*a^2+(b^2-c^2)^2+2*(a^2+b^2+c^2)*S : :
+<br>
+Barycentrics &nbsp;&nbsp; (SA-S)*(SB+SC-S) : :
+<p>
+As a point on the Euler line, X(39388) has Shinagawa coefficients (E+F-2*S, S)
+</p>
+<p>
+See X(39387).
+</p>
+<p>
+Let DEF be the outer Vecten triangle and let V be the outer Vecten circle.  Let U be the circle having diameter BC, and let A'' be the point of intersection, other than D, of U and V.  Define B'' and C'' cyclically.  The triangle A''B''C'' is perspective to ABC, and the perspector is X(39388).  For the "inner version", see X(39837).  See also <a href="TriangleCentersAroundVectenCircles.pdf">Triangle centers around Vecten circles</a>. (Stanis&lstrok;aw Majchrzak, June 24, 2021)
+</p>
+<p>
+
+X(39388) lies on these lines: {2,3}, {39,13638}, {69,13935}, {99,13926}, {230,32494}, {372,491}, {486,489}, {487,3069}, {488,5591}, {490,640}, {492,1078}, {597,31454}, {615,637}, {638,1152}, {639,32807}, {1271,32818}, {1587,15884}, {1991,3594}, {3068,6421}, {3102,5418}, {3618,9540}, {6119,6565}, {6179,35684}, {6290,8982}, {6454,32421}, {6460,26362}, {7796,32809}, {7881,35256}, {9606,32787}, {12221,13939}, {12256,26521}, {12296,26331}, {13757,35813}, {13821,35823}, {13846,31492}, {23311,32790}, {33341,33347}, {33351,33361}, {33353,33359}, {33367,33443}, {33369,33441}
+</p>
+<p>
+X(39388) = reflection of X(32488) in X(32490)<br>
+X(39388) = anticomplement of X(32490)<br>
+X(39388) = complement of X(32488)<br>
+X(39388) = barycentric product X(i)*X(j) for these {i, j}: {99, 14326}, {487, 1586}, {491, 3069}<br>
+X(39388) = barycentric quotient X(i)/X(j) for these (i, j): (372, 494), (487, 11091), (491, 5491), (1586, 24243)<br>
+X(39388) = trilinear product X(i)*X(j) for these {i, j}: {662, 14326}, {1586, 19216}<br>
+X(39388) = trilinear quotient X(1586)/X(19217)<br>
+X(39388) = intersection, other than A,B,C, of conics {{A, B, C, X(2), X(487)}} and {{A, B, C, X(3), X(24245)}}<br>
+X(39388) = X(i)-reciprocal conjugate of-X(j) for these (i,j): (372, 494), (487, 11091), (491, 5491), (1586, 24243)<br>
+X(39388) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): (2, 631, 39387), (2, 1600, 1586), (2, 11293, 5), (2, 32489, 1656), (3, 7807, 39387), (3, 11316, 2), (3, 36655, 20), (3, 37466, 6811), (4, 32989, 39387), (140, 11285, 39387), (632, 32491, 2), (3525, 7375, 2), (3530, 8366, 39387), (3526, 11313, 2)<br>
+</p>
+
+
+
+
+
+
+
+
+

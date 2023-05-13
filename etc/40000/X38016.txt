@@ -1,0 +1,12 @@
+<h3 id="X38016">X(38016) = PERSPECTOR OF THESE TRIANGLES: ABC AND  MEDIAL-OF-3RD-VIJAY-PAASCHE-HUTSON</h3>
+Barycentrics &nbsp;&nbsp; 4 R^2 + 4 R a - S : :
+<p>
+See <a href="X(38016).pdf"><b>X(38016)</b></a>.  (Dasari Naga Vijay Krishna)
+</p>
+<p>
+X(38016) lies on these lines: {1,2}, {390,1600}, {496,6805}, {999,6806}, {1056,1592}, {1058,1584}, {1599,5265}, {5261,15233}, {7373,15235}, {37881,37994}</p>
+<p>
+X(38016) = {X(3083), X(3086)}-harmonic conjugate of X(2)<br>
+</p>
+
+

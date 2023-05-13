@@ -1,0 +1,57 @@
+
+<!-- preamble start -->
+<header class="triheader">
+<img src="leftri.svg" style="height:30px" alt="leftri">
+<p class="preamble-title">
+Circlecevian Perspectors: X(39389)-X(39401)
+</p>
+<img src="rightri.svg" style="height:30px" alt="rightri">
+</header>
+<div class="preamble-sect">
+<p>
+This preamble and centers X(39389)-X(39401) are contributed by Vu Thanh Tung, Auguist 21, 2020.
+</p>
+<p>
+The circlecevian triangle of a point is defined in the preamble just before X(37841), as follows:
+</p>
+
+<blockquote>
+Let P = p:q:r (barycentrics) be a point in the plane of a triangle ABC. Let A' be the point, other than P, in which the line AP meets the circle (PBC), and define B' and C' cyclically; the triangle A'B'C' is called the circlecevian triangle of P with respect to triangle ABC by Floor van Lamoen (Hyacinthos #10039); see the preambles just before X(34520) and X(34892).
+</blockquote>
+
+<p>
+Let A<sub>1</sub>B<sub>1</sub>C<sub>1</sub> be the circlecevian triangle of P. Let A<sub>2</sub> be the point, other than A, of intersection of the circles (ABC) and AB<sub>1</sub>C<sub>1</sub>), and define B<sub>2</sub> and C<sub>2</sub> cyclically. Let A<sub>3</sub> = BB<sub>2</sub>&cap;CC<sub>2</sub>, and define B<sub>3</sub> and C<sub>3</sub> cyclically. Theb ABC is perspective to A<sub>3</sub>B<sub>3</sub>C<sub>3</sub>, and the perspector, here named the
+<b>circlecevian perspector of P</b>,  is given by
+</p>
+<p>
+V(P) = a^2 (c^2 p q^2 + b^2 p^2 r + 2 b^2 p q r + a^2 q^2 r +  b^2 p r^2) (c^2 p^2 q + c^2 p q^2 + 2 c^2 p q r + b^2 p r^2 +  a^2 q r^2) : :
+</p>
+<p>
+Let P*  be the isogonal conjugate of P; then V(P) = V(P*).
+</p>
+<p>
+See <a href="CirclecevianPerspector.pdf"><b>Circlecevian Perspector</b></a>.  (Vu Thanh Tung)
+</p>
+<p>
+The appearance of (i,j) in the following list means that V(X(i)) = X(j):
+</p>
+<p>
+(1,1),<br>
+(2,39389), (6,39389),<br>
+(3,54), (4,54),<br>
+(5,39390), (54,39390),<br>
+(7,39391), (55,39391),<br>
+(8,39392), (56,39392),<br>
+(9,39393), (57,39393),<br>
+(10,39394), (58,39394),<br>
+(31,39395), (75,39395),<br>
+(32,39396), (76,39396),<br>
+(39,39397), (83,39397),<br>
+(141,39398), (251,39398),<br>
+(560,39399), (561,39399),<br>
+(1501,39400), (1502,39401),<br>
+(1917,39401), (1928,39401)<br>
+</p>
+<hr class="end-preamble">
+</div>
+<!-- preamble end -->

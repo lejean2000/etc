@@ -1,0 +1,10 @@
+<h3 id="X38824">X(38824) = X(561)-CEVA CONJUGATE OF X(38813)</h3>
+Barycentrics &nbsp;&nbsp; a^2 (a + b) (a^2 - a b + b^2) (a + c) (a^2 - a c + c^2) (a^11 - b^11 + a^5 b^3 c^3 - b^8 c^3 - b^3 c^8 - c^11 + a^8 (b^3 + c^3) - a^3 (b^8 + b^5 c^3 + b^3 c^5 + c^8)) : :
+<p>
+X(38824) lies on these lines: {}
+</p>
+<p>
+X(38824) = X(561)-Ceva conjugate of X(38813)<br>
+</p>
+
+

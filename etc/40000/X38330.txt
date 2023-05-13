@@ -1,0 +1,13 @@
+<h3 id="X38330">X(38330)&nbsp;=&nbsp; EULER LINE INTERCEPT OF X(519)X(27871)</h3>
+Barycentrics &nbsp;&nbsp; 2 a^7+2 a^6 (b+c)-(b-c)^2 (b+c)^3 (b^2+3 b c+c^2)+a^5 (b^2+6 b c+c^2)-a (b^2-c^2)^2 (4 b^2+9 b c+4 c^2)+4 a^4 (b^3+b^2 c+b c^2+c^3)+a^3 (b^4+3 b^3 c+6 b^2 c^2+3 b c^3+c^4)-a^2 (5 b^5+2 b^4 c-9 b^3 c^2-9 b^2 c^3+2 b c^4+5 c^5) : :
+<p>
+As a point on the Euler line, X(38330) has Shinagawa coefficients (20 r^4 + 32 r^3 R + S^2, -12 r^4 + 9 S^2).
+</p>
+<p>
+See Kadir Altintas and Ercole Suppa, <a href="https://groups.io/g/euclid/message/865"><b>Euclid 865 </b></a>.
+</p>
+<p>
+X(38330) lies on these lines: {2,3}, {519,27871}, {524,17733}, {542,946}, {2796,15349}, {3178,18480}, {18357,20653}, {22791,27368}, {32431,34528}
+</p>
+
+

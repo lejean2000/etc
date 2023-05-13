@@ -1,0 +1,12 @@
+<h3 id="X39334">X(39334) = PERSPECTOR OF THE 16TH AND 31ST VIJAY-PAASCHE-HUTSON TRIANGLES</h3>
+Barycentrics &nbsp;&nbsp; (49*a^2*b^2*c^2 + 168*R*a*b^2*c^2 + 128*R^2*b^2*c^2 + 126*R*a^2*b*c^2 + 428*R^2*a*b*c^2 + 320*R^3*b*c^2 + 80*R^2*a^2*c^2 + 264*R^3*a*c^2 + 192*R^4*c^2 + 126*R*a^2*b^2*c + 428*R^2*a*b^2*c + 320*R^3*b^2*c + 316*R^2*a^2*b*c + 1056*R^3*a*b*c + 768*R^4*b*c + 200*R^3*a^2*c + 640*R^4*a*c + 448*R^5*c + 80*R^2*a^2*b^2 + 264*R^3*a*b^2 +
+192*R^4*b^2 + 200*R^3*a^2*b + 640*R^4*a*b + 448*R^5*b + 128*R^4*a^2 + 384*R^5*a + 256*R^6 ) : :
+<p>
+See <a href="X39334.pdf"><b>X(39334)</b></a>.  (Dasari Naga Vijay Krishna)
+</p>
+<p>
+X(39334) lies on these lines: {}
+</p>
+
+
+

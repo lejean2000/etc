@@ -1,0 +1,50 @@
+
+
+<!-- preamble start -->
+<header class="triheader">
+<img src="leftri.svg" style="height:30px" alt="leftri">
+<p class="preamble-title">
+Centers of Vu pedal-centroidal circles: X(38317)-X(38319)
+</p>
+<img src="rightri.svg" style="height:30px" alt="rightri">
+</header>
+<div class="preamble-sect">
+<p>
+This preamble is based on notes from Vu Thanh Tung, May 4, 2020.<br>
+<p>
+Let P = p : q : r (barycentrics) be a point in the plane of a triangle ABC.  Let
+</p>
+<p>
+G = X(2) = centroid of ABC<br>
+A<sub>0</sub>B<sub>0</sub>C<sub>0</sub> = medial triangle of ABC<br>
+A<sub>1</sub>B<sub>1</sub>C<sub>1</sub> = pedal triangle of P<br>
+A<sub>2</sub> = centroid of A<sub>1</sub>B<sub>0</sub>C<sub>0</sub><br>
+B<sub>2</sub> = centroid of B<sub>1</sub>A<sub>0</sub>C<sub>0</sub><br>
+C<sub>2</sub> = centroid of C<sub>1</sub>A<sub>0</sub>B<sub>0</sub><br>
+</p>
+<p>
+The points G, A<sub>2</sub>, B<sub>2</sub>, C<sub>2</sub> lie on a circle, here named the <b>Vu pedal-centroidal circle of P</b>.  The center of this circle is the point
+</p>
+<p>
+V(P) = a^4 (2 p + q + r) + (b^2 - c^2)^2 (3 p + 2 (q + r)) -  a^2 (b^2 + c^2) (5 p + 3 (q + r)) : :
+</p>
+<p>
+See <a href="PedalCentroidCircle.pdf"><b>PedalCentroidCircle</b></a>
+</p>
+<p>
+The appearance of (i,j) in the following list means that V(X(i)) = X(j): <br>
+(1,11230), (2,15699), (3,2), (4,5), (5,547), (6,38317), (7,38171), (8,38042), (9,38318), (10,10172), (11,38319), (20,549), (74,34128), (98,34127), (140, 3628), (376, 11539), (381, 5055), (382, 381)
+</p>
+<p>
+If P* is the circumcircle-inverse of P, then the Vu pedal-centroidal circles of P and P* are tangent at X(2). (Randy Hutson, May 5, 2020)
+</p>
+<p>
+If P lies on the Euler line, then V(P) also lies on the Euler line.  If P lies on the line at infinity, then V(P) = P. (Randy Hutson, May 5, 2020)
+</p>
+
+<p>
+V maps the circumcircle onto the circle of the points V(X(104)) = X(34126), V(X(98)) = X(34127), and V(X(74)) = X(32128); the center of this circle is X(2). (Randy Hutson, May 5, 2020)
+</p>
+<hr class="end-preamble">
+</div>
+<!-- preamble end -->

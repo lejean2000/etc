@@ -1,0 +1,63 @@
+<!-- preamble start -->
+<header class="triheader">
+<img src="leftri.svg" style="height:30px" alt="leftri">
+<p class="preamble-title">
+Stationary points of Hutson right hyperbolas: X(38001), X(38002)
+</p>
+<img src="rightri.svg" style="height:30px" alt="rightri">
+</header>
+<div class="preamble-sect">
+<p>
+This preamble is based on notes from Randy Hutson and Peter Moses, contributed by Clark Kimberling, April 26, 2020.<br>
+<p>
+The following note is copied from X(37904).  "Let P and P' be circumcircle antipodes.  Let Q be the midpoint of X(2) and P.  Let Q' be the midpoint of X(2) and P'.  The rectangular hyperbola passing through P, P', Q, Q' has center X(37904) for all P.  (Randy Hutson, April 24, 2020)".
+</p>
+<p>
+There are two stationary points on the family of Hutson rectangular hyperbolas, and on the Euler line, as can be seen by dragging P around the circumcircle in this GeoGebra diagram: <a href="HutsonRightHyperbolas.ggb"><b>Hutson Right Hyperbolas</b></a>. (Peter Moses, April 26, 2020)
+</p>
+<p>
+Let HRH(P) denote the Hutson right hyperbola of P. <br>
+HRH(X(74) passes through X(i) for these i: 74, 110, 2574, 2575, 2930, 5642, 5646, 38001, 38002. <br>
+HRH(X(98)) passes through X(i) for these i: 98, 99, 2482, 6055, 38001, 38002.<br>
+HRH(X(111)) passes through X(i) for these i: 111, 1296, 9172, 33900, 38001, 38002.<br>
+</p>
+<p>
+For P = p : q : r (barycentrics) on the circumcircle, let
+</p>
+<p>
+h(a,b,c,p,q,r,x,y,z) = (a^2 - 5*b^2 - 5*c^2)*(2*a^2*b^2*c^2*p*(-q + r) - c^2*(a^2 + b^2 - c^2)*(a^2 + c^2)*q^2 - 2*b^2*(b^2 - c^2)*c^2*q*r + b^2*(a^2 + b^2)*(a^2 - b^2 + c^2)*r^2)*x^2 - (a^4 - b^4 + 10*b^2*c^2 - c^4)*((b^4 - c^4)*p^2 + 2*a^2*p*(b^2*q - c^2*r) + a^2*(a^2 + c^2)*q^2 - a^2*(a^2 + b^2)*r^2)*y*z
+</p>
+<p>
+An equation for HRH(P) is
+</p>
+<p>
+h(a,b,c,p,q,r,x,y,z) + H(b,c,a,q,r,p,y,z,x) + H(c,a,b,r,p,q,z,x,y) = 0.
+</p>
+
+The family of Hutson right hyperbolas can be generalized by replacing X(2) in the definition of HRH(P) by U = u : v : w.  Let
+
+<p>
+H(a,b,c,u,v,w,p,q,r,x,y,z) = (c^2*(a^2 + b^2 - c^2)*(a^2 + c^2)*q^2 + 2*a^2*b^2*c^2*p*(q - r) + 2*b^2*c^2*(b^2 - c^2)*q*r - b^2*(a^2 + b^2)*(a^2 - b^2 + c^2)*r^2)*(c^2*u*v + 2*c^2*v^2 + b^2*u*w - (a^2 - 2*b^2 - 2*c^2)*v*w + 2*b^2*w^2)*x^2 -
+((b^4 - c^4)*p^2 + a^2*(a^2 + c^2)*q^2 - a^2*(a^2 + b^2)*r^2 + 2*a^2*p*(b^2*q - c^2*r))*(4*b^2*c^2*u^2 + c^2*(a^2 + 3*b^2 - c^2)*u*v + b^2*(a^2 - b^2 + 3*c^2)*u*w + a^2*(a^2 - b^2 - c^2)*v*w)*y*z
+</p>
+<p>
+Then the general right hyperbola is given by
+</p>
+<p>
+H(a,b,c,u,v,w,p,q,r,x,y,z) + h(b,c,a,v,w,u,q,r,p,y,z,x) + h(c,a,b,w,u,v,r,p,q,z,x,y) = 0,
+</p>
+
+with the following point, independent of P, as center:
+
+<p>
+4*a^2*b^2*c^2*u^3 + c^2*(4*a^4 + 3*a^2*b^2 + b^4 - 5*a^2*c^2 - 2*b^2*c^2 + c^4)*u^2*v + a^2*c^2*(3*a^2 + b^2 - 3*c^2)*u*v^2 + b^2*(4*a^4 - 5*a^2*b^2 + b^4 + 3*a^2*c^2 - 2*b^2*c^2 + c^4)*u^2*w + 2*a^2*(2*a^4 - a^2*b^2 - b^4 - a^2*c^2 - c^4)*u*v*w + 3*a^4*(a^2 - b^2 - c^2)*v^2*w + a^2*b^2*(3*a^2 - 3*b^2 + c^2)*u*w^2 + 3*a^4*(a^2 - b^2 - c^2)*v*w^2 : :
+</p>
+<p>
+and two stationary points on the line UX(3).  The midpoint of the two points is the center of the hyperbola. As an example, for U = X(4), the center is X(468) and the stationary points are X(5000) and X(5001), and if P = X(74), then the hyperbola is the Walsmith rectangular hyperbola. (Peter Moses, April 26, 2020)
+</p>
+<p>
+The general hyperbola is denoted by (U,P)-MHRH and here named the <b>(U,P)-Moses-Hutson right hyperbola</b>.  For further examples, see X(38010)-X(38014).
+</p>
+<hr class="end-preamble">
+</div>
+<!-- preamble end -->

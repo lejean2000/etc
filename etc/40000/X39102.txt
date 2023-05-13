@@ -1,0 +1,13 @@
+<h3 id="X39102">X(39102) = CROSSSUM OF CIRCUMCIRCLE-INTERCEPTS OF PU(192)</h3>
+Barycentrics &nbsp;&nbsp; (a^8 - a^4 (b^4 + 5 b^2 c^2 + c^4) + 2 a^2 (b^2 + c^2) (b^4 - b^2 c^2 + c^4) + b^2 c^2 (b^4 + c^4)) (a^8 - 3 a^6 (b^2 + c^2) - 5 a^4 b^2 c^2 + a^2 (b^6 + 5 b^2 c^4 + 5 b^4 c^2 + c^6) - b^8 - b^6 c^2 + 2 b^4 c^4 - b^2 c^6 - c^8) : :<br>
+<p>
+X(39102) lies on the rectangular bicevian hyperbola of X(2) and X(99) (with center X(620)) and these lines: {39, 36849}, {114, 35375}, {4027, 21445}, {10997, 39096}
+</p>
+<p>
+X(39102) = crosssum of circumcircle-intercepts of PU(192)<br>
+X(39102) = X(2)-Ceva conjugate of X(39101)<br>
+</p>
+
+
+
+

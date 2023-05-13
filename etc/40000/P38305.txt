@@ -1,0 +1,41 @@
+
+
+<!-- preamble start -->
+<header class="triheader">
+<img src="leftri.svg" style="height:30px" alt="leftri">
+<p class="preamble-title">
+Vu antipedal translations: X(38305)-X(38309)
+</p>
+<img src="rightri.svg" style="height:30px" alt="rightri">
+</header>
+<div class="preamble-sect">
+<p>
+This preamble is based on notes from Vu Thanh Tung, May 1, 2020.<br>
+<p>
+Let P = p : q : r (barycentrics) be a point in the plane of a triangle ABC, but not on the circumcircle.  Let
+</p>
+<p>
+A'B'C' = antipedal triangle of P<br>
+V = 2 * vector OP'<br>
+A<sub>1</sub>B<sub>1</sub>C<sub>1</sub> = V(A'B'C')
+</p>
+<p>
+Then  A<sub>1</sub>B<sub>1</sub>C<sub>1</sub> is perspective to ABC, and the perspector, here named the <b>Vu antipedal translation of P</b>, is the point
+</p>
+<p>
+V(P) =  1 / ( c^4 q (2 p - r) + b^4 (2 p - q) r - 3 a^4 q r - 2 a^2 (c^2 q (p - 2 r) + b^2 (p - 2 q) r) + 2 b^2 c^2 (q r + p (q + r)) ) : :
+</p>
+<p>
+See <a href="VuAntipedalTranslation.pdf"><b>Vu Antipedal Translation</b></a>.
+</p>
+<p>
+The appearance of (i,j) in the following list means that V(X(i)) = X(j): <br>
+(1,3577), (2,14484), (4,4), (5,38305), (6,3531), (7,38306), (8,38307), (9,38308), (10,38309)
+</p>
+<p>
+See the preamble just before X(38005) for Vu pedal translation.
+</p>
+
+<hr class="end-preamble">
+</div>
+<!-- preamble end -->
