@@ -1,0 +1,22 @@
+Y(11574)
+
+X(111)X(901)∩X(6)X(35116)
+
+Barycentrics    a^2*(a-b)*(a-c)*(a^4+a^2*b*c-a^3*(b+c)+2*a*(b-c)^2*(b+c)-2*(b-c)^2*(b^2+b*c+c^2))
+
+Y(11574) lies on these lines: {2, Z55735}, {6, 35116}, {59, Z28400}, {101, 6586}, {109, Z17461}, {111, 901}, {665, Z1404}, {919, Z32078}, {1637, Z28223}, {3230, 19624}, {5029, 32719}, {34075, Z1665}, {Z31437, Z31448}
+
+Y(11574) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2), X(52986)}}, {{A, B, C, X(101), X(10708)}}, {{A, B, C, Z(2248), Z(17461)}}
+
+Y(11574) = X(i)-isoconjugate-of-X(j) for these {i, j}: {513, Z43736}, {693, Z5037}
+
+Y(11574) = X(i)-Dao conjugate of X(j) for these {i, j}: {39026, Z43736}
+
+Y(11574) = barycentric product X(i)*X(j) for these (i, j): {101, 10708}
+
+Y(11574) = barycentric quotient X(i)/X(j) for these (i, j): {101, Z43736}, {10708, 3261}, {32739, Z5037}
+
+Y(11574) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {101, 39026, 52986}, {101, 52986, 23990}, {6586, 52986, 101}
+
+Y(11574) = center of mutual polar conic of ABC and X(101)-circumconcevian triangle of X(101)
+

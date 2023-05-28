@@ -1,0 +1,20 @@
+Y(11571)
+
+X(95)X(140)∩X(2)X(18831)
+
+Barycentrics    (a^4+b^4-b^2*c^2-a^2*(2*b^2+c^2))*(a^4-b^2*c^2+c^4-a^2*(b^2+2*c^2))*(a^8+a^6*(b^2+c^2)+7*a^2*(b^2-c^2)^2*(b^2+c^2)-(b^2-c^2)^2*(2*b^4-3*b^2*c^2+2*c^4)-a^4*(7*b^4+b^2*c^2+7*c^4))
+
+Y(11571) lies on these lines: {2, 18831}, {95, 140}, {276, Z28299}, {401, 4993}, {3526, 31617}, {14165, Z72913}, {16239, Z49729}, {Z22326, Z45041}, {Z43069, Z82863}, {Z72217, Z73612}
+
+Y(11571) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2), X(52984)}}, {{A, B, C, X(19210), Z(28299)}}
+
+Y(11571) = X(i)-isoconjugate-of-X(j) for these {i, j}: {2179, Y11}
+
+Y(11571) = barycentric product X(i)*X(j) for these (i, j): {34384, Y11337}
+
+Y(11571) = barycentric quotient X(i)/X(j) for these (i, j): {95, Y11}, {Y11337, 51}
+
+Y(11571) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {95, 52984, Z67605}, {140, 52984, 95}
+
+Y(11571) = center of mutual polar conic of ABC and X(95)-circumconcevian triangle of X(95)
+

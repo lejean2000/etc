@@ -1,0 +1,24 @@
+Y(11570)
+
+X(92)X(226)∩X(2)X(18026)
+
+Barycentrics    b*c*(a^2+b^2-c^2)*(a^2-b^2+c^2)*(a^4*b*c+2*a^5*(b+c)-b*c*(b^2-c^2)^2-4*a^3*(b^3+c^3)+2*a*(b^5-b^4*c-b*c^4+c^5))
+
+Y(11570) lies on these lines: {2, 18026}, {92, 226}, {264, 31019}, {275, 37543}, {908, 52147}, {1785, 11019}, {1896, 5714}, {1947, 31266}, {1948, 31164}, {3936, Z35945}, {15466, 31053}, {16608, 43462}, {17863, 33146}
+
+Y(11570) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2), X(52982)}}
+
+Y(11570) = polar conjugate of Y(1)
+
+Y(11570) = X(i)-isoconjugate-of-X(j) for these {i, j}: {48, Y1}, {184, Y2905}
+
+Y(11570) = X(i)-Dao conjugate of X(j) for these {i, j}: {1249, Y1}
+
+Y(11570) = barycentric product X(i)*X(j) for these (i, j): {1969, Y11313}
+
+Y(11570) = barycentric quotient X(i)/X(j) for these (i, j): {4, Y1}, {92, Y2905}, {Y11313, 48}
+
+Y(11570) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {92, 52982, 2052}, {226, 52982, 92}
+
+Y(11570) = center of mutual polar conic of ABC and X(92)-circumconcevian triangle of X(92)
+

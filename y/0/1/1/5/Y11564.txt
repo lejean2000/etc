@@ -1,0 +1,12 @@
+Y(11564)
+
+X(44)X(80)∩X(6)X(34232)
+
+Barycentrics    (a^2-a*b+b^2-c^2)*(a^2-b^2-a*c+c^2)*(5*a^4-3*a^3*(b+c)+a^2*(-4*b^2+5*b*c-4*c^2)-(b^2-c^2)^2+a*(3*b^3-b^2*c-b*c^2+3*c^3))
+
+Y(11564) lies on these lines: {2, Z55733}, {6, 34232}, {44, 80}, {655, 5723}, {672, 2161}, {2222, 3196}, {4370, 51562}, {12034, 38954}, {17796, Z8743}, {35466, Z9464}
+
+Y(11564) = intersection, other than A, B, C, of circumconics {{A, B, C, Z(24962), Z(28321)}}
+
+Y(11564) = center of mutual polar conic of ABC and X(80)-circumconcevian triangle of X(80)
+

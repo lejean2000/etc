@@ -1,0 +1,16 @@
+Y(11533)
+
+X(15)X(18)∩X(2)X(11082)
+
+Barycentrics    5*a^8+4*(b^2-c^2)^4-22*a^6*(b^2+c^2)-20*a^2*(b^2-c^2)^2*(b^2+c^2)+3*a^4*(11*b^4+8*b^2*c^2+11*c^4)+2*sqrt(3)*(3*a^6-3*a^4*(b^2+c^2)+2*(b^2-c^2)^2*(b^2+c^2)-2*a^2*(b^4+4*b^2*c^2+c^4))*S
+
+Y(11533) lies on these lines: {2, 11082}, {15, 18}, {298, Z41993}, {8173, 37835}, {8604, 44382}, {11601, 16242}, {16645, 36305}, {22848, 34322}, {36301, 43028}, {37850, 48365}
+
+Y(11533) = barycentric product X(i)*X(j) for these (i, j): {18, 50860}
+
+Y(11533) = barycentric quotient X(i)/X(j) for these (i, j): {18, Z80991}, {50860, 303}
+
+Y(11533) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {23303, 40668, 18}
+
+Y(11533) = center of mutual polar conic of ABC and X(18)-circumconcevian triangle of X(18)
+

@@ -1,0 +1,24 @@
+Y(11542)
+
+X(32)X(206)∩X(2)X(4577)
+
+Barycentrics    a^8-2*a^4*(b^4+c^4)
+
+Y(11542) lies on these lines: {2, 4577}, {32, 206}, {184, 1084}, {3117, 18374}, {3229, 19127}, {5063, 11672}, {9418, 34416}, {14602, 34811}, {32740, Z27406}, {33875, Z7079}
+
+Y(11542) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2), X(52958)}}, {{A, B, C, X(32), X(7818)}}, {{A, B, C, X(9233), Z(23385)}}, {{A, B, C, Z(34931), Z(35189)}}
+
+Y(11542) = perspector of circumconic {{A, B, C, X(4630), Z(65340)}}
+
+Y(11542) = X(i)-isoconjugate-of-X(j) for these {i, j}: {75, Z41062}, {561, Z3516}
+
+Y(11542) = X(i)-Dao conjugate of X(j) for these {i, j}: {206, Z41062}, {40368, Z3516}
+
+Y(11542) = barycentric product X(i)*X(j) for these (i, j): {32, 7818}
+
+Y(11542) = barycentric quotient X(i)/X(j) for these (i, j): {32, Z41062}, {1501, Z3516}, {7818, 1502}
+
+Y(11542) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {32, 206, 52958}, {206, 8265, 9233}, {8265, 52958, 32}
+
+Y(11542) = center of mutual polar conic of ABC and X(32)-circumconcevian triangle of X(32)
+

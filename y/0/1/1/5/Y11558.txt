@@ -1,0 +1,22 @@
+Y(11558)
+
+X(67)X(187)∩X(32)X(14357)
+
+Barycentrics    (a^4-a^2*b^2+b^4-c^4)*(a^4-b^4-a^2*c^2+c^4)*(5*a^8-3*a^6*(b^2+c^2)+a^4*(-4*b^4+5*b^2*c^2-4*c^4)-(b^4-c^4)^2+a^2*(3*b^6-b^4*c^2-b^2*c^4+3*c^6))
+
+Y(11558) lies on these lines: {32, 14357}, {67, 187}, {230, 46338}, {237, 3455}, {935, 6103}, {2482, 17708}, {32640, Z35224}, {Z5280, Z24976}
+
+Y(11558) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2), X(52974)}}, {{A, B, C, X(67), X(34319)}}, {{A, B, C, X(52153), Z(5280)}}
+
+Y(11558) = X(i)-isoconjugate-of-X(j) for these {i, j}: {16568, Z22407}
+
+Y(11558) = X(i)-Dao conjugate of X(j) for these {i, j}: {15900, Z65698}
+
+Y(11558) = barycentric product X(i)*X(j) for these (i, j): {34319, 67}
+
+Y(11558) = barycentric quotient X(i)/X(j) for these (i, j): {67, Z65698}, {3455, Z22407}, {34319, 316}
+
+Y(11558) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {67, 15900, 52974}
+
+Y(11558) = center of mutual polar conic of ABC and X(67)-circumconcevian triangle of X(67)
+

@@ -1,0 +1,22 @@
+Y(11567)
+
+X(2)X(4569)∩X(85)X(142)
+
+Barycentrics    b*(a+b-c)*c*(a-b+c)*(-(b*(b-c)^2*c)+2*a^3*(b+c)+2*a*(b-c)^2*(b+c)+a^2*(-4*b^2+b*c-4*c^2))
+
+Y(11567) lies on these lines: {2, 4569}, {37, Z8481}, {85, 142}, {883, Y11561}, {1376, 6606}, {4389, 9436}, {4554, 42697}, {6173, 40864}, {17234, 50560}, {34085, Z29917}, {Z35682, Z36653}, {Z35691, Z72077}, {Z38185, Z49847}
+
+Y(11567) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2), X(52980)}}, {{A, B, C, X(85), X(31169)}}
+
+Y(11567) = X(i)-isoconjugate-of-X(j) for these {i, j}: {41, Y52}, {55, Z20154}, {2175, Y2865}, {20229, Z7175}
+
+Y(11567) = X(i)-Dao conjugate of X(j) for these {i, j}: {223, Z20154}, {3160, Y52}, {40593, Y2865}
+
+Y(11567) = barycentric product X(i)*X(j) for these (i, j): {14519, Z36630}, {20567, Y11339}, {31169, 85}
+
+Y(11567) = barycentric quotient X(i)/X(j) for these (i, j): {7, Y52}, {57, Z20154}, {85, Y2865}, {14519, 2293}, {21453, Z7175}, {31169, 9}, {Y11339, 41}, {Z36630, Z47386}
+
+Y(11567) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {85, 40593, 52980}, {142, 40593, Z7410}, {142, 52980, 85}
+
+Y(11567) = center of mutual polar conic of ABC and X(85)-circumconcevian triangle of X(85)
+

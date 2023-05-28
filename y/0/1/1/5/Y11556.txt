@@ -1,0 +1,22 @@
+Y(11556)
+
+X(2)X(32038)∩X(65)X(2092)
+
+Barycentrics    a^2*(a+b-c)*(a-b+c)*(b+c)*(-3*b^3-4*a*b*c-b^2*c-b*c^2-3*c^3+3*a^2*(b+c))
+
+Y(11556) lies on these lines: {2, 32038}, {6, 38864}, {55, Y11552}, {65, 2092}, {1388, 17053}, {1400, 20970}, {1420, 2277}, {2197, 21796}, {43718, Z35173}
+
+Y(11556) = intersection, other than A, B, C, of circumconics {{A, B, C, X(65), X(31165)}}
+
+Y(11556) = X(i)-isoconjugate-of-X(j) for these {i, j}: {284, Z62770}, {333, Z20150}
+
+Y(11556) = X(i)-Dao conjugate of X(j) for these {i, j}: {40590, Z62770}
+
+Y(11556) = barycentric product X(i)*X(j) for these (i, j): {31165, 65}
+
+Y(11556) = barycentric quotient X(i)/X(j) for these (i, j): {65, Z62770}, {1402, Z20150}, {31165, 314}
+
+Y(11556) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {2092, 40590, Z2982}
+
+Y(11556) = center of mutual polar conic of ABC and X(65)-circumconcevian triangle of X(65)
+

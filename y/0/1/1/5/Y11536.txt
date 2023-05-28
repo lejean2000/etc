@@ -1,0 +1,24 @@
+Y(11536)
+
+X(2)X(648)∩X(22)X(8743)
+
+Barycentrics    a^2*(a^4-b^4-c^4)*(a^6+2*a^4*(b^2+c^2)-2*(b^2-c^2)^2*(b^2+c^2)-a^2*(b^4+c^4))
+
+Y(11536) lies on these lines: {2, 648}, {22, 8743}, {574, 40583}, {858, 41366}, {5169, 7772}, {5359, 33872}, {7394, 7753}, {9465, 13595}, {18018, Y10779}, {52951, Z29891}
+
+Y(11536) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2), X(52950)}}, {{A, B, C, X(22), X(1494)}}, {{A, B, C, X(8743), X(16080)}}, {{A, B, C, X(8749), X(17409)}}, {{A, B, C, X(10316), X(14919)}}
+
+Y(11536) = perspector of circumconic {{A, B, C, X(16077), X(52915)}}
+
+Y(11536) = X(i)-isoconjugate-of-X(j) for these {i, j}: {2156, Z62741}, {Z404, Z20118}
+
+Y(11536) = X(i)-Dao conjugate of X(j) for these {i, j}: {32, Z20118}
+
+Y(11536) = barycentric product X(i)*X(j) for these (i, j): {22, 31133}
+
+Y(11536) = barycentric quotient X(i)/X(j) for these (i, j): {22, Z62741}, {206, Z20118}, {31133, 18018}
+
+Y(11536) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {22, 52950, 36414}, {40938, 52950, 22}
+
+Y(11536) = center of mutual polar conic of ABC and X(22)-circumconcevian triangle of X(22)
+

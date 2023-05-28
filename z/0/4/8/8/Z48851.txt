@@ -1,0 +1,21 @@
+Z(48851)
+
+X(2)X(46151)∩X(112)X(1176)
+
+Barycentrics    1/(b^2*c^2*(-a^2+b^2+c^2)*(-a^4+b^4-c^4)*(a^4+b^4-c^4)*(-a^8+b^2*c^2*(b^2-c^2)^2+a^4*(b^4-b^2*c^2+c^4)))
+
+ lies on cubic K953 and on these lines: {2, 46151}, {30, Y11499}, {112, 1176}, {325, Z47439}, {378, Z81364}, {427, 46241}, {20806, Z8344}, {Z8514, Z30919}, {Z76547, Z76548}
+ 
+ = intersection, other than A, B, C, of circumconics {{A, B, C, X(2), X(22)}}, {{A, B, C, X(30), X(14396)}}, {{A, B, C, X(98), X(2485)}}, {{A, B, C, X(112), X(11605)}}, {{A, B, C, X(206), X(264)}}, {{A, B, C, X(250), Z(22358)}}, {{A, B, C, X(305), X(19615)}}, {{A, B, C, X(523), Z(34885)}}, {{A, B, C, X(1494), X(8673)}}, {{A, B, C, X(3313), Z(4953)}}, {{A, B, C, X(9307), X(46767)}}, {{A, B, C, X(16075), X(52950)}}, {{A, B, C, X(17409), Z(10623)}}, {{A, B, C, X(18018), X(36414)}}, {{A, B, C, X(40938), Z(12685)}}, {{A, B, C, X(46241), X(46242)}}, {{A, B, C, Z(9423), Z(20362)}}
+ = reflection of X(i) in X(j) for these {i,j}: {Z41861, 427}
+ = trilinear pole of line {8673,40938}
+ = antipode of X(22) in the circumconic {A,B,C,X(2),X(22)}
+ = X(i)-isoconjugate-of-X(j) for these {i, j}: {31, 16097}, {2156, 15013}, {46243, Z404}
+ = X(i)-Dao conjugate of X(j) for these {i, j}: {2, 16097}, {32, 46243}, {127, 47205}
+ = X(i)-Ceva conjugate of X(j) for these {i, j}: {Z76550, Z7553}
+ = X(i)-cross conjugate of X(j) for these {i, j}: {15013, Z76548}
+ = barycentric product X(i)*X(j) for these (i, j): {22, 46239}, {76, Z8344}, {206, Z76550}, {315, Z7553}, {2485, Z77414}, {33294, Z30919}
+ = barycentric quotient X(i)/X(j) for these (i, j): {2, 16097}, {22, 15013}, {206, 46243}, {2485, 47205}, {46239, 18018}, {Z7553, 66}, {Z8344, 6}, {Z30919, 44766}, {Z76550, 40421}, {Z77414, Z36771}
+
+
+

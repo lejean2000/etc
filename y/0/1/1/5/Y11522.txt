@@ -1,0 +1,22 @@
+Y(11522)
+
+X(2)Z(41863)∩X(648)X(7463)
+
+Barycentrics    (a-b)*(a-c)*(2*a^2*b^2*(b-c)+a*(b-c)*c^3+b*c^2*(b^2-c^2)+a^3*(2*b^2+c^2))*(-(b^4*c)+b^2*c^3+a*b^3*(-b+c)+2*a^2*c^2*(-b+c)+a^3*(b^2+2*c^2))
+
+Y(11522) lies on these lines: {2, Z41863}, {648, 7463}, {1121, 7757}, {35519, Y2941}
+
+Y(11522) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2), X(109)}}, {{A, B, C, X(99), X(190)}}, {{A, B, C, X(274), Z(29824)}}, {{A, B, C, X(6331), Z(1448)}}, {{A, B, C, X(31624), Z(1388)}}, {{A, B, C, Y(2764), Z(27533)}}
+
+Y(11522) = reflection of X(i) in X(j) for these {i,j}: {Z41863, 2}
+
+Y(11522) = trilinear pole of line {2,375}
+
+Y(11522) = X(i)-isoconjugate-of-X(j) for these {i, j}: {650, 52904}
+
+Y(11522) = barycentric product X(i)*X(j) for these (i, j): {109, Z82827}, {664, Z35187}
+
+Y(11522) = barycentric quotient X(i)/X(j) for these (i, j): {109, 52904}, {Z35187, 522}, {Z82827, 35519}
+
+Y(11522) = antipode of X(2) in the conic {A,B,C,X(2),X(109)}
+

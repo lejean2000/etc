@@ -1,0 +1,26 @@
+Y(11523)
+
+X(2)X(46140)∩X(112)Z(28183)
+
+Barycentrics    (a-b)*(a+b)*(a-c)*(a+c)*(a^4*(2*b^2+c^2)+2*a^2*(b^4-b^2*c^2)+c^2*(b^4-c^4))*(-b^6+b^2*c^4+a^4*(b^2+2*c^2)+a^2*(-2*b^2*c^2+2*c^4))
+
+Y(11523) lies on these lines: {2, 46140}, {112, Z28183}, {290, 52672}, {376, Y11499}, {648, 46592}, {671, 31133}, {1494, 7757}, {2882, 3228}, {3267, Y2943}, {7883, 35140}, {14568, Z47806}, {41143, 53221}, {41676, Z61910}, {51224, Y11500}, {Z4213, Z36721}
+
+Y(11523) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2), X(112)}}, {{A, B, C, X(99), X(190)}}, {{A, B, C, X(538), X(2882)}}, {{A, B, C, X(598), Y(4534)}}, {{A, B, C, X(691), X(6331)}}, {{A, B, C, X(827), X(52608)}}, {{A, B, C, X(1296), X(11794)}}, {{A, B, C, X(3565), X(36827)}}, {{A, B, C, X(4235), X(31133)}}, {{A, B, C, X(10484), Z(26267)}}, {{A, B, C, X(11636), X(43188)}}, {{A, B, C, X(18818), X(39413)}}, {{A, B, C, X(30247), X(44766)}}, {{A, B, C, X(41895), Z(26095)}}, {{A, B, C, X(44326), Z(3382)}}, {{A, B, C, X(44828), Z(28527)}}, {{A, B, C, Z(3381), Z(7089)}}, {{A, B, C, Z(19537), Z(26097)}}
+
+Y(11523) = reflection of X(i) in X(j) for these {i,j}: {46140, 2}
+
+Y(11523) = trilinear pole of line {2,11188}
+
+Y(11523) = X(i)-isoconjugate-of-X(j) for these {i, j}: {656, 52905}
+
+Y(11523) = X(i)-vertex conjugate of X(j) for these {i, j}: {Z677, Z77347}
+
+Y(11523) = X(i)-Dao conjugate of X(j) for these {i, j}: {40596, 52905}
+
+Y(11523) = barycentric product X(i)*X(j) for these (i, j): {112, Z82828}, {648, Z35188}
+
+Y(11523) = barycentric quotient X(i)/X(j) for these (i, j): {112, 52905}, {Z35188, 525}, {Z82828, 3267}
+
+Y(11523) = antipode of X(2) in the conic {A,B,C,X(2),X(112)}
+

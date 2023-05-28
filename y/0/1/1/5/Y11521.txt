@@ -1,0 +1,20 @@
+Y(11521)
+
+X(2)Z(82826)∩X(648)X(4244)
+
+Barycentrics    (a-b)*(a-c)*(-b^5+b*c^4+2*a^3*c*(-b+c)+2*a^2*c^2*(-b+c)+2*a*c^3*(-b+c)+a^4*(b+2*c))*(2*a^3*b*(b-c)+2*a^2*b^2*(b-c)+2*a*b^3*(b-c)+a^4*(2*b+c)+c*(b^4-c^4))
+
+Y(11521) lies on these lines: {2, Z82826}, {648, 4244}, {6648, 40576}, {7757, Y11498}, {35518, Y2940}
+
+Y(11521) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2), X(108)}}, {{A, B, C, X(99), X(190)}}, {{A, B, C, X(6335), Z(14682)}}, {{A, B, C, X(26706), X(46640)}}
+
+Y(11521) = trilinear pole of line {2,41581}
+
+Y(11521) = X(i)-isoconjugate-of-X(j) for these {i, j}: {652, 52903}
+
+Y(11521) = barycentric product X(i)*X(j) for these (i, j): {108, Z82826}, {18026, Z35186}
+
+Y(11521) = barycentric quotient X(i)/X(j) for these (i, j): {108, 52903}, {Z35186, 521}, {Z82826, 35518}
+
+Y(11521) = antipode of X(2) in the conic {A,B,C,X(2),X(108)}
+

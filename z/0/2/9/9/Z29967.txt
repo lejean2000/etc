@@ -1,0 +1,26 @@
+Z(29967)
+
+X(2)X(39018)∩X(99)X(1994)
+
+Barycentrics    (a^6*(b^2-2*c^2)+b^2*c^2*(b^2-c^2)^2+a^4*(-2*b^4+2*b^2*c^2+4*c^4)+a^2*(b^6-4*b^4*c^2+2*b^2*c^4-2*c^6))*(-(b^2*c^2*(b^2-c^2)^2)+a^6*(2*b^2-c^2)-2*a^4*(2*b^4+b^2*c^2-c^4)+a^2*(2*b^6-2*b^4*c^2+4*b^2*c^4-c^6))
+
+ lies on these lines: {2, 39018}, {61, 32037}, {62, 32036}, {99, 1994}, {648, 3518}, {670, 7769}, {892, 44376}, {2413, 46138}, {5966, 19553}, {30529, 35139}, {34389, Y2903}, {34390, Y2904}, {35179, Z42336}, {47383, Z34738}
+
+ = intersection, other than A, B, C, of circumconics {{A, B, C, X(2), X(61)}}, {{A, B, C, X(99), X(190)}}, {{A, B, C, X(249), Z(34032)}}, {{A, B, C, X(308), X(20251)}}, {{A, B, C, X(524), X(44376)}}, {{A, B, C, X(2998), Z(2121)}}, {{A, B, C, X(7799), Z(25477)}}, {{A, B, C, X(9462), Z(20386)}}, {{A, B, C, X(20577), X(38899)}}, {{A, B, C, X(40815), Z(2040)}}, {{A, B, C, X(43535), Z(7932)}}, {{A, B, C, Y(2896), Z(606)}}, {{A, B, C, Z(3457), Z(33439)}}
+
+ = reflection of X(i) in X(j) for these {i,j}: {2, 39018}, {46139, 2}
+
+ = trilinear pole of line {2,1510}
+	
+ = antipode of X(2) in the circumconic {A,B,C,X(2),X(61)}
+
+ = X(i)-isoconjugate-of-X(j) for these {i, j}: {1, 45935}
+
+ = X(i)-Dao conjugate of X(j) for these {i, j}: {3, 45935}
+
+ = X(i)-Zayin conjugate of X(j) for these {i, j}: {1, 45935}
+
+ = barycentric product X(i)*X(j) for these (i, j): {6, Z76280}
+
+ = barycentric quotient X(i)/X(j) for these (i, j): {6, 45935}, {Z76280, 76}
+

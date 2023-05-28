@@ -1,0 +1,16 @@
+Y(11505)
+
+X(2)X(39015)∩X(190)X(1193)
+
+Barycentrics    (-(a*b^2*c^2)+b^2*c^2*(b+c)+a^3*(b^2-2*c^2)+a^2*(b^3-b^2*c+2*b*c^2-2*c^3))*(a*b^2*c^2-b^2*c^2*(b+c)+a^3*(2*b^2-c^2)+a^2*(2*b^3-2*b^2*c+b*c^2-c^3))
+
+Y(11505) lies on these lines: {2, 39015}, {56, 6648}, {99, 40153}, {190, 1193}, {593, Z28180}, {668, 3666}, {670, 16705}, {3596, Y2898}, {17108, Z3872}, {18830, 27455}
+
+Y(11505) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2), X(56)}}, {{A, B, C, X(99), X(190)}}, {{A, B, C, X(17946), X(31625)}}, {{A, B, C, X(39982), Z(16292)}}, {{A, B, C, X(40827), X(45989)}}
+
+Y(11505) = reflection of X(i) in X(j) for these {i,j}: {2, 39015}, {Z39818, 2}
+
+Y(11505) = trilinear pole of line {2,6371}
+
+Y(11505) = antipode of X(2) in the conic {A,B,C,X(2),X(56)}
+

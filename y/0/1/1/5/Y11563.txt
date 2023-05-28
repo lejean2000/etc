@@ -1,0 +1,20 @@
+Y(11563)
+
+X(2)X(45)∩X(78)X(219)
+
+Barycentrics    a*(a-b-c)*(a^2-b^2-c^2)*(a^4-3*a^3*(b+c)-2*(b^2-c^2)^2+a^2*(b^2-4*b*c+c^2)+a*(3*b^3-b^2*c-b*c^2+3*c^3))
+
+Y(11563) lies on these lines: {2, 45}, {78, 219}, {27380, 27382}
+
+Y(11563) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2), X(52978)}}, {{A, B, C, X(78), X(903)}}, {{A, B, C, X(88), X(219)}}, {{A, B, C, X(3692), X(4997)}}, {{A, B, C, X(3694), X(4080)}}, {{A, B, C, X(52370), Z(8810)}}
+
+Y(11563) = perspector of circumconic {{A, B, C, X(4555), X(4571)}}
+
+Y(11563) = X(i)-isoconjugate-of-X(j) for these {i, j}: {1118, Y6081}
+
+Y(11563) = barycentric quotient X(i)/X(j) for these (i, j): {2289, Y6081}
+
+Y(11563) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {52978, Z26887, 78}
+
+Y(11563) = center of mutual polar conic of ABC and X(78)-circumconcevian triangle of X(78)
+

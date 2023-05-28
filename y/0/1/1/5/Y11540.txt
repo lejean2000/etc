@@ -1,0 +1,22 @@
+Y(11540)
+
+X(2)X(648)∩X(29)X(284)
+
+Barycentrics    (a+b)*(a-b-c)*(a+c)*(a^2+b^2-c^2)*(a^2-b^2+c^2)*(a^7-4*a^6*(b+c)+4*a^2*b*(b-c)^2*c*(b+c)-a*(b^2-c^2)^2*(b^2-b*c+c^2)-(b-c)^2*(b+c)^3*(2*b^2-b*c+2*c^2)+a^3*(b+c)^2*(3*b^2-2*b*c+3*c^2)-a^5*(3*b^2+5*b*c+3*c^2)+a^4*(6*b^3+b^2*c+b*c^2+6*c^3))
+
+Y(11540) lies on these lines: {2, 648}, {29, 284}, {307, Y10923}, {1125, 2322}
+
+Y(11540) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2), X(52956)}}, {{A, B, C, X(29), X(1494)}}, {{A, B, C, X(284), X(14919)}}, {{A, B, C, X(8748), X(16080)}}, {{A, B, C, X(8749), Z(34928)}}
+
+Y(11540) = perspector of circumconic {{A, B, C, X(16077), X(52921)}}
+
+Y(11540) = X(i)-isoconjugate-of-X(j) for these {i, j}: {1214, Z20140}, {1409, Z62761}
+
+Y(11540) = barycentric product X(i)*X(j) for these (i, j): {29, 31155}
+
+Y(11540) = barycentric quotient X(i)/X(j) for these (i, j): {29, Z62761}, {2299, Z20140}, {31155, 307}
+
+Y(11540) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {29, 52956, 36421}, {40942, 52956, 29}
+
+Y(11540) = center of mutual polar conic of ABC and X(29)-circumconcevian triangle of X(29)
+

@@ -1,0 +1,14 @@
+Y(11550)
+
+X(54)X(570)∩X(231)X(252)
+
+Barycentrics    a^2*(a^4+b^4-b^2*c^2-a^2*(2*b^2+c^2))*(a^4-b^2*c^2+c^4-a^2*(b^2+2*c^2))*(a^10-3*a^8*(b^2+c^2)-2*(b^2-c^2)^4*(b^2+c^2)+a^6*(5*b^4+7*b^2*c^2+5*c^4)+a^2*(b^2-c^2)^2*(6*b^4+7*b^2*c^2+6*c^4)-a^4*(7*b^6+5*b^4*c^2+5*b^2*c^4+7*c^6))
+
+Y(11550) lies on these lines: {2, Z34738}, {6, Z6949}, {54, 570}, {231, 252}, {566, 14586}, {571, Z21143}, {8882, 22052}, {11077, 50660}, {43718, Z35171}
+
+Y(11550) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2), X(52968)}}
+
+Y(11550) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {54, 52968, Z29856}, {570, 52968, 54}
+
+Y(11550) = center of mutual polar conic of ABC and X(54)-circumconcevian triangle of X(54)
+

@@ -1,0 +1,24 @@
+Y(11548)
+
+X(2)X(4555)∩X(45)X(4752)
+
+Barycentrics    a*(a-2*(b+c))*(a^2+2*a*(b+c)-2*(b^2-4*b*c+c^2))
+
+Y(11548) lies on these lines: {2, 4555}, {45, 4752}, {1646, Z833}, {4277, 16672}, {4413, Y11547}, {16815, 24262}
+
+Y(11548) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2), X(52966)}}, {{A, B, C, X(45), X(31139)}}
+
+Y(11548) = perspector of circumconic {{A, B, C, X(52925), Z(65353)}}
+
+Y(11548) = X(i)-isoconjugate-of-X(j) for these {i, j}: {2163, Z62747}, {39704, Z20124}
+
+Y(11548) = X(i)-Dao conjugate of X(j) for these {i, j}: {40587, Z62747}
+
+Y(11548) = barycentric product X(i)*X(j) for these (i, j): {31139, 45}
+
+Y(11548) = barycentric quotient X(i)/X(j) for these (i, j): {45, Z62747}, {31139, 20569}, {Z11791, Z20124}
+
+Y(11548) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {45, 40587, 52966}
+
+Y(11548) = center of mutual polar conic of ABC and X(45)-circumconcevian triangle of X(45)
+

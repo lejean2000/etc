@@ -1,0 +1,22 @@
+Y(11572)
+
+X(2)X(2966)∩X(98)X(230)
+
+Barycentrics    (a^4+b^4-a^2*c^2-b^2*c^2)*(a^4-a^2*b^2-b^2*c^2+c^4)*(a^8+3*a^6*(b^2+c^2)-5*a^4*(b^4+b^2*c^2+c^4)-(b^2-c^2)^2*(2*b^4+b^2*c^2+2*c^4)+a^2*(3*b^6+b^4*c^2+b^2*c^4+3*c^6))
+
+Y(11572) lies on these lines: {2, 2966}, {6, Z29707}, {98, 230}, {111, 6037}, {248, Z15589}, {287, 22329}, {468, 6531}, {523, Z27306}, {685, 6103}, {1637, Z28222}, {5967, 7735}, {7736, 51429}, {8859, 46806}, {9209, 52038}, {9769, Z35019}, {9877, Z3810}, {32716, Z30115}, {36166, 48721}, {37637, 47737}, {37688, 52081}, {48451, Z81486}
+
+Y(11572) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2), X(34369)}}, {{A, B, C, X(98), X(5641)}}, {{A, B, C, X(111), X(51542)}}, {{A, B, C, X(2715), X(5649)}}
+
+Y(11572) = X(i)-isoconjugate-of-X(j) for these {i, j}: {1755, Z39549}, {1959, Z2483}
+
+Y(11572) = X(i)-Dao conjugate of X(j) for these {i, j}: {36899, Z39549}
+
+Y(11572) = barycentric product X(i)*X(j) for these (i, j): {6054, 98}
+
+Y(11572) = barycentric quotient X(i)/X(j) for these (i, j): {98, Z39549}, {1976, Z2483}, {6054, 325}
+
+Y(11572) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {98, 36899, 34369}, {230, 34369, 98}, {230, 36899, 41932}
+
+Y(11572) = center of mutual polar conic of ABC and X(98)-circumconcevian triangle of X(98)
+

@@ -1,0 +1,30 @@
+Y(11544)
+
+X(2)X(670)∩X(39)X(141)
+
+Barycentrics    a^2*(b^2+c^2)*(4*b^2*c^2+a^2*(b^2+c^2))
+
+Y(11544) lies on these lines: {2, 670}, {39, 141}, {160, 15515}, {566, 11672}, {1502, 31276}, {3117, 21358}, {3229, 20582}, {3314, 15302}, {3763, 8265}, {3815, Y11525}, {3934, 30736}, {5651, Y11542}, {6375, 51128}, {9465, 16986}, {15449, Z70290}, {16776, 46283}, {20081, Z43077}, {31078, 35540}, {34573, 45210}, {40858, Z76452}, {41579, Z26711}, {Z70432, Z81545}
+
+Y(11544) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2), X(52961)}}, {{A, B, C, X(39), X(3228)}}, {{A, B, C, X(141), X(34087)}}, {{A, B, C, X(10007), X(46154)}}, {{A, B, C, X(41622), Z(27963)}}
+
+Y(11544) = complement of Z(72080)
+
+Y(11544) = complement of isotomic conjugate of X(41440)
+
+Y(11544) = perspector of circumconic {{A, B, C, X(886), X(4576)}}
+
+Y(11544) = X(i)-isoconjugate-of-X(j) for these {i, j}: {82, Z42552}, {3112, Z4205}
+
+Y(11544) = X(i)-Dao conjugate of X(j) for these {i, j}: {141, Z42552}, {34452, Z4205}
+
+Y(11544) = X(i)-complementary conjugate of X(j) for these {i, j}: {41440, 2887}, {Z45114, 21235}
+
+Y(11544) = barycentric product X(i)*X(j) for these (i, j): {39, 9466}
+
+Y(11544) = barycentric quotient X(i)/X(j) for these (i, j): {39, Z42552}, {3051, Z4205}, {9466, 308}
+
+Y(11544) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {39, 141, 52961}, {141, Z70410, 7794}, {52961, Z63210, 39}
+
+Y(11544) = center of mutual polar conic of ABC and X(39)-circumconcevian triangle of X(39)
+

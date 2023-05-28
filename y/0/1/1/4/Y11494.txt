@@ -1,0 +1,16 @@
+Y(11494)
+
+X(11)X(666)∩X(2)X(35509)
+
+Barycentrics    (a^6-2*a^5*(b+c)-2*a^3*b*c*(b+c)+a^4*(b^2+4*b*c+c^2)-2*a*(b-c)^2*(b^3-2*c^3)+(b-c)^2*(b^4-2*c^4)+a^2*(b^4-2*b^3*c+4*b*c^3-2*c^4))*(a^6-2*a^5*(b+c)-2*a^3*b*c*(b+c)+a^4*(b^2+4*b*c+c^2)+2*a*(b-c)^2*(2*b^3-c^3)-(b-c)^2*(2*b^4-c^4)+a^2*(-2*b^4+4*b^3*c-2*b*c^3+c^4))
+
+Y(11494) lies on these lines: {2, 35509}, {11, 666}, {190, Z70295}, {2481, 40166}, {4998, Y2867}, {23989, 46135}
+
+Y(11494) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2), X(11)}}, {{A, B, C, X(99), X(190)}}
+
+Y(11494) = reflection of X(i) in X(j) for these {i,j}: {2, 35509}, {Z82340, 2}
+
+Y(11494) = trilinear pole of line {2,52305}
+
+Y(11494) = Antipode of X(2) in the conic {A,B,C,X(2),X(11)}
+

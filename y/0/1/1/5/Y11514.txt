@@ -1,0 +1,16 @@
+Y(11514)
+
+X(2)Z(3872)∩X(190)X(3920)
+
+Barycentrics    (a^3*(b-2*c)+b*c*(b^2+c^2)+a*(b^3-2*c^3))*(a^3*(2*b-c)-b*c*(b^2+c^2)+a*(2*b^3-c^3))
+
+Y(11514) lies on these lines: {2, Z3872}, {82, Z55734}, {190, 3920}, {668, 17289}, {1930, Y2918}, {Z39818, Z49787}
+
+Y(11514) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2), X(82)}}, {{A, B, C, X(99), X(190)}}, {{A, B, C, X(274), Z(30653)}}, {{A, B, C, X(330), Z(1370)}}, {{A, B, C, X(16696), Z(2707)}}, {{A, B, C, X(39698), Z(26111)}}, {{A, B, C, X(39713), Z(30656)}}, {{A, B, C, X(39982), X(51866)}}, {{A, B, C, Y(2873), Z(8679)}}, {{A, B, C, Y(3584), Z(973)}}, {{A, B, C, Z(8881), Z(9459)}}
+
+Y(11514) = reflection of X(i) in X(j) for these {i,j}: {Z3872, 2}
+
+Y(11514) = trilinear pole of line {2,47816}
+
+Y(11514) = antipode of X(2) in the conic {A,B,C,X(2),X(82)}
+

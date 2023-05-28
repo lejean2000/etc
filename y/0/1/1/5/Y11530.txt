@@ -1,0 +1,22 @@
+Y(11530)
+
+X(13)X(15)∩X(2)X(18777)
+
+Barycentrics    3*(a^8+2*a^6*(b^2+c^2)+4*a^2*(b^2-c^2)^2*(b^2+c^2)-7*a^4*(b^4+c^4))+2*sqrt(3)*(5*a^6-5*a^4*(b^2+c^2)+2*(b^2-c^2)^2*(b^2+c^2)-2*a^2*(b^4+c^4))*S
+
+Y(11530) lies on these lines: {2, 18777}, {6, 52039}, {13, 15}, {67, 30454}, {298, Z68102}, {476, 18776}, {524, 40709}, {1989, 52040}, {3457, 22826}, {5995, 11612}, {8014, 49947}, {8919, 16772}, {11078, 37786}, {11082, 36307}, {11135, 21466}, {11658, 16241}, {16644, 36299}, {23302, 51270}, {Z67408, Z74039}
+
+Y(11530) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2), X(11537)}}, {{A, B, C, X(13), X(67)}}, {{A, B, C, X(15), X(48354)}}, {{A, B, C, X(11081), Z(32983)}}
+
+Y(11530) = X(i)-isoconjugate-of-X(j) for these {i, j}: {1094, 48353}, {2151, Z39021}
+
+Y(11530) = X(i)-Dao conjugate of X(j) for these {i, j}: {40578, Z39021}
+
+Y(11530) = barycentric product X(i)*X(j) for these (i, j): {13, 5463}, {11080, Z78522}, {48354, Z44132}
+
+Y(11530) = barycentric quotient X(i)/X(j) for these (i, j): {13, Z39021}, {5463, 298}, {11080, 48353}, {48354, 11131}, {Z44132, Z78523}, {Z78522, 11129}
+
+Y(11530) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {13, 11537, 11080}, {13, 40578, 11537}, {396, 11537, 13}
+
+Y(11530) = center of mutual polar conic of ABC and X(13)-circumconcevian triangle of X(13)
+

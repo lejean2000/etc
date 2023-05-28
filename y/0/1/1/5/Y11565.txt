@@ -1,0 +1,24 @@
+Y(11565)
+
+X(2)X(99)∩X(81)X(593)
+
+Barycentrics    a*(a+b)*(a+c)*(a^3+a^2*(b+c)-a*(2*b^2+3*b*c+2*c^2)-2*(b^3+b^2*c+b*c^2+c^3))
+
+Y(11565) lies on these lines: {2, 99}, {21, 7292}, {36, 3720}, {81, 593}, {110, 4414}, {261, 17495}, {988, 37032}, {1171, 5256}, {1326, 46901}, {1931, 17012}, {3006, 35916}, {4850, Z40130}, {5196, 29639}, {5333, 41311}, {7192, 42760}, {17013, 51311}, {17017, 33774}, {17056, 52393}, {17184, 40605}, {27643, 28287}, {29821, 52680}
+
+Y(11565) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2), X(16702)}}, {{A, B, C, X(81), X(671)}}, {{A, B, C, X(111), X(1333)}}, {{A, B, C, X(593), Z(12838)}}, {{A, B, C, X(1444), X(30786)}}, {{A, B, C, X(16696), X(31125)}}, {{A, B, C, X(17190), X(25430)}}, {{A, B, C, X(17929), X(34760)}}
+
+Y(11565) = perspector of circumconic {{A, B, C, X(892), X(52935)}}
+
+Y(11565) = X(i)-isoconjugate-of-X(j) for these {i, j}: {10, Z20128}, {37, Y20}, {42, Z62751}, {1826, Y6094}
+
+Y(11565) = X(i)-Dao conjugate of X(j) for these {i, j}: {40589, Y20}, {40592, Z62751}
+
+Y(11565) = barycentric product X(i)*X(j) for these (i, j): {31143, 81}
+
+Y(11565) = barycentric quotient X(i)/X(j) for these (i, j): {58, Y20}, {81, Z62751}, {1333, Z20128}, {1437, Y6094}, {31143, 321}
+
+Y(11565) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {81, 40592, 16702}, {3666, 16702, 81}, {3666, 40592, 593}
+
+Y(11565) = center of mutual polar conic of ABC and X(81)-circumconcevian triangle of X(81)
+
