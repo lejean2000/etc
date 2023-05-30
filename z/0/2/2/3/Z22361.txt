@@ -1,0 +1,24 @@
+Z(22361)
+
+X(3)X(758)∩X(4)X(759)
+
+Barycentrics    a^2*(a^4-a^3*b-b^4+a*b^2*(b-c)+b^3*c-2*a^2*c^2-b*c^3+c^4)*(a^4-2*a^2*b^2+b^4-a^3*c-b^3*c+b*c^3-c^4+a*c^2*(-b+c))*(a^3+b^3+c^3-a^2*(b+c)-a*(b^2+b*c+c^2))
+
+Z(22361) lies on K009 and on these lines: {3, 758}, {4, 759}, {1147, 39166}, {5398, Z15239}, {6337, Z81915}, {25650, 37106}
+
+Z(22361) = intersection, other than A, B, C, of circumconics {{A, B, C, X(3), X(759)}}, {{A, B, C, X(4), X(758)}}, {{A, B, C, X(12635), Z(25030)}}, {{A, B, C, X(15175), Z(27571)}}, {{A, B, C, X(16139), Z(2157)}}, {{A, B, C, X(22836), X(34772)}}
+
+Z(22361) = isogonal conjugate of X(34243)
+
+Z(22361) = Cundy-Parry Phi of X(758)
+
+Z(22361) = X(i)-isoconjugate-of-X(j) for these {i, j}: {1, 34243}, {5086, Z22756}, {11101, 41501}
+
+Z(22361) = X(i)-Dao conjugate of X(j) for these {i, j}: {3, 34243}, {6003, 42425}
+
+Z(22361) = X(i)-Ceva conjugate of X(j) for these {i, j}: {30250, 6003}
+
+Z(22361) = barycentric product X(i)*X(j) for these (i, j): {6, Z65635}, {33116, Z1876}, {Z5290, Z74175}, {Z25030, Z38684}, {Z28548, Z44110}
+
+Z(22361) = barycentric quotient X(i)/X(j) for these (i, j): {6, 34243}, {Z1876, 37887}, {Z5290, 43683}, {Z25030, 5086}, {Z28548, 11101}, {Z65635, 76}
+
