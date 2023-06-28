@@ -19,6 +19,7 @@ X(1317) = X(104)-of-Mandart-incircle-triangle<br>
 X(1317) = homothetic center of intangents triangle and reflection of extangents triangle in X(104)<br>
 X(1317) = inverse-in-Feuerbach-hyperbola of X(1387)<br>
 X(1317) = {X(1),X(80)}-harmonic conjugate of X(1387)<br>
+X(1317) = orthology center of pedal triangle of X(36) and intouch triangle<br>
 </p>
 <hr class="gray">
 

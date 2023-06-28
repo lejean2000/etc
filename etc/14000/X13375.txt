@@ -7,8 +7,8 @@ See Antreas Hatzipolakis and Angel Montesdeoca, <a href="http://www.hyacinthos.e
 X(13375) lies on these lines: {1, 1389}, {7, 5559}, {8, 10941}, {65, 5844}, {145, 3881}, {388, 10052}, {517, 3649}, {758, 12913}, {942, 1317}, {999, 10094}, {1056, 10044}, {1537, 12047}, {1737, 10957}, {2800, 5270}, {3057, 5719}, {3754, 4861}, {5761, 10056}, {10106, 11570}
 </p>
 <p>
-X(13375) = midpoint of X(5559) and X(5903)
-<br>
+X(13375) = midpoint of X(5559) and X(5903)<br>
+X(13375) = orthology center of pedal triangle of X(1385) and intouch triangle<br>
 </p>
 <hr class="gray">
 

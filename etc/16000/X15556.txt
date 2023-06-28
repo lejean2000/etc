@@ -9,6 +9,7 @@ X(15556) lies on the these lines:
 </p>
 <p>
 X(15556) = reflection of X(65) in X(12432)<br>
+X(15556) = orthology center of intouch triangle and pedal triangle of X(65)<br>
 </p>
 <hr class="gray">
 

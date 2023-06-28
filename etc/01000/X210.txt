@@ -29,6 +29,7 @@ X(210) = centroid of AbAcBcBaCaCb as defined at X(3588)<br>
 X(210) = centroid of AbAcBcBaCaCb as used in the construction of the inner-Conway triangle; see preamble before X(11677)<br>
 X(210) = trilinear pole of line X(3709)X(4041)<br>
 X(210) = excentral-to-ABC barycentric image of X(2)<br>
+X(210) = orthology center of intouch triangle and pedal triangle of X(165)<br>
 X(210) = {X(37),X(42)}-harmonic conjugate of X(37593)<br>
 </p>
 <hr class="gray">

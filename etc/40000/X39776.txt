@@ -16,6 +16,7 @@ X(39776) = crossdifference of every pair of points on line {1635, 2423}<br>
 X(39776) = intouch-isogonal conjugate of X(5048)<br>
 X(39776) = X(11744)-of-intouch-triangle<br>
 X(39776) = antipode of X(145) in Jerabek hyperbola of intouch triangle<br>
+X(39776) = orthology center of pedal triangle of X(1319) and intouch triangle<br>
 X(39776) = barycentric product X(i)*X(j) for these {i,j}: {517, 37758}, {908, 38460}, {2397, 2827}, {6735, 37789}<br>
 X(39776) = barycentric quotient X(i)/X(j) for these {i,j}: {2427, 2743}, {2827, 2401}, {5193, 34051}, {37758, 18816}, {38460, 34234}<br>
 X(39776) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {1, 5541, 25438}, {119, 1145, 6735}, {3753, 17652, 1387}, {4861, 17100, 11715}<br>

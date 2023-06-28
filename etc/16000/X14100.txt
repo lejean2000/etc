@@ -18,6 +18,7 @@ X(14100) = crosspoint of X(7) and X(9)<br>
 X(14100) = crosssum of X(55) and X(57)<br>
 X(14100) = X(9)-of-Mandart-incircle-triangle<br>
 X(14100) = X(69)-of intouch-triangle<br>
+X(14100) = orthology center of pedal triangle of X(165) and intouch triangle<br>
 X(14100) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): (1, 9848, 10866), (1, 12680, 9850), (7, 5572, 354), (7, 7671, 5572), (9, 3059, 210), (9, 3174, 480), (9, 4326, 55), (55, 1864, 210), (480, 3174, 3689), (497, 10391, 354), (2293, 2310, 37), (8581, 10384, 10866)<br>
 </p>
 <hr class="gray">

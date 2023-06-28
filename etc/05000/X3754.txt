@@ -12,6 +12,7 @@ X(3754) lies on these lines: {1, 88}, {5, 2800}, {8, 2891}, {10, 12}, {21, 484},
 </p>
 <p>
 X(3754) = X(389) of Fuhrmann triangle<br>
+X(3754) = orthology center of intouch triangle and pedal triangle of X(1385)<br>
 </p>
 <hr class="gray">
 

@@ -15,6 +15,7 @@ X(33667) is the antipode of X(3649) in the hyperbola decribed at X(5083).  (Rand
 <p>
 X(33667) = midpoint of X(i) and X(j) for these {i,j}: {5441,11571}, {17637,17660}<br>
 X(33667) = reflection of X(i) in X(j) for these {i,j}: {11,10122}, {3649,5083}, {12758,15174}, {31938,3035}<br>
+X(33667) = orthology center of pedal triangle of X(484) and intouch triangle<br>
 </p>
 <hr class="gray">
 

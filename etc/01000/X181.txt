@@ -26,23 +26,16 @@ Trilinears&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; h(a,b,c) :
         (i,j,k)): (31,51,3271), (42,1400,1402), (57,1401,1357), (57,1469,1401).
         (Peter J. C. Moses, 6/20/2014)</p>
 	<p>A proof of the the concurrence of lines AA',BB',CC' follows.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A =
-        exsimilicenter(incircle, A-excircle)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A' =
-        exsimilicenter(A-excircle, Apollonius circle)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Let J =
-        exsimilicenter(incircle, Apollonius circle).<br>
-By Monge's theorem, the points A, A', J are collinear. In particular, J
-        lies on line AA', and cyclically, J lies on lines BB' and CC'.
-        Therefore, J = X(181). (Darij Grinberg, Hyacinthos, 7461, 8/10/03)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A = exsimilicenter(incircle, A-excircle)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A' = exsimilicenter(A-excircle, Apollonius circle)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Let J = exsimilicenter(incircle, Apollonius circle).<br>
+By Monge's theorem, the points A, A', J are collinear. In particular, J lies on line AA', and cyclically, J lies on lines BB' and CC'. Therefore, J = X(181). (Darij Grinberg, Hyacinthos, 7461, 8/10/03)
 </p>
 <p>
 Let A' be the inverse-in-excircles-radical-circle of the midpoint of BC, and define B', C' cyclically.  Triangle A'B'C' is inscribed in the Apollonius circle and homothetic to the intouch triangle at X(181).  (Randy Hutson, March 21, 2019)
 </p>
 <p>
-See also <b>Clark Kimberling, Shiko Iwata, and Hidetosi Fukagawa,</b> Problem
-        1091 and Solution, <i>Crux Mathematicorum</i> 13 (1987) 128-129;
-        217-218. [proposed 1985].</p>
+See also <b>Clark Kimberling, Shiko Iwata, and Hidetosi Fukagawa,</b> Problem 1091 and Solution, <i>Crux Mathematicorum</i> 13 (1987) 128-129; 217-218. [proposed 1985].</p>
 	<p>X(181) lies on these lines: {1,970}, {6,197}, {8,959}, {10,12}, {11,2051}, {25,2175}, {31,51}, {33,3022}, {42,228}, {43,57}, {44,375}, {55,573}, {56,386}, {58,1324}, {81,5061}, {171,511}, {182,5329}, {200,3779}, {213,2333}, {373,748}, {389,3072}, {518,3687}, {553,1463}, {575,5363}, {612,3688}, {750,3917}, {756,2171}, {942,5530}, {994,1361}, {1124,1685}, {1254,1425}, {1317,3032}, {1335,1686}, {1356,5213}, {1358,3034}, {1364,5348}, {1376,4259}, {1395,1843}, {1672,1683}, {1673,1684}, {1674,1693}, {1675,1694}, {1695,1697}, {2007,2019}, {2008,2020}, {2330,5285}, {2534,2538}, {2535,2539}, {3027,3029}, {3028,3031}, {3056,5269}, {3340,4517}, {3781,5268}, {3792,3819}, {4276,5172}</p>
 <p>
 X(181) = isogonal conjugate of X(261)<br>
@@ -55,8 +48,8 @@ X(181) = crossdifference of X(3904) and X(3910)<br>
 X(181) = X(i)-beth conjugate of X(j)  for these (i,j): (42,181), (660,181), (756,756)<br>
 X(181) = {X(1),X(970)}-harmonic conjugate of X(1682)<br>
 X(181) = X(60)-isoconjugate of X(75)<br>
-X(181) = trilinear product of vertices of extangents triangle
-<br>
+X(181) = trilinear product of vertices of extangents triangle<br>
+X(181) = orthology center of intouch triangle and pedal triangle of X(171)<br>
 <p>X(181) = trilinear product of X(i)  and X(j)  for these {I,J}:<br>
 {1,181}, {6,2171}, {7,872}, {10,1402}, {12,31}, {19,2197}, {25,201}, {33,1425}, {34,3690}, {37,1400}, {42,65}, {55,1254}, {56,756}, {57,1500}, {59,2643}, {71,1880}, {73,1824}, {109,4705}, {115,2149}, {210,1042}, {213,226}, {225,228}, {227,2357}, {349,2205}, {512,4551}, {594,604}, {608,3949}, {651,4079}, {661,4559}, {762,1412}, {798,4552}, {1020,3709}, {1089,1397}, {1110,1365}, {1214,2333}, {1334,1427}, {1395,3695}, {1409,1826}, {1415,4024}, {1426,2318}, {1441,1918}, {3063,4605}, {3124,4564}, {4017,4557}</p>
 	<p>X(181) = barycentric product of X(i)  and X(j)  for these {I,J}:<br>

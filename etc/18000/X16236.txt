@@ -12,6 +12,7 @@ X(16236) lies on these lines:
 </p>
 <p>
 X(16236) = reflection of X(i) in X(j) for these (i,j):  {1, 11041}, {1000, 14563}, {3632, 11525}, {8275, 1}<br>
+X(16236) = orthology center of intouch triangle and pedal triangle of X(999)<br>
 </p>
 <hr class="gray">
 

@@ -29,6 +29,7 @@ X(3649) lies on these lines: 1,30&nbsp;&nbsp; 7,21&nbsp;&nbsp;
 <p>
 X(3649) = X(54)-of-intouch-triangle<br>
 X(3649) = X(3651)-of-Mandart-incircle-triangle<br>
+X(3649) = orthology center of pedal triangle of X(35) and intouch triangle<br>
 </p>
 <hr class="gray">
 

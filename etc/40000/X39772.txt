@@ -13,6 +13,7 @@ X(39772) = X(7)-Ceva conjugate of X(5249)<br>
 X(39772) = X(2259)-isoconjugate of X(37887)<br>
 X(39772) = intouch-isogonal conjugate of X(2646)<br>
 X(39772) = X(6145)-of-intouch-triangle<br>
+X(39772) = orthology center of pedal triangle of X(65) and intouch triangle<br>
 X(39772) = barycentric product X(i)*X(j) for these {i,j}: {942, 33116}, {5174, 18607}, {5249, 34772}<br>
 X(39772) = barycentric quotient X(i)/X(j) for these {i,j}: {942, 37887}, {37583, 2982}<br>
 X(39772) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {942, 14054, 6734}, {2475, 12649, 6598}, {3868, 3873, 11520}, {3868, 11020, 3869}, {3874, 18389, 3868}, {5426, 31424, 21}<br>

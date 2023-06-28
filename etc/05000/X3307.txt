@@ -14,6 +14,7 @@ X(3307) lies on these (parallel) lines: 11,2446&nbsp;&nbsp;
 30,511&nbsp;&nbsp; 100,1381&nbsp;&nbsp; 104,1382</p>
 <p>
 X(3307) = isogonal conjugate of X(1381)<br>
+X(3307) = orthology center of pedal triangle of X(1381) and intouch triangle<br>
 </p>
 <hr class="gray">
 

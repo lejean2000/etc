@@ -22,6 +22,7 @@ X(551) = anticomplement of X(3828)<br>
 X(551) = isotomic conjugate of isogonal conjugate of X(21747)<br>
 X(551) = complementary conjugate of X(21251)<br>
 X(551) = polar conjugate of isogonal conjugate of X(22357)<br>
+X(551) = centroid of X(2)-cevian triangle of X(1)<br>
 </p>
 <hr class="gray">
 
