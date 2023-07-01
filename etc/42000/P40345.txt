@@ -1,0 +1,31 @@
+
+<!-- preamble start -->
+<header class="triheader">
+<img src="leftri.svg" style="height:30px" alt="leftri">
+<p class="preamble-title">
+Points on the tangential power curve: X(40345)-X(40346)
+</p>
+<img src="rightri.svg" style="height:30px" alt="rightri">
+</header>
+<div class="preamble-sect">
+<p>
+This preamble is contributed by Clark Kimberling, November 11, 2020.
+<p>
+Let PC(ABC) by the power curve; i.e., the locus of the point  a<sup>t</sup> : b<sup>t</sup> : c<sup>t</sup> (barycentrics) as t varies through the real numbers.  If P = a<sup>t</sup> : b<sup>t</sup> : c<sup>t</sup> for fixed t, then the isotomic conjugate of P is the point P' = a<sup>-t</sup> : b<sup>-t</sup> : c<sup>-t</sup>.  Equations for the lines tangent to PC(ABC) at P and P' are found using Suren's points on the line at infinity; see the preamble just before X(40296). If P is not the centroid of ABC, then the tangent lines are distinct, and they meet in the point
+</p>
+<p>
+P'' = a<sup>t</sup>(b<sup>2t</sup> - c<sup>2t</sup>)/(log b - log c) : b<sup>t</sup>(c<sup>2t</sup> - a<sup>2t</sup>)/(log c - log a) : c<sup>t</sup>(a<sup>2t</sup> - b<sup>2t</sup>)/(log a - log b)
+</p>
+<p>
+The locus of P'' as t varies through the positive real numbers is here named the (barycentric) <b>tangential power curve.</b>
+</p>
+<p>
+The corresponding normal lines at P and P' meet in a point whose locus is the <b>normal power curve</b>.
+</p>
+<p>
+The trilinear tangential and normal power curves are defined in the same manner using trilinear coordindates throughout, using isogonal conjugates instead of isotomic.
+</p>
+
+<hr class="end-preamble">
+</div>
+<!-- preamble end -->

@@ -1,0 +1,40 @@
+<!-- preamble start -->
+<header class="triheader">
+<img src="leftri.svg" style="height:30px" alt="leftri">
+<p class="preamble-title">
+Perspectors involving g-triangles: X(41431)-X(41479)
+</p>
+<img src="rightri.svg" style="height:30px" alt="rightri">
+</header>
+<div class="preamble-sect">
+<p>
+This preamble is contributed by Clark Kimberling and Peter Moses, February 28, 2021.
+<p>
+</p>
+<p>
+Mappings g and h are defined in the preamble just before X(33628) as follows. Suppose that P = p : q : r is a point. The points
+</p>
+<p>
+q - r : r - p : p - q&nbsp;&nbsp;&nbsp; and &nbsp;&nbsp;&nbsp; 2p - q - r : 2q - r - p : 2r - p - q
+</p>
+<p>
+clearly lie on the line at infinity, so that their isogonal conjugates,
+</p>
+<p>
+g(P) = a^2/(q-r) : b^2/(r-p) : c^2/(p-q) &nbsp;&nbsp;&nbsp; and &nbsp;&nbsp;&nbsp; h(P) = a^2/(2p-q-r) : b^2/(2q-r-p) : c^2/(2r-p-q),
+</p>
+<p>
+lie on the circumcircle.  Thus, if T is a central triangle, then g(T) and h(T) are central triangles inscribed in the circumcircle.
+</p>
+<p>
+For many choices of triangle T, there are triangles T' such that T is perspective to h(T').  This section lists associated perspectors.
+</p>
+<p>
+The appearance of (T,T',i) in the following list means that T is perspective to h(T') and the perspector is X(i):
+</p>
+<p>See César Lozada, <a href="g(T)_h(T).pdf"><b>Perspectivities involving the g and h mappings</b></a>.
+</p>
+
+<hr class="end-preamble">
+</div>
+<!-- preamble end -->

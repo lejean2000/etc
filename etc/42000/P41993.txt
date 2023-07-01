@@ -1,0 +1,24 @@
+
+<!-- preamble start -->
+<header class="triheader">
+<img src="leftri.svg" style="height:30px" alt="leftri">
+<p class="preamble-title">
+Points on Simmons inconics: X(41993)-X(42004)
+</p>
+<img src="rightri.svg" style="height:30px" alt="rightri">
+</header>
+<div class="preamble-sect">
+<p>
+These points are contributed by Peter Moses, March 17-18, 2021.
+</p>
+<p>
+See <b>Bernard Gibert, <a href="https://forumgeom.fau.edu/FG2006volume6/FG200624.pdf">Simmons Conics</a>.</b>
+In this section, the Simmons inconic with foci X(13) and X(15) is the <b>1st Simmons inconic</b> and the Simmons inconic with foci X(14) and (16) is the <b>2nd Simmons inconic</b>.
+</p>
+<p>
+Suppose that IC is an inconic, and let P be its perspector.  Then the barycentric product P*(Steiner inellipse) is on IC. In particular, if U is on the line at infinity, then the barycentric product X(13)*U^2 is on the 1st Simmons inconic, and X(14)*U^2 is on the 2nd Simmons inconic..
+</p>
+
+<hr class="end-preamble">
+</div>
+<!-- preamble end -->

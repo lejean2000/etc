@@ -1,0 +1,9 @@
+<h3 id="X39468">X(39468) = X(39)X(6374)&cap;X(76)X(3981)</h3>
+Barycentrics &nbsp;&nbsp; b^2*c^2*((b^4-c^4)*(b^2-c^2)*a^6+(b^2+c^2)^2*b^2*c^2*a^4-(b^2+c^2)*b^4*c^4*a^2-b^6*c^6) : :
+<p>See X(39466)</p>
+<p>X(39468) lies on these lines: {39, 6374}, {76, 3981}, {194, 19562}</p>
+<p>
+X(39468) = X(194)-Ceva conjugate of-X(76)<br>
+</p>
+
+

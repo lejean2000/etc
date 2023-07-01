@@ -1,0 +1,64 @@
+
+
+<!-- preamble start -->
+<header class="triheader">
+<img src="leftri.svg" style="height:30px" alt="leftri">
+<p class="preamble-title">
+Gibert quadratic transformations and inverses: X(41231)-X(41278)
+</p>
+<img src="rightri.svg" style="height:30px" alt="rightri">
+</header>
+<div class="preamble-sect">
+<p>
+This preamble is based on notes from Bernard Gibert, and related points contributed by Peter Moses.  (February 11, 2021)
+<p>
+Let X  x : y : z (barycentrics) be a point in the plane of a triangle ABC. Define
+</p>
+<p>
+F(X) = b^4 c^2 x^2-b^2 c^4 x^2-a^4 c^2 x y+b^2 c^4 x y+a^4 b^2 x z-b^4 c^2 x z-a^4 b^2 y z+a^4 c^2 y z : : ,
+</p>
+<p>
+with inverse given by
+</p>
+<p>
+invF(X) = a^2 (b^4 x^2-c^4 x^2-a^2 b^2 x y+c^4 x y-b^4 x z+a^2 c^2 x z+a^2 b^2 y z-a^2 c^2 y z) : :
+</p>
+<p>
+In the sequel, these transformations are denoted by BGF and invBGF.
+</p>
+<p>
+The singular points of BGF are X(2), X(6), and X(32). If X is on X(2)X(6), then F(X) = X(6). If X is on X(2)X(32), then F(X) = X(83). If X is on X(6)X(32), then F(X) = X(2).
+</p>
+<p>
+The fixed points of F; i.e., points X such that BG(X) = invBG(X) = X, are the points on the circumconic having perspector X(669).
+ </p>
+<p>
+BGF maps every line through X(2) onto itself; in particular, BGF(Euler line) = Euler line.
+</p>
+<p>
+BGF maps the circumconic having perspector X(512) onto the Kiepert hyperbola.
+</p>
+<p>
+BGF maps the circumconic having perspector X(688) onto the circumconic having perspector X(512).
+</p>
+<p>
+The transformations BGF and invBGF have many connections among pk cubics. In order to state a few of them, certain notations will be used: "/" denotes barycentric division, and "*" denotes barycentric product, and if X is a point, then gX = isogonal conjugate of X, and tX = isotomic conjugate of X.
+</p>
+<p>
+Let pk1 = pK(&Omega;,P) be a pK cubic and let pk2 = pK(&Omega;',P') be another pK cubic such that the isopivot of Q' is &Omega;'/P'.
+</p>
+<p>
+(1)  The cubics pk1 and pk2 meet the line at infinity at the same points if and only if Q' lies on a psK cubic that is a pK cubic if and only if the points X(2), &Omega;, and P are collinear.
+</p>
+<p>
+(2)  The cubics pk1 and pk2 meet the circumcircle at the same points if and only if the points X(6), &Omega;/X(6), and P are collinear; or, equivalently, the points X(32), &Omega;, and P*X(6) are collinear.  Note that &Omega;/X(6) = tg&Omega; and P*X(6) = gt&Omega;.
+</p>
+<p>
+(3) Conditions (1) and (2) hold simultaneously if and only if <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P lies on the lines X(2)&Omega; and X(6)tg&Omega; meeting at BGF(&Omega;) and<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &Omega; lies on the lines X(2) P and X(32) gtP meeting at invBGF(P).
+</p>
+
+<hr class="end-preamble">
+</div>
+<!-- preamble end -->

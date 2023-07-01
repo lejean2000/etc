@@ -1,0 +1,12 @@
+<h3 id="X38304">X(38304) = ISOGONAL CONJUGATE OF X(38280)</h3>
+Barycentrics &nbsp;&nbsp; (3*a^6-(b^2+c^2)*a^4-5*(b^4-b^2*c^2+c^4)*a^2-(b^2+c^2)*(b^4-4*b^2*c^2+c^4))*(2*a^2-b^2-c^2)  :  :
+<br>
+<b>X(38304) = X(6)+3*X(1641) = X(141)-3*X(11053) = 5*X(3618)+3*X(5468)</b>
+<p>X(38304) lies on these lines: {2,6}, {126,6593}, {9177,32459}</p>
+<p>
+X(38304) = isogonal conjugate of X(38280)<br>
+X(38304) = barycentric product X(524)*X(20099)<br>
+X(38304) = trilinear product X(896)*X(20099)<br>
+</p>
+
+

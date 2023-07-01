@@ -1,0 +1,21 @@
+<h3 id="X38899">X(38899) = X(4)X(11671)&cap;X(137)X(25043)</h3>
+Barycentrics &nbsp;&nbsp; (a^2*b^2 - b^4 + a^2*c^2 + 2*b^2*c^2 - c^4)*(-(a^4*b^2) + 2*a^2*b^4 - b^6 + a^5*c - a^3*b^2*c + a^2*b^2*c^2 + 2*b^4*c^2 - 2*a^3*c^3 - a*b^2*c^3 - b^2*c^4 + a*c^5)*(a^4*b^2 - 2*a^2*b^4 + b^6 + a^5*c - a^3*b^2*c - a^2*b^2*c^2 - 2*b^4*c^2 - 2*a^3*c^3 - a*b^2*c^3 + b^2*c^4 + a*c^5)*(a^5*b - 2*a^3*b^3 + a*b^5 - a^4*c^2 - a^3*b*c^2 + a^2*b^2*c^2 - a*b^3*c^2 - b^4*c^2 + 2*a^2*c^4 + 2*b^2*c^4 - c^6)*(a^5*b - 2*a^3*b^3 + a*b^5 + a^4*c^2 - a^3*b*c^2 - a^2*b^2*c^2 - a*b^3*c^2 + b^4*c^2 - 2*a^2*c^4 - 2*b^2*c^4 + c^6) : :
+<b><br>
+X(38899) = 4 X[18016] - 3 X[38706]<br>
+</b>
+<p>
+X(38899) lies on the conic {{A,B,C,X(4),X(5)}} and these lines: {4, 11671}, {137, 25043}, {930, 15345}, {1141, 1154}, {1263, 14140}, {1487, 32551}, {13512, 18807}, {14072, 22335}, {15619, 32423}, {18016, 38706}
+X(38899) = reflection of X(i) in X(j) for these {i,j}: {930, 15345}, {13512, 18807}, {25043, 137}<br>
+X(38899) = antigonal image of X(25043)<br>
+X(38899) = symgonal image of X(15345)<br>
+X(38899) = X(16336)-cross conjugate of X(5)<br>
+X(38899) = X(25149)-isoconjugate of X(36134)<br>
+X(38899) = cevapoint of X(1154) and X(15345)<br>
+X(38899) = trilinear pole of line {12077, 34520}<br>
+X(38899) = Kirikami concurrent circles image of X(5)<br>
+X(38899) = barycentric quotient X(i)/X(j) for these {i,j}: {233, 24147}, {12077, 25149}<br>
+</p>
+
+
+
+

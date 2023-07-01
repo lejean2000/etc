@@ -1,0 +1,25 @@
+<!-- preamble start -->
+<header class="triheader">
+<img src="leftri.svg" style="height:30px" alt="leftri">
+<p class="preamble-title">
+U-Hodpieces: X(40212)-X(40218)
+</p>
+<img src="rightri.svg" style="height:30px" alt="rightri">
+</header>
+<div class="preamble-sect">
+<p>
+This preamble is based on notes received from Vu Thanh Tung, November 1, 2020.
+</p>
+<p>
+The definition of hodpiece in the preamble just before X(40137) generalizes as follows.  Let P be a point, not on a sideline of ABC, and let DEF be the cevian triangle of P.  Let U = u:v:w be a point. The P-reciprocal conjugate of U (defined as u/p : v/q : w/r in the Glossary of ETC), of the line EF is a conic. Let A' be the center of the conic, and define B' and C' cyclically. Then the lines AA', BB', CC' concur in the point
+</p>
+<p>
+u / (p*(-u/p + v/q + w/r)) : v / (q*(u/p - v/q + w/r)) : w / (r*(u/p + v/q - w/r)),
+</p>
+<p>
+here named the <b>U-hodpiece of P</b>, so that the hodpiece of P is the X(6)-hodpiece of P.
+</p>
+
+<hr class="end-preamble">
+</div>
+<!-- preamble end -->

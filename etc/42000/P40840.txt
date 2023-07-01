@@ -1,0 +1,78 @@
+
+<!-- preamble start -->
+<header class="triheader">
+<img src="leftri.svg" style="height:30px" alt="leftri">
+<p class="preamble-title">
+ Points associated with (X(1),U)-cevian-cross triangles: X(40840)-X(40842)
+</p>
+<img src="rightri.svg" style="height:30px" alt="rightri">
+</header>
+<div class="preamble-sect">
+<p>
+This preamble is contributed by Clark Kimberling and Peter Moses, December 31, 2020.
+<p>
+Let U = u : v : w be a point in the plane of a triangle ABC. The (X(1),U)-cevian-cross triangle A'B'C' is introduced in the preamble just before X(40718). The vertices are given by.
+</p>
+<p>
+A'' = u : u + v : u + w<br>
+B'' = v + u : - v : v + w<br>
+C'' = w + u : w + v : - w.
+</p>
+<p>
+Triangles perspective to A'B'C' and the perspectors include the following:
+</p>
+<p>
+ABC, (u+v)*(u+w) : : <br>
+medial, u*(u - v - w) : : <br>
+anticomplementary, u*v + u*w - v*w : : <br>
+Gemini 107, (u - v)*(u - w) : : <br>
+Gemini 109, 3*u^2 - u*u*v - 7*u*w - 5*v*w : : <br>
+</p>
+<p>
+X(6)-of-A'B'C' = 2*(a^2 - 2*b^2 - 2*c^2)*u^3 + (2*a^2 - b^2 - 7*c^2)*u^2*v + (2*a^2 - 7*b^2 - c^2)*u^2*w + (7*a^2 - 5*b^2 - 5*c^2)*u*v*w - (2*a^2 - b^2 + 2*c^2)*v^2*w - (2*a^2 + 2*b^2 - c^2)*v*w^2 : :
+</p>
+<p>
+Following are four points on the Euler line of A'B'C':
+</p>
+<p>
+X(2)-of-A'B'C' = X(2)
+</p>
+<p>
+X(3)-of-A'B'C' = (b - c)*(b + c)*(a^2 + b^2 - 5*c^2)*u^2*v - 2*(b - c)*(b + c)*(2*a^2 - b^2 + 2*c^2)*u*v^2 - (b - c)*(b + c)*(a^2 - 5*b^2 + c^2)*u^2*w + 3*(a - b - c)*(a + b - c)*(a - b + c)*(a + b + c)*u*v*w - (3*a^2 + b^2 - c^2)*(2*a^2 - b^2 + 2*c^2)*v^2*w + 2*(b - c)*(b + c)*(2*a^2 + 2*b^2 - c^2)*u*w^2 - (2*a^2 + 2*b^2 - c^2)*(3*a^2 - b^2 + c^2)*v*w^2 : :
+</p>
+<p>
+X(4)-of-A'B'C' = (3*a^4 - 8*a^2*b^2 + b^4 - 4*a^2*c^2 + 6*b^2*c^2 - 7*c^4)*u^2*v + (a^2 + b^2 - 5*c^2)*(3*a^2 - b^2 + c^2)*u*v^2 + (3*a^4 - 4*a^2*b^2 - 7*b^4 - 8*a^2*c^2 + 6*b^2*c^2 + c^4)*u^2*w + 3*(a - b - c)*(a + b - c)*(a - b + c)*(a + b + c)*u*v*w + (5*a^2 - b^2 - c^2)*(3*a^2 - b^2 + c^2)*v^2*w + (3*a^2 + b^2 - c^2)*(a^2 - 5*b^2 + c^2)*u*w^2 + (5*a^2 - b^2 - c^2)*(3*a^2 + b^2 - c^2)*v*w^2 : :
+</p>
+<p>
+X(5)-of-A'B'C' = (a^2 - 2*b^2 - 2*c^2)*(3*a^2 - b^2 + c^2)*u^2*v + (3*a^4 - 2*a^2*b^2 + b^4 - 10*a^2*c^2 - c^4)*u*v^2 + (a^2 - 2*b^2 - 2*c^2)*(3*a^2 + b^2 - c^2)*u^2*w + 6*(a - b - c)*(a + b - c)*(a - b + c)*(a + b + c)*u*v*w + (9*a^4 - 7*a^2*b^2 + 2*b^4 - 2*a^2*c^2 - 3*b^2*c^2 + c^4)*v^2*w + (3*a^4 - 10*a^2*b^2 - b^4 - 2*a^2*c^2 + c^4)*u*w^2 + (9*a^4 - 2*a^2*b^2 + b^4 - 7*a^2*c^2 - 3*b^2*c^2 + 2*c^4)*v*w^2 : :
+</p>
+<p>
+Further examples of triangle centers of A'B'C':
+</p>
+<p>
+For U = X(1), X(6)-of-A'B'C' = X(40841) <br>
+</p>
+<p>
+For U = X(2), X(3)-of-A'B'C' = X(381) <br>
+For U = X(2), X(4)-of-A'B'C' = X(376) <br>
+For U = X(2), X(5)-of-A'B'C' = X(549) <br>
+For U = X(2), X(6)-of-A'B'C' = X(599) <br>
+</p>
+<p>
+For U = X(6), X(3)-of-A'B'C' = X(11261) <br>
+For U = X(6), X(4)-of-A'B'C' = X(31958) <br>
+For U = X(6), X(5)-of-A'B'C' = X(32149) <br>
+For U = X(6), X(6)-of-A'B'C' = X(40842) <br>
+</p>
+<p>
+For U = X(75), X(3)-of-A'B'C' = X(40840) <br>
+</p>
+<p>
+For U = X(523), X(3)-of-A'B'C' = X(2793) <br>
+For U = X(523), X(4)-of-A'B'C' = X(2793) <br>
+For U = X(523), X(5)-of-A'B'C' = X(2793) <br>
+</p>
+
+<hr class="end-preamble">
+</div>
+<!-- preamble end -->

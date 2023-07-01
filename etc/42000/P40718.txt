@@ -1,0 +1,71 @@
+
+<!-- preamble start -->
+<header class="triheader">
+<img src="leftri.svg" style="height:30px" alt="leftri">
+<p class="preamble-title">
+ Points associated with CCC cubics: X(40718)-X(40725)
+</p>
+<img src="rightri.svg" style="height:30px" alt="rightri">
+</header>
+<div class="preamble-sect">
+<p>
+This preamble is contributed by Clark Kimberling and Peter Moses, December 16, 2020.
+<p>
+Let P = p : q : r and U = u : v : w be points in the plane of a triangle ABC, and let<br>
+A'B'C' = cevian triangle of P,  D'E'F' = cevian triangle of U<br>
+A"B"C" = anticevian triangle of P,  D"E"F" = anticevian triangle of U<br>
+A* = A'D" &cap; A"E', and define B* and C* cyclically, so that
+</p>
+<p>
+A* = - p u : q u + p v : r u + p w<br>
+B* = p v + q u : - q v : r v + q w<br>
+C* = p w + r u : q w + r v : - r w
+</p>
+<p>
+The triangle A*B*C* is here named the <b>(P,U)-cevian-cross triangle</b> (not to be confused with the cross-cevian triangle in TCCT, p. 201)..
+</p>
+<p>
+The locus of a point X = x : y : z such that the (P,U)-cevian-cross triangle is perspective to the cevian triangle of X is the <b>(P,U)-CCC cubic</b>, given by
+</p>
+<p>
+(r u + p w)(q^2 u^2 + p q u v + p^2 v^2) y z^2 - (q u + p v) (r^2 u^2 + p r u w + p^2 w^2) y^2 z + (cyclic) = 0
+</p>
+<p>
+The (P,U)-CCC cubic is the cubic pK(P*,U*), where
+</p>
+<p>
+P* = q^2 u^2 + p q u v + p^2 v^2)(r^2 u^2 + p r u w + p^2w^2) : : <br>
+U* = (q^2 u^2 + p q u v + p^2*v^2)(r^2 u^2 + p r u w + p^2 w^2)(r v + q w) : :
+</p>
+<p>
+Examples: <br>
+(X(15), X(16))-CCC cubic = pK(X(6), X(30)) = K001<br>
+(X(2), X(6))-CCC cubic = pK(X(3407), X(14617)) = K421
+</p>
+<p>
+The locus of a point X = x : y : z such that the (P,U)-cevian-cross triangle is perspective to the anticevian triangle of X is the <b>(P,U)-CCA cubic</b>, given by
+</p>
+<p>
+2 p u (r^2 u v + 2 q r u w + 2 p r v w + p q w^2) y^2 z - 2 p u (2 q r u v + p r v^2 + q^2 u w + 2 p q v w) y z^2 + (cyclic) = 0.
+</p>
+<p>
+The (P,U)-CCA cubic is the cubic pK(P*,U*), where
+</p>
+<p>
+P* = p u : : , and U* = q r u^2 + p^2 v w + 2 p u (r v + q w)) : :
+</p>
+<p>
+Examples: <br>
+((X(2), X(4))_CCA cubic = pK(X(4), X(458)) = K677<br>
+((X(2), X(6))_CCA cubic  = pK(X(6), X(3329)) = K423<br>
+((X(2), X(13))_CCA cubic = pK(X(13), X(8838)) = K420b<br>
+((X(2), X(14))_CCA cubic = pK(X(13), X(8836)) = K420a<br>
+((X(2), X(30))_CCA cubic = pK(X(30), X(2)) = K472<br>
+((X(6), X(98))_CCA cubic = pK(X(1976), X(98)) = K380<br>
+((X(13), X(14))_CCA cubic = pK(X(1989), X(265)) = K060<br>
+((X(15), X(16))_CCA cubic = pK(X(50), X(3)) = K073<br>
+</p>
+
+<hr class="end-preamble">
+</div>
+<!-- preamble end -->

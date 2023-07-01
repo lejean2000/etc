@@ -1,0 +1,56 @@
+
+<!-- preamble start -->
+<header class="triheader">
+<img src="leftri.svg" style="height:30px" alt="leftri">
+<p class="preamble-title">
+ Points associated the special dilation triangle: X(40911)-X(40920)
+</p>
+<img src="rightri.svg" style="height:30px" alt="rightri">
+</header>
+<div class="preamble-sect">
+<p>
+This preamble is contributed by Clark Kimberling and Peter Moses, January 4, 2021.
+<p>
+Let T denote the pedal triangle of X(2). There is exactly one dilation of T from X(2) that is perspective to ABC. It is the (-1)-dilation, here named the <b>special dilation triangle</b>, with vertices given by
+</p>
+<p>
+A' = 4 a^2 : a^2 - b^2 + c^2 : a^2 + b^2 - c^2 <br>
+B' = b^2 + c^2 - a^2 : 4 b^2 : b^2 - c^2 + a^2 <br>
+C' = c^2 - a^2 + b^2 : c^2 + a^2 - b^2 : 4 c^2.
+</p>
+<p>
+See Clark Kimberling and Peter J. C. Moses, "Dilation-Induced Perspectivities among Triangles", <i>Journal for Geometry and Graphics</i> 14 (2010) 1-14.
+</p>
+<p>
+X(2)-of-A'B'C' = X(5650), and X(3)-of-A'B'C' = X(141)
+</p>
+<p>
+The appearance of (T,i) in the following list means that A'B'C' is perspective to T, and the perspector is X(i):
+</p>
+<p>
+(ABC, 69)<br>
+(tangential. 31521)<br>
+(2nd Euler, 125)<br>
+(4th extouch, 69)<br>
+(Artzt, 2)<br>
+(infinite altitude, 2)<br>
+(anti-Artzt, 2)<br>
+(orthic-of medial, 69)<br>
+(anti-Atik, 69)<br>
+(triangle of reflection of ABC in X(3)<br>
+, 40911)<br>
+(reflection of X(3)<br>
+ in A,B,C, 40912)<br>
+(Kosnita, 40913)<br>
+Trnh, 40914)<br>
+(1st Parry, 40915)<br>
+(1st Ehrmann, 40916)<br>
+(anti-Hutson-intouch, 40917)<br>
+(anti-incircle-circles triangle, 40918)<br>
+(antiAOA, 40919)<br>
+(Ehrmann side-triangle,40920)<br>
+</p>
+
+<hr class="end-preamble">
+</div>
+<!-- preamble end -->

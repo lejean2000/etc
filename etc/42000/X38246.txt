@@ -1,0 +1,18 @@
+<h3 id="X38246">X(38246) = X(30)X(6699)&cap;X(74)X(3081) </h3>
+Barycentrics &nbsp;&nbsp; (S^2-3*SB*SC)*((39*R^2+SA-9*SW)*S^2-216*R^4*(6*R^2-5*SW+2*SA)+27*(2*SA^2+6*SA*SW-11*SW^2)*R^2+3*(4*SA+9*SW)*(SB+SC)*SW) : :
+<b><br>
+X(38246) = X(74)+3*X(3081), X(113)-3*X(34582), X(146)-9*X(4240), 5*X(146)-9*X(12369), 3*X(1511)-X(20123), 5*X(4240)-X(12369), 3*X(14847)-X(34297), 3*X(15774)-X(16163)
+</b>
+<p>
+X(38246) is the focus of the circumparabola that is the isogonal conjugate of line X(74)X(526) (the tangent to the circumcircle at X(74)), and the isotomic conjugate of line X(1494)X(3268) (the tangent to the Steiner circumellipse at X(1494)).  This circumparabola passes through the points X(i) for these i: 30, 476, 4240, 9141, 16077.  (Randy Hutson, May 19, 2020)
+</p>
+<p>
+X(38246) lies on the curve Q077, the nine-point circle of the cevian triangle of X(30), and these lines: {30, 6699}, {74, 3081}, {113, 34582}, {146, 4240}, {265, 16080}, {1511, 3163}, {14847, 15774}
+</p>
+<p>
+X(38246) = perspector of ABC and orthic triangle of cevian triangle of X(30)<br>
+</p>
+
+
+
+

@@ -1,0 +1,28 @@
+
+<!-- preamble start -->
+<header class="triheader">
+<img src="leftri.svg" style="height:30px" alt="leftri">
+<p class="preamble-title">
+ Perspectors involving the obverse triangle of X(69): X(40921)-X(40926)
+</p>
+<img src="rightri.svg" style="height:30px" alt="rightri">
+</header>
+<div class="preamble-sect">
+<p>
+This preamble is based on notes from Peter Moses, January 6, 2021.
+<p>
+As in the preamble just before X(24307), the obverse triangle, A'B'C', of a point P = p : q : r is given by
+</p>
+<p>
+A' = p : r : q, &nbsp;&nbsp;&nbsp;&nbsp; B' = r : q : p, &nbsp;&nbsp;&nbsp;&nbsp; C' = q : p : r.
+</p>
+<p>
+In particular, for P = X(69),
+</p>
+<p>
+A' = b^2 + c^2 - a^2 : a^2 + b^2 - c^2 : c^2 + a^2 - b^2.
+</p>
+
+<hr class="end-preamble">
+</div>
+<!-- preamble end -->

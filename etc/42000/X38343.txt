@@ -1,0 +1,11 @@
+<h3 id="X38343">X(38343)&nbsp;=&nbsp; TRILINEAR POLE OF COLLINEAR POINTS X(6), V(X(6)), AND V<sub>2</sub>(X(6))</h3>
+Barycentrics &nbsp;&nbsp; = (a - b) (a + b) (a - c) (a + c) (2 a^2 + 2 b^2 - c^2) (2 a^2 - b^2 + 2 c^2) (a^4 - 4 a^2 b^2 + b^4 - c^4) (a^4 - b^4 - 4 a^2 c^2 + c^4) (a^4 + 2 b^4 - 3 b^2 c^2 + c^4 - a^2 (3 b^2 + c^2)) (a^4 + b^4 - 3 b^2 c^2 + 2 c^4 - a^2 (b^2 + 3 c^2)) : :
+<p>
+X(38343) lies on the circumcircle and these lines: {}
+</p>
+<p>
+X(38343) = trilinear pole of the line {6, 22100}<br>
+</p>
+
+
+

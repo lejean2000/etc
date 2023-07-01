@@ -1,0 +1,8 @@
+<h3 id="X39140">X(39140) = POINT RASALGETHI</h3>
+Barycentrics &nbsp;&nbsp; (a^2 - a*b + b^2 - c^2)*(a^2 - b^2 - a*c + c^2)*(a^5 - a^3*b^2 - a^2*b^3 + b^5 - a^2*b^2*c - a^3*c^2 + a^2*b*c^2 + a*b^2*c^2 - b^3*c^2 + a^2*c^3 + b^2*c^3 - c^5)*(a^5 - a^3*b^2 + a^2*b^3 - b^5 - a^2*b^2*c + 2*b^4*c - a^3*c^2 - a^2*b*c^2 + a*b^2*c^2 - b^3*c^2 + a^2*c^3 - b^2*c^3 + 2*b*c^4 - c^5)*(a^5 - a^3*b^2 + a^2*b^3 - b^5 + a^2*b^2*c - a^3*c^2 - a^2*b*c^2 + a*b^2*c^2 + b^3*c^2 - a^2*c^3 - b^2*c^3 + c^5) : :
+<p>
+X(39140) lies on the curve Q155 and these lines: {}
+</p>
+
+
+

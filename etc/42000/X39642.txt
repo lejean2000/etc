@@ -1,0 +1,20 @@
+<h3 id="X39642">X(39642) = 2ND IMAGINARY FOCUS OF BROCARD INELLIPSE</h3>
+Barycentrics &nbsp;&nbsp;  Sin[A]*(Sin[A] - i*Cos[A]) : :
+<br>
+Barycentrics &nbsp;&nbsp;  a^2*(i*(b^4 + c^4 - a^2*(b^2 + c^2)) - 2*(b^2 + c^2)*S) : :
+<b><br>
+X(39642) = (1 + i)*X[39] - X[3103] = (1 - i)*X[39] - X[3102] = X[3103] - i*X[3102]
+</b>
+<p>
+See X(39641). Contributed by Peter Moses, September 11, 2020.
+</p>
+<p>
+In contrast to the real foci, the <b>imaginary foci</b> of the Brocard inellipse are major triangle centers. They both lie on the Brocard axis, X(3)X(6), and on the Kiepert circumhyperbola, and on the following curves: K003, K019, K049, K102, K115, K166, K248, K268, K326, K359, K369, K373, K444, K512, K516, K587, K588, K643, K688, K708, K731, K763, K801, K828, K833, K1096, K1098, K1103, K1113, K1139, Q019, Q039, Q065, Q073, Q088, Q094, Q138.
+</p>
+<p>
+X(39642) = isogonal conjugate of X(39641)<br>
+X(39642) = Brocard-circle-inverse of X(39641)<br>
+</p>
+
+
+

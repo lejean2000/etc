@@ -1,0 +1,34 @@
+
+<!-- preamble start -->
+<header class="triheader">
+<img src="leftri.svg" style="height:30px" alt="leftri">
+<p class="preamble-title">
+Points associated with the power curve: X(40297)-X(40305)
+</p>
+<img src="rightri.svg" style="height:30px" alt="rightri">
+</header>
+<div class="preamble-sect">
+<p>
+This preamble is based on notes contributed by Suren, November 4, 2020.
+<p>
+In the plane of a triangle ABC, the locus of a point a<sup>t</sup> : b<sup>t</sup> : c<sup>t</sup> (barycentrics [or trilinears]) as t varies through the real numbers is the <b>power curve</b>, PC(ABC), of ABC.  (The term is introduced in Clark Kimberling, "Major Centers of Triangles," <i>American Math. Monthly</i> 104 (1997), 431-438.)  Note that PC(ABC) passes through X(i) for i = 1,2,6,31,75,76, and that eliminating t shows that PC(ABC) is given by the equations
+</p>
+<p>
+(log x)/(log a) = (log y)/(log b) = (log z)/(log c).
+</p>
+<p>
+(Here, "log" signifies the natural logarithm, but equivalent equations result under change of base for "log".)  Centers X(40297)-X(40305) involve the line tangent to PC at X(1), X(2), and X(6).
+</p>
+<p>
+In general, the line tangent to the power curve at a point a<sup>t</sup> : b<sup>t</sup> : c<sup>t</sup> has the direction (i.e., a point on the infinity line) given by
+</p>
+<p>
+(a*c)<sup>t</sup> log(a/c) + (a*b)<sup>t</sup> log(a/b) : : ,
+</p>
+<p>
+and the trilinear pole of that point is the point a<sup>t</sup> log(c/b) : b<sup>t</sup> log(a/c) : c<sup>t</sup> log(b/a).
+</p>
+
+<hr class="end-preamble">
+</div>
+<!-- preamble end -->

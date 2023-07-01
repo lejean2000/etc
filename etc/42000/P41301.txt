@@ -1,0 +1,28 @@
+<!-- preamble start -->
+<header class="triheader">
+<img src="leftri.svg" style="height:30px" alt="leftri">
+<p class="preamble-title">
+Points associated with Steiner parabolas: X(41301)-X(41308)
+</p>
+<img src="rightri.svg" style="height:30px" alt="rightri">
+</header>
+<div class="preamble-sect">
+<p>
+This preamble and centers X(41301)-X(41308) were contributed by C&eacute;sar Eliud Lozada, February 21, 2021.
+</p>
+<p>
+Let ABC be a triangle and P a point on its plane. Let A<sub>b</sub>, A<sub>c</sub> be the points at which the parallel line to BC through P cuts AC and AB, respectively and denote B<sub>c</sub>, B<sub>a</sub>, C<sub>a</sub>, C<sub>b</sub> cyclically. It is well known that these six points lie on a conic and also that this conic is a parabola SP(P) if and only if P lies on the Steiner inellipse of ABC. This parabola is here named the <b>Steiner parabola of P</b>.
+</p>
+<p>
+The following algebraic method for calculating the focus F(P) of the Steiner parabola SP(P) follows from the preambles just before X(31644) and X(38017):
+</p>
+<ol>
+<li style="margin-top:10px;padding-left:1em;">Let X = 3*PG/5, where G=X(2), and let X' = barycentric product of P and X.</li>
+<li style="margin-top:10px;padding-left:1em;">Let Y = X(2)-Ceva conjugate-of-P. Since P lies on the Steiner inellipse, Y lies on the line at infinity. Let A'B'C' be the orthic triangle of the cevian triangle of Y. Then A'B'C' and ABC are perspective. Denote their perspector by  Y'.</li>
+<li style="margin-top:10px;padding-left:1em;">The focus F(P) is the midpoint of X' and Y'.</li>
+<li style="margin-top:10px;padding-left:1em;">The axis of SP(P) passes through Y.</li>
+</ol>
+
+<hr class="end-preamble">
+</div>
+<!-- preamble end -->

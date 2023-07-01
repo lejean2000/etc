@@ -1,0 +1,26 @@
+<h3 id="X38020">X(38020) = X(111)X(8030)&cap;X(126)X(8787)</h3>
+Barycentrics &nbsp;&nbsp; (2*a^2 - b^2 - c^2)*(5*a^10 - 18*a^8*b^2 - 2*a^6*b^4 + 17*a^4*b^6 - 3*a^2*b^8 + b^10 - 18*a^8*c^2 + 98*a^6*b^2*c^2 - 75*a^4*b^4*c^2 - 3*a^2*b^6*c^2 - b^8*c^2 - 2*a^6*c^4 - 75*a^4*b^2*c^4 + 81*a^2*b^4*c^4 - 8*b^6*c^4 + 17*a^4*c^6 - 3*a^2*b^2*c^6 - 8*b^4*c^6 - 3*a^2*c^8 - b^2*c^8 + c^10) : :
+<b><br>
+X(38020) = X[111] + 3 X[8030], 9 X[5468] - X[14360]
+</b>
+<p>
+X(38020) is the focus of the circumparabola given by
+</p>
+<p>
+a^4*x*y + 2*a^2*b^2*x*y + b^4*x*y - 4*a^2*c^2*x*y - 4*b^2*c^2*x*y + 4*c^4*x*y + a^4*x*z - 4*a^2*b^2*x*z + 4*b^4*x*z + 2*a^2*c^2*x*z - 4*b^2*c^2*x*z + c^4*x*z + 4*a^4*y*z - 4*a^2*b^2*y*z + b^4*y*z - 4*a^2*c^2*y*z + 2*b^2*c^2*y*z + c^4*y*z = 0,
+</p>
+<p>
+which passes through the points X(i) for these i: 524, 892, 5468, 6082, 9141, 17708.  (Peter Moses, April 28, 2020)
+</p>
+<p>
+This circumparabola is the isogonal conjugate of line X(111)X(351) (the tangent to the circumcircle at X(111)), and the isotomic conjugate of line X(671)X(690) (the tangent to the Steiner circumellipse at X(671)).  (Randy Hutson, April, 28, 2020)
+</p>
+<p>
+X(38020) lies on the nine-point circle of the cevian triangle of X(524), and on the curve Q077, and on these lines: {111, 8030}, {126, 8787}, {524, 6719}, {5468, 9143}
+</p>
+<p>
+X(38020) = perspector of ABC and orthic triangle of cevian triangle of X(524)<br>
+</p>
+
+
+

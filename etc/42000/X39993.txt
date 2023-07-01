@@ -1,0 +1,14 @@
+<h3 id="X39993">X(39993) = X(4)X(27725)&cap;X(30)X(103)</h3>
+Barycentrics &nbsp;&nbsp; (-(a*b) + b^2 - a*c + b*c + c^2)*(a^4 + a^3*b + a^2*b^2 + a*b^3 + b^4 - a^3*c - a^2*b*c - a*b^2*c - b^3*c - a^2*c^2 - a*b*c^2 - b^2*c^2 + a*c^3 + b*c^3)*(a^4 - a^3*b - a^2*b^2 + a*b^3 + a^3*c - a^2*b*c - a*b^2*c + b^3*c + a^2*c^2 - a*b*c^2 - b^2*c^2 + a*c^3 - b*c^3 + c^4) : :
+<p>
+X(39993) lies on the cubic K025 and these lines: {4, 2772}, {30, 103}, {101, 3136}, {116, 4184}, {150, 8049}, {1002, 1478}, {1126, 1834}, {3730, 21045}
+</p>
+<p>
+X(39993) = reflection of X(i) in X(j) for these {i,j}: {101, 3136}, {4184, 116}<br>
+X(39993) = antigonal image of X(4184)<br>
+X(39993) = symgonal image of X(3136)<br>
+X(39993) = barycentric product X(2690)*X(25259)<br>
+X(39993) = barycentric quotient X(6586)/X(2774)<br>
+</p>
+
+

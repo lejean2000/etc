@@ -1,0 +1,32 @@
+<!-- preamble start -->
+<header class="triheader">
+<img src="leftri.svg" style="height:30px" alt="leftri">
+<p class="preamble-title">
+Points on the square of the circumcircle: X(41932)-X(41937)
+</p>
+<img src="rightri.svg" style="height:30px" alt="rightri">
+</header>
+<div class="preamble-sect">
+<p>
+Points X(41932)-X(41937) are contributed by Clark Kimberling and Peter Moses, March 13, 2021.
+</p>
+<p>
+The square of the circumcircle is given by the barycentric equation
+</p>
+<p>
+a^8 y^2 z^2 - 2 b^4 c^4 x^2 y*z + (cyclic) = 0.
+</p>
+<p>
+The appearance of (i,j) in the following list means that X(i) is on the circumcircle, and X(i)^2 = X(j):
+(74,40353), (98, 41932), (99,4590), (100,1252), (101,23990), (104,41933), (105, 41934), (106, 31935), (107,23590), (108,23985), (109,23979), (110,23357), (111, 41936), (112, 41937)(476,23588), (934,23971)
+</p>
+<p>
+The cube of the circumcircle is given by
+</p>
+<p>
+a^18 y^3 z^3 + 3 a^12 x y^2 z^2 (c^6 y + b^6 z) - 7 a^6 b^6 c^6 x^2 y^2 z^2 + (cyclic) = 0.
+</p>
+
+<hr class="end-preamble">
+</div>
+<!-- preamble end -->

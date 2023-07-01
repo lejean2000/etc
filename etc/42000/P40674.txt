@@ -1,0 +1,65 @@
+
+<!-- preamble start -->
+<header class="triheader">
+<img src="leftri.svg" style="height:30px" alt="leftri">
+<p class="preamble-title">
+ Points associated with midcevian triangles: X(40674)-X(40696)
+</p>
+<img src="rightri.svg" style="height:30px" alt="rightri">
+</header>
+<div class="preamble-sect">
+<p>
+This preamble is contributed by Clark Kimberling and Peter Moses, December 9, 2020.
+<p>
+Let U = u : v : w be a point in the plane of a triangle ABC.  Let A'B'C' be the cevian triangle of U, and let A'' be the midpoint of the segment AA'.  Define B'' and C'' cyclically, so that
+</p>
+<p>
+A'' = v + w : v : w<br>
+B'' = u : w + u : w<br>
+C'' = u : v : u + v.
+</p>
+<p>
+The triangle A''B''C'' is here named the <b>U-midcevian triangle.</b>  Examples include
+</p>
+<p>
+X(1)-midcevian triangle = Gemini triangle 15<br>
+X(2)-midcevian triangle = Gemini triangle 110<br>
+X(4)-midcevian triangle = half-altitude triangle<br>
+X(7)-midcevian triangle = 1st Zaniah triangle<br>
+X(8)-midcevian triangle = 2nd Zaniah triangle<br>
+X(69)-midcevian triangle = orthic-of-medial triangle = anti-6th-mixtilinear = anticomplement of submedial triangle; see X(11363)<br>
+X(75)-midcevian triangle = Gemini triangle 16 = complement of incentral triangle = n(Incentral)*n(Medial) (ETC preamble before X(3739))<br>
+X(523)-midcevian triangle = anticevian triangle of X(523)  = Schroeter triangle (ETC X(8286) = diagonal triangle of Feuerbach quadrangle of ABC (ETC X(10276)
+</p>
+<p>
+In general, the U-midcevian triangle is perspective to the following triangles:
+</p>
+<p>
+ABC, with perspector U<br>
+medial triangle, with perspector u v + u w : :<br>
+Wasat triangle (see X(21616)), with perspector a u (b + c) - (b v - c w)(b - c) : :<br>
+Gemini 7 triangle, with perspector a u (a - b - c) - (b - c)((a - b + c) v + (a + b - c) w) : :<br>
+</p>
+<p>
+Let T(U) denote the midcevian triangle of U, and let C(U) denote the cevian triangle of U.
+</p>
+<p>
+The locus of a point X such that T(U) is perspective to C(X) is the cubic pK(X(2),U*), where U* = isotomic conjugate of U.
+</p>
+<p>
+The locus of X such that T(U) is perspective to the anticevian triangle of X is the cubic pK(u*(v + w) : : , -u + v + w : :). For example, if U = X(3), then the cubic is K044.
+</p>
+<p>
+The locus of X such that T(X(1)) is perspective to C(X) is the cubic K034.<br>
+The locus of X such that T(X(3)) is perspective to C(X) is the cubic K045.<br>
+The locus of X such that T(X(4)) is perspective to C(X) is the cubic K007.<br>
+The locus of X such that T(X(6)) is perspective to C(X) is the cubic K141.<br>
+The locus of X such that T(X(7)) is perspective to C(X) is the cubic K200.<br>
+The locus of X such that T(X(8)) is perspective to C(X) is the cubic K1078.<br>
+The locus of X such that T(X13)) is perspective to C(X) is the cubic K264a.<br>
+The locus of X such that T(X(14)) is perspective to C(X) is the cubic K264b.<br>
+</p>
+
+<hr class="end-preamble">
+</div>
+<!-- preamble end -->

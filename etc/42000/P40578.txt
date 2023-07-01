@@ -1,0 +1,32 @@
+
+
+<!-- preamble start -->
+<header class="triheader">
+<img src="leftri.svg" style="height:30px" alt="leftri">
+<p class="preamble-title">
+Centers of 2nd Ceva conics: X(40578)-X(40629)
+</p>
+<img src="rightri.svg" style="height:30px" alt="rightri">
+</header>
+<div class="preamble-sect">
+<p>
+This preamble is contributed by Clark Kimberling and Peter Moses, December 6, 2020.
+<p>
+In the plane of a triangle ABC, let L be the line u x + v y + w z = 0, and let U be the point u : v : w, this being the trilinear pole of L. Let P = p : q : r be a point. The <b>2nd (U,P)-Ceva conic</b> is introduced here as the locus of X such that the X-Ceva conjugate of P is on the line L. This conic circumscribes ABC and is given by
+</p>
+<p>
+p(-u p + v q + w r)/x + q(u p - v q + w r)/y + r(u p + v q - w r)/z = 0.
+</p>
+<p>
+The center of the conic is the point
+</p>
+<p>
+p*((p+q+r) p^2 u^2 + (p+q-r) q^2 v^2 + (p-q+r) r^2 w^2 + 2 p q r v w - 2 p r (p+r) w u - 2 p q (p+q) u v) : :
+</p>
+<p>
+If U = X(2), then the center of the 2nd (U,P)-Ceva conic is the X(2)-Ceva conjugate of P, and the perspector of the 2nd (U,P)-Ceva conic is P.  (Randy Hutson, December 18, 2020)
+</p>
+
+<hr class="end-preamble">
+</div>
+<!-- preamble end -->
