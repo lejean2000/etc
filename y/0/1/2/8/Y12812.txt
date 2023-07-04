@@ -1,0 +1,14 @@
+Y(12812)
+
+X(6)X(1924)∩X(182)X(6002)
+
+Barycentrics    a^2*(b-c)*(b^3*c^3+a^5*(b+c)+a^4*(b^2+b*c+c^2))
+
+Y(12812) lies on these lines: {6, 1924}, {182, 6002}, {513, Y12804}, {1428, 51641}, {4164, 9426}, {5138, Z17771}, {23403, 23654}, {Y12803, Z28456}
+
+Y(12812) = midpoint of X(i) and X(j) for these {i,j}: {6, 16695}
+
+Y(12812) = perspector of circumconic {{A, B, C, X(715), Z(32579)}}
+
+Y(12812) = bi-perspectrix point of X(75)-pedal of X(6) and X(75)-circumconcevian of X(6) wrt X(75) and X(6)
+

@@ -1,0 +1,20 @@
+Y(12825)
+
+X(6)X(157)∩X(182)X(2781)
+
+Barycentrics    a^2*(2*a^8+b^8-b^6*c^2-b^2*c^6+c^8-a^6*(b^2+c^2)-a^4*(b^4+c^4)-a^2*(b^6-2*b^4*c^2-2*b^2*c^4+c^6))
+
+Y(12825) lies on these lines: {6, 157}, {141, 40559}, {182, 2781}, {511, Z19780}, {512, 52951}, {526, 6593}, {1511, Z34986}, {2420, 47426}, {2493, 44127}, {2854, 3506}, {2881, 28343}, {3049, 40601}, {3589, 53575}, {5026, 9479}, {5467, 36790}, {19153, 32738}, {21637, 34980}, {22151, 47429}, {38650, 52630}, {39176, 44102}, {Z2440, Z3566}
+
+Y(12825) = intersection, other than A, B, C, of circumconics {{A, B, C, X(250), X(2871)}}, {{A, B, C, X(1976), Z(19780)}}
+
+Y(12825) = midpoint of X(i) and X(j) for these {i,j}: {6, 1576}
+
+Y(12825) = reflection of X(i) in X(j) for these {i,j}: {141, 40559}, {53575, 3589}
+
+Y(12825) = perspector of circumconic {{A, B, C, X(2715), Z(5620)}}
+
+Y(12825) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {6, 1576, 2871}
+
+Y(12825) = bi-perspectrix point of X(112)-pedal of X(6) and X(112)-circumconcevian of X(6) wrt X(112) and X(6)
+

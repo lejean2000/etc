@@ -1,0 +1,22 @@
+Y(12948)
+
+X(1)X(14422)∩X(513)X(663)
+
+Barycentrics    a*(b-c)*(7*a^2-2*b^2+5*b*c-2*c^2-4*a*(b+c))
+
+Y(12948) linear combinations: X[1]+2*X[14422], X[1022]+2*X[1960], X[1635]+2*X[9269], X[3241]+2*X[48229], X[3251]+2*X[3960], X[4378]+2*X[Y12743], X[4775]+2*X[Z1618], X[4893]+2*X[48344], X[4922]+2*X[4928], X[47780]+2*X[48289], X[48189]+2*X[48325]
+
+Y(12948) lies on these lines: {1, 14422}, {513, 663}, {551, 4800}, {659, 14421}, {900, 38314}, {1022, 1960}, {1635, 9269}, {3241, 48229}, {3251, 3960}, {3616, 48183}, {4378, Y12743}, {4774, 47779}, {4775, Z1618}, {4893, 48344}, {4922, 4928}, {23352, Z35204}, {47780, 48289}, {47893, Z6646}, {48004, 48323}, {48189, 48325}, {53315, Z28458}
+
+Y(12948) = intersection, other than A, B, C, of circumconics {{A, B, C, X(1319), Z(4134)}}
+
+Y(12948) = perspector of circumconic {{A, B, C, X(57), X(9325)}}
+
+Y(12948) = barycentric product X(i)*X(j) for these (i, j): {514, Y8651}
+
+Y(12948) = barycentric quotient X(i)/X(j) for these (i, j): {Y8651, 190}
+
+Y(12948) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {1, 14422, 48244}, {1635, 9269, 21343}, {14421, Y12742, 659}
+
+Y(12948) = bi-perspectrix point of ABC and the cevian triangle of X(1) wrt line X(6)X(88)
+

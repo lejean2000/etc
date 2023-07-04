@@ -1,0 +1,24 @@
+Y(12693)
+
+X(196)X(7649)∩X(3318)X(3326)
+
+Barycentrics    (b-c)*(-a^3-a^2*(b+c)+(b-c)^2*(b+c)+a*(b+c)^2)*(-a^4+4*a^2*b*c-2*a^3*(b+c)+2*a*(b-c)^2*(b+c)+(b^2-c^2)^2)
+
+Y(12693) lies on these lines: {196, 7649}, {513, 39540}, {1528, 8058}, {2849, 21172}, {3318, 3326}, {3667, Z65769}, {4077, 50332}, {16231, 47372}, {16596, 20315}
+
+Y(12693) = intersection, other than A, B, C, of circumconics {{A, B, C, X(962), Z(30635)}}
+
+Y(12693) = perspector of circumconic {{A, B, C, X(14256), Z(71745)}}
+
+Y(12693) = X(i)-isoconjugate-of-X(j) for these {i, j}: {84, Z3391}, {963, 13138}, {2208, Z40935}, {32652, Y5498}, {36049, Y4917}, {44327, Z12110}
+
+Y(12693) = X(i)-Dao conjugate of X(j) for these {i, j}: {40, 100}, {5514, Y4917}, {16596, Y5498}
+
+Y(12693) = X(i)-Ceva conjugate of X(j) for these {i, j}: {693, 14837}
+
+Y(12693) = barycentric product X(i)*X(j) for these (i, j): {329, 7661}, {14837, 962}, {17896, 2270}, {20921, 6129}, {20991, Z67254}, {Z28966, Z35653}
+
+Y(12693) = barycentric quotient X(i)/X(j) for these (i, j): {198, Z3391}, {329, Z40935}, {962, 44327}, {2270, 13138}, {6129, Y4917}, {7661, 189}, {14837, Y5498}, {17896, Z36611}, {20921, Z39617}, {20991, 36049}, {Z28966, 963}, {Z67254, Z53097}
+
+Y(12693) = bi-perspectrix point of X(4)-pedal of X(1) and X(1)-pedal of X(4) wrt X(4) and X(1)
+

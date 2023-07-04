@@ -1,0 +1,28 @@
+Y(12804)
+
+X(6)X(1919)∩X(182)X(3667)
+
+Barycentrics    a^2*(b-c)*(a^4-a^2*b*c+b^2*c^2+a^3*(b+c))
+
+Y(12804) lies on these lines: {6, 1919}, {182, 3667}, {184, 47801}, {190, Z898}, {511, 39225}, {513, Z1500}, {523, 5027}, {659, 1980}, {798, Z874}, {834, 53311}, {1386, Y12736}, {1428, 3733}, {1974, 7649}, {2330, 42312}, {2484, 21007}, {2605, 9011}, {3589, 44316}, {3618, 44444}, {4164, 29362}, {4401, Z17771}, {4977, Y12803}, {5040, 48226}, {9000, 53287}, {9013, 48297}, {16972, 21389}, {19121, 20294}, {19126, 20315}, {23655, 23866}, {38317, 39508}, {43650, 48545}, {Z1495, Z20484}, {Z29050, Z31802}, {Z37434, Z60192}
+
+Y(12804) = intersection, other than A, B, C, of circumconics {{A, B, C, X(23355), Z(19723)}}, {{A, B, C, X(26277), X(43924)}}
+
+Y(12804) = midpoint of X(i) and X(j) for these {i,j}: {6, 4057}
+
+Y(12804) = reflection of X(i) in X(j) for these {i,j}: {44316, 3589}
+
+Y(12804) = perspector of circumconic {{A, B, C, X(727), X(1412)}}
+
+Y(12804) = X(i)-isoconjugate-of-X(j) for these {i, j}: {1, Z58050}, {75, Z16520}
+
+Y(12804) = X(i)-Dao conjugate of X(j) for these {i, j}: {3, Z58050}, {206, Z16520}
+
+Y(12804) = X(i)-reciprocal conjugate of X(j) for these {i, j}: {6, Z58050}, {32, Z16520}, {26277, 76}
+
+Y(12804) = barycentric product X(i)*X(j) for these (i, j): {26277, 6}
+
+Y(12804) = barycentric quotient X(i)/X(j) for these (i, j): {6, Z58050}, {32, Z16520}, {26277, 76}
+
+Y(12804) = bi-perspectrix point of X(10)-pedal of X(6) and X(10)-circumconcevian of X(6) wrt X(10) and X(6)
+

@@ -1,0 +1,20 @@
+Y(12919)
+
+X(37)X(46393)∩X(650)X(4838)
+
+Barycentrics    a*(a-b-c)*(b-c)*(a^5*(b+c)-b*c*(b^2-c^2)^2+a^2*b*c*(b^2+c^2)-2*a^3*(b^3+c^3)+a*(b^5-b^4*c-b*c^4+c^5))
+
+Y(12919) lies on these lines: {37, 46393}, {650, 4838}, {652, 21347}, {654, Y12878}, {1769, 2600}, {14400, 52307}, {14418, 40937}, {16577, Z23650}, {16579, Z23723}
+
+Y(12919) = perspector of circumconic {{A, B, C, X(3362), X(5560)}}
+
+Y(12919) = X(i)-reciprocal conjugate of X(j) for these {i, j}: {Y7073, 664}
+
+Y(12919) = barycentric product X(i)*X(j) for these (i, j): {522, Y7073}
+
+Y(12919) = barycentric quotient X(i)/X(j) for these (i, j): {Y7073, 664}
+
+Y(12919) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {Y12912, Y12918, 652}
+
+Y(12919) = bi-perspectrix point of ABC and the cevian triangle of X(1) wrt line X(4)X(80)
+

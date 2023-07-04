@@ -1,0 +1,20 @@
+Y(12968)
+
+X(42)X(667)∩X(2)X(48330)
+
+Barycentrics    a^2*(2*a^2*(b^2-c^2)+b*c*(b^2-c^2)+a*(-b^3+c^3))
+
+Y(12968) lies on these lines: {2, 48330}, {42, 667}, {513, Z1516}, {669, 2451}, {1960, 4893}, {1980, 23865}, {2978, 7234}, {4063, 42042}, {4083, 17018}, {4379, 48328}, {4651, 47835}, {8645, Y12956}, {8655, 50491}, {17032, 24601}, {20295, 23506}, {24674, 44445}, {24675, 31003}, {26037, 31288}, {30968, 43223}, {47775, 48331}, {47780, 48344}, {Z22956, Z34164}
+
+Y(12968) = intersection, other than A, B, C, of circumconics {{A, B, C, X(23633), Z(8798)}}
+
+Y(12968) = reflection of X(i) in X(j) for these {i,j}: {30968, 43223}
+
+Y(12968) = perspector of circumconic {{A, B, C, X(3224), Z(8904)}}
+
+Y(12968) = X(i)-anticomplementary conjugate of X(j) for these {i, j}: {4604, 32548}, {34073, 32747}, {34248, 39364}, {Z12099, 30564}, {Z14283, 17488}, {Z33283, 21291}
+
+Y(12968) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {669, 23655, 20983}
+
+Y(12968) = bi-perspectrix point of ABC and the cevian triangle of X(6) wrt line X(2)X(44)
+

@@ -1,0 +1,18 @@
+Y(12699)
+
+X(2)X(253)∩X(64)X(15258)
+
+Barycentrics    (a^2+b^2-c^2)*(a^2-b^2+c^2)*(a^4+b^4+2*b^2*c^2-3*c^4-2*a^2*(b^2-c^2))*(a^4-3*b^4+2*b^2*c^2+c^4+2*a^2*(b^2-c^2))*(11*a^8-16*a^6*(b^2+c^2)+8*a^2*(b^2-c^2)^2*(b^2+c^2)-2*a^4*(b^4-14*b^2*c^2+c^4)-(b^2-c^2)^2*(b^4+6*b^2*c^2+c^4))
+
+Y(12699) lies on these lines: {2, 253}, {4, Z22320}, {64, 15258}, {648, 34403}, {1992, 53639}, {3618, Z81446}, {5922, 10002}, {6000, 41374}, {6526, 15274}, {11433, 40839}, {14379, Z30064}, {15394, Y9991}, {17907, Z65327}, {42287, Z58844}, {52283, Z43211}, {Z34458, Z73199}
+
+Y(12699) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2), Z(22320)}}, {{A, B, C, X(275), Z(20733)}}
+
+Y(12699) = midpoint of X(i) and X(j) for these {i,j}: {17037, 20213}
+
+Y(12699) = reflection of X(i) in X(j) for these {i,j}: {14361, 1249}, {253, 1073}
+
+Y(12699) lies on these curves: K295 a Thomson centroidal cubic
+
+Y(12699) = perspector of X(4)-circumconcevian triangle of X(253) and X(4)-pedal triangle of X (253)
+

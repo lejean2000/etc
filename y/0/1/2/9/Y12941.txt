@@ -1,0 +1,18 @@
+Y(12941)
+
+X(1)X(924)∩X(513)X(663)
+
+Barycentrics    a*(b-c)*(a^6+b*c*(b^2-c^2)^2-a^4*(2*b^2+b*c+2*c^2)+a^2*(b^4+c^4))
+
+Y(12941) lies on these lines: {1, 924}, {513, 663}, {523, 23189}, {654, Y12859}, {7178, 48382}, {7649, 34948}, {8062, Y12745}, {8648, 21102}, {10015, 48383}, {21179, 52726}, {21180, 39210}, {21322, 21351}, {23226, Z1518}, {30212, 53527}, {44409, 53306}, {46389, Y12900}, {48283, Z16726}, {Y11190, Y12707}
+
+Y(12941) = intersection, other than A, B, C, of circumconics {{A, B, C, X(924), X(925)}}, {{A, B, C, X(1464), X(2217)}}
+
+Y(12941) = midpoint of X(i) and X(j) for these {i,j}: {Y12922, Y12923}
+
+Y(12941) = perspector of circumconic {{A, B, C, X(57), Y(137)}}
+
+Y(12941) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {2605, Y12910, Y12932}, {2605, Y12924, Y12910}, {2605, Y12925, 4367}, {4367, Y12910, 2605}, {Y12922, Y12923, 513}
+
+Y(12941) = bi-perspectrix point of ABC and the cevian triangle of X(1) wrt line X(6)X(68)
+

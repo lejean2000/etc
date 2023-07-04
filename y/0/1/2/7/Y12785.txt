@@ -1,0 +1,16 @@
+Y(12785)
+
+X(4)X(35057)∩X(92)X(4086)
+
+Barycentrics    b*(b-c)*c*(-a^2+b^2-c^2)*(a^2+b^2-c^2)*(-2*a^4-a^3*(b+c)+(b^2-c^2)^2+a^2*(b^2+c^2)+a*(b^3+b^2*c+b*c^2+c^3))
+
+Y(12785) lies on these lines: {4, 35057}, {92, 4086}, {278, Y12708}, {514, Y12778}, {523, Y12766}, {656, 1838}, {1519, Z5022}, {2846, 17898}, {4778, 17924}, {8062, 39585}, {14077, 16228}, {24006, 50449}, {28147, 44426}
+
+Y(12785) = intersection, other than A, B, C, of circumconics {{A, B, C, Z(5022), Z(32439)}}
+
+Y(12785) = barycentric product X(i)*X(j) for these (i, j): {17924, Y7543}, {46107, Y7469}
+
+Y(12785) = barycentric quotient X(i)/X(j) for these (i, j): {Y7469, 1331}, {Y7543, 1332}
+
+Y(12785) = bi-perspectrix point of X(84)-pedal of X(4) and X(84)-circumconcevian of X(4) wrt X(84) and X(4)
+

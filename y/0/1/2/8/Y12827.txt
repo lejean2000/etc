@@ -1,0 +1,16 @@
+Y(12827)
+
+X(23)X(385)∩X(4)X(25423)
+
+Barycentrics    a^2*(b-c)*(b+c)*(a^8-a^6*(b^2+c^2)+2*b^2*c^2*(b^4-b^2*c^2+c^4)-a^4*(b^4+4*b^2*c^2+c^4)+a^2*(b^6-3*b^4*c^2-3*b^2*c^4+c^6))
+
+Y(12827) lies on these lines: {4, 25423}, {6, 52631}, {23, 385}, {512, 11622}, {526, 11186}, {879, Z8321}, {924, Y12815}, {1499, 31861}, {1510, 2492}, {5169, 31176}, {5926, 46609}, {7493, 45317}, {7530, Z23411}, {8704, 14270}, {9175, 39499}, {11620, 18117}, {35364, 43697}, {Z30112, Z66455}
+
+Y(12827) = intersection, other than A, B, C, of circumconics {{A, B, C, X(385), Z(3255)}}, {{A, B, C, X(51862), Z(8321)}}
+
+Y(12827) = reflection of X(i) in X(j) for these {i,j}: {18117, 11620}, {46609, 5926}
+
+Y(12827) = perspector of circumconic {{A, B, C, X(83), Z(5382)}}
+
+Y(12827) = bi-perspectrix point of X(182)-pedal of X(6) and X(182)-circumconcevian of X(6) wrt X(182) and X(6)
+

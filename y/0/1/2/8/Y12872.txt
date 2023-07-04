@@ -1,0 +1,18 @@
+Y(12872)
+
+X(1)X(42664)∩X(661)X(2605)
+
+Barycentrics    a*(b-c)*(a^4+a^2*b*c+a^3*(b+c)+a*b*c*(b+c)+b*c*(b+c)^2)
+
+Y(12872) lies on these lines: {1, 42664}, {523, Z1050}, {647, 48328}, {649, 4083}, {661, 2605}, {1919, 48275}, {2523, Z6646}, {4024, 20981}, {4467, 18200}, {4988, 48288}, {5311, 50494}, {8632, 50522}, {21347, Z3702}, {21720, 24960}, {48141, 50458}, {Z1505, Z7846}
+
+Y(12872) = intersection, other than A, B, C, of circumconics {{A, B, C, X(42664), Z(28182)}}
+
+Y(12872) = perspector of circumconic {{A, B, C, X(87), X(267)}}
+
+Y(12872) = X(i)-anticomplementary conjugate of X(j) for these {i, j}: {Z13818, 17149}
+
+Y(12872) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {4367, Y12859, 649}
+
+Y(12872) = bi-perspectrix point of ABC and the cevian triangle of X(1) wrt line X(2)X(58)
+

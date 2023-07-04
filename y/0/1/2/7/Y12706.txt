@@ -1,0 +1,18 @@
+Y(12706)
+
+X(1)X(4025)∩X(3)X(6589)
+
+Barycentrics    a^2*(b-c)*(a^4-b^4+2*a^2*b*c-2*b^3*c-2*b*c^3-c^4)
+
+Y(12706) lies on these lines: {1, 4025}, {3, 6589}, {58, 652}, {106, 28838}, {386, Z28966}, {663, 1019}, {975, 3239}, {1010, 35519}, {1459, 3960}, {4340, 46400}, {4509, 48295}, {6332, Y9864}, {6588, 8760}, {7254, 8676}, {14838, Z1494}, {29067, 46153}, {29212, 30142}, {39476, 52597}
+
+Y(12706) = perspector of circumconic {{A, B, C, X(37214), X(42302)}}
+
+Y(12706) = X(i)-isoconjugate-of-X(j) for these {i, j}: {37, Y180}
+
+Y(12706) = X(i)-Dao conjugate of X(j) for these {i, j}: {40589, Y180}
+
+Y(12706) = barycentric quotient X(i)/X(j) for these (i, j): {58, Y180}
+
+Y(12706) = bi-perspectrix point of X(25)-pedal of X(1) and X(25)-circumconcevian of X(1) wrt X(25) and X(1)
+

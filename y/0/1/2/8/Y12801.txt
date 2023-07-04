@@ -1,0 +1,20 @@
+Y(12801)
+
+X(4)X(542)∩X(107)X(136)
+
+Barycentrics    (a^2+b^2-c^2)*(a^2-b^2+c^2)*(a^8-a^6*(b^2+c^2)-3*a^2*(b^2-c^2)^2*(b^2+c^2)+a^4*(b^4-b^2*c^2+c^4)+(b^2-c^2)^2*(2*b^4-b^2*c^2+2*c^4))
+
+Y(12801) lies on these lines: {4, 542}, {107, 136}, {275, Z13404}, {420, 39569}, {460, 685}, {868, Z28688}, {877, 35142}, {1300, 52415}, {3134, 10714}, {10151, 17986}, {16080, 18384}, {18808, Y12791}, {32695, 40388}, {35139, 44138}, {43665, Z81483}, {Z2191, Z13064}
+
+Y(12801) = intersection, other than A, B, C, of circumconics {{A, B, C, X(542), X(1550)}}, {{A, B, C, X(671), Z(31096)}}, {{A, B, C, X(685), X(52035)}}, {{A, B, C, X(895), X(2065)}}, {{A, B, C, X(9214), X(18808)}}, {{A, B, C, X(18020), X(20774)}}, {{A, B, C, X(36894), X(43665)}}
+
+Y(12801) = X(i)-isoconjugate-of-X(j) for these {i, j}: {Z23706, Z34851}
+
+Y(12801) = barycentric product X(i)*X(j) for these (i, j): {16080, 52472}
+
+Y(12801) = barycentric quotient X(i)/X(j) for these (i, j): {8749, Z34851}, {16080, Z82478}, {52472, 11064}
+
+Y(12801) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {4, 648, 20774}
+
+Y(12801) = bi-perspectrix point of X(115)-pedal of X(4) and X(115)-circumconcevian of X(4) wrt X(115) and X(4)
+

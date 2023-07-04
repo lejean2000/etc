@@ -1,0 +1,20 @@
+Y(12831)
+
+X(6)X(4394)∩X(513)X(8659)
+
+Barycentrics    a*(b-c)*(7*a^3-b^3-b^2*c-b*c^2-c^3-5*a^2*(b+c)+a*(3*b^2+4*b*c+3*c^2))
+
+Y(12831) linear combinations: X[6]+X[4394], X[4380]+7*X[51171]
+
+Y(12831) lies on these lines: {6, 4394}, {182, 30199}, {513, 8659}, {644, Z1765}, {2490, 9031}, {2516, 9001}, {3618, 4106}, {3751, 30234}, {3900, Y12807}, {4132, Y12805}, {4380, 51171}, {5085, Y12760}, {22108, Z816}
+
+Y(12831) = intersection, other than A, B, C, of circumconics {{A, B, C, X(644), X(9048)}}
+
+Y(12831) = midpoint of X(i) and X(j) for these {i,j}: {6, 4394}
+
+Y(12831) = perspector of circumconic {{A, B, C, X(8686), Z(670)}}
+
+Y(12831) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {6, 4394, 9048}
+
+Y(12831) = bi-perspectrix point of X(210)-pedal of X(6) and X(210)-circumconcevian of X(6) wrt X(210) and X(6)
+

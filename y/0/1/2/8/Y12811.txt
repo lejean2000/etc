@@ -1,0 +1,12 @@
+Y(12811)
+
+X(6)X(4079)∩X(513)X(1386)
+
+Barycentrics    a^2*(-b^5+a^4*(b-c)+c^5-a^2*(b-c)*(b+c)^2+a*(-b^4+c^4))
+
+Y(12811) lies on these lines: {6, 4079}, {511, Y12728}, {512, Y12810}, {513, 1386}, {834, 53311}, {1459, 4057}, {2605, 4455}, {3733, Z34215}, {9000, 53295}, {47330, 48306}, {48332, Y11196}, {Y12803, Z28453}
+
+Y(12811) = perspector of circumconic {{A, B, C, X(28482), Z(9378)}}
+
+Y(12811) = bi-perspectrix point of X(58)-pedal of X(6) and X(58)-circumconcevian of X(6) wrt X(58) and X(6)
+

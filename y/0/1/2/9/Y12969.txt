@@ -1,0 +1,28 @@
+Y(12969)
+
+X(42)X(890)∩X(669)X(2451)
+
+Barycentrics    a^2*(b-c)*(a^2*(b+c)+2*b*c*(b+c)-2*a*(b^2+b*c+c^2))
+
+Y(12969) linear combinations: -2*X[42]+X[890]
+
+Y(12969) lies on these lines: {42, 890}, {669, 2451}, {926, 8034}, {1960, Y12844}, {3310, 9032}, {3681, 21349}, {3720, 14426}, {3768, Z1516}, {4775, 48544}, {4879, 47759}, {8638, 20974}, {8660, 23644}, {9010, Z22956}, {14404, Z34164}, {21003, Z18325}, {21297, 21343}, {24674, 31279}, {25301, 31003}, {31147, 48333}, {47774, 48336}, {Z1500, Z19616}
+
+Y(12969) = reflection of X(i) in X(j) for these {i,j}: {1960, Y12844}, {890, 42}
+
+Y(12969) = perspector of circumconic {{A, B, C, X(3224), Z(12359)}}
+
+Y(12969) = X(i)-Dao conjugate of X(j) for these {i, j}: {53571, 900}
+
+Y(12969) = X(i)-anticomplementary conjugate of X(j) for these {i, j}: {3257, 32548}, {32665, 32747}, {34248, 39349}, {Z12099, 30579}, {Z12329, 30578}, {Z14283, 17487}, {Z33283, 21290}
+
+Y(12969) = X(i)-reciprocal conjugate of X(j) for these {i, j}: {53571, 76}
+
+Y(12969) = barycentric product X(i)*X(j) for these (i, j): {53571, 6}
+
+Y(12969) = barycentric quotient X(i)/X(j) for these (i, j): {53571, 76}
+
+Y(12969) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {42, 6373, 890}, {20979, 23655, Y12968}, {20979, Y12968, 669}, {20983, Y12968, 20979}
+
+Y(12969) = bi-perspectrix point of ABC and the cevian triangle of X(6) wrt line X(2)X(45)
+

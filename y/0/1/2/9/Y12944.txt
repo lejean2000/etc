@@ -1,0 +1,16 @@
+Y(12944)
+
+X(1)X(688)∩X(513)X(663)
+
+Barycentrics    a*b^3*(b-c)*c^3+a^5*(b^3-c^3)
+
+Y(12944) lies on these lines: {1, 688}, {513, 663}, {786, Z27283}, {792, 40495}, {802, Y12736}, {3261, 8630}, {16684, 18105}, {16692, 53276}, {17458, 20598}, {46387, Y12863}, {52602, Z83360}
+
+Y(12944) = intersection, other than A, B, C, of circumconics {{A, B, C, X(688), X(689)}}
+
+Y(12944) = perspector of circumconic {{A, B, C, X(57), Y(120)}}
+
+Y(12944) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {21347, 50524, 21351}
+
+Y(12944) = bi-perspectrix point of ABC and the cevian triangle of X(1) wrt line X(6)X(76)
+

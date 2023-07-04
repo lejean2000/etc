@@ -1,0 +1,22 @@
+Y(12846)
+
+X(647)X(798)∩X(512)X(1919)
+
+Barycentrics    a^2*(b-c)*(b+c)*(a^4-(b+c)^2*(b^2+c^2)-2*a^2*(b^2+b*c+c^2)-2*a*(b^3+2*b^2*c+2*b*c^2+c^3))
+
+Y(12846) lies on these lines: {512, 1919}, {647, 798}, {810, 4079}, {2484, 42664}, {2485, 3250}, {3049, 42661}, {3709, 50493}, {8061, Z23672}, {8672, Y12843}
+
+Y(12846) = perspector of circumconic {{A, B, C, X(1245), Y(5333)}}
+
+Y(12846) = X(i)-isoconjugate-of-X(j) for these {i, j}: {799, Y5333}
+
+Y(12846) = X(i)-Dao conjugate of X(j) for these {i, j}: {38996, Y5333}, {43531, Z73205}
+
+Y(12846) = X(i)-Ceva conjugate of X(j) for these {i, j}: {2484, 798}, {42664, 512}
+
+Y(12846) = X(i)-reciprocal conjugate of X(j) for these {i, j}: {669, Y5333}
+
+Y(12846) = barycentric quotient X(i)/X(j) for these (i, j): {669, Y5333}
+
+Y(12846) = bi-perspectrix point of medial traingle and cevian triangle of X(6) wrt X(2) and X(58)
+

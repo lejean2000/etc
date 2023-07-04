@@ -1,0 +1,18 @@
+Y(12754)
+
+X(102)X(12030)∩X(2126)X(2360)
+
+Barycentrics    a*(a+b)*(a+c)*(a^10-a^8*(b^2+c^2)+a^4*(b^2-c^2)^2*(2*b^2-b*c+2*c^2)+a^6*(-2*b^4+5*b^2*c^2-2*c^4)-(b-c)^2*(b+c)^4*(b^4-b^3*c+2*b^2*c^2-b*c^3+c^4)+a^2*(b^2-c^2)^2*(b^4+2*b^3*c-b^2*c^2+2*b*c^3+c^4))
+
+Y(12754) lies on these lines: {1, Z1076}, {21, Y12749}, {102, 12030}, {759, 26702}, {2126, 2360}, {3466, 17515}, {4064, 43659}, {26701, 39435}, {Y11181, Y12750}, {Y12745, Y12753}
+
+Y(12754) = X(i)-isoconjugate-of-X(j) for these {i, j}: {65, Z10840}, {1402, Z51878}
+
+Y(12754) = X(i)-Dao conjugate of X(j) for these {i, j}: {40602, Z10840}, {40605, Z51878}
+
+Y(12754) = barycentric product X(i)*X(j) for these (i, j): {19505, 333}
+
+Y(12754) = barycentric quotient X(i)/X(j) for these (i, j): {284, Z10840}, {333, Z51878}, {19505, 226}
+
+Y(12754) = bi-perspectrix point of X(125)-pedal of X(1) and X(125)-circumconcevian of X(1) wrt X(125) and X(1)
+

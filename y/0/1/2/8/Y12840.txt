@@ -1,0 +1,22 @@
+Y(12840)
+
+X(50)X(647)∩X(3049)X(6138)
+
+Barycentrics    -(a^2*(b-c)*(b+c)*(3*a^4-4*a^2*b^2+b^4-4*a^2*c^2-2*b^2*c^2+c^4-sqrt(3)*a^2*sqrt((a+b-c)*(a-b+c)*(-a+b+c)*(a+b+c))+sqrt(3)*b^2*sqrt((a+b-c)*(a-b+c)*(-a+b+c)*(a+b+c))+sqrt(3)*c^2*sqrt((a+b-c)*(a-b+c)*(-a+b+c)*(a+b+c))))
+
+Y(12840) lies on these lines: {50, 647}, {2489, 8739}, {3049, 6138}, {11244, Z35214}, {Y10588, Z61954}
+
+Y(12840) = perspector of circumconic {{A, B, C, X(54), X(628)}}
+
+Y(12840) = X(i)-isoconjugate-of-X(j) for these {i, j}: {662, 19713}, {799, 3490}
+
+Y(12840) = X(i)-Dao conjugate of X(j) for these {i, j}: {1084, 19713}, {38994, Z81372}, {38996, 3490}
+
+Y(12840) = X(i)-reciprocal conjugate of X(j) for these {i, j}: {512, 19713}, {628, 670}, {669, 3490}, {6138, Z81372}, {46756, 4609}, {51269, Z39626}
+
+Y(12840) = barycentric product X(i)*X(j) for these (i, j): {512, 628}, {46756, 669}, {51269, 6138}
+
+Y(12840) = barycentric quotient X(i)/X(j) for these (i, j): {512, 19713}, {628, 670}, {669, 3490}, {6138, Z81372}, {46756, 4609}, {51269, Z39626}
+
+Y(12840) = bi-perspectrix point of medial traingle and cevian triangle of X(6) wrt X(2) and X(18)
+

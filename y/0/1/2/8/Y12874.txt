@@ -1,0 +1,14 @@
+Y(12874)
+
+X(523)X(663)∩X(386)X(4823)
+
+Barycentrics    a*(b-c)*(-(a^3*b*c)+a^4*(b+c)+2*b^2*c^2*(b+c)+a*b*c*(b+c)^2-a^2*(b^3+b^2*c+b*c^2+c^3))
+
+Y(12874) lies on these lines: {386, 4823}, {514, 53556}, {523, 663}, {649, 4083}, {650, 17478}, {693, 22090}, {810, 23882}, {814, 23655}, {834, 4840}, {891, 8637}, {1459, 4560}, {4774, 24769}, {6589, 45755}, {7212, 48279}, {21761, Y12744}, {42312, 48336}, {48292, 48330}
+
+Y(12874) = perspector of circumconic {{A, B, C, X(87), X(1751)}}
+
+Y(12874) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {4449, Y12867, Y12861}
+
+Y(12874) = bi-perspectrix point of ABC and the cevian triangle of X(1) wrt line X(2)X(71)
+

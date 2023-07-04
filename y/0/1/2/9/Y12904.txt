@@ -1,0 +1,24 @@
+Y(12904)
+
+X(48)X(513)∩X(650)X(2605)
+
+Barycentrics    a*(a-b-c)*(b-c)*(a^2-b^2-c^2)*(3*a^3-a*(b-c)^2-a^2*(b+c)-(b-c)^2*(b+c))
+
+Y(12904) lies on these lines: {48, 513}, {650, 2605}, {657, Y12877}, {905, 23146}, {2286, 20980}, {2522, 10397}, {3063, 7124}, {7117, 34949}, {9209, 14331}, {33525, Y12726}, {46392, Z28021}
+
+Y(12904) = perspector of circumconic {{A, B, C, X(90), X(3474)}}
+
+Y(12904) = X(i)-isoconjugate-of-X(j) for these {i, j}: {653, Z704}, {32674, Z37491}
+
+Y(12904) = X(i)-Dao conjugate of X(j) for these {i, j}: {35072, Z37491}
+
+Y(12904) = X(i)-reciprocal conjugate of X(j) for these {i, j}: {521, Z37491}, {1946, Z704}, {3474, 18026}
+
+Y(12904) = barycentric product X(i)*X(j) for these (i, j): {3474, 521}
+
+Y(12904) = barycentric quotient X(i)/X(j) for these (i, j): {521, Z37491}, {1946, Z704}, {3474, 18026}
+
+Y(12904) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {650, Y12902, Y12901}
+
+Y(12904) = bi-perspectrix point of ABC and the cevian triangle of X(1) wrt line X(3)X(77)
+

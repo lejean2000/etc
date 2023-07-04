@@ -1,0 +1,30 @@
+Y(12835)
+
+X(1)X(24534)∩X(2)X(23658)
+
+Barycentrics    a^2*(b-c)*(b+c)*(a*b^2*c^2-b^2*c^2*(b+c)+a^2*(b^3+c^3))
+
+Y(12835) lies on these lines: {1, 24534}, {2, 23658}, {514, 661}, {21838, 23503}, {22229, 50491}, {23469, 50516}, {23657, 25142}, {46390, Y12832}
+
+Y(12835) = intersection, other than A, B, C, of circumconics {{A, B, C, X(514), Z(23409)}}, {{A, B, C, X(693), X(22226)}}
+
+Y(12835) = perspector of circumconic {{A, B, C, X(75), Z(22266)}}
+
+Y(12835) = center of circumconic {{A, B, C, X(20979), X(23464)}}
+
+Y(12835) = X(i)-isoconjugate-of-X(j) for these {i, j}: {2, Z13197}, {6, 35573}, {81, Z13971}, {1333, Z55335}
+
+Y(12835) = X(i)-Dao conjugate of X(j) for these {i, j}: {9, 35573}, {37, Z55335}, {32664, Z13197}, {40586, Z13971}, {42027, Z53085}
+
+Y(12835) = X(i)-Ceva conjugate of X(j) for these {i, j}: {20979, 512}, {23464, Z23409}
+
+Y(12835) = X(i)-complementary conjugate of X(j) for these {i, j}: {34248, 38986}
+
+Y(12835) = X(i)-reciprocal conjugate of X(j) for these {i, j}: {1, 35573}, {10, Z55335}, {31, Z13197}, {42, Z13971}, {22226, 75}, {23464, 86}, {Z23409, 1}
+
+Y(12835) = barycentric product X(i)*X(j) for these (i, j): {1, 22226}, {10, 23464}, {75, Z23409}
+
+Y(12835) = barycentric quotient X(i)/X(j) for these (i, j): {1, 35573}, {10, Z55335}, {31, Z13197}, {42, Z13971}, {22226, 75}, {23464, 86}, {Z23409, 1}
+
+Y(12835) = bi-perspectrix point of medial traingle and cevian triangle of X(6) wrt X(1) and X(87)
+

@@ -1,0 +1,16 @@
+Y(12823)
+
+X(6)X(53306)∩X(182)X(8674)
+
+Barycentrics    a^2*(b-c)*(a^7-2*a^5*(b^2+c^2)-a*b*(b-c)^2*c*(b^2+b*c+c^2)-a^2*b*c*(b^3+b^2*c+b*c^2+c^3)+a^3*(b^4+b^3*c-b^2*c^2+b*c^3+c^4)+b*c*(b^5+b^4*c+b*c^4+c^5))
+
+Y(12823) lies on these lines: {6, 53306}, {182, 8674}, {523, 4164}, {526, 6593}, {924, Y12810}, {1428, 53527}, {1510, Y12811}, {5085, 53248}, {6050, 9001}
+
+Y(12823) = midpoint of X(i) and X(j) for these {i,j}: {6, 53306}, {Y12821, Y12822}
+
+Y(12823) = perspector of circumconic {{A, B, C, X(2699), Z(5620)}}
+
+Y(12823) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {Y12821, Y12822, 526}
+
+Y(12823) = bi-perspectrix point of X(104)-pedal of X(6) and X(104)-circumconcevian of X(6) wrt X(104) and X(6)
+

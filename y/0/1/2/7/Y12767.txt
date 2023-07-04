@@ -1,0 +1,20 @@
+Y(12767)
+
+X(4)X(850)∩X(647)X(3089)
+
+Barycentrics    b^2*(b-c)*c^2*(b+c)*(a^2+b^2-c^2)*(a^2-b^2+c^2)*(7*a^6-3*a^2*(b^2-c^2)^2-5*a^4*(b^2+c^2)+(b^2-c^2)^2*(b^2+c^2))
+
+Y(12767) lies on these lines: {4, 850}, {403, 46996}, {647, 3089}, {3088, 30476}, {3800, 14618}, {7487, 28729}, {41079, Z28764}, {44931, Z64216}, {Z26194, Z37046}
+
+Y(12767) = intersection, other than A, B, C, of circumconics {{A, B, C, X(30209), X(32713)}}
+
+Y(12767) = X(i)-isoconjugate-of-X(j) for these {i, j}: {4575, Z23143}, {52430, Y4439}
+
+Y(12767) = X(i)-Dao conjugate of X(j) for these {i, j}: {136, Z23143}
+
+Y(12767) = barycentric product X(i)*X(j) for these (i, j): {14618, 35260}
+
+Y(12767) = barycentric quotient X(i)/X(j) for these (i, j): {2052, Y4439}, {2501, Z23143}, {14618, Z66535}, {35260, 4558}
+
+Y(12767) = bi-perspectrix point of X(25)-pedal of X(4) and X(25)-circumconcevian of X(4) wrt X(25) and X(4)
+

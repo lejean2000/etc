@@ -1,0 +1,14 @@
+Y(12884)
+
+X(1)X(33525)∩X(650)X(2605)
+
+Barycentrics    a*(a-b-c)*(b-c)*(a^5-a*b*(b-c)^2*c-a^4*(b+c)-b*(b-c)^2*c*(b+c)-a^3*(b^2-b*c+c^2)+a^2*(b^3+2*b^2*c+2*b*c^2+c^3))
+
+Y(12884) lies on these lines: {1, 33525}, {219, Z7838}, {514, Z6464}, {650, 2605}, {652, 48342}, {657, 4449}, {4435, 21127}, {4560, 23145}
+
+Y(12884) = intersection, other than A, B, C, of circumconics {{A, B, C, X(33525), Z(21816)}}
+
+Y(12884) = perspector of circumconic {{A, B, C, X(90), Y(256)}}
+
+Y(12884) = bi-perspectrix point of ABC and the cevian triangle of X(1) wrt line X(3)X(7)
+

@@ -1,0 +1,32 @@
+Y(12845)
+
+X(512)X(2021)∩X(3049)X(3221)
+
+Barycentrics    a^2*(b-c)*(b+c)*(b^2*c^2*(b^2-c^2)^2+3*a^6*(b^2+c^2)+a^4*(-2*b^4+b^2*c^2-2*c^4)-a^2*(b^6+5*b^4*c^2+5*b^2*c^4+c^6))
+
+Y(12845) lies on these lines: {512, 2021}, {523, 47457}, {647, 40130}, {810, 22229}, {2422, Z4076}, {2489, Y12842}, {3049, 3221}, {3124, 38368}, {3288, 45907}
+
+Y(12845) = intersection, other than A, B, C, of circumconics {{A, B, C, X(47738), Z(27406)}}
+
+Y(12845) = midpoint of X(i) and X(j) for these {i,j}: {3288, 45907}, {647, Z26142}
+
+Y(12845) = perspector of circumconic {{A, B, C, X(263), X(3424)}}
+
+Y(12845) = center of circumconic {{A, B, C, X(3288), X(45907)}}
+
+Y(12845) = X(i)-isoconjugate-of-X(j) for these {i, j}: {162, Z77922}, {662, Y5449}, {799, Z2543}, {811, Z31392}
+
+Y(12845) = X(i)-Dao conjugate of X(j) for these {i, j}: {125, Z77922}, {262, Z37343}, {1084, Y5449}, {17423, Z31392}, {38996, Z2543}
+
+Y(12845) = X(i)-Ceva conjugate of X(j) for these {i, j}: {3288, 512}, {45907, 3221}
+
+Y(12845) = X(i)-complementary conjugate of X(j) for these {i, j}: {Z10915, 46656}
+
+Y(12845) = X(i)-reciprocal conjugate of X(j) for these {i, j}: {512, Y5449}, {647, Z77922}, {669, Z2543}, {3049, Z31392}, {6194, 670}, {47738, 6331}
+
+Y(12845) = barycentric product X(i)*X(j) for these (i, j): {512, 6194}, {47738, 647}
+
+Y(12845) = barycentric quotient X(i)/X(j) for these (i, j): {512, Y5449}, {647, Z77922}, {669, Z2543}, {3049, Z31392}, {6194, 670}, {47738, 6331}
+
+Y(12845) = bi-perspectrix point of medial traingle and cevian triangle of X(6) wrt X(2) and X(51)
+

@@ -1,0 +1,28 @@
+Y(12863)
+
+X(1)X(3005)∩X(824)X(1980)
+
+Barycentrics    a^5*(b-c)+a*b*c*(b^3-c^3)
+
+Y(12863) lies on these lines: {1, 3005}, {649, 4083}, {824, 1980}, {1491, 2605}, {3700, Y12803}, {3791, 29402}, {3805, Z7846}, {4010, Y12813}, {4024, 4164}, {4974, 29512}, {5040, 21196}, {7192, 24286}, {8633, 45746}, {8635, 30665}, {8702, 9508}, {17017, Z1497}, {17150, Z38290}, {18108, Z23674}, {39547, 47690}, {47660, Z1500}, {47720, 49282}, {48271, Y12807}, {48330, 50519}, {50521, Y12740}
+
+Y(12863) = intersection, other than A, B, C, of circumconics {{A, B, C, X(3005), X(4577)}}, {{A, B, C, X(8060), X(43931)}}
+
+Y(12863) = perspector of circumconic {{A, B, C, X(87), X(7096)}}
+
+Y(12863) = X(i)-isoconjugate-of-X(j) for these {i, j}: {2, Z3705}, {6, Z41271}
+
+Y(12863) = X(i)-Dao conjugate of X(j) for these {i, j}: {9, Z41271}, {8060, 826}, {32664, Z3705}
+
+Y(12863) = X(i)-anticomplementary conjugate of X(j) for these {i, j}: {4630, 41840}, {7121, 39346}, {34072, 21219}, {Z12206, 21289}, {Z12834, 1369}
+
+Y(12863) = X(i)-reciprocal conjugate of X(j) for these {i, j}: {1, Z41271}, {31, Z3705}, {8060, 75}
+
+Y(12863) = barycentric product X(i)*X(j) for these (i, j): {1, 8060}
+
+Y(12863) = barycentric quotient X(i)/X(j) for these (i, j): {1, Z41271}, {31, Z3705}, {8060, 75}
+
+Y(12863) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {4367, Y12859, 50524}
+
+Y(12863) = bi-perspectrix point of ABC and the cevian triangle of X(1) wrt line X(2)X(32)
+

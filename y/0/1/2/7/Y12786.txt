@@ -1,0 +1,16 @@
+Y(12786)
+
+X(4)X(661)∩X(132)X(39535)
+
+Barycentrics    (b-c)*(a^2+b^2-c^2)*(a^2-b^2+c^2)*(a^7*(b+c)-a^3*(b-c)^2*(b+c)^3+2*b^2*c^2*(b^2-c^2)^2+a*(b-c)^2*(b+c)^3*(b^2+c^2)-2*a^6*(b^2+b*c+c^2)-a^5*(b^3+b^2*c+b*c^2+c^3)-2*a^2*(b+c)^2*(b^4-b^3*c+2*b^2*c^2-b*c^3+c^4)+2*a^4*(2*b^4+2*b^3*c+b^2*c^2+2*b*c^3+2*c^4))
+
+Y(12786) lies on these lines: {4, 661}, {132, 39535}, {522, Y12778}, {525, Y12766}, {1838, 4077}, {2254, 17924}, {7543, 24924}, {23882, 39212}, {39532, Z23673}, {Y12777, Z23658}
+
+Y(12786) = intersection, other than A, B, C, of circumconics {{A, B, C, X(823), Z(23948)}}
+
+Y(12786) = midpoint of X(i) and X(j) for these {i,j}: {4, 17926}
+
+Y(12786) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {4, 17926, Z23948}
+
+Y(12786) = bi-perspectrix point of X(92)-pedal of X(4) and X(92)-circumconcevian of X(4) wrt X(92) and X(4)
+

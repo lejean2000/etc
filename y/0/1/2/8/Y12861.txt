@@ -1,0 +1,14 @@
+Y(12861)
+
+X(656)X(3900)∩X(649)X(4083)
+
+Barycentrics    a*(b-c)*(a^5-2*a^2*b*c*(b+c)-a*(b^2-c^2)^2+2*b*c*(b^3+b^2*c+b*c^2+c^3))
+
+Y(12861) lies on these lines: {525, Z1494}, {649, 4083}, {656, 3900}, {663, 21124}, {814, 7212}, {1459, 3910}, {8062, 15416}, {8712, 48342}, {17418, 29017}, {17896, 54229}, {21192, Y12706}, {21831, Z82842}
+
+Y(12861) = reflection of X(i) in X(j) for these {i,j}: {15416, 8062}
+
+Y(12861) = perspector of circumconic {{A, B, C, X(87), X(2184)}}
+
+Y(12861) = bi-perspectrix point of ABC and the cevian triangle of X(1) wrt line X(2)X(19)
+

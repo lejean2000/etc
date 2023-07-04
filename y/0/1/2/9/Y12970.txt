@@ -1,0 +1,18 @@
+Y(12970)
+
+X(523)X(1919)∩X(669)X(2451)
+
+Barycentrics    a^2*(b-c)*(b+c)*(a^4+a^2*b*c+b^2*c^2+a^3*(b+c))
+
+Y(12970) lies on these lines: {512, 20981}, {523, 1919}, {669, 2451}, {1924, Z1505}, {2484, 42664}, {3049, 23472}, {4107, Z73871}, {8632, 8672}, {21295, 34071}, {21834, Z3090}, {47844, Y12872}, {Y12859, Z1050}, {Z28182, Z82362}
+
+Y(12970) = reflection of X(i) in X(j) for these {i,j}: {42664, Y12846}
+
+Y(12970) = perspector of circumconic {{A, B, C, X(2248), X(3224)}}
+
+Y(12970) = X(i)-anticomplementary conjugate of X(j) for these {i, j}: {Z31490, 32548}
+
+Y(12970) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {669, 2451, 20979}
+
+Y(12970) = bi-perspectrix point of ABC and the cevian triangle of X(6) wrt line X(2)X(58)
+

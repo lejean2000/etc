@@ -1,0 +1,24 @@
+Y(12925)
+
+X(1)X(1510)∩X(513)X(663)
+
+Barycentrics    a*(b-c)*(a^6+b*c*(b^2-c^2)^2-2*a^4*(b^2+c^2)+a^2*(b^4-b^3*c-b^2*c^2-b*c^3+c^4))
+
+Y(12925) lies on these lines: {1, 1510}, {513, 663}, {3733, Z932}, {4036, Y12745}, {21111, 52726}, {37525, Y12714}
+
+Y(12925) = intersection, other than A, B, C, of circumconics {{A, B, C, X(930), X(1510)}}, {{A, B, C, X(1464), Z(932)}}, {{A, B, C, X(24149), X(52896)}}
+
+Y(12925) = perspector of circumconic {{A, B, C, X(57), X(24149)}}
+
+Y(12925) = X(i)-isoconjugate-of-X(j) for these {i, j}: {101, Z55961}, {190, Z14554}
+
+Y(12925) = X(i)-Dao conjugate of X(j) for these {i, j}: {1015, Z55961}
+
+Y(12925) = X(i)-reciprocal conjugate of X(j) for these {i, j}: {513, Z55961}, {667, Z14554}, {24149, 668}, {Z29915, Z56941}
+
+Y(12925) = barycentric product X(i)*X(j) for these (i, j): {24149, 513}, {25149, Z29915}
+
+Y(12925) = barycentric quotient X(i)/X(j) for these (i, j): {513, Z55961}, {667, Z14554}, {24149, 668}, {Z29915, Z56941}
+
+Y(12925) = bi-perspectrix point of ABC and the cevian triangle of X(1) wrt line X(6)X(17)
+

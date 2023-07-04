@@ -1,0 +1,14 @@
+Y(12868)
+
+X(31)X(47971)∩X(649)X(4083)
+
+Barycentrics    a*(b-c)*(a^4-a^3*(b+c)-a*b*c*(b+c)+b*c*(b^2+c^2))
+
+Y(12868) lies on these lines: {31, 47971}, {238, 48270}, {649, 4083}, {663, 28374}, {669, 50458}, {918, Z1496}, {1459, 2254}, {2785, 4025}, {3798, Z83352}, {5075, 25098}, {8640, 24286}, {16892, 29082}, {22383, 53553}, {23506, 38348}, {47704, 48101}, {47844, 48106}
+
+Y(12868) = intersection, other than A, B, C, of circumconics {{A, B, C, X(40881), Z(11558)}}
+
+Y(12868) = perspector of circumconic {{A, B, C, X(87), X(44178)}}
+
+Y(12868) = bi-perspectrix point of ABC and the cevian triangle of X(1) wrt line X(2)X(41)
+

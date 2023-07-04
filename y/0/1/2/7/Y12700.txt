@@ -1,0 +1,16 @@
+Y(12700)
+
+X(2)X(216)∩X(276)X(648)
+
+Barycentrics    b^2*c^2*(a^2+b^2-c^2)*(a^2-b^2+c^2)*(-(b^2-c^2)^2+a^2*(b^2+c^2))*(3*a^8-b^2*c^2*(b^2-c^2)^2-7*a^6*(b^2+c^2)-a^2*(b^2-c^2)^2*(b^2+c^2)+a^4*(5*b^4+7*b^2*c^2+5*c^4))
+
+Y(12700) lies on these lines: {2, 216}, {5, 41219}, {276, 648}, {458, Z28583}, {8795, Z71028}, {8799, 52578}, {10003, Z30079}, {19188, Z77050}, {39530, Z28663}, {53245, Z1824}, {Z72882, Z74398}
+
+Y(12700) = intersection, other than A, B, C, of circumconics {{A, B, C, X(5), Z(16738)}}, {{A, B, C, X(232), Z(1824)}}, {{A, B, C, X(14767), Z(16895)}}, {{A, B, C, X(33571), X(41219)}}
+
+Y(12700) = reflection of X(i) in X(j) for these {i,j}: {264, 40684}
+
+Y(12700) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {40684, Z16738, 264}
+
+Y(12700) = perspector of X(5)-circumconcevian triangle of X(216) and X(5)-pedal triangle of X (216)
+

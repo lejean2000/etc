@@ -1,0 +1,26 @@
+Y(12734)
+
+X(522)X(663)∩X(520)X(2605)
+
+Barycentrics    a^2*(a+b)*(a-b-c)*(b-c)*(a+c)*(b^5-a^3*b*c-b^3*c^2-b^2*c^3+c^5+a^4*(b+c)+a*b*c*(b+c)^2-a^2*(2*b^3+b^2*c+b*c^2+2*c^3))
+
+Y(12734) lies on these lines: {1, Z13634}, {110, 35187}, {513, Y12723}, {520, 2605}, {522, 663}, {928, 23189}, {1021, 10397}, {1459, Y9849}, {2360, 3733}, {2716, 26701}, {2773, Z35202}, {4017, 10571}, {7252, 52307}, {52158, Z14416}, {Y12713, Y12718}
+
+Y(12734) = intersection, other than A, B, C, of circumconics {{A, B, C, X(522), X(35187)}}, {{A, B, C, X(2716), X(10538)}}, {{A, B, C, X(6099), X(20294)}}, {{A, B, C, X(52158), Z(18472)}}
+
+Y(12734) = perspector of circumconic {{A, B, C, X(333), Y(118)}}
+
+Y(12734) = X(i)-isoconjugate-of-X(j) for these {i, j}: {65, 41906}, {108, 28788}, {24006, Z11834}, {Z1503, Z52824}
+
+Y(12734) = X(i)-Dao conjugate of X(j) for these {i, j}: {3064, 14618}, {38983, 28788}, {40602, 41906}
+
+Y(12734) = X(i)-Ceva conjugate of X(j) for these {i, j}: {4558, 284}
+
+Y(12734) = barycentric product X(i)*X(j) for these (i, j): {284, Z72512}, {333, Z27907}, {652, Z60502}, {6332, Z18472}, {20620, 4558}
+
+Y(12734) = barycentric quotient X(i)/X(j) for these (i, j): {284, 41906}, {652, 28788}, {4558, Z52824}, {20620, 14618}, {32661, Z11834}, {Z18472, 653}, {Z27907, 226}, {Z60502, 46404}, {Z72512, 349}
+
+Y(12734) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {Y12704, Y12733, Y12732}
+
+Y(12734) = bi-perspectrix point of X(73)-pedal of X(1) and X(73)-circumconcevian of X(1) wrt X(73) and X(1)
+

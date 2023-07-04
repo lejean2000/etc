@@ -1,0 +1,10 @@
+Y(12817)
+
+X(6)X(53581)∩X(1386)X(4083)
+
+Barycentrics    a^2*(b-c)*(a^5*(b+c)+a*b^2*c^2*(b+c)+b^2*c^2*(b^2+b*c+c^2)+a^4*(b^2+3*b*c+c^2))
+
+Y(12817) lies on these lines: {6, 53581}, {182, Z18286}, {512, Y12810}, {514, Y12804}, {1386, 4083}, {4151, Y12814}, {4164, Y12815}, {32741, Z572}, {Y12803, Y12812}
+
+Y(12817) = bi-perspectrix point of X(86)-pedal of X(6) and X(86)-circumconcevian of X(6) wrt X(86) and X(6)
+

@@ -1,0 +1,26 @@
+Y(12692)
+
+X(551)X(6006)∩X(812)X(4794)
+
+Barycentrics    (b-c)*(4*a^2-b*c)*(a-2*(b+c))
+
+Y(12692) linear combinations: X[4379]+X[48352], X[47775]+X[48339]
+
+Y(12692) lies on these lines: {514, 50760}, {551, 6006}, {663, 29178}, {812, 4794}, {3835, 17761}, {3887, 47760}, {4379, 48352}, {4448, 29350}, {4504, 29148}, {4774, 4775}, {4823, 29188}, {47775, 48339}, {47821, Z21185}
+
+Y(12692) = intersection, other than A, B, C, of circumconics {{A, B, C, X(4767), Z(1618)}}
+
+Y(12692) = midpoint of X(i) and X(j) for these {i,j}: {4379, 48352}, {4775, 4800}, {47775, 48339}
+
+Y(12692) = reflection of X(i) in X(j) for these {i,j}: {4791, 4800}, {Z1618, 551}
+
+Y(12692) = X(i)-isoconjugate-of-X(j) for these {i, j}: {4588, Z19664}
+
+Y(12692) = barycentric product X(i)*X(j) for these (i, j): {30653, 4791}
+
+Y(12692) = barycentric quotient X(i)/X(j) for these (i, j): {4791, Z62318}, {4893, Z19664}, {30653, 4604}
+
+Y(12692) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {551, 6006, Z1618}, {4775, 4800, 4844}, {4800, 4844, 4791}
+
+Y(12692) = bi-perspectrix point of X(2)-pedal of X(1) and X(1)-pedal of X(2) wrt X(2) and X(1)
+

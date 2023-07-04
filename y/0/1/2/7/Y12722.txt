@@ -1,0 +1,14 @@
+Y(12722)
+
+X(915)X(953)∩X(513)X(17099)
+
+Barycentrics    a*(b-c)*(3*a^6-2*a^5*(b+c)-7*a^4*(b^2+c^2)-(b^2-c^2)^2*(b^2+c^2)+4*a^3*(b^3+b^2*c+b*c^2+c^3)+a^2*(5*b^4-2*b^2*c^2+5*c^4)-2*a*(b^5+b^4*c+b*c^4+c^5))
+
+Y(12722) lies on these lines: {513, 17099}, {521, Y12715}, {523, 51725}, {900, Y12717}, {915, 953}, {1459, 9001}, {3309, Y12714}, {6129, 53406}, {14812, 21189}, {15313, Y12704}
+
+Y(12722) = midpoint of X(i) and X(j) for these {i,j}: {6129, 53406}
+
+Y(12722) = perspector of circumconic {{A, B, C, X(42467), Y(163)}}
+
+Y(12722) = bi-perspectrix point of X(46)-pedal of X(1) and X(46)-circumconcevian of X(1) wrt X(46) and X(1)
+

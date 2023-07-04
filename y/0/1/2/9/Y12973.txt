@@ -1,0 +1,28 @@
+Y(12973)
+
+X(669)X(2451)∩X(649)X(4083)
+
+Barycentrics    a^2*(b-c)*(-(b^3*c^3)+a^3*(b-c)^2*(b+c)-a*b^2*c^2*(b+c)+a^2*b*c*(b+c)^2)
+
+Y(12973) lies on these lines: {649, 4083}, {669, 2451}, {8640, 23458}, {22199, 23469}, {23503, 23506}
+
+Y(12973) = intersection, other than A, B, C, of circumconics {{A, B, C, X(15966), X(52899)}}, {{A, B, C, X(20979), X(50516)}}, {{A, B, C, X(40881), X(41840)}}
+
+Y(12973) = perspector of circumconic {{A, B, C, X(87), X(3224)}}
+
+Y(12973) = X(i)-isoconjugate-of-X(j) for these {i, j}: {100, Y4030}, {190, Z70450}, {668, Z27862}, {906, Z55055}, {1332, Z13740}, {1978, Z26238}, {4598, 15967}, {34071, Z48738}
+
+Y(12973) = X(i)-Dao conjugate of X(j) for these {i, j}: {5190, Z55055}, {6384, Z41830}, {8054, Y4030}, {40610, Z48738}
+
+Y(12973) = X(i)-Ceva conjugate of X(j) for these {i, j}: {8640, 649}, {23572, 20979}
+
+Y(12973) = X(i)-anticomplementary conjugate of X(j) for these {i, j}: {Z15497, 32548}
+
+Y(12973) = X(i)-reciprocal conjugate of X(j) for these {i, j}: {649, Y4030}, {667, Z70450}, {1919, Z27862}, {1980, Z26238}, {4083, Z48738}, {7649, Z55055}, {8640, 15967}, {15966, 18830}, {23177, 4561}, {39467, 6386}, {41840, 1978}, {Z1494, Z13740}, {Z48739, Z41830}
+
+Y(12973) = barycentric product X(i)*X(j) for these (i, j): {8640, Z48739}, {15966, 4083}, {23177, 7649}, {39467, 667}, {41840, 649}
+
+Y(12973) = barycentric quotient X(i)/X(j) for these (i, j): {649, Y4030}, {667, Z70450}, {1919, Z27862}, {1980, Z26238}, {4083, Z48738}, {7649, Z55055}, {8640, 15967}, {15966, 18830}, {23177, 4561}, {39467, 6386}, {41840, 1978}, {Z1494, Z13740}, {Z48739, Z41830}
+
+Y(12973) = bi-perspectrix point of ABC and the cevian triangle of X(6) wrt line X(2)X(87)
+

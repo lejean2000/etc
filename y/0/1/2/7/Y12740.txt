@@ -1,0 +1,16 @@
+Y(12740)
+
+X(1)X(21123)∩X(667)X(824)
+
+Barycentrics    a*(b-c)*(a^4+a^2*(b^2+c^2)+b*c*(b^2+b*c+c^2))
+
+Y(12740) lies on these lines: {1, 21123}, {513, 1386}, {514, 21003}, {522, 3733}, {659, 28863}, {663, 4481}, {667, 824}, {812, 4367}, {3805, Z1500}, {4378, 28882}, {4467, 8635}, {8650, 48567}, {10566, 32922}, {16892, 18108}, {21005, 21196}, {26249, 47886}, {45695, 50353}, {47818, Z67345}, {48306, Y12739}
+
+Y(12740) = reflection of X(i) in X(j) for these {i,j}: {Y12736, Y12703}
+
+Y(12740) = perspector of circumconic {{A, B, C, Y(126), Y(127)}}
+
+Y(12740) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {522, Y12703, Y12736}
+
+Y(12740) = bi-perspectrix point of X(83)-pedal of X(1) and X(83)-circumconcevian of X(1) wrt X(83) and X(1)
+

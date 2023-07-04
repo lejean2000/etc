@@ -1,0 +1,24 @@
+Y(12923)
+
+X(513)X(663)∩X(667)X(7649)
+
+Barycentrics    a*(b-c)*(a^6+a^2*(b^2-c^2)^2+b*c*(b^2-c^2)^2-a^4*(2*b^2+b*c+2*c^2))
+
+Y(12923) lies on these lines: {513, 663}, {654, Y12860}, {659, 21102}, {667, 7649}, {3733, 53522}, {7178, 39199}, {8648, Z1518}, {14775, 43933}, {20315, 25901}, {21103, 48323}, {21172, Y12703}, {23189, 47844}, {23800, Y12709}, {48303, Y12870}
+
+Y(12923) = intersection, other than A, B, C, of circumconics {{A, B, C, X(1319), X(3072)}}, {{A, B, C, X(1769), X(14775)}}, {{A, B, C, X(43933), X(50354)}}
+
+Y(12923) = perspector of circumconic {{A, B, C, X(57), X(3072)}}
+
+Y(12923) = X(i)-isoconjugate-of-X(j) for these {i, j}: {100, Z611}, {692, Z37190}
+
+Y(12923) = X(i)-Dao conjugate of X(j) for these {i, j}: {1086, Z37190}, {8054, Z611}
+
+Y(12923) = X(i)-reciprocal conjugate of X(j) for these {i, j}: {514, Z37190}, {649, Z611}
+
+Y(12923) = barycentric product X(i)*X(j) for these (i, j): {3072, 514}
+
+Y(12923) = barycentric quotient X(i)/X(j) for these (i, j): {514, Z37190}, {649, Z611}, {3072, 190}
+
+Y(12923) = bi-perspectrix point of ABC and the cevian triangle of X(1) wrt line X(6)X(12)
+

@@ -1,0 +1,12 @@
+Y(12908)
+
+X(6)X(53523)∩X(659)X(2280)
+
+Barycentrics    a*(b-c)*(a^5-3*a^4*(b+c)+b*(b-c)^2*c*(b+c)-a*b*c*(b+c)^2+a^3*(3*b^2+b*c+3*c^2)-a^2*(b^3-2*b^2*c-2*b*c^2+c^3))
+
+Y(12908) lies on these lines: {6, 53523}, {650, 2605}, {659, 2280}, {1024, 53550}, {2254, 4435}, {3063, 47123}, {4724, Z1512}, {21007, 21104}
+
+Y(12908) = perspector of circumconic {{A, B, C, X(90), X(9499)}}
+
+Y(12908) = bi-perspectrix point of ABC and the cevian triangle of X(1) wrt line X(3)X(105)
+

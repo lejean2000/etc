@@ -1,0 +1,25 @@
+Y12853
+
+X(1019)X(4083)∩X(512)X(9508)
+
+Barycentrics    a*(b-c)*(3*a^3*(b+c)-b*c*(b^2+b*c+c^2)+a^2*(5*b^2+11*b*c+5*c^2)+a*(b^3+5*b^2*c+5*b*c^2+c^3))
+
+Y12853 lies on these lines: {512, 9508}, {513, 21832}, {649, 38348}, {1019, 4083}, {1734, 4983}, {4782, 16514}, {9269, 29350}, {29198, 47976}
+
+Y12853 = intersection, other than A, B, C, of circumconics {{A, B, C, X(40775), X(40789)}}
+
+Y12853 = perspector of circumconic {{A, B, C, X(30571), X(31308)}}
+
+Y12853 = X(i)-isoconjugate-of-X(j) for these {i, j}: {101, Z62909}
+
+Y12853 = X(i)-Dao conjugate of X(j) for these {i, j}: {1015, Z62909}, {27483, Z38429}
+
+Y12853 = X(i)-Ceva conjugate of X(j) for these {i, j}: {4784, 513}
+ 
+Y12853 = bi-perspectrix point of the cevian triangle of X(1) and the medial triangle wrt the line between their centroids
+
+Y12853 = X(i)-reciprocal conjugate of X(j) for these {i, j}: {513, Z62909}, {667, Z20292}, {31308, 668}
+
+Y12853 = barycentric product X(i)*X(j) for these (i, j): {31308, 513}
+
+Y12853 = barycentric quotient X(i)/X(j) for these (i, j): {513, Z62909}, {667, Z20292}, {31308, 668}

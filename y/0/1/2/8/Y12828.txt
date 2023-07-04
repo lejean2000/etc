@@ -1,0 +1,18 @@
+Y(12828)
+
+X(6)X(2501)∩X(206)X(669)
+
+Barycentrics    a^4*(b-c)*(b+c)*(a^8-b^8+2*a^4*b^2*c^2-2*b^6*c^2+2*b^4*c^4-2*b^2*c^6-c^8-2*a^6*(b^2+c^2)+2*a^2*(b^6+b^4*c^2+b^2*c^4+c^6))
+
+Y(12828) lies on these lines: {6, 2501}, {66, 23301}, {159, 9009}, {206, 669}, {523, Y12809}, {924, 2485}, {1499, 19149}, {2393, Z83338}, {3050, Z6647}, {3288, Z4871}, {3566, 22105}, {5596, 44445}, {5926, 23041}, {6563, 20806}, {6697, 31279}, {8675, 32320}, {11450, 19122}, {21637, 21646}, {25423, 31166}, {31267, 44451}
+
+Y(12828) = midpoint of X(i) and X(j) for these {i,j}: {5596, 44445}
+
+Y(12828) = reflection of X(i) in X(j) for these {i,j}: {66, 23301}, {669, 206}
+
+Y(12828) = perspector of circumconic {{A, B, C, X(1300), X(3425)}}
+
+Y(12828) = X(i)-Ceva conjugate of X(j) for these {i, j}: {Y6746, 6}
+
+Y(12828) = bi-perspectrix point of X(184)-pedal of X(6) and X(184)-circumconcevian of X(6) wrt X(184) and X(6)
+

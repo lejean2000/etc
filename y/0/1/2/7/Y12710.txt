@@ -1,0 +1,22 @@
+Y(12710)
+
+X(1)X(656)∩X(3)X(523)
+
+Barycentrics    a*(a-b-c)*(b-c)*(a^8-b*c*(b^2-c^2)^2*(2*b^2-b*c+2*c^2)-a^6*(3*b^2+2*b*c+3*c^2)+a^4*(3*b^4+2*b^3*c+3*b^2*c^2+2*b*c^3+3*c^4)-a^2*(b^6-2*b^5*c+b^4*c^2+6*b^3*c^3+b^2*c^4-2*b*c^5+c^6))
+
+Y(12710) lies on these lines: {1, 656}, {3, 523}, {21, 522}, {100, 4458}, {1001, Y542}, {3736, Y12706}, {3738, 34600}, {6003, 6261}, {6265, 8674}
+
+Y(12710) = intersection, other than A, B, C, of circumconics {{A, B, C, X(1), X(15454)}}, {{A, B, C, X(10088), Z(34993)}}
+
+Y(12710) = perspector of circumconic {{A, B, C, X(2349), X(2986)}}
+
+Y(12710) = X(i)-isoconjugate-of-X(j) for these {i, j}: {109, Z4628}, {Z23356, Z43148}
+
+Y(12710) = X(i)-Dao conjugate of X(j) for these {i, j}: {11, Z4628}, {40624, Z43148}
+
+Y(12710) = barycentric product X(i)*X(j) for these (i, j): {10088, 4391}
+
+Y(12710) = barycentric quotient X(i)/X(j) for these (i, j): {650, Z4628}, {4391, Z43148}, {10088, 651}
+
+Y(12710) = bi-perspectrix point of X(30)-pedal of X(1) and X(30)-circumconcevian of X(1) wrt X(30) and X(1)
+

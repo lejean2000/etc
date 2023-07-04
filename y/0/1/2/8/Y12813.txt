@@ -1,0 +1,14 @@
+Y(12813)
+
+X(513)X(1386)∩X(523)X(4164)
+
+Barycentrics    a*(a^5*(b-c)+a^4*(b^2-c^2)+a^2*b*c*(b^2-c^2)+a*b*c*(b^3-c^3)+b*c*(b^4-c^4))
+
+Y(12813) lies on these lines: {6, Z1505}, {182, Z26372}, {513, 1386}, {514, Y12804}, {523, 4164}, {1428, Z1518}, {2605, 9013}, {4802, Y12807}, {8672, Y12810}, {9011, 48283}, {21389, Y12808}, {47330, 50353}, {48327, Y11196}, {50459, Z35589}, {Z28445, Z34170}
+
+Y(12813) = reflection of X(i) in X(j) for these {i,j}: {Y12811, 1386}
+
+Y(12813) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {513, 1386, Y12811}
+
+Y(12813) = bi-perspectrix point of X(79)-pedal of X(6) and X(79)-circumconcevian of X(6) wrt X(79) and X(6)
+

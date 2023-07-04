@@ -1,0 +1,26 @@
+Y(12962)
+
+X(6)X(2084)∩X(667)X(6373)
+
+Barycentrics    a^2*(b-c)*(a^4+b*c*(b^2+b*c+c^2))
+
+Y(12962) lies on these lines: {6, 2084}, {163, 39054}, {667, 6373}, {1491, 8634}, {3250, 23575}, {4599, Z48237}, {8636, 23657}, {18111, 33295}, {46387, Z1495}
+
+Y(12962) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2084), X(4599)}}
+
+Y(12962) = perspector of circumconic {{A, B, C, X(745), X(2162)}}
+
+Y(12962) = X(i)-isoconjugate-of-X(j) for these {i, j}: {1, Z41271}, {75, Z3705}
+
+Y(12962) = X(i)-Dao conjugate of X(j) for these {i, j}: {3, Z41271}, {206, Z3705}, {8060, Z22272}
+
+Y(12962) = X(i)-reciprocal conjugate of X(j) for these {i, j}: {6, Z41271}, {32, Z3705}, {8060, 76}, {Y12863, 75}
+
+Y(12962) = barycentric product X(i)*X(j) for these (i, j): {1, Y12863}, {6, 8060}
+
+Y(12962) = barycentric quotient X(i)/X(j) for these (i, j): {6, Z41271}, {32, Z3705}, {8060, 76}, {Y12863, 75}
+
+Y(12962) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {20981, 21761, 21763}
+
+Y(12962) = bi-perspectrix point of ABC and the cevian triangle of X(6) wrt line X(1)X(82)
+

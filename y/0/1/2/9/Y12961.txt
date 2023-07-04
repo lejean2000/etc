@@ -1,0 +1,30 @@
+Y(12961)
+
+X(514)X(798)∩X(667)X(6373)
+
+Barycentrics    a^2*b^3*c^3*(-b+c)+a^5*(b^4-c^4)
+
+Y(12961) lies on these lines: {6, Z34966}, {514, 798}, {667, 6373}, {693, Z24444}, {776, Z65480}, {1912, 4455}, {3221, 9494}, {3835, 23503}, {4817, 46386}, {16606, 25142}, {20983, 23632}, {23574, 23655}
+
+Y(12961) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2350), X(32453)}}, {{A, B, C, X(37133), Z(34966)}}
+
+Y(12961) = midpoint of X(i) and X(j) for these {i,j}: {20979, 23572}
+
+Y(12961) = perspector of circumconic {{A, B, C, X(701), X(2162)}}
+
+Y(12961) = X(i)-isoconjugate-of-X(j) for these {i, j}: {100, Y2773}, {190, Y324}
+
+Y(12961) = X(i)-Dao conjugate of X(j) for these {i, j}: {8054, Y2773}
+
+Y(12961) = X(i)-complementary conjugate of X(j) for these {i, j}: {34248, 38995}
+
+Y(12961) = X(i)-reciprocal conjugate of X(j) for these {i, j}: {649, Y2773}, {667, Y324}, {1919, Z21101}, {32453, 1978}
+
+Y(12961) = barycentric product X(i)*X(j) for these (i, j): {32453, 649}
+
+Y(12961) = barycentric quotient X(i)/X(j) for these (i, j): {649, Y2773}, {667, Y324}, {1919, Z21101}, {32453, 1978}
+
+Y(12961) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {20979, 23572, 6373}
+
+Y(12961) = bi-perspectrix point of ABC and the cevian triangle of X(6) wrt line X(1)X(76)
+

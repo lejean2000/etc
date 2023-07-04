@@ -1,0 +1,12 @@
+Y(12955)
+
+X(39)X(2451)∩X(6)X(48382)
+
+Barycentrics    a^2*(b-c)*(a^4*(b+c)-b*(b-c)^2*c*(b+c)-a^3*(b^2+c^2)-a^2*(b^3+b^2*c+b*c^2+c^3)+a*(b^4+b^3*c+2*b^2*c^2+b*c^3+c^4))
+
+Y(12955) lies on these lines: {6, 48382}, {39, 2451}, {523, 583}, {584, 48384}, {667, 6373}, {2260, 3709}, {3287, 4253}, {5153, 39520}
+
+Y(12955) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {20980, Y12952, Y12953}, {Y12952, Y12954, 20980}
+
+Y(12955) = bi-perspectrix point of ABC and the cevian triangle of X(6) wrt line X(1)X(30)
+

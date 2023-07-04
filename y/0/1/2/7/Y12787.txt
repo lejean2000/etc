@@ -1,0 +1,26 @@
+Y(12787)
+
+X(4)X(1510)∩X(523)X(10151)
+
+Barycentrics    (b-c)*(b+c)*(a^2+b^2-c^2)*(a^2-b^2+c^2)*(a^8+2*b^2*c^2*(b^2-c^2)^2-3*a^6*(b^2+c^2)+3*a^4*(b^4+b^2*c^2+c^4)-a^2*(b^6+2*b^4*c^2+2*b^2*c^4+c^6))
+
+Y(12787) lies on these lines: {4, 1510}, {136, 53989}, {235, 47193}, {427, 34967}, {523, 10151}, {8562, 16868}, {14618, 20188}, {20184, 51513}, {34979, Y12763}, {39533, Z6647}, {Y12774, Z5856}, {Y12775, Z30708}
+
+Y(12787) = intersection, other than A, B, C, of circumconics {{A, B, C, X(1510), Z(24351)}}
+
+Y(12787) = midpoint of X(i) and X(j) for these {i,j}: {4, 23290}
+
+Y(12787) = reflection of X(i) in X(j) for these {i,j}: {Y12763, 34979}
+
+Y(12787) = X(i)-isoconjugate-of-X(j) for these {i, j}: {4575, 18349}, {4592, Z10163}
+
+Y(12787) = X(i)-Dao conjugate of X(j) for these {i, j}: {136, 18349}, {5139, Z10163}
+
+Y(12787) = barycentric product X(i)*X(j) for these (i, j): {14618, 18350}, {18354, 2501}
+
+Y(12787) = barycentric quotient X(i)/X(j) for these (i, j): {2489, Z10163}, {2501, 18349}, {14618, Z50798}, {18350, 4558}, {18354, 4563}
+
+Y(12787) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {4, 23290, 1510}, {4, Y12765, 23290}
+
+Y(12787) = bi-perspectrix point of X(93)-pedal of X(4) and X(93)-circumconcevian of X(4) wrt X(93) and X(4)
+

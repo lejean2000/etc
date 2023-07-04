@@ -1,0 +1,14 @@
+Y(12877)
+
+X(1)X(4091)∩X(649)X(4083)
+
+Barycentrics    a^2*(b-c)*(a^4+b^4-2*a^2*(b-c)^2+6*b^2*c^2+c^4-4*a*b*c*(b+c))
+
+Y(12877) lies on these lines: {1, 4091}, {56, Z23705}, {649, 4083}, {663, 39541}, {999, Z16727}, {1459, 8999}, {1496, Z35213}, {2254, Z2638}, {3304, Y12696}, {3333, 14837}, {4105, 22091}, {4147, 25955}, {4163, 6762}, {8643, 47329}, {21118, 48341}, {30719, 53395}, {47123, 48144}, {51652, 53286}
+
+Y(12877) = perspector of circumconic {{A, B, C, X(87), Y(326)}}
+
+Y(12877) = X(i)-anticomplementary conjugate of X(j) for these {i, j}: {Z1145, 6223}
+
+Y(12877) = bi-perspectrix point of ABC and the cevian triangle of X(1) wrt line X(2)X(77)
+

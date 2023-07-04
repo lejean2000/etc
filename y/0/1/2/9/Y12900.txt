@@ -1,0 +1,26 @@
+Y(12900)
+
+X(1)X(2501)∩X(650)X(2605)
+
+Barycentrics    a^2*(b-c)*(a^2-b^2-c^2)*(a^4+b^4+b^3*c+b*c^3+c^4-a^2*(2*b^2+3*b*c+2*c^2))
+
+Y(12900) lies on these lines: {1, 2501}, {48, Z1050}, {647, 23090}, {650, 2605}, {2522, Z23710}, {6591, Y12704}, {16612, Y12735}, {17441, 50524}, {22134, 30451}, {22383, Y12748}, {38980, 38983}
+
+Y(12900) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2501), X(4558)}}
+
+Y(12900) = perspector of circumconic {{A, B, C, X(90), X(7092)}}
+
+Y(12900) = X(i)-isoconjugate-of-X(j) for these {i, j}: {653, Z2995}, {2501, Z55536}, {14618, Z14166}, {32674, Z40436}
+
+Y(12900) = X(i)-Dao conjugate of X(j) for these {i, j}: {35072, Z40436}
+
+Y(12900) = X(i)-Ceva conjugate of X(j) for these {i, j}: {Y4940, 656}
+
+Y(12900) = X(i)-reciprocal conjugate of X(j) for these {i, j}: {521, Z40436}, {1946, Z2995}, {4575, Z55536}, {7098, 18026}, {23673, Z38289}
+
+Y(12900) = barycentric product X(i)*X(j) for these (i, j): {521, 7098}, {23673, 4575}
+
+Y(12900) = barycentric quotient X(i)/X(j) for these (i, j): {521, Z40436}, {1946, Z2995}, {4575, Z55536}, {7098, 18026}, {23673, Z38289}
+
+Y(12900) = bi-perspectrix point of ABC and the cevian triangle of X(1) wrt line X(3)X(49)
+

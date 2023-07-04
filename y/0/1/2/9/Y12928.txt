@@ -1,0 +1,14 @@
+Y(12928)
+
+X(1)X(826)∩X(513)X(663)
+
+Barycentrics    a^2*(-b^5+a^4*(b-c)+c^5)
+
+Y(12928) lies on these lines: {1, 826}, {513, 663}, {876, Z928}, {4040, 47944}, {4490, Z1494}, {29021, 48288}, {42670, 52597}, {46380, Y12859}, {50342, Y9864}
+
+Y(12928) = intersection, other than A, B, C, of circumconics {{A, B, C, X(826), X(827)}}, {{A, B, C, X(1458), Z(25394)}}, {{A, B, C, X(1464), Z(32543)}}
+
+Y(12928) = perspector of circumconic {{A, B, C, X(57), Y(147)}}
+
+Y(12928) = bi-perspectrix point of ABC and the cevian triangle of X(1) wrt line X(6)X(22)
+

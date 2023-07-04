@@ -1,0 +1,18 @@
+Y(12781)
+
+X(4)X(2489)∩X(5)X(52598)
+
+Barycentrics    (b-c)*(b+c)*(a^2+b^2-c^2)*(a^2-b^2+c^2)*(a^6+2*a^4*(b^2+c^2)+2*b^2*c^2*(b^2+c^2)-3*a^2*(b^4+c^4))
+
+Y(12781) lies on these lines: {4, 2489}, {5, 52598}, {132, 16188}, {523, 16231}, {924, 5480}, {1598, 21006}, {2501, 32473}, {2799, Y12775}, {3091, Z37564}, {6995, 8644}, {9175, 44438}, {15724, 52301}, {16229, 17994}, {30476, 47206}, {42068, 44949}, {42399, Z23411}, {44228, Z83123}, {Z61955, Z66148}
+
+Y(12781) = intersection, other than A, B, C, of circumconics {{A, B, C, X(6331), X(32472)}}
+
+Y(12781) = midpoint of X(i) and X(j) for these {i,j}: {16229, 17994}, {4, 2489}
+
+Y(12781) = reflection of X(i) in X(j) for these {i,j}: {52598, 5}
+
+Y(12781) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {16229, 17994, 23878}
+
+Y(12781) = bi-perspectrix point of X(76)-pedal of X(4) and X(76)-circumconcevian of X(4) wrt X(76) and X(4)
+

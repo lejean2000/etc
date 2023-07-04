@@ -1,0 +1,14 @@
+Y(12834)
+
+X(181)X(7180)∩X(656)X(2092)
+
+Barycentrics    a^2*(b-c)*(b+c)*(a^5*(b+c)-a^3*b*c*(b+c)-a^2*b*c*(b+c)^2-b*(b-c)^2*c*(b^2+c^2)+a*(-b^5+2*b^4*c+b^3*c^2+b^2*c^3+2*b*c^4-c^5))
+
+Y(12834) lies on these lines: {181, 7180}, {647, 21814}, {656, 2092}, {665, Y12833}, {798, 6363}, {2530, Z7228}, {3709, 8061}, {3752, 17069}
+
+Y(12834) = X(i)-Dao conjugate of X(j) for these {i, j}: {18785, 51560}
+
+Y(12834) = X(i)-Ceva conjugate of X(j) for these {i, j}: {2254, 512}
+
+Y(12834) = bi-perspectrix point of medial traingle and cevian triangle of X(6) wrt X(1) and X(41)
+

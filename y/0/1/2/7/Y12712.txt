@@ -1,0 +1,10 @@
+Y(12712)
+
+X(1)X(3261)∩X(522)X(3736)
+
+Barycentrics    a^2*b^3*c^3*(-b+c)+a^6*(b^3-c^3)+a^4*(-b^5+c^5)
+
+Y(12712) lies on these lines: {1, 3261}, {522, 3736}, {663, 4481}, {832, 2605}, {1459, Y11197}, {4500, 23654}, {5009, Z30281}, {Y12704, Y12706}
+
+Y(12712) = bi-perspectrix point of X(32)-pedal of X(1) and X(32)-circumconcevian of X(1) wrt X(32) and X(1)
+

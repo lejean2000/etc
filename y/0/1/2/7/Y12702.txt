@@ -1,0 +1,14 @@
+Y(12702)
+
+X(2)X(77)∩X(6)X(8059)
+
+Barycentrics    a^2*(a+b-c)*(a-b+c)*(a^3+a^2*(b-c)-a*(b-c)^2-(b-c)*(b+c)^2)*(a^3-a*(b-c)^2+a^2*(-b+c)+(b-c)*(b+c)^2)*(a^5*(b+c)-2*a^3*(b-c)^2*(b+c)+a^4*(b^2-b*c+c^2)+(b^2-c^2)^2*(b^2-b*c+c^2)-2*a^2*(b+c)^2*(b^2+b*c+c^2)+a*(b^5+5*b^4*c+6*b^3*c^2+6*b^2*c^3+5*b*c^4+c^5))
+
+Y(12702) lies on these lines: {2, 77}, {6, 8059}, {198, Z11488}, {7037, Z11487}, {7367, 10571}, {7757, 53642}, {17756, Y2756}, {Z11483, Z11494}, {Z11484, Z11493}
+
+Y(12702) = intersection, other than A, B, C, of circumconics {{A, B, C, X(189), Z(11488)}}, {{A, B, C, X(198), X(20206)}}, {{A, B, C, X(5932), Z(11487)}}, {{A, B, C, X(7037), X(20205)}}, {{A, B, C, X(20201), Z(11494)}}, {{A, B, C, X(20202), Z(11493)}}, {{A, B, C, X(20211), Z(11484)}}, {{A, B, C, X(20212), Z(11483)}}
+
+Y(12702) lies on these curves: K280
+
+Y(12702) = perspector of X(6)-circumconcevian triangle of X(223) and X(6)-pedal triangle of X(223)
+

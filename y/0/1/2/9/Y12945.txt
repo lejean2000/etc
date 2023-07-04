@@ -1,0 +1,20 @@
+Y(12945)
+
+X(1)X(6182)∩X(354)X(650)
+
+Barycentrics    a*(b-c)*(a^4-4*a^3*(b+c)-(b-c)^2*(b^2+c^2)+2*a^2*(2*b^2+b*c+2*c^2))
+
+Y(12945) lies on these lines: {1, 6182}, {354, 650}, {513, 663}, {657, Y12877}, {661, Z28021}, {676, 48029}, {905, 926}, {999, Y12726}, {1617, 8641}, {2488, 43049}, {2820, 48294}, {3907, 46399}, {4449, 21127}, {6050, 53396}, {6084, 48346}, {10006, 41556}, {14077, 15934}, {17410, 21123}, {28878, 48099}, {44408, Z23183}, {50336, Z28446}
+
+Y(12945) = intersection, other than A, B, C, of circumconics {{A, B, C, X(1279), Z(19644)}}, {{A, B, C, X(6182), X(6183)}}
+
+Y(12945) = midpoint of X(i) and X(j) for these {i,j}: {4449, 21127}, {663, 53544}
+
+Y(12945) = reflection of X(i) in X(j) for these {i,j}: {53396, 6050}, {Y12920, Y12939}
+
+Y(12945) = perspector of circumconic {{A, B, C, X(57), X(9442)}}
+
+Y(12945) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {513, Y12939, Y12920}, {663, 53544, 513}
+
+Y(12945) = bi-perspectrix point of ABC and the cevian triangle of X(1) wrt line X(6)X(77)
+

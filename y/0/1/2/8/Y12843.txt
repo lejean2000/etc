@@ -1,0 +1,20 @@
+Y(12843)
+
+X(512)X(1500)∩X(798)X(2092)
+
+Barycentrics    a^2*(b-c)*(b+c)*(-(a^3*(b-c)^2)+a^4*(b+c)-a*(b^2+c^2)^2-a^2*(b^3+c^3)+b*c*(b^3+b^2*c+b*c^2+c^3))
+
+Y(12843) lies on these lines: {39, Z17814}, {512, 1500}, {661, Y12841}, {798, 2092}, {1924, 20970}, {3221, 52020}, {3709, Y12842}, {8632, 23656}, {46390, Y12836}
+
+Y(12843) = midpoint of X(i) and X(j) for these {i,j}: {8632, 23656}
+
+Y(12843) = perspector of circumconic {{A, B, C, Z(21386), Z(21758)}}
+
+Y(12843) = center of circumconic {{A, B, C, X(8632), X(23656)}}
+
+Y(12843) = X(i)-Dao conjugate of X(j) for these {i, j}: {43534, Z41822}
+
+Y(12843) = X(i)-Ceva conjugate of X(j) for these {i, j}: {8632, 512}, {23656, 3221}
+
+Y(12843) = bi-perspectrix point of medial traingle and cevian triangle of X(6) wrt X(2) and X(38)
+

@@ -1,0 +1,16 @@
+Y(12897)
+
+X(1)X(513)∩X(650)X(2605)
+
+Barycentrics    a*(b-c)*(5*a^3-a^2*(b+c)+(b+c)^3-a*(5*b^2+4*b*c+5*c^2))
+
+Y(12897) lies on these lines: {1, 513}, {650, 2605}, {1459, 4895}, {3241, Z77174}, {3737, 50767}, {3900, Y12748}, {3960, 15313}, {4162, 53314}, {9001, 48294}, {10527, 48181}, {10529, 48165}, {10587, 48246}, {11269, 48197}, {26228, 47802}, {28195, 47123}, {50501, 53315}
+
+Y(12897) = midpoint of X(i) and X(j) for these {i,j}: {2605, Y12886}, {4162, 53314}
+
+Y(12897) = perspector of circumconic {{A, B, C, X(88), X(90)}}
+
+Y(12897) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {2605, Y12886, Y12892}
+
+Y(12897) = bi-perspectrix point of ABC and the cevian triangle of X(1) wrt line X(3)X(44)
+

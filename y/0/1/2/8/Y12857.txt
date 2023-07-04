@@ -1,0 +1,26 @@
+Y(12857)
+
+X(647)X(800)∩X(2489)X(3199)
+
+Barycentrics    a^2*(b-c)*(b+c)*(a^10+a^8*(b^2+c^2)-(b^2-c^2)^4*(b^2+c^2)+a^6*(-8*b^4+9*b^2*c^2-8*c^4)-a^2*(b^2-c^2)^2*(b^4+9*b^2*c^2+c^4)+a^4*(8*b^6-6*b^4*c^2-6*b^2*c^4+8*c^6))
+
+Y(12857) lies on these lines: {32, Z28965}, {512, Z21303}, {647, 800}, {2489, 3199}, {6041, 8651}, {14270, 14398}, {21906, Y12849}
+
+Y(12857) = intersection, other than A, B, C, of circumconics {{A, B, C, X(40356), Z(21303)}}
+
+Y(12857) = perspector of circumconic {{A, B, C, X(146), X(11744)}}
+
+Y(12857) = X(i)-isoconjugate-of-X(j) for these {i, j}: {662, Z35355}, {799, 34178}, {36034, Z68044}, {Z24202, Z67243}
+
+Y(12857) = X(i)-Dao conjugate of X(j) for these {i, j}: {74, Z7089}, {1084, Z35355}, {3258, Z68044}, {38996, 34178}
+
+Y(12857) = X(i)-Ceva conjugate of X(j) for these {i, j}: {1637, 512}
+
+Y(12857) = X(i)-reciprocal conjugate of X(j) for these {i, j}: {146, 670}, {512, Z35355}, {669, 34178}, {1637, Z68044}, {14398, Z24202}, {14911, Z53651}, {21731, Z47744}, {36896, Z7089}, {Z65578, 4609}
+
+Y(12857) = barycentric product X(i)*X(j) for these (i, j): {146, 512}, {669, Z65578}, {1637, 36896}, {14911, 21731}
+
+Y(12857) = barycentric quotient X(i)/X(j) for these (i, j): {146, 670}, {512, Z35355}, {669, 34178}, {1637, Z68044}, {14398, Z24202}, {14911, Z53651}, {21731, Z47744}, {36896, Z7089}, {Z65578, 4609}
+
+Y(12857) = bi-perspectrix point of medial traingle and cevian triangle of X(6) wrt line X(3)X(74)
+

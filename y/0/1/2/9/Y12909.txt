@@ -1,0 +1,14 @@
+Y(12909)
+
+X(1)X(14425)∩X(650)X(2605)
+
+Barycentrics    a^2*(b-c)*(a^3-b^3+4*b^2*c+4*b*c^2-c^3+a^2*(b+c)-a*(b^2+7*b*c+c^2))
+
+Y(12909) lies on these lines: {1, 14425}, {6, Z1499}, {649, 39521}, {650, 2605}, {1635, 53314}, {2441, Z25363}, {2516, Z28966}, {2999, 6084}, {3310, 22108}, {4394, 43924}, {4893, 48306}, {5256, 47884}, {8659, Z26950}, {17012, 47892}, {17020, 47871}, {23511, 45677}, {47766, 48292}, {47883, 50349}
+
+Y(12909) = intersection, other than A, B, C, of circumconics {{A, B, C, X(14425), Z(7113)}}
+
+Y(12909) = perspector of circumconic {{A, B, C, X(90), X(2137)}}
+
+Y(12909) = bi-perspectrix point of ABC and the cevian triangle of X(1) wrt line X(3)X(106)
+

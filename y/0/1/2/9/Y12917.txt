@@ -1,0 +1,22 @@
+Y(12917)
+
+X(1)X(10397)∩X(650)X(4449)
+
+Barycentrics    a*(a-b-c)*(b-c)*(a^6-2*a^4*(b-c)^2+a^5*(b+c)-2*b*c*(b^2-c^2)^2+a^2*(b-c)^2*(b^2+c^2)-2*a^3*(b^3+c^3)+a*(b^5-b^4*c-b*c^4+c^5))
+
+Y(12917) lies on these lines: {1, 10397}, {650, 4449}, {652, 21347}, {656, Y12890}, {1459, 3064}, {3554, 52587}, {6591, 40628}, {14298, Y12886}, {14400, Y12902}, {17412, 48275}, {46393, Y12901}
+
+Y(12917) = intersection, other than A, B, C, of circumconics {{A, B, C, X(10397), Z(4857)}}
+
+Y(12917) = perspector of circumconic {{A, B, C, X(3062), X(3362)}}
+
+Y(12917) = X(i)-reciprocal conjugate of X(j) for these {i, j}: {Y7075, 664}
+
+Y(12917) = barycentric product X(i)*X(j) for these (i, j): {522, Y7075}
+
+Y(12917) = barycentric quotient X(i)/X(j) for these (i, j): {Y7075, 664}
+
+Y(12917) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {1, 14331, 10397}, {Y12859, Y12911, 652}
+
+Y(12917) = bi-perspectrix point of ABC and the cevian triangle of X(1) wrt line X(4)X(57)
+
