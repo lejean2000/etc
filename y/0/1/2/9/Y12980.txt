@@ -1,0 +1,12 @@
+Y(12980)
+
+X(1)X(3)∩X(15714)X(19862)
+
+Barycentrics    a*(100*a^3-a^2*(b+c)+(b-c)^2*(b+c)-2*a*(50*b^2-b*c+50*c^2))
+
+Y(12980) lies on these lines: {1, 3}, {3634, Y12597}, {9955, Y12607}, {15714, 19862}, {19872, Y12593}, {28158, Y12613}, {28172, Y12594}, {51086, Y12609}
+
+Y(12980) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {7987, 35242, 8148}
+
+Y(12980) = radical center of (A,t*sa), (B,t*sb) and (C,t*sc) for t=1/10
+

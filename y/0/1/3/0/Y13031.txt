@@ -1,0 +1,14 @@
+Y(13031)
+
+X(1)X(3)∩X(41985)X(50872)
+
+Barycentrics    a*(a^3-100*a^2*(b+c)+100*(b-c)^2*(b+c)-a*(b^2-200*b*c+c^2))
+
+Y(13031) lies on these lines: {1, 3}, {18526, Y12673}, {20050, Y12680}, {34748, Y12667}, {41985, 50872}, {46930, Y12305}, {46931, Y12285}, {46934, Y12527}
+
+Y(13031) = reflection of X(i) in X(j) for these {i,j}: {12702, Y13029}
+
+Y(13031) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {1, 40, Y12980}, {1482, 12702, Y12985}, {7982, 7991, Y12989}
+
+Y(13031) = radical center of (A,t*sa), (B,t*sb) and (C,t*sc) for t=10/1
+
