@@ -1,0 +1,18 @@
+Y(13282)
+
+X(111)X(351)∩X(690)X(895)
+
+Barycentrics    a^2*(b-c)*(b+c)*(a^2+b^2-2*c^2)*(a^2-2*b^2+c^2)*(a^6+2*a^4*(b^2+c^2)+3*b^2*c^2*(b^2+c^2)+a^2*(b^4-13*b^2*c^2+c^4))
+
+Y(13282) lies on these lines: {111, 351}, {523, 15899}, {690, 895}, {5466, 47139}, {5653, 22260}, {8753, 14273}, {14606, Z25358}
+
+Y(13282) = intersection, other than A, B, C, of circumconics {{A, B, C, X(111), X(41909)}}, {{A, B, C, X(6088), X(22105)}}, {{A, B, C, X(9178), Z(5611)}}, {{A, B, C, X(14898), Z(3693)}}
+
+Y(13282) = perspector of circumconic {{A, B, C, X(10630), X(44182)}}
+
+Y(13282) = X(i)-Dao conjugate of X(j) for these {i, j}: {9178, 523}
+
+Y(13282) = X(i)-Ceva conjugate of X(j) for these {i, j}: {99, 111}
+
+Y(13282) = triaxial point of ABC, the X(2)-circumconcevian triangle of X(111), and the X(6)-circumconcevian triangle of X(111)
+

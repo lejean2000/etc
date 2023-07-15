@@ -1,0 +1,24 @@
+Y(13293)
+
+X(325)X(523)∩X(7503)X(30213)
+
+Barycentrics    a^2*(b-c)*(b+c)*(a^4-b^4-c^4)*(-b^4-b^2*c^2-c^4+a^2*(b^2+c^2))
+
+Y(13293) lies on these lines: {325, 523}, {7503, 30213}, {9210, 32320}, {50550, Y12826}
+
+Y(13293) = intersection, other than A, B, C, of circumconics {{A, B, C, X(22), X(2979)}}, {{A, B, C, X(858), X(7796)}}, {{A, B, C, X(3001), X(40073)}}, {{A, B, C, X(39575), Z(13845)}}, {{A, B, C, X(41480), Z(17353)}}, {{A, B, C, X(50552), X(52590)}}, {{A, B, C, Z(17347), Z(27402)}}
+
+Y(13293) = perspector of circumconic {{A, B, C, X(76), Z(5565)}}
+
+Y(13293) = X(i)-isoconjugate-of-X(j) for these {i, j}: {Y4534, Z11852}
+
+Y(13293) = X(i)-Dao conjugate of X(j) for these {i, j}: {127, 2980}, {33294, 850}, {47413, 27366}, {52590, Z38301}, {53575, 2353}
+
+Y(13293) = X(i)-Ceva conjugate of X(j) for these {i, j}: {110, 22}, {648, 41480}
+
+Y(13293) = barycentric product X(i)*X(j) for these (i, j): {2485, 7796}, {2979, 33294}, {4611, 53575}, {23881, Z17347}, {39575, Z35839}, {40073, 52590}
+
+Y(13293) = barycentric quotient X(i)/X(j) for these (i, j): {160, Z21757}, {315, Y4534}, {2485, 2980}, {2979, 44766}, {7796, Z36771}, {8673, Z26335}, {33294, 44176}, {39575, 1289}, {40073, Z82558}, {52590, 2353}, {53575, Z38301}, {Z17347, 53657}, {Z35839, Z70558}
+
+Y(13293) = triaxial point of ABC, the X(3)-circumconcevian triangle of X(22), and the X(6)-circumconcevian triangle of X(22)
+

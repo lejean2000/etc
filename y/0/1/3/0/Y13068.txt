@@ -1,0 +1,10 @@
+Y(13068)
+
+Barycentrics    (b^2+c^2)*(5*a^4-3*b^4-2*b^2*c^2+5*c^4-2*a^2*(b^2-11*c^2))*(5*a^4+5*b^4-2*b^2*c^2-3*c^4+a^2*(22*b^2-2*c^2))
+
+Let PaPbPc be the Cevian triangle of X(3618), TaTbTc be the triangle formed by the trilinear polars of Pa wrt APbPc, Pb wrt BPcPa, Pc wrt CPaPb. This point is the orthology center of ABC and TaTbTc.
+
+Y(13068) lies on these lines: {3522, 3618}
+
+Y(13068) = intersection, other than A, B, C, of circumconics {{A, B, C, X(4), X(141)}}, {{A, B, C, X(39), X(3532)}}, {{A, B, C, X(262), Z(20757)}}, {{A, B, C, X(427), X(3522)}}, {{A, B, C, X(826), X(29181)}}, {{A, B, C, X(3933), Z(5471)}}, {{A, B, C, X(14484), Z(21883)}}, {{A, B, C, X(14528), Z(26391)}}, {{A, B, C, X(22334), Z(27963)}}, {{A, B, C, X(30489), Z(4779)}}, {{A, B, C, X(52554), Z(33450)}}, {{A, B, C, Z(105), Z(4398)}}, {{A, B, C, Z(23342), Z(70879)}}
+

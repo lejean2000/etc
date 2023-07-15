@@ -1,0 +1,16 @@
+Y(13320)
+
+X(850)X(3221)∩X(804)X(5152)
+
+Barycentrics    b^2*c^2*(-(b^6*c^4)+b^4*c^6+a^6*(b^4-c^4)+a^4*(-b^6+c^6))
+
+Y(13320) lies on these lines: {76, Z47434}, {688, Z39979}, {804, 5152}, {808, Z30131}, {850, 3221}, {2485, Z49730}, {3267, 6374}, {9006, 52618}, {35556, 50549}, {Y13237, Z29609}, {Z28108, Z50472}
+
+Y(13320) = perspector of circumconic {{A, B, C, X(38830), Z(7404)}}
+
+Y(13320) = X(i)-Dao conjugate of X(j) for these {i, j}: {44173, 850}
+
+Y(13320) = X(i)-Ceva conjugate of X(j) for these {i, j}: {110, 76}
+
+Y(13320) = triaxial point of ABC, the X(3)-circumconcevian triangle of X(76), and the X(6)-circumconcevian triangle of X(76)
+

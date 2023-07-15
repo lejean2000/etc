@@ -1,0 +1,22 @@
+Y(13277)
+
+X(95)X(850)∩X(275)X(31296)
+
+Barycentrics    (b-c)*(b+c)*(a^4+b^4-b^2*c^2-a^2*(2*b^2+c^2))*(a^4-b^2*c^2+c^4-a^2*(b^2+2*c^2))*(a^8-3*b^2*c^2*(b^2-c^2)^2-3*a^6*(b^2+c^2)+3*a^4*(b^4+b^2*c^2+c^4)-a^2*(b^6-3*b^4*c^2-3*b^2*c^4+c^6))
+
+Y(13277) lies on these lines: {95, 850}, {99, Z42052}, {275, 31296}, {647, 19188}, {1799, Z66594}, {6368, 23061}, {15412, Z49515}, {23878, Z46113}, {Z35632, Z36095}, {Z36459, Z42051}, {Z36884, Z37671}, {Z55059, Z66219}, {Z61949, Z65132}
+
+Y(13277) = intersection, other than A, B, C, of circumconics {{A, B, C, X(1105), X(13434)}}
+
+Y(13277) = perspector of circumconic {{A, B, C, X(31617), Z(37569)}}
+
+Y(13277) = X(i)-Dao conjugate of X(j) for these {i, j}: {8902, 3078}, {15412, 523}
+
+Y(13277) = X(i)-Ceva conjugate of X(j) for these {i, j}: {99, 95}
+
+Y(13277) = barycentric product X(i)*X(j) for these (i, j): {8902, Z45041}, {13434, Z36095}
+
+Y(13277) = barycentric quotient X(i)/X(j) for these (i, j): {8902, 12077}, {13434, 1625}, {15412, Z6671}, {18315, Z4007}, {Z36095, Z46378}, {Z45041, Z42052}
+
+Y(13277) = triaxial point of ABC, the X(2)-circumconcevian triangle of X(95), and the X(6)-circumconcevian triangle of X(95)
+

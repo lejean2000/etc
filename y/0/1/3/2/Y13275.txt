@@ -1,0 +1,16 @@
+Y(13275)
+
+X(106)X(759)∩X(900)X(1120)
+
+Barycentrics    a*(a+b-2*c)*(b-c)*(a-2*b+c)*(a^4+a^2*b*c+b*c*(b+c)^2+a*(b^3-4*b^2*c-4*b*c^2+c^3))
+
+Y(13275) lies on these lines: {106, 759}, {513, 39148}, {900, 1120}, {4145, 4792}, {4491, 23352}, {4674, 53411}, {23838, Z1568}, {Y9798, Z28667}, {Y12878, Z14427}, {Y13095, Z26962}
+
+Y(13275) = intersection, other than A, B, C, of circumconics {{A, B, C, X(759), X(1120)}}
+
+Y(13275) = perspector of circumconic {{A, B, C, Z(12153), Z(27264)}}
+
+Y(13275) = X(i)-Ceva conjugate of X(j) for these {i, j}: {99, 88}
+
+Y(13275) = triaxial point of ABC, the X(2)-circumconcevian triangle of X(88), and the X(6)-circumconcevian triangle of X(88)
+

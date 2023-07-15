@@ -1,0 +1,16 @@
+Y(13054)
+
+X(2)X(1975)∩X(99)X(34208)
+
+Barycentrics    (a^2+b^2-3*c^2)*(a^2-b^2-c^2)*(a^2-3*b^2+c^2)*(11*a^4-b^4+6*b^2*c^2-c^4-6*a^2*(b^2+c^2))
+
+Y(13054) lies on these lines: {2, 1975}, {99, 34208}, {376, 35136}, {1007, 5203}, {32815, 40809}, {33974, Z7959}
+
+Y(13054) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2), X(35927)}}, {{A, B, C, X(1799), X(18287)}}
+
+Y(13054) = barycentric product X(i)*X(j) for these (i, j): {35927, 6340}
+
+Y(13054) = barycentric quotient X(i)/X(j) for these (i, j): {6340, Z67136}, {6391, Z23555}, {35927, 6353}
+
+Y(13054) = perspector of X(69)-circumconcevian triangle of X(2996) and X(69)-pedal triangle of X(2996)
+

@@ -1,0 +1,16 @@
+Y(13316)
+
+X(73)X(3657)∩X(513)X(1946)
+
+Barycentrics    a*(b-c)*(a+b-c)*(a-b+c)*(b+c)*(a^6-a^5*(b+c)-b*c*(b^2-c^2)^2-a^4*(2*b^2+b*c+2*c^2)+2*a^3*(b^3+b^2*c+b*c^2+c^3)+a^2*(b^4+2*b^3*c+4*b^2*c^2+2*b*c^3+c^4)-a*(b^5+b^4*c+b*c^4+c^5))
+
+Y(13316) lies on these lines: {73, 3657}, {225, 54244}, {226, 6003}, {513, 1946}, {520, 7178}, {521, Z38302}, {20980, 36054}, {48026, Y13101}
+
+Y(13316) = perspector of circumconic {{A, B, C, X(2982), Z(326)}}
+
+Y(13316) = X(i)-Dao conjugate of X(j) for these {i, j}: {Z38302, 850}
+
+Y(13316) = X(i)-Ceva conjugate of X(j) for these {i, j}: {110, 65}
+
+Y(13316) = triaxial point of ABC, the X(3)-circumconcevian triangle of X(65), and the X(6)-circumconcevian triangle of X(65)
+

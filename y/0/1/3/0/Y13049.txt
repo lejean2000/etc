@@ -1,0 +1,18 @@
+Y(13049)
+
+X(2)X(14618)∩X(376)X(512)
+
+Barycentrics    2*a^8*(b^2-c^2)-b^2*c^2*(b^2-c^2)^3-6*a^6*(b^4-c^4)+3*a^4*(2*b^6+b^4*c^2-b^2*c^4-2*c^6)-2*a^2*(b^8-c^8)
+
+Y(13049) lies on these lines: {2, 14618}, {376, 512}, {525, 1636}, {850, 8552}, {1494, Z581}, {3267, 7799}, {3545, 16229}, {3839, 44918}, {4108, 44210}, {4558, 18878}, {5641, 10718}, {5996, 31152}, {6563, 44427}, {7630, Z35619}, {11149, 47383}, {15470, Y13041}, {31174, Z2641}, {35297, Y13042}, {44560, Z77478}, {47389, Z34985}, {Y13034, Z35836}, {Z21251, Z69384}
+
+Y(13049) = intersection, other than A, B, C, of circumconics {{A, B, C, X(15414), X(15421)}}, {{A, B, C, X(46809), Z(581)}}
+
+Y(13049) = reflection of X(i) in X(j) for these {i,j}: {14618, 2}, {2, 52584}
+
+Y(13049) = perspector of circumconic {{A, B, C, X(34384), Z(22476)}}
+
+Y(13049) = X(i)-anticomplementary conjugate of X(j) for these {i, j}: {46259, 21294}
+
+Y(13049) = isotomic conjugate of tripole of line between centroids of cevian triangles of X(4) and X(94)
+

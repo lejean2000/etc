@@ -1,0 +1,26 @@
+Y(13123)
+
+X(3)X(523)∩X(9)X(1021)
+
+Barycentrics    (a-b-c)*(b-c)*(2*a^4-(b^2-c^2)^2-a^2*(b^2+c^2))*(a^5-a^2*b*c*(b+c)+b*(b-c)^2*c*(b+c)-a^3*(2*b^2+b*c+2*c^2)+a*(b^4+b^3*c+2*b^2*c^2+b*c^3+c^4))
+
+Y(13123) lies on these lines: {3, 523}, {9, 1021}, {10, 8062}, {100, 14224}, {113, 119}, {214, Z22876}, {442, 521}, {522, 3647}, {2092, 6588}, {2804, 35204}, {2845, 3184}, {3163, 6184}, {3738, 51569}, {4885, 18642}, {6003, 6260}, {14920, Z37043}
+
+Y(13123) = intersection, other than A, B, C, of circumconics {{A, B, C, X(9404), X(15470)}}
+
+Y(13123) = midpoint of X(i) and X(j) for these {i,j}: {100, 14224}
+
+Y(13123) = perspector of circumconic {{A, B, C, X(2986), X(6740)}}
+
+Y(13123) = center of circumconic {{A, B, C, X(100), X(14224)}}
+
+Y(13123) = X(i)-isoconjugate-of-X(j) for these {i, j}: {Y9833, Z34024}
+
+Y(13123) = X(i)-Ceva conjugate of X(j) for these {i, j}: {100, 30}, {Z83435, 9033}
+
+Y(13123) = X(i)-complementary conjugate of X(j) for these {i, j}: {30, 124}, {73, 1650}, {109, 30}, {1400, Z70297}, {1415, 18593}, {1461, 18644}, {1495, 1146}, {2173, 26932}, {2407, 21246}, {2420, 5745}, {3284, 16596}, {4240, 34831}, {6357, 116}, {11125, 46100}, {23347, 40942}, {32660, 44436}, {32674, 47296}, {42716, 21244}, {51420, 34589}, {51654, 11}, {Z21, Z10556}, {Z7120, 45311}, {Z10513, 34851}, {Z23356, 3003}, {Z23706, 123}, {Z31896, 32223}, {Z75089, 21252}
+
+Y(13123) = barycentric quotient X(i)/X(j) for these (i, j): {52949, Y9833}
+
+Y(13123) = triaxial point of ABC, the X(1)-circumconcevian triangle of X(30), and the circumcevian triangle of X(30)
+

@@ -1,0 +1,24 @@
+Y(13128)
+
+X(141)X(513)∩X(512)X(2076)
+
+Barycentrics    a^2*(b-c)*(b^2+c^2)*(a^3+b*c*(b+c)+a*(b^2-b*c+c^2))
+
+Y(13128) lies on these lines: {141, 513}, {512, 2076}, {659, 3737}, {788, 50504}, {832, 50514}, {1964, 21123}, {3051, 3063}, {20980, Z25025}
+
+Y(13128) = intersection, other than A, B, C, of circumconics {{A, B, C, Z(1497), Z(4794)}}
+
+Y(13128) = perspector of circumconic {{A, B, C, X(3108), X(40432)}}
+
+Y(13128) = X(i)-isoconjugate-of-X(j) for these {i, j}: {83, Z50560}, {308, Z9926}, {Z505, Z64424}, {Z21406, Z33287}
+
+Y(13128) = X(i)-Dao conjugate of X(j) for these {i, j}: {2530, 693}
+
+Y(13128) = X(i)-Ceva conjugate of X(j) for these {i, j}: {100, 39}, {Z38588, 1015}
+
+Y(13128) = barycentric product X(i)*X(j) for these (i, j): {1, Y13091}, {18071, 1964}, {21123, 32942}
+
+Y(13128) = barycentric quotient X(i)/X(j) for these (i, j): {1923, Z9926}, {1964, Z50560}, {18071, 18833}, {21123, Z64424}, {32942, Z53222}, {Y13091, 75}
+
+Y(13128) = triaxial point of ABC, the X(1)-circumconcevian triangle of X(39), and the circumcevian triangle of X(39)
+

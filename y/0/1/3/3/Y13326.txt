@@ -1,0 +1,24 @@
+Y(13326)
+
+X(111)X(351)∩X(512)X(10562)
+
+Barycentrics    a^2*(b-c)*(b+c)*(a^2+b^2-2*c^2)*(a^2-2*b^2+c^2)*(7*a^4+4*b^4-b^2*c^2+4*c^4-7*a^2*(b^2+c^2))
+
+Y(13326) lies on these lines: {110, Z28734}, {111, 351}, {512, 10562}, {2408, 9979}, {2444, 9517}, {5466, 9125}, {5653, 54246}, {8430, Z10976}, {8644, 10561}, {9171, 39024}, {9213, 15899}, {10097, Z3789}, {42008, 53365}, {Y12829, Z26952}, {Z4069, Z25029}
+
+Y(13326) = intersection, other than A, B, C, of circumconics {{A, B, C, X(111), X(10153)}}, {{A, B, C, X(9178), X(44010)}}, {{A, B, C, X(9184), Z(25142)}}
+
+Y(13326) = X(i)-isoconjugate-of-X(j) for these {i, j}: {896, Z74484}, {14210, Z28734}
+
+Y(13326) = X(i)-Dao conjugate of X(j) for these {i, j}: {5466, 850}, {15477, Z28734}, {15899, Z74484}
+
+Y(13326) = X(i)-Ceva conjugate of X(j) for these {i, j}: {110, 111}
+
+Y(13326) = barycentric product X(i)*X(j) for these (i, j): {111, 44010}
+
+Y(13326) = barycentric quotient X(i)/X(j) for these (i, j): {111, Z74484}, {32740, Z28734}, {44010, 3266}
+
+Y(13326) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {9178, Y13282, Z25364}
+
+Y(13326) = triaxial point of ABC, the X(3)-circumconcevian triangle of X(111), and the X(6)-circumconcevian triangle of X(111)
+

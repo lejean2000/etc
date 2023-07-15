@@ -1,0 +1,22 @@
+Y(13100)
+
+X(59)X(573)∩X(77)X(1262)
+
+Barycentrics    a^2*(a-b)^2*(a-c)^2*(a+b-c)*(a-b+c)*(a^6-a^5*(b+c)+a*(b-c)^4*(b+c)+a^2*(b^2-c^2)^2-a^4*(b^2-3*b*c+c^2)-(b^2-c^2)^2*(b^2-b*c+c^2))
+
+Y(13100) lies on these lines: {6, Z22961}, {37, 7012}, {59, 573}, {77, 1262}, {281, 7115}, {282, Z25413}, {1252, 2324}, {1983, 46384}, {23868, Z22457}, {44717, Z3018}, {Z241, Z22460}
+
+Y(13100) = intersection, other than A, B, C, of circumconics {{A, B, C, X(8048), X(33650)}}
+
+Y(13100) = X(i)-isoconjugate-of-X(j) for these {i, j}: {2170, Z65119}, {4858, 34189}
+
+Y(13100) = X(i)-Dao conjugate of X(j) for these {i, j}: {109, 514}
+
+Y(13100) = X(i)-Ceva conjugate of X(j) for these {i, j}: {190, 59}
+
+Y(13100) = barycentric product X(i)*X(j) for these (i, j): {33650, 59}, {Z22457, Z65589}
+
+Y(13100) = barycentric quotient X(i)/X(j) for these (i, j): {59, Z65119}, {33650, 34387}, {Z22457, 34189}
+
+Y(13100) = triaxial point of ABC, the X(1)-circumconcevian triangle of X(59), and the X(2)-circumconcevian triangle of X(59)
+

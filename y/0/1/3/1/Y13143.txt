@@ -1,0 +1,22 @@
+Y(13143)
+
+X(86)X(4040)∩X(798)X(1019)
+
+Barycentrics    (a+b)*(b-c)*(a+c)*(-(b^2*c^2)+a^3*(b+c)-2*a*b*c*(b+c)-a^2*(b^2+3*b*c+c^2))
+
+Y(13143) lies on these lines: {86, 4040}, {274, 47970}, {514, 33296}, {667, Z37915}, {669, 4367}, {798, 1019}, {4724, 16737}, {6626, 32008}, {7199, Z34166}, {17212, 48331}, {Z1504, Z37820}
+
+Y(13143) = perspector of circumconic {{A, B, C, X(40409), X(40439)}}
+
+Y(13143) = X(i)-isoconjugate-of-X(j) for these {i, j}: {213, Y5864}
+
+Y(13143) = X(i)-Dao conjugate of X(j) for these {i, j}: {6626, Y5864}, {7199, 693}
+
+Y(13143) = X(i)-Ceva conjugate of X(j) for these {i, j}: {100, 86}
+
+Y(13143) = barycentric quotient X(i)/X(j) for these (i, j): {86, Y5864}
+
+Y(13143) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {1019, Y9784, Y13107}, {4040, Z71277, 86}
+
+Y(13143) = triaxial point of ABC, the X(1)-circumconcevian triangle of X(86), and the circumcevian triangle of X(86)
+

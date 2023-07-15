@@ -1,0 +1,24 @@
+Y(13185)
+
+X(184)X(1980)∩X(832)X(1491)
+
+Barycentrics    a^4*(b-c)*(a^4-a^3*(b+c)-b*c*(b^2+c^2)-a^2*(b^2+b*c+c^2)+a*(b^3+b^2*c+b*c^2+c^3))
+
+Y(13185) lies on these lines: {184, 1980}, {520, 8651}, {832, 1491}, {1960, 9404}, {2175, 8640}, {2194, 21005}, {2488, Z1500}, {5138, 50516}, {5320, 20983}, {Y13124, Z11790}
+
+Y(13185) = intersection, other than A, B, C, of circumconics {{A, B, C, Z(940), Z(83461)}}, {{A, B, C, Z(9111), Z(12347)}}
+
+Y(13185) = perspector of circumconic {{A, B, C, Z(810), Z(852)}}
+
+Y(13185) = X(i)-isoconjugate-of-X(j) for these {i, j}: {522, Z25961}, {663, Z70044}
+
+Y(13185) = X(i)-Dao conjugate of X(j) for these {i, j}: {3063, 4391}
+
+Y(13185) = X(i)-Ceva conjugate of X(j) for these {i, j}: {651, 32}
+
+Y(13185) = barycentric product X(i)*X(j) for these (i, j): {39025, 651}
+
+Y(13185) = barycentric quotient X(i)/X(j) for these (i, j): {651, Z70044}, {1415, Z25961}, {39025, 4391}
+
+Y(13185) = triaxial point of ABC, the X(1)-circumconcevian triangle of X(32), and the X(3)-circumconcevian triangle of X(32)
+

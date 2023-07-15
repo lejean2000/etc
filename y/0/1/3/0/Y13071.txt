@@ -1,0 +1,12 @@
+Y(13071)
+
+X(4)X(6)∩X(6247)X(14862)
+
+Barycentrics    8*a^10-35*a^8*(b^2+c^2)-38*a^4*(b^2-c^2)^2*(b^2+c^2)+(b^2-c^2)^4*(b^2+c^2)+8*a^2*(b^2-c^2)^2*(b^4+7*b^2*c^2+c^4)+8*a^6*(7*b^4-5*b^2*c^2+7*c^4)
+
+Let PaPbPc be the Cevian triangle of X(3522), TaTbTc be the triangle formed by the trilinear polars of Pa wrt APbPc, Pb wrt BPcPa, Pc wrt CPaPb. This point is the orthology center of TaTbTc and ABC.
+
+Y(13071) lies on these lines: {4, 6}, {3522, Y13069}, {3523, Z33991}, {5068, Z29223}, {5878, 49139}, {5894, 32063}, {6000, 15712}, {6247, 14862}, {6759, 15105}, {9833, 49133}, {10192, 12315}, {12324, 46935}, {16252, 46219}, {20299, Y12240}, {23328, Y12565}, {23332, 35018}, {34782, Y12665}, {45185, Y12681}, {50414, Y12615}, {52102, Y12427}
+
+Y(13071) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {5656, 41362, 2883}
+

@@ -1,0 +1,26 @@
+Y(13196)
+
+X(284)X(649)∩X(520)X(3733)
+
+Barycentrics    a^2*(a+b)*(b-c)*(a+c)*(a^4-a^3*(b+c)+a*(b-c)^2*(b+c)-b*c*(b+c)^2-a^2*(b^2+b*c+c^2))
+
+Y(13196) lies on these lines: {58, Y13168}, {284, 649}, {513, Z1506}, {520, 3733}, {661, 3737}, {905, Z1108}, {1019, 51664}, {1412, 3676}, {1790, Z26961}, {2328, 23865}, {2360, Y12703}, {7180, 7252}, {9404, Z23083}, {27013, Y8958}, {40214, Y13142}
+
+Y(13196) = intersection, other than A, B, C, of circumconics {{A, B, C, X(1174), Z(14570)}}, {{A, B, C, X(3451), Z(14492)}}, {{A, B, C, X(3676), X(24235)}}, {{A, B, C, Z(935), Z(7190)}}
+
+Y(13196) = perspector of circumconic {{A, B, C, X(2363), Z(1700)}}
+
+Y(13196) = X(i)-isoconjugate-of-X(j) for these {i, j}: {661, Z56043}, {1577, Z14632}
+
+Y(13196) = X(i)-Dao conjugate of X(j) for these {i, j}: {3737, 4391}, {36830, Z56043}
+
+Y(13196) = X(i)-Ceva conjugate of X(j) for these {i, j}: {651, 58}
+
+Y(13196) = barycentric product X(i)*X(j) for these (i, j): {57, Y13088}, {110, 24235}
+
+Y(13196) = barycentric quotient X(i)/X(j) for these (i, j): {110, Z56043}, {1576, Z14632}, {24235, 850}, {Y13088, 312}
+
+Y(13196) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {Y13099, Z1050, Y13133}
+
+Y(13196) = triaxial point of ABC, the X(1)-circumconcevian triangle of X(58), and the X(3)-circumconcevian triangle of X(58)
+

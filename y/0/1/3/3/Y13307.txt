@@ -1,0 +1,28 @@
+Y(13307)
+
+X(54)X(523)∩X(1157)X(1510)
+
+Barycentrics    a^2*(b-c)*(b+c)*(a^4+b^4-b^2*c^2-a^2*(2*b^2+c^2))*(a^4-b^2*c^2+c^4-a^2*(b^2+2*c^2))*(a^8-3*b^2*c^2*(b^2-c^2)^2-3*a^6*(b^2+c^2)+3*a^4*(b^4+b^2*c^2+c^4)-a^2*(b^6-3*b^4*c^2-3*b^2*c^4+c^6))
+
+Y(13307) lies on these lines: {54, 523}, {110, Z4007}, {1157, 1510}, {1176, 39182}, {2120, 43598}, {2616, 4551}, {2623, 10313}, {3050, 8882}, {3288, 33629}, {3484, 6368}, {8718, 30210}, {19128, 50946}, {43391, 45147}, {Z394, Z4006}
+
+Y(13307) = intersection, other than A, B, C, of circumconics {{A, B, C, X(54), X(13434)}}, {{A, B, C, X(523), X(8902)}}, {{A, B, C, X(14979), X(36161)}}, {{A, B, C, X(39180), X(50946)}}
+
+Y(13307) lies on these curves: K316
+
+Y(13307) = perspector of circumconic {{A, B, C, X(288), Z(733)}}
+
+Y(13307) = X(i)-isoconjugate-of-X(j) for these {i, j}: {2617, Z6671}, {2618, Z4007}
+
+Y(13307) = X(i)-Dao conjugate of X(j) for these {i, j}: {15412, 850}
+
+Y(13307) = X(i)-Ceva conjugate of X(j) for these {i, j}: {110, 54}
+
+Y(13307) = X(i)-cross conjugate of X(j) for these {i, j}: {8902, 13434}
+
+Y(13307) = barycentric product X(i)*X(j) for these (i, j): {6, Y13277}, {13434, 15412}, {18315, 8902}
+
+Y(13307) = barycentric quotient X(i)/X(j) for these (i, j): {2623, Z6671}, {8902, 18314}, {13434, 14570}, {14586, Z4007}, {15412, Z46378}, {18315, Z42052}, {Y13277, 76}
+
+Y(13307) = triaxial point of ABC, the X(3)-circumconcevian triangle of X(54), and the X(6)-circumconcevian triangle of X(54)
+

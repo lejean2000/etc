@@ -1,0 +1,19 @@
+Y(13063)
+
+X(9)X(119)∩X(109)X(1167)
+
+Barycentrics    a*(a^2-b^2-c^2)*(a^3+a^2*(b+c)-(b-c)^2*(b+c)-a*(b+c)^2)*(a^5-a^4*c+(b-c)^3*(b+c)^2-a^3*(b^2-3*b*c+2*c^2)-a^2*(b^3+b*c^2-2*c^3)+a*c*(3*b^3-b^2*c-3*b*c^2+c^3))*(a^5-a^4*b-(b-c)^3*(b+c)^2-a^3*(2*b^2-3*b*c+c^2)+a^2*(2*b^3-b^2*c-c^3)+a*b*(b^3-3*b^2*c-b*c^2+3*c^3))
+
+Denote with BT(P, XYZ) the Bobillier transversal line of P=X(40) wrt XYZ. Consider the triangle A1B1C1 formed by BT(A, BCP), BT(B, ACP), BT(C, ABP). 
+Y(13063) is the perspector of A1B1C1 and ABC.
+
+Y(13063) lies on these lines: {3, 53557}, {9, 119}, {40, 3318}, {57, Z7709}, {109, 1167}, {208, 21664}, {271, 2968}, {517, 53915}, {3211, Z27149}, {3579, Z2555}, {5709, Y5351}, {12702, Z5960}, {31788, Z1266}, {52407, Z34001}
+
+Y(13063) = intersection, other than A, B, C, of circumconics {{A, B, C, X(3), X(9)}}, {{A, B, C, X(57), X(15239)}}, {{A, B, C, X(208), X(7053)}}, {{A, B, C, X(222), X(12686)}}, {{A, B, C, X(265), X(48357)}}, {{A, B, C, X(329), X(37822)}}, {{A, B, C, X(915), X(6129)}}, {{A, B, C, X(972), X(2968)}}, {{A, B, C, X(1807), X(15501)}}, {{A, B, C, X(1817), X(6907)}}, {{A, B, C, X(3194), Z(2886)}}, {{A, B, C, X(3359), X(7011)}}, {{A, B, C, X(7100), X(7952)}}, {{A, B, C, Z(648), Z(32454)}}
+
+Y(13063) = X(i)-isoconjugate-of-X(j) for these {i, j}: {84, 15500}, {2077, 40836}, {7151, Z76715}
+
+Y(13063) = barycentric product X(i)*X(j) for these (i, j): {198, Z48283}, {329, Z7876}, {46435, Z3006}
+
+Y(13063) = barycentric quotient X(i)/X(j) for these (i, j): {198, 15500}, {Z3006, Z76715}, {Z7876, 189}, {Z48283, 44190}
+

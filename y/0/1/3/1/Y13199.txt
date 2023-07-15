@@ -1,0 +1,24 @@
+Y(13199)
+
+X(525)X(3049)∩X(1019)X(2484)
+
+Barycentrics    (b-c)*(-a^2+b^2+c^2)*(-a^5-a^3*b*c+a^2*b*c*(b+c)+b*c*(b^3+b^2*c+b*c^2+c^3)+a*(b^4-b^3*c-2*b^2*c^2-b*c^3+c^4))
+
+Y(13199) lies on these lines: {69, Z1222}, {513, 35518}, {525, 3049}, {1019, 2484}, {3267, 8672}, {7192, Z64210}, {15413, Z70931}, {34496, Z58471}, {48084, Z37030}, {48109, Z58473}, {Y6699, Z30446}
+
+Y(13199) = intersection, other than A, B, C, of circumconics {{A, B, C, X(4580), X(48070)}}, {{A, B, C, Z(816), Z(1222)}}
+
+Y(13199) = perspector of circumconic {{A, B, C, X(1799), Z(27223)}}
+
+Y(13199) = X(i)-isoconjugate-of-X(j) for these {i, j}: {1973, Y4893}
+
+Y(13199) = X(i)-Dao conjugate of X(j) for these {i, j}: {6337, Y4893}, {35518, 4391}
+
+Y(13199) = X(i)-Ceva conjugate of X(j) for these {i, j}: {651, 69}
+
+Y(13199) = barycentric product X(i)*X(j) for these (i, j): {63, Y13172}
+
+Y(13199) = barycentric quotient X(i)/X(j) for these (i, j): {69, Y4893}, {Y13172, 92}
+
+Y(13199) = triaxial point of ABC, the X(1)-circumconcevian triangle of X(69), and the X(3)-circumconcevian triangle of X(69)
+

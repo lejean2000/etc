@@ -1,0 +1,20 @@
+Y(13226)
+
+X(42)X(656)∩X(10)X(8062)
+
+Barycentrics    a*(b-c)*(b+c)*(a^5-a^2*b*c*(b+c)+a*(b+c)^2*(b^2+b*c+c^2)-a^3*(2*b^2+3*b*c+2*c^2)+b*c*(b^3+b^2*c+b*c^2+c^3))
+
+Y(13226) lies on these lines: {10, 8062}, {42, 656}, {513, 4380}, {521, 34975}, {2509, Y13122}, {2533, Y12892}, {3900, 4036}, {4524, Z23672}, {4651, 7253}, {4685, Y13036}, {4705, 15313}, {8674, Y13121}, {9249, 22272}, {9253, 22273}, {21727, 46385}, {22320, 38469}, {22324, 30665}, {Z1224, Z24586}
+
+Y(13226) = intersection, other than A, B, C, of circumconics {{A, B, C, X(14775), X(50520)}}, {{A, B, C, X(46519), Z(10012)}}
+
+Y(13226) = reflection of X(i) in X(j) for these {i,j}: {4036, Y13163}
+
+Y(13226) = perspector of circumconic {{A, B, C, X(32009), X(40447)}}
+
+Y(13226) = X(i)-Ceva conjugate of X(j) for these {i, j}: {648, 37}
+
+Y(13226) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {3900, Y13163, 4036}
+
+Y(13226) = triaxial point of ABC, the X(2)-circumconcevian triangle of X(37), and the X(3)-circumconcevian triangle of X(37)
+

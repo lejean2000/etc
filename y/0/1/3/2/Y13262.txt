@@ -1,0 +1,24 @@
+Y(13262)
+
+X(1)X(513)∩X(81)X(514)
+
+Barycentrics    a*(b-c)*(a^2-b^2+b*c-c^2)*(a^3+a*b*c+a^2*(b+c)-2*b*c*(b+c))
+
+Y(13262) linear combinations: -1*X[2610]+2*X[3960]
+
+Y(13262) lies on these lines: {1, 513}, {81, 514}, {523, 16474}, {690, 6126}, {918, 40584}, {1019, 3666}, {2610, 3960}, {3287, 5280}, {3669, 47057}, {4049, 37633}, {4063, 18163}, {4560, 45222}, {5315, 30580}, {14838, 17020}, {17147, 17496}, {20963, 47683}, {21758, 23884}, {33296, 48321}, {41806, 47794}, {41878, 47795}
+
+Y(13262) = intersection, other than A, B, C, of circumconics {{A, B, C, X(4585), X(23345)}}
+
+Y(13262) = reflection of X(i) in X(j) for these {i,j}: {2610, 3960}
+
+Y(13262) = perspector of circumconic {{A, B, C, X(88), Y(9632)}}
+
+Y(13262) = X(i)-Dao conjugate of X(j) for these {i, j}: {21828, 523}
+
+Y(13262) = X(i)-Ceva conjugate of X(j) for these {i, j}: {99, 36}, {Y9783, 53527}, {Z824, 53525}
+
+Y(13262) = barycentric quotient X(i)/X(j) for these (i, j): {Z22830, Y9789}
+
+Y(13262) = triaxial point of ABC, the X(2)-circumconcevian triangle of X(36), and the X(6)-circumconcevian triangle of X(36)
+

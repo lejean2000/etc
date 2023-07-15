@@ -1,0 +1,22 @@
+Y(13157)
+
+X(2)X(21174)∩X(8)X(14331)
+
+Barycentrics    (a-b-c)*(b-c)*(2*a^4-a^3*(b+c)-a^2*(b^2-b*c+c^2)-(b+c)^2*(b^2-b*c+c^2)+a*(b^3+b^2*c+b*c^2+c^3))
+
+Y(13157) lies on these lines: {2, 21174}, {8, 14331}, {649, 3239}, {3161, Y13093}, {3676, 6332}, {3904, 49299}, {4391, 29162}, {4511, 10397}, {4861, Y12917}, {5273, 52616}, {5749, 52587}, {6591, 47695}, {33116, Z58471}, {47761, Z69382}, {48070, Z26963}
+
+Y(13157) = perspector of circumconic {{A, B, C, X(1222), X(34406)}}
+
+Y(13157) = X(i)-isoconjugate-of-X(j) for these {i, j}: {3669, Z28953}
+
+Y(13157) = X(i)-Dao conjugate of X(j) for these {i, j}: {Z67318, 6332}
+
+Y(13157) = X(i)-Ceva conjugate of X(j) for these {i, j}: {653, 8}
+
+Y(13157) = barycentric product X(i)*X(j) for these (i, j): {3699, 44313}
+
+Y(13157) = barycentric quotient X(i)/X(j) for these (i, j): {3699, Z74729}, {3939, Z28953}, {44313, 3676}
+
+Y(13157) = triaxial point of ABC, the X(1)-circumconcevian triangle of X(8), and the X(4)-circumconcevian triangle of X(8)
+

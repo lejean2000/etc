@@ -1,0 +1,22 @@
+Y(13248)
+
+X(241)X(514)∩X(1743)X(14321)
+
+Barycentrics    (3*a-b-c)*(b-c)*(2*a^4-a^3*(b+c)-(b^2-c^2)^2-a^2*(b^2+c^2)+a*(b^3+b^2*c+b*c^2+c^3))
+
+Y(13248) lies on these lines: {241, 514}, {1743, 14321}, {2490, 48281}, {46383, Y13154}
+
+Y(13248) = intersection, other than A, B, C, of circumconics {{A, B, C, X(1375), X(5435)}}, {{A, B, C, X(1743), X(18593)}}, {{A, B, C, X(3676), X(44409)}}, {{A, B, C, X(4521), X(14837)}}
+
+Y(13248) = perspector of circumconic {{A, B, C, X(7), Y(10194)}}
+
+Y(13248) = X(i)-isoconjugate-of-X(j) for these {i, j}: {8056, Z29026}, {38266, Z74817}
+
+Y(13248) = X(i)-Ceva conjugate of X(j) for these {i, j}: {648, 145}
+
+Y(13248) = barycentric product X(i)*X(j) for these (i, j): {145, 44409}
+
+Y(13248) = barycentric quotient X(i)/X(j) for these (i, j): {145, Z74817}, {3052, Z29026}, {44409, 4373}
+
+Y(13248) = triaxial point of ABC, the X(2)-circumconcevian triangle of X(145), and the X(3)-circumconcevian triangle of X(145)
+

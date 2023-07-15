@@ -1,0 +1,14 @@
+Y(13069)
+
+(unnamed)
+
+Barycentrics    (5*a^8+4*a^6*(9*b^2-4*c^2)+(b^2-c^2)^3*(5*b^2-c^2)+a^4*(-82*b^4+64*b^2*c^2+18*c^4)+4*a^2*(9*b^6+16*b^4*c^2-23*b^2*c^4-2*c^6))*(5*a^8-4*a^6*(4*b^2-9*c^2)+(b^2-5*c^2)*(b^2-c^2)^3+2*a^4*(9*b^4+32*b^2*c^2-41*c^4)+a^2*(-8*b^6-92*b^4*c^2+64*b^2*c^4+36*c^6))
+
+Let PaPbPc be the Cevian triangle of X(3522), TaTbTc be the triangle formed by the trilinear polars of Pa wrt APbPc, Pb wrt BPcPa, Pc wrt CPaPb. This point is the orthology center of ABC and TaTbTc.
+
+Y(13069) lies on these lines: {550, 51830}, {32824, Z54233}
+
+Y(13069) = intersection, other than A, B, C, of circumconics {{A, B, C, X(4), X(3522)}}, {{A, B, C, X(20), X(15619)}}, {{A, B, C, X(64), X(51348)}}, {{A, B, C, X(253), Z(25889)}}, {{A, B, C, X(523), Z(9759)}}, {{A, B, C, X(550), X(6995)}}, {{A, B, C, X(1593), X(3523)}}, {{A, B, C, X(3091), Z(25083)}}, {{A, B, C, X(13452), Z(6668)}}, {{A, B, C, X(14484), Z(23342)}}, {{A, B, C, X(14528), Z(7483)}}, {{A, B, C, X(17711), Z(24711)}}, {{A, B, C, X(29180), X(32824)}}, {{A, B, C, X(31361), X(38433)}}, {{A, B, C, X(31363), Z(23127)}}, {{A, B, C, X(32710), X(37944)}}, {{A, B, C, X(35512), Z(29642)}}, {{A, B, C, X(37931), X(50691)}}, {{A, B, C, Z(138), Z(3668)}}, {{A, B, C, Z(756), Z(4423)}}, {{A, B, C, Z(883), Z(23139)}}, {{A, B, C, Z(1492), Z(5864)}}, {{A, B, C, Z(2411), Z(24262)}}, {{A, B, C, Z(4406), Z(7243)}}, {{A, B, C, Z(5471), Z(28529)}}, {{A, B, C, Z(5516), Z(27203)}}, {{A, B, C, Z(5727), Z(9539)}}, {{A, B, C, Z(5847), Z(28523)}}, {{A, B, C, Z(5878), Z(8060)}}, {{A, B, C, Z(8088), Z(32431)}}, {{A, B, C, Z(9758), Z(34579)}}
+
+Y(13069) = X(i)-vertex conjugate of X(j) for these {i, j}: {3, 3522}
+

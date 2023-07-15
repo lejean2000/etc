@@ -1,0 +1,14 @@
+Y(13066)
+
+X(1)X(1359)∩X(102)X(1455)
+
+Barycentrics    a*(a^2-b^2-c^2)*(a^8-2*a^6*(b-c)^2+a^7*(-2*b+c)-(b-c)^5*(b+c)^3+2*a^2*(b^2-c^2)^3+a^5*(6*b^3-5*b^2*c-c^3)+2*a^4*c*(-3*b^3+3*b^2*c-b*c^2+c^3)+a*(b^2-c^2)^2*(2*b^3-3*b^2*c+4*b*c^2+c^3)-a^3*(b-c)^2*(6*b^3+5*b^2*c+4*b*c^2+c^3))*(a^8+a^7*(b-2*c)-2*a^6*(b-c)^2+(b-c)^5*(b+c)^3-2*a^2*(b^2-c^2)^3-a^5*(b^3+5*b*c^2-6*c^3)+2*a^4*b*(b^3-b^2*c+3*b*c^2-3*c^3)+a*(b^2-c^2)^2*(b^3+4*b^2*c-3*b*c^2+2*c^3)-a^3*(b-c)^2*(b^3+4*b^2*c+5*b*c^2+6*c^3))
+
+Denote with BT(P, XYZ) the Bobillier transversal line of P=X(3345) wrt XYZ. Consider the triangle A1B1C1 formed by BT(A, BCP), BT(B, ACP), BT(C, ABP). This point is the perspector of A1B1C1 and ABC.
+
+Y(13066) lies on these lines: {1, 1359}, {78, 38554}, {102, 1455}, {165, Z20456}, {223, Z7707}, {282, 5514}, {517, Z34217}, {1433, 53557}, {8059, Z11539}, {Y11264, Z12297}
+
+Y(13066) = intersection, other than A, B, C, of circumconics {{A, B, C, X(1), X(3)}}, {{A, B, C, X(63), X(5923)}}, {{A, B, C, X(68), Y(5498)}}, {{A, B, C, X(104), X(38554)}}, {{A, B, C, X(223), X(15237)}}, {{A, B, C, X(265), X(48359)}}, {{A, B, C, X(271), Z(3661)}}, {{A, B, C, X(521), X(1295)}}, {{A, B, C, X(972), X(2968)}}, {{A, B, C, X(1444), Z(24609)}}, {{A, B, C, X(7053), Z(2245)}}, {{A, B, C, X(39471), Z(34003)}}, {{A, B, C, X(43724), Z(6242)}}, {{A, B, C, Y(7368), Z(25831)}}, {{A, B, C, Z(27248), Z(34531)}}
+
+Y(13066) = X(i)-isoconjugate-of-X(j) for these {i, j}: {3176, Z31963}
+

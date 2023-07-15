@@ -1,0 +1,20 @@
+Y(13163)
+
+X(10)X(521)∩X(484)X(513)
+
+Barycentrics    a*(b-c)*(b+c)*(a^5-a^2*b*c*(b+c)+b*(b-c)^2*c*(b+c)+a*(b+c)^2*(b^2+b*c+c^2)-a^3*(2*b^2+3*b*c+2*c^2))
+
+Y(13163) linear combinations: -3*X[656]+X[51662]
+
+Y(13163) lies on these lines: {10, 521}, {42, 6129}, {210, 4064}, {227, Z35202}, {484, 513}, {518, 21187}, {523, 4524}, {656, 51662}, {3293, 21189}, {3900, 4036}, {4397, 4651}, {8702, 41684}, {11545, 35057}, {14298, Y13126}, {Y12886, Z2059}, {Z23672, Z38304}
+
+Y(13163) = intersection, other than A, B, C, of circumconics {{A, B, C, X(14775), X(50344)}}
+
+Y(13163) = perspector of circumconic {{A, B, C, X(1255), X(40447)}}
+
+Y(13163) = X(i)-Dao conjugate of X(j) for these {i, j}: {8611, 6332}
+
+Y(13163) = X(i)-Ceva conjugate of X(j) for these {i, j}: {653, 37}
+
+Y(13163) = triaxial point of ABC, the X(1)-circumconcevian triangle of X(37), and the X(4)-circumconcevian triangle of X(37)
+

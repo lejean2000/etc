@@ -1,0 +1,16 @@
+Y(13057)
+
+X(2)X(45)∩X(44)X(100)
+
+Barycentrics    a*(a^3-2*b^3-3*b^2*c-3*b*c^2-2*c^3-6*a^2*(b+c)+3*a*(3*b^2+b*c+3*c^2))
+
+Y(13057) lies on these lines: {1, 4752}, {2, 45}, {9, Y1721}, {31, 678}, {44, 100}, {165, 2246}, {244, 16676}, {672, 49712}, {1023, Y11206}, {1054, 36835}, {1320, 52966}, {2108, 51297}, {3246, 33854}, {3315, 16672}, {3744, 16666}, {14191, Z2248}, {16788, Y11207}, {36872, Z35184}, {50115, Z24741}
+
+Y(13057) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2), Z(34452)}}, {{A, B, C, X(31), X(52206)}}, {{A, B, C, X(44), X(545)}}, {{A, B, C, X(88), X(2384)}}, {{A, B, C, X(100), X(34762)}}, {{A, B, C, X(678), X(16594)}}, {{A, B, C, X(903), X(40400)}}, {{A, B, C, X(14191), X(42697)}}
+
+Y(13057) = perspector of circumconic {{A, B, C, X(4555), Z(7109)}}
+
+Y(13057) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {45, 20331, 88}
+
+Y(13057) = perspector of X(44)-circumconcevian triangle of X(88) and X(44)-pedal triangle of X(88)
+

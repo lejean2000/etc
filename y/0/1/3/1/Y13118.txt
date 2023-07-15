@@ -1,0 +1,30 @@
+Y(13118)
+
+X(7)X(3309)∩X(514)X(657)
+
+Barycentrics    (b-c)*(-a+b-c)*(a+b-c)*(-a^4+b*(b-c)^2*c+3*a^3*(b+c)-a^2*(3*b^2+5*b*c+3*c^2)+a*(b^3+b^2*c+b*c^2+c^3))
+
+Y(13118) lies on these lines: {7, 3309}, {279, 4905}, {514, 657}, {885, 43750}, {2533, Z62942}, {3160, 3669}, {3212, Y7315}, {3676, 4105}, {3887, 23599}, {3900, 24002}, {4083, 43930}, {4162, 5543}, {4367, 8638}, {4462, 31994}, {7185, 35355}, {Z1156, Z9963}, {Z23728, Z26963}
+
+Y(13118) = intersection, other than A, B, C, of circumconics {{A, B, C, Y(5720), Z(30142)}}
+
+Y(13118) = reflection of X(i) in X(j) for these {i,j}: {7, Z38291}
+
+Y(13118) = perspector of circumconic {{A, B, C, X(21453), X(23618)}}
+
+Y(13118) = X(i)-isoconjugate-of-X(j) for these {i, j}: {41, Y5653}
+
+Y(13118) = X(i)-Dao conjugate of X(j) for these {i, j}: {3160, Y5653}, {24002, 693}
+
+Y(13118) = X(i)-Ceva conjugate of X(j) for these {i, j}: {100, 7}
+
+Y(13118) = X(i)-anticomplementary conjugate of X(j) for these {i, j}: {Z19644, 37781}
+
+Y(13118) = barycentric product X(i)*X(j) for these (i, j): {1, Y13106}
+
+Y(13118) = barycentric quotient X(i)/X(j) for these (i, j): {7, Y5653}, {Y13106, 75}
+
+Y(13118) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {3309, Z38291, 7}
+
+Y(13118) = triaxial point of ABC, the X(1)-circumconcevian triangle of X(7), and the circumcevian triangle of X(7)
+

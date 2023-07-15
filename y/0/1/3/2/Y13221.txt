@@ -1,0 +1,26 @@
+Y(13221)
+
+X(525)X(3049)∩X(520)X(37085)
+
+Barycentrics    a^4*(b-c)*(b+c)*(a^2-b^2-c^2)*(-a^4+b^4+c^4)^2
+
+Y(13221) lies on these lines: {6, Z26194}, {512, Y12828}, {520, 37085}, {525, 3049}, {648, Z77617}, {1625, 15639}, {2485, 8673}, {3288, Z82858}, {9210, 32320}, {9517, Z34965}, {18314, Z77179}, {20580, 23115}, {30213, 52588}, {32649, 32661}
+
+Y(13221) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2485), X(4580)}}, {{A, B, C, X(10316), Z(24)}}, {{A, B, C, X(18876), Z(8344)}}, {{A, B, C, X(36414), X(52950)}}
+
+Y(13221) = perspector of circumconic {{A, B, C, X(22), X(1799)}}
+
+Y(13221) = X(i)-isoconjugate-of-X(j) for these {i, j}: {162, Z23863}, {1289, Z404}, {2156, Z41861}, {32676, Z67607}
+
+Y(13221) = X(i)-Dao conjugate of X(j) for these {i, j}: {32, 1289}, {125, Z23863}, {127, 43678}, {8673, 525}, {15526, Z67607}
+
+Y(13221) = X(i)-Ceva conjugate of X(j) for these {i, j}: {648, 22}, {Z34950, 3}
+
+Y(13221) = X(i)-anticomplementary conjugate of X(j) for these {i, j}: {Z13735, 21294}
+
+Y(13221) = barycentric product X(i)*X(j) for these (i, j): {22, 8673}, {206, Z35839}, {10316, 33294}, {20806, 2485}, {36414, 525}, {38356, 4611}, {47413, 52915}
+
+Y(13221) = barycentric quotient X(i)/X(j) for these (i, j): {22, Z41861}, {206, 1289}, {525, Z67607}, {647, Z23863}, {2485, 43678}, {4611, Z69398}, {8673, 18018}, {10316, 44766}, {20806, Z36771}, {22075, Z21757}, {33294, Z13054}, {36414, 648}, {38356, Z38301}, {47413, Z82838}, {52915, Z77617}, {Z35839, 40421}
+
+Y(13221) = triaxial point of ABC, the X(2)-circumconcevian triangle of X(22), and the X(3)-circumconcevian triangle of X(22)
+

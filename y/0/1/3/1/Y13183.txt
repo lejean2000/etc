@@ -1,0 +1,16 @@
+Y(13183)
+
+X(9)X(1021)∩X(6)X(2430)
+
+Barycentrics    (a-b-c)*(b-c)*(2*a^4-(b^2-c^2)^2-a^2*(b^2+c^2))*(a^6+a^5*(b+c)+b*c*(b^2-c^2)^2+a^2*(b+c)^2*(b^2+c^2)-a^4*(2*b^2+3*b*c+2*c^2)-2*a^3*(b^3+c^3)+a*(b^5-b^4*c-b*c^4+c^5))
+
+Y(13183) lies on these lines: {6, 2430}, {9, 1021}, {113, 20623}, {223, 7178}, {650, 18591}, {3163, 23980}, {9209, Z28204}, {14298, 50036}
+
+Y(13183) = perspector of circumconic {{A, B, C, X(1294), X(6740)}}
+
+Y(13183) = X(i)-Ceva conjugate of X(j) for these {i, j}: {651, 30}
+
+Y(13183) = X(i)-complementary conjugate of X(j) for these {i, j}: {42, 1650}, {1495, 2968}, {1784, 21252}, {1990, 116}, {2333, Z70297}, {4240, 3741}, {8750, 30}, {14581, 1086}, {23347, 1125}, {24001, 21240}, {32674, 18644}, {32739, 44436}, {52954, 53564}, {52955, 17761}, {Z7812, 18593}, {Z9245, 9033}, {Z19796, 47296}
+
+Y(13183) = triaxial point of ABC, the X(1)-circumconcevian triangle of X(30), and the X(3)-circumconcevian triangle of X(30)
+

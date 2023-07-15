@@ -1,0 +1,24 @@
+Y(13170)
+
+X(520)X(656)∩X(522)X(3465)
+
+Barycentrics    a*(b-c)*(b+c)*(a^2-b^2-c^2)*(a^6+b*c*(b^2-c^2)^2+a^2*(b+c)^2*(b^2+c^2)-a^4*(2*b^2+3*b*c+2*c^2))
+
+Y(13170) lies on these lines: {72, Y13129}, {73, 43701}, {520, 656}, {522, 3465}, {650, Y12915}, {2811, 21831}, {3064, 10397}, {8057, Z23709}, {9007, 51640}
+
+Y(13170) = intersection, other than A, B, C, of circumconics {{A, B, C, X(656), X(43701)}}, {{A, B, C, X(3465), Z(30637)}}, {{A, B, C, X(51664), Y(12910)}}
+
+Y(13170) = perspector of circumconic {{A, B, C, X(1214), X(40435)}}
+
+Y(13170) = X(i)-isoconjugate-of-X(j) for these {i, j}: {28, Z55546}, {286, Z14176}, {905, Z8751}, {22383, Z49318}, {Z16896, Z34768}
+
+Y(13170) = X(i)-Dao conjugate of X(j) for these {i, j}: {16595, 286}, {40591, Z55546}
+
+Y(13170) = X(i)-Ceva conjugate of X(j) for these {i, j}: {653, 71}
+
+Y(13170) = barycentric product X(i)*X(j) for these (i, j): {306, Y12910}, {3998, 54238}, {16595, 1897}, {23683, 71}
+
+Y(13170) = barycentric quotient X(i)/X(j) for these (i, j): {71, Z55546}, {1897, Z49318}, {2200, Z14176}, {8611, Z16896}, {8750, Z8751}, {16595, 4025}, {23683, 44129}, {26888, Z3863}, {54238, Z1014}, {Y12910, 27}
+
+Y(13170) = triaxial point of ABC, the X(1)-circumconcevian triangle of X(71), and the X(4)-circumconcevian triangle of X(71)
+

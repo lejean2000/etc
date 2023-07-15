@@ -1,0 +1,12 @@
+Y(13056)
+
+X(2)X(92)∩X(65)X(17916)
+
+Barycentrics    a*(a+b-c)*(a-b+c)*(b+c)*(a^2+b^2-c^2)*(a^2-b^2+c^2)*(a^4*(b+c)-a^3*(b^2+c^2)-a^2*(b^3+2*b^2*c+2*b*c^2+c^3)+b*c*(b^3+2*b^2*c+2*b*c^2+c^3)+a*(b^4+b^2*c^2+c^4))
+
+Y(13056) lies on these lines: {2, 92}, {37, Z13752}, {65, 17916}, {108, 37675}, {7079, 37558}, {38955, Z18555}
+
+Y(13056) = intersection, other than A, B, C, of circumconics {{A, B, C, X(37), Z(21246)}}, {{A, B, C, X(71), X(17073)}}, {{A, B, C, X(1465), Z(18555)}}, {{A, B, C, X(6708), X(53013)}}
+
+Y(13056) = perspector of X(37)-circumconcevian triangle of X(1214) and X(37)-pedal triangle of X(1214)
+

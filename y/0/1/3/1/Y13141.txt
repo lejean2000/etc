@@ -1,0 +1,22 @@
+Y(13141)
+
+X(654)X(900)∩X(80)X(7727)
+
+Barycentrics    (b-c)*(a^2-a*b+b^2-c^2)*(a^2-b^2-a*c+c^2)*(a^6-a^5*(b+c)+a^4*(-2*b^2+b*c-2*c^2)-b*c*(b^2-c^2)^2+a^2*(b^2+c^2)^2+2*a^3*(b^3+c^3)-a*(b^5-b^4*c+2*b^3*c^2+2*b^2*c^3-b*c^4+c^5))
+
+Y(13141) lies on these lines: {80, 7727}, {523, 12739}, {654, 900}, {1807, 2804}, {2006, 53527}, {3738, Z364}, {10260, 39200}, {51562, Z7995}
+
+Y(13141) = intersection, other than A, B, C, of circumconics {{A, B, C, X(80), X(51506)}}, {{A, B, C, X(53406), Z(14439)}}
+
+Y(13141) = X(i)-isoconjugate-of-X(j) for these {i, j}: {36, Z83514}, {52434, Z83292}
+
+Y(13141) = X(i)-Dao conjugate of X(j) for these {i, j}: {15898, Z83514}, {Z364, 693}
+
+Y(13141) = X(i)-Ceva conjugate of X(j) for these {i, j}: {100, 80}
+
+Y(13141) = barycentric product X(i)*X(j) for these (i, j): {18359, 53406}, {51506, Z364}
+
+Y(13141) = barycentric quotient X(i)/X(j) for these (i, j): {2161, Z83514}, {18359, Z83292}, {51506, 4585}, {53406, 3218}, {Z364, Z81599}, {Z1501, Z34119}
+
+Y(13141) = triaxial point of ABC, the X(1)-circumconcevian triangle of X(80), and the circumcevian triangle of X(80)
+

@@ -1,0 +1,28 @@
+Y(13258)
+
+X(523)X(2075)∩X(525)X(17926)
+
+Barycentrics    (a+b)*(a-b-c)*(b-c)*(a+c)*(a^2+b^2-c^2)*(a^2-b^2+c^2)*(b^5-a^3*b*c-b^3*c^2-b^2*c^3+c^5+a^4*(b+c)+a*b*c*(b+c)^2-a^2*(2*b^3+b^2*c+b*c^2+2*c^3))
+
+Y(13258) lies on these lines: {523, 2075}, {525, 17926}, {648, 32707}, {2804, Z13634}, {2907, 38359}, {3064, 6332}, {4564, Z34262}, {17925, 41083}, {Y13117, Y13256}
+
+Y(13258) = intersection, other than A, B, C, of circumconics {{A, B, C, X(3064), X(32707)}}, {{A, B, C, X(4564), X(45798)}}, {{A, B, C, X(35519), Z(47409)}}
+
+Y(13258) = reflection of X(i) in X(j) for these {i,j}: {46110, 3064}
+
+Y(13258) = perspector of circumconic {{A, B, C, X(44130), Z(51079)}}
+
+Y(13258) = X(i)-isoconjugate-of-X(j) for these {i, j}: {661, Z11834}, {798, Z52824}, {1409, 41906}, {1415, 28788}
+
+Y(13258) = X(i)-Dao conjugate of X(j) for these {i, j}: {1146, 28788}, {3064, 523}, {31998, Z52824}, {36830, Z11834}
+
+Y(13258) = X(i)-Ceva conjugate of X(j) for these {i, j}: {99, 29}
+
+Y(13258) = X(i)-anticomplementary conjugate of X(j) for these {i, j}: {Z278, 13219}
+
+Y(13258) = barycentric product X(i)*X(j) for these (i, j): {29, Z72512}, {264, Y12734}, {274, Y13126}, {314, Y13182}, {522, Z60502}, {20620, 99}, {35519, Z18472}, {44130, Z27907}
+
+Y(13258) = barycentric quotient X(i)/X(j) for these (i, j): {29, 41906}, {99, Z52824}, {110, Z11834}, {522, 28788}, {20620, 523}, {Y12734, 3}, {Y13126, 37}, {Y13182, 65}, {Z18472, 109}, {Z27907, 73}, {Z60502, 664}, {Z72512, 307}
+
+Y(13258) = triaxial point of ABC, the X(2)-circumconcevian triangle of X(29), and the X(6)-circumconcevian triangle of X(29)
+

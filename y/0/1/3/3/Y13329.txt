@@ -1,0 +1,18 @@
+Y(13329)
+
+X(523)X(1112)∩X(647)X(5972)
+
+Barycentrics    (b-c)^3*(b+c)^3*(-a^2+b^2+c^2)*(-a^10-3*a^6*b^2*c^2+2*a^8*(b^2+c^2)+b^2*c^2*(b^2-c^2)^2*(b^2+c^2)+a^4*(-2*b^6+b^4*c^2+b^2*c^4-2*c^6)+a^2*(b^8-b^6*c^2+2*b^4*c^4-b^2*c^6+c^8))
+
+Y(13329) lies on these lines: {125, Z77645}, {523, 1112}, {525, 41673}, {647, 5972}, {826, 32120}, {879, 13198}, {7669, 10117}, {22146, Z4873}, {38356, Z31129}
+
+Y(13329) = reflection of X(i) in X(j) for these {i,j}: {Z25822, 5972}
+
+Y(13329) = perspector of circumconic {{A, B, C, X(46087), Z(12612)}}
+
+Y(13329) = X(i)-Dao conjugate of X(j) for these {i, j}: {Z77645, 850}
+
+Y(13329) = X(i)-Ceva conjugate of X(j) for these {i, j}: {110, 125}
+
+Y(13329) = triaxial point of ABC, the X(3)-circumconcevian triangle of X(125), and the X(6)-circumconcevian triangle of X(125)
+

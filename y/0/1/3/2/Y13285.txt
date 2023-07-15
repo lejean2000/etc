@@ -1,0 +1,26 @@
+Y(13285)
+
+X(241)X(514)∩X(4925)X(8643)
+
+Barycentrics    (3*a-b-c)*(b-c)*(2*a^2-b^2-c^2+a*(b+c))
+
+Y(13285) linear combinations: -1*X[4462]+6*X[14425], 2*X[4504]+3*X[44729], 2*X[4560]+3*X[47788]
+
+Y(13285) lies on these lines: {99, Z49744}, {241, 514}, {1698, 28533}, {2490, 17496}, {4057, 27086}, {4383, Y13268}, {4462, 14425}, {4504, 44729}, {4560, 47788}, {4808, 14419}, {4925, 8643}, {45671, 47678}
+
+Y(13285) = intersection, other than A, B, C, of circumconics {{A, B, C, X(1743), X(16611)}}, {{A, B, C, X(3676), X(4897)}}, {{A, B, C, X(4462), X(43052)}}, {{A, B, C, X(4641), X(16610)}}, {{A, B, C, X(5435), X(35466)}}
+
+Y(13285) = perspector of circumconic {{A, B, C, X(7), X(3879)}}
+
+Y(13285) = X(i)-isoconjugate-of-X(j) for these {i, j}: {1293, Z1521}, {8056, Z1738}, {27834, Z933}, {34080, Z37763}, {38266, Z38519}
+
+Y(13285) = X(i)-Dao conjugate of X(j) for these {i, j}: {14321, 523}, {17058, 6557}, {40621, Z37763}
+
+Y(13285) = X(i)-Ceva conjugate of X(j) for these {i, j}: {99, 145}
+
+Y(13285) = barycentric product X(i)*X(j) for these (i, j): {145, 4897}, {3667, 3879}, {4462, 4641}, {17213, 43290}, {27820, 31182}
+
+Y(13285) = barycentric quotient X(i)/X(j) for these (i, j): {145, Z38519}, {3052, Z1738}, {3667, Z37763}, {3879, 53647}, {4394, Z1521}, {4462, Z38316}, {4641, 27834}, {4897, 4373}, {8643, Z933}, {17213, Z73803}, {27820, Z62786}, {31182, Z59554}, {43290, Z49865}
+
+Y(13285) = triaxial point of ABC, the X(2)-circumconcevian triangle of X(145), and the X(6)-circumconcevian triangle of X(145)
+

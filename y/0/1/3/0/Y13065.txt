@@ -1,0 +1,18 @@
+Y(13065)
+
+X(3)X(1301)∩X(133)X(1249)
+
+Barycentrics    a^2*(a^2+b^2-c^2)*(a^2-b^2+c^2)*(a^8-4*a^6*(b^2+c^2)-4*a^2*(b^2-c^2)^2*(b^2+c^2)+(b^2-c^2)^2*(b^4+6*b^2*c^2+c^4)+a^4*(6*b^4-4*b^2*c^2+6*c^4))*(a^10+a^8*(2*b^2-3*c^2)+2*a^6*(-5*b^4+4*b^2*c^2+c^4)-(b^2-c^2)^3*(2*b^4+5*b^2*c^2+c^4)+2*a^4*(4*b^6+5*b^4*c^2-10*b^2*c^4+c^6)+a^2*(b^8-16*b^6*c^2+10*b^4*c^4+8*b^2*c^6-3*c^8))*(a^10+a^8*(-3*b^2+2*c^2)+2*a^6*(b^4+4*b^2*c^2-5*c^4)+(b^2-c^2)^3*(b^4+5*b^2*c^2+2*c^4)+2*a^4*(b^6-10*b^4*c^2+5*b^2*c^4+4*c^6)+a^2*(-3*b^8+8*b^6*c^2+10*b^4*c^4-16*b^2*c^6+c^8))
+
+Denote with BT(P, XYZ) the Bobillier transversal line of P=X(1498) wrt XYZ. Consider the triangle A1B1C1 formed by BT(A, BCP), BT(B, ACP), BT(C, ABP). Y(13065) is the perspector of A1B1C1 and ABC.
+
+Y(13065) lies on these lines: {3, 1301}, {4, Z27289}, {133, 1249}, {6759, Z21833}, {32000, Z48115}, {38292, Z27151}, {Z651, Z30829}
+
+Y(13065) = intersection, other than A, B, C, of circumconics {{A, B, C, X(3), X(1249)}}, {{A, B, C, X(4), X(41085)}}, {{A, B, C, X(1217), X(6523)}}, {{A, B, C, X(1301), X(6529)}}, {{A, B, C, X(6617), X(6624)}}, {{A, B, C, X(13613), X(15324)}}, {{A, B, C, X(14361), X(36876)}}, {{A, B, C, X(31944), X(38292)}}, {{A, B, C, Z(30242), Z(31084)}}
+
+Y(13065) = X(i)-isoconjugate-of-X(j) for these {i, j}: {15311, 47849}
+
+Y(13065) = barycentric product X(i)*X(j) for these (i, j): {1033, Z48115}, {6617, Z5860}, {14361, 5897}, {41085, Z76405}
+
+Y(13065) = barycentric quotient X(i)/X(j) for these (i, j): {1033, 15311}, {5897, 1032}, {14361, Z39413}, {41085, 46065}, {Z5860, Z40013}, {Z30068, Z27289}, {Z48115, Z35697}, {Z76405, Z71749}
+

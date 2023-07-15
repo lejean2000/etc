@@ -1,0 +1,16 @@
+Y(13271)
+
+X(513)X(1946)∩X(226)X(6002)
+
+Barycentrics    a*(b-c)*(a+b-c)*(a-b+c)*(b+c)*(a^5-3*a^2*b*c*(b+c)-a^3*(2*b^2+b*c+2*c^2)+b*c*(b^3+b^2*c+b*c^2+c^3)+a*(b^4-b^3*c-2*b^2*c^2-b*c^3+c^4))
+
+Y(13271) lies on these lines: {73, 51641}, {225, 54229}, {226, 6002}, {513, 1946}, {525, 7180}, {693, 3669}, {905, Z1508}, {Y13199, Z1514}, {Y13204, Z73704}, {Z19723, Z30634}
+
+Y(13271) = perspector of circumconic {{A, B, C, X(2982), X(31643)}}
+
+Y(13271) = X(i)-Dao conjugate of X(j) for these {i, j}: {Z1508, 523}
+
+Y(13271) = X(i)-Ceva conjugate of X(j) for these {i, j}: {99, 65}
+
+Y(13271) = triaxial point of ABC, the X(2)-circumconcevian triangle of X(65), and the X(6)-circumconcevian triangle of X(65)
+

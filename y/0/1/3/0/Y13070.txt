@@ -1,0 +1,18 @@
+Y(13070)
+
+(unnamed)
+
+Barycentrics    a^8-8*a^6*(b^2+c^2)+(b^2-c^2)^2*(5*b^4+46*b^2*c^2+5*c^4)+2*a^4*(9*b^4-46*b^2*c^2+9*c^4)-16*a^2*(b^6-4*b^4*c^2-4*b^2*c^4+c^6)
+
+Let PaPbPc be the Cevian triangle of X(3522), TaTbTc be the triangle formed by the trilinear polars of Pa wrt APbPc, Pb wrt BPcPa, Pc wrt CPaPb. This point is the isotomic conjugate of the orthology center of ABC and TaTbTc.
+
+Y(13070) lies on these lines: {69, 3146}, {253, Z48394}, {14615, Z81447}, {38434, Z62958}, {40032, Z9757}, {Y4432, Z40365}, {Z21868, Z66783}, {Z60892, Z64322}, {Z64229, Z68995}, {Z68982, Z80823}
+
+Y(13070) = X(i)-isoconjugate-of-X(j) for these {i, j}: {31, Y13069}
+
+Y(13070) = X(i)-Dao conjugate of X(j) for these {i, j}: {2, Y13069}
+
+Y(13070) = barycentric quotient X(i)/X(j) for these (i, j): {2, Y13069}
+
+Y(13070) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {30698, Z37526, 69}
+

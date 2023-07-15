@@ -1,0 +1,22 @@
+Y(13055)
+
+X(2)X(7)∩X(12)X(3294)
+
+Barycentrics    a*(a+b-c)*(a-b+c)*(b+c)*(a^3-2*a^2*(b+c)+3*b*c*(b+c)+a*(b^2+b*c+c^2))
+
+Y(13055) lies on these lines: {2, 7}, {12, 3294}, {37, 4551}, {65, 46196}, {109, 37675}, {210, 21078}, {497, 5816}, {1826, Z10010}, {3293, 20616}, {3730, 10588}, {3731, 40590}, {3985, 6358}, {3986, Z10009}, {4423, Z2637}, {7322, Z21}, {11375, 16552}, {15950, 45751}, {16589, 37558}, {16603, 18785}, {17747, 50036}
+
+Y(13055) = intersection, other than A, B, C, of circumconics {{A, B, C, X(7), X(8543)}}, {{A, B, C, X(37), X(527)}}, {{A, B, C, X(63), Z(10010)}}, {{A, B, C, X(142), X(1826)}}, {{A, B, C, X(210), X(5745)}}, {{A, B, C, X(4551), Z(13862)}}, {{A, B, C, X(8545), Z(10009)}}, {{A, B, C, X(10436), X(18082)}}, {{A, B, C, X(20347), X(30571)}}, {{A, B, C, X(33573), X(36197)}}
+
+Y(13055) = X(i)-isoconjugate-of-X(j) for these {i, j}: {81, Z3818}, {1333, Z41740}, {4560, Z31792}, {7252, Z78345}
+
+Y(13055) = X(i)-Dao conjugate of X(j) for these {i, j}: {37, Z41740}, {40586, Z3818}
+
+Y(13055) = X(i)-Ceva conjugate of X(j) for these {i, j}: {Z60653, 1}
+
+Y(13055) = barycentric product X(i)*X(j) for these (i, j): {10, 8543}, {4551, 48172}
+
+Y(13055) = barycentric quotient X(i)/X(j) for these (i, j): {10, Z41740}, {42, Z3818}, {4551, Z78345}, {8543, 86}, {48172, 18155}, {Z10002, Z31792}
+
+Y(13055) = perspector of X(37)-circumconcevian triangle of X(226) and X(37)-pedal triangle of X(226)
+

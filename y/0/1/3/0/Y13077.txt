@@ -1,0 +1,16 @@
+Y(13077)
+
+X(6)X(31)∩X(198)X(478)
+
+Barycentrics    a^2*(3*a^6-4*a^3*b*c*(b+c)+4*a*b*(b-c)^2*c*(b+c)+(b-c)^4*(b+c)^2+a^4*(-5*b^2+2*b*c-5*c^2)+a^2*(b^4+14*b^2*c^2+c^4))
+
+Y(13077) lies on these lines: {6, 31}, {9, 15905}, {198, 478}, {219, Z34217}, {220, Z35094}, {572, 22124}, {5204, 8607}, {22063, Z29503}, {Z8330, Z33221}
+
+Y(13077) = intersection, other than A, B, C, of circumconics {{A, B, C, X(6), Z(34217)}}
+
+Y(13077) = perspector of circumconic {{A, B, C, X(101), Z(7047)}}
+
+Y(13077) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {2267, Z35095, 6}
+
+Y(13077) = X^2 + Y^2 + XY for X=X(1) and Y=X(40)
+

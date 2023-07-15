@@ -1,0 +1,26 @@
+Y(13225)
+
+X(184)X(669)∩X(512)X(2623)
+
+Barycentrics    a^4*(-(b^6*c^2)+b^2*c^6+a^6*(b^2-c^2)-2*a^4*(b^4-c^4)+a^2*(b^6-c^6))
+
+Y(13225) lies on these lines: {110, Z42051}, {182, 23301}, {184, 669}, {206, Y12806}, {512, 2623}, {520, 8651}, {826, 5027}, {1147, 5926}, {2501, 44077}, {5012, 44445}, {6563, 8723}, {9306, 44451}, {11003, 31299}, {16230, Y12815}, {31279, 43650}, {32320, 34952}, {40146, Z35196}, {43665, Z33427}, {50550, Y12826}, {Y12976, Z4875}
+
+Y(13225) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2623), Z(29609)}}
+
+Y(13225) = midpoint of X(i) and X(j) for these {i,j}: {669, 30451}
+
+Y(13225) = perspector of circumconic {{A, B, C, X(8882), X(32654)}}
+
+Y(13225) = X(i)-isoconjugate-of-X(j) for these {i, j}: {656, Z9437}, {810, Z50040}
+
+Y(13225) = X(i)-Dao conjugate of X(j) for these {i, j}: {3049, 525}, {39062, Z50040}, {40596, Z9437}
+
+Y(13225) = X(i)-Ceva conjugate of X(j) for these {i, j}: {648, 32}, {Z22917, 6}
+
+Y(13225) = barycentric product X(i)*X(j) for these (i, j): {17423, 648}
+
+Y(13225) = barycentric quotient X(i)/X(j) for these (i, j): {112, Z9437}, {648, Z50040}, {17423, 525}
+
+Y(13225) = triaxial point of ABC, the X(2)-circumconcevian triangle of X(32), and the X(3)-circumconcevian triangle of X(32)
+

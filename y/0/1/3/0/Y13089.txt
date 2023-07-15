@@ -1,0 +1,28 @@
+Y(13089)
+
+X(2)X(525)∩X(9)X(1021)
+
+Barycentrics    (a-b-c)*(b-c)*(2*a^4-(b^2-c^2)^2-a^2*(b^2+c^2))*(a^3+2*b^3+b^2*c+b*c^2+2*c^3-2*a^2*(b+c)-a*(b^2+b*c+c^2))
+
+Y(13089) lies on these lines: {2, 525}, {9, 1021}, {37, 16612}, {113, 5513}, {440, 514}, {1213, 3239}, {3163, 4370}, {16590, Y13036}, {35122, 39008}, {47874, 52087}
+
+Y(13089) = intersection, other than A, B, C, of circumconics {{A, B, C, X(9404), Z(27515)}}, {{A, B, C, X(34767), X(53342)}}
+
+Y(13089) = perspector of circumconic {{A, B, C, X(1494), X(6740)}}
+
+Y(13089) = center of circumconic {{A, B, C, X(190), X(49274)}}
+
+Y(13089) = X(i)-isoconjugate-of-X(j) for these {i, j}: {2159, Z83233}, {2349, Z83453}, {Z30179, Z83141}
+
+Y(13089) = X(i)-Dao conjugate of X(j) for these {i, j}: {3163, Z83233}, {6739, Z79431}, {11125, 514}
+
+Y(13089) = X(i)-Ceva conjugate of X(j) for these {i, j}: {190, 30}, {Z23670, Z23664}, {Z40057, 1650}, {Z47408, 9033}
+
+Y(13089) = X(i)-complementary conjugate of X(j) for these {i, j}: {30, 21252}, {213, Z70297}, {228, 1650}, {692, 30}, {1415, 18644}, {1495, 11}, {2173, 116}, {2407, 21240}, {2420, 3739}, {9406, 1086}, {9407, 1015}, {23347, 942}, {32739, 18593}, {42716, 626}, {51420, 53564}, {51654, 17059}, {Z5844, 52601}, {Z7812, 47296}, {Z26936, 3003}, {Z31706, 32223}
+
+Y(13089) = barycentric product X(i)*X(j) for these (i, j): {30, 53342}, {3260, 53249}, {49274, 7359}
+
+Y(13089) = barycentric quotient X(i)/X(j) for these (i, j): {30, Z83233}, {1495, Z83453}, {3260, Z83141}, {7359, Z79431}, {49274, Z40647}, {53249, 74}, {53342, 1494}
+
+Y(13089) = triaxial point of ABC, the X(1)-circumconcevian triangle of X(30), and the X(2)-circumconcevian triangle of X(30)
+

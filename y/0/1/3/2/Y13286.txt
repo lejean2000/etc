@@ -1,0 +1,28 @@
+Y(13286)
+
+X(4)X(924)∩X(186)X(523)
+
+Barycentrics    (b-c)*(b+c)*(-a^2+b^2-c^2)*(a^2+b^2-c^2)*(-a^8+b^2*c^2*(b^2-c^2)^2+3*a^6*(b^2+c^2)-a^4*(3*b^4+5*b^2*c^2+3*c^4)+a^2*(b^6+b^4*c^2+b^2*c^4+c^6))
+
+Y(13286) lies on these lines: {4, 924}, {186, 523}, {450, 2451}, {459, Z35194}, {512, Y12771}, {520, 6761}, {526, 23290}, {648, Z4006}, {687, 47390}, {879, 43710}, {1075, Z21888}, {1249, 2489}, {1510, Y12779}, {2797, 14329}, {3221, 53149}, {3869, Y13276}, {6368, 44427}, {7471, 35360}, {9033, Z31977}, {15422, 30451}, {16230, Y12815}, {18808, Z10219}, {32000, Z37564}, {37943, Y13041}, {47844, Y13232}, {52310, Z26959}, {52675, Y13231}, {Y12768, Y13230}
+
+Y(13286) = intersection, other than A, B, C, of circumconics {{A, B, C, X(4), X(34148)}}, {{A, B, C, X(186), Z(23811)}}, {{A, B, C, X(8795), Z(4006)}}, {{A, B, C, X(15328), X(23286)}}, {{A, B, C, X(15412), Z(256)}}, {{A, B, C, X(19189), X(43710)}}, {{A, B, C, Z(10219), Z(29194)}}
+
+Y(13286) = midpoint of X(i) and X(j) for these {i,j}: {53345, Z256}
+
+Y(13286) = perspector of circumconic {{A, B, C, X(275), X(1105)}}
+
+Y(13286) = X(i)-isoconjugate-of-X(j) for these {i, j}: {4575, Z22321}
+
+Y(13286) = X(i)-Dao conjugate of X(j) for these {i, j}: {136, Z22321}, {14618, 850}, {53577, 5562}
+
+Y(13286) = X(i)-Ceva conjugate of X(j) for these {i, j}: {110, 4}
+
+Y(13286) = barycentric product X(i)*X(j) for these (i, j): {14618, 34148}, {53577, 648}
+
+Y(13286) = barycentric quotient X(i)/X(j) for these (i, j): {2501, Z22321}, {14618, Z65553}, {34148, 4558}, {53577, 525}
+
+Y(13286) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {53345, Z256, 8057}
+
+Y(13286) = triaxial point of ABC, the X(3)-circumconcevian triangle of X(4), and the X(6)-circumconcevian triangle of X(4)
+

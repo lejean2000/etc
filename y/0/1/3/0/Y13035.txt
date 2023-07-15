@@ -1,0 +1,12 @@
+Y(13035)
+
+X(30)X(511)∩X(7482)X(17708)
+
+Barycentrics    (b-c)*(b+c)*(-a^2+b^2+c^2)*(-a^12+2*a^10*(b^2+c^2)+b^2*c^2*(b^4-c^4)^2+a^8*(2*b^4-7*b^2*c^2+2*c^4)+a^6*(-4*b^6+3*b^4*c^2+3*b^2*c^4-4*c^6)+a^2*(b^2-c^2)^2*(2*b^6-b^4*c^2-b^2*c^4+2*c^6)-a^4*(b^8-6*b^6*c^2+8*b^4*c^4-6*b^2*c^6+c^8))
+
+Y(13035) lies on these lines: {2, Z27158}, {30, 511}, {3267, Z52677}, {7482, 17708}, {9140, Z30470}, {10097, Z77645}, {33294, 37855}, {Z40762, Z68917}
+
+Y(13035) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2393), Z(27158)}}
+
+Y(13035) = isotomic conjugate of tripole of line between centroids of cevian triangles of X(2) and X(23)
+

@@ -1,0 +1,32 @@
+Y(13247)
+
+X(39)X(2485)∩X(523)X(2528)
+
+Barycentrics    -((b-c)*(b+c)*(b^2+c^2)*(-a^4+b^4+b^2*c^2+c^4))
+
+Y(13247) linear combinations: -1*X[4580]+2*Z[35837], -1*Y[3062]+2*Z[35839]
+
+Y(13247) lies on these lines: {39, 2485}, {99, Z26404}, {520, 3313}, {523, 2528}, {525, 3050}, {2525, 23285}, {2531, Z39975}, {2799, 20577}, {3267, 8024}, {4580, Z35837}, {9479, 18105}, {14424, Z39976}, {Y3062, Z35839}, {Z64987, Z71869}
+
+Y(13247) = intersection, other than A, B, C, of circumconics {{A, B, C, X(6636), X(8024)}}
+
+Y(13247) = reflection of X(i) in X(j) for these {i,j}: {23285, 2525}, {4580, Z35837}, {Y3062, Z35839}, {Z4794, Z6760}
+
+Y(13247) = perspector of circumconic {{A, B, C, X(1235), X(7768)}}
+
+Y(13247) = X(i)-isoconjugate-of-X(j) for these {i, j}: {83, Z9931}, {251, Z50565}, {661, Z30488}, {798, Z76932}, {3456, 4599}, {15321, 34072}
+
+Y(13247) = X(i)-Dao conjugate of X(j) for these {i, j}: {339, Z40026}, {2525, 525}, {3124, 3456}, {5007, Z20052}, {15449, 15321}, {31998, Z76932}, {36830, Z30488}, {40585, Z50565}, {46654, 251}
+
+Y(13247) = X(i)-Ceva conjugate of X(j) for these {i, j}: {99, 6636}, {648, 141}
+
+Y(13247) = X(i)-anticomplementary conjugate of X(j) for these {i, j}: {41513, 21294}, {Z12495, 3448}, {Z12652, 148}
+
+Y(13247) = barycentric product X(i)*X(j) for these (i, j): {2528, Z47254}, {3005, Z37477}, {7768, 826}, {18076, 38}, {23285, 6636}, {31067, 42052}, {37085, 52568}, {46654, 99}
+
+Y(13247) = barycentric quotient X(i)/X(j) for these (i, j): {38, Z50565}, {99, Z76932}, {110, Z30488}, {826, 15321}, {1964, Z9931}, {2528, 14378}, {3005, 3456}, {6636, 827}, {7768, 4577}, {8024, Z24352}, {14247, Z503}, {18076, 3112}, {23285, Z40026}, {31067, Z72639}, {37085, 46288}, {42052, Z62680}, {46654, 523}, {52568, Z68216}, {Z37477, 689}, {Z47254, 52936}
+
+Y(13247) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {523, Z6760, Z4794}
+
+Y(13247) = triaxial point of ABC, the X(2)-circumconcevian triangle of X(141), and the X(3)-circumconcevian triangle of X(141)
+

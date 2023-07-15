@@ -1,0 +1,14 @@
+Y(13261)
+
+X(484)X(513)∩X(894)X(1577)
+
+Barycentrics    a*(b-c)*(a^2-b^2-b*c-c^2)*(a^3+a*b*c+a^2*(b+c)+2*b*c*(b+c))
+
+Y(13261) lies on these lines: {81, Y13251}, {484, 513}, {826, 35197}, {894, 1577}, {3219, 14838}, {17496, 23875}, {22037, Z12853}, {23883, Z7846}
+
+Y(13261) = perspector of circumconic {{A, B, C, X(1255), Z(12149)}}
+
+Y(13261) = X(i)-Ceva conjugate of X(j) for these {i, j}: {99, 35}
+
+Y(13261) = triaxial point of ABC, the X(2)-circumconcevian triangle of X(35), and the X(6)-circumconcevian triangle of X(35)
+

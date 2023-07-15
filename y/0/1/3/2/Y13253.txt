@@ -1,0 +1,22 @@
+Y(13253)
+
+X(15)X(512)∩X(61)X(523)
+
+Barycentrics    -(a^2*(b-c)*(b+c)*(a^6+b^2*c^2*(-3*b^2-3*c^2+sqrt(-3*a^4-3*(b^2-c^2)^2+6*a^2*(b^2+c^2)))-a^4*(2*b^2+2*c^2+sqrt(-3*a^4-3*(b^2-c^2)^2+6*a^2*(b^2+c^2)))+a^2*(b^4+c^4+c^2*sqrt(-3*a^4-3*(b^2-c^2)^2+6*a^2*(b^2+c^2))+b^2*(c^2+sqrt(-3*a^4-3*(b^2-c^2)^2+6*a^2*(b^2+c^2))))))
+
+Y(13253) lies on these lines: {15, 512}, {16, 39495}, {39, 3050}, {61, 523}, {3105, 46609}, {3107, 8723}, {3171, 38366}, {6138, 11130}, {11127, 23870}, {23871, Z76469}
+
+Y(13253) = perspector of circumconic {{A, B, C, X(6151), Z(35548)}}
+
+Y(13253) = X(i)-isoconjugate-of-X(j) for these {i, j}: {798, Z70013}
+
+Y(13253) = X(i)-Dao conjugate of X(j) for these {i, j}: {6138, 523}, {31998, Z70013}
+
+Y(13253) = X(i)-Ceva conjugate of X(j) for these {i, j}: {99, 16}, {Z35551, 30468}
+
+Y(13253) = barycentric product X(i)*X(j) for these (i, j): {38994, 99}
+
+Y(13253) = barycentric quotient X(i)/X(j) for these (i, j): {99, Z70013}, {38994, 523}
+
+Y(13253) = triaxial point of ABC, the X(2)-circumconcevian triangle of X(16), and the X(6)-circumconcevian triangle of X(16)
+

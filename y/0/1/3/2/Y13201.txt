@@ -1,0 +1,24 @@
+Y(13201)
+
+X(798)X(812)∩X(75)X(21189)
+
+Barycentrics    -(b*(b-c)*c*(a^3*b*c-a*b^2*c^2-a^4*(b+c)+b^2*c^2*(b+c)+a^2*(b^3+c^3)))
+
+Y(13201) lies on these lines: {75, 21189}, {76, 23785}, {798, 812}, {1769, Z60767}, {3733, 4874}, {3835, 21123}, {4391, 21348}, {5224, Z39980}, {15413, Z35666}, {17411, Z38294}, {17420, Z39509}, {18160, Z67301}, {20316, 35519}, {20949, 50330}, {21611, Z1508}, {23794, Z35665}, {Y13182, Z67264}, {Z67255, Z82837}
+
+Y(13201) = intersection, other than A, B, C, of circumconics {{A, B, C, Z(11542), Z(28952)}}
+
+Y(13201) = perspector of circumconic {{A, B, C, X(3112), Z(50062)}}
+
+Y(13201) = X(i)-isoconjugate-of-X(j) for these {i, j}: {32, Y4896}
+
+Y(13201) = X(i)-Dao conjugate of X(j) for these {i, j}: {6376, Y4896}, {35519, 4391}
+
+Y(13201) = X(i)-Ceva conjugate of X(j) for these {i, j}: {651, 75}
+
+Y(13201) = barycentric quotient X(i)/X(j) for these (i, j): {75, Y4896}
+
+Y(13201) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {21189, Z35929, 75}
+
+Y(13201) = triaxial point of ABC, the X(1)-circumconcevian triangle of X(75), and the X(3)-circumconcevian triangle of X(75)
+

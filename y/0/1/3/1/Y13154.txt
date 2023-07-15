@@ -1,0 +1,18 @@
+Y(13154)
+
+X(2)X(30198)∩X(522)X(4318)
+
+Barycentrics    (3*a-b-c)*(b-c)*(a^3-b*c*(b+c)-a*(b^2-5*b*c+c^2))
+
+Y(13154) lies on these lines: {2, 30198}, {145, 51656}, {190, Z10054}, {522, 4318}, {649, 31182}, {3667, 4881}, {4057, 27086}, {4188, 23836}, {4977, Y13095}, {25737, 52923}
+
+Y(13154) = perspector of circumconic {{A, B, C, X(40420), X(41629)}}
+
+Y(13154) = X(i)-Dao conjugate of X(j) for these {i, j}: {4462, 693}
+
+Y(13154) = X(i)-Ceva conjugate of X(j) for these {i, j}: {100, 145}
+
+Y(13154) = X(i)-anticomplementary conjugate of X(j) for these {i, j}: {Z18190, 33650}
+
+Y(13154) = triaxial point of ABC, the X(1)-circumconcevian triangle of X(145), and the circumcevian triangle of X(145)
+

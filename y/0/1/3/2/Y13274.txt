@@ -1,0 +1,20 @@
+Y(13274)
+
+X(693)X(3900)∩X(7178)X(40702)
+
+Barycentrics    b*(b-c)*(a+b-c)*c*(a-b+c)*(a^5+a^3*b*c-2*a^4*(b+c)-b*(b-c)^2*c*(b+c)+a^2*(2*b^3+3*b^2*c+3*b*c^2+2*c^3)-a*(b^4+b^3*c+b*c^3+c^4))
+
+Y(13274) lies on these lines: {331, Y13239}, {348, Z37892}, {693, 3900}, {4564, Z35689}, {6332, 52621}, {7178, 40702}, {20949, Z38295}, {23400, Y12943}, {24002, 47796}, {Y3665, Z55567}, {Z39093, Z69382}
+
+Y(13274) = perspector of circumconic {{A, B, C, X(31618), Z(36291)}}
+
+Y(13274) = X(i)-isoconjugate-of-X(j) for these {i, j}: {2175, Y5652}
+
+Y(13274) = X(i)-Dao conjugate of X(j) for these {i, j}: {4077, 523}, {40593, Y5652}
+
+Y(13274) = X(i)-Ceva conjugate of X(j) for these {i, j}: {99, 85}
+
+Y(13274) = barycentric quotient X(i)/X(j) for these (i, j): {85, Y5652}
+
+Y(13274) = triaxial point of ABC, the X(2)-circumconcevian triangle of X(85), and the X(6)-circumconcevian triangle of X(85)
+

@@ -1,0 +1,24 @@
+Y(13121)
+
+X(21)X(522)∩X(661)X(1021)
+
+Barycentrics    a*(a+b)*(a-b-c)*(b-c)*(a+c)*(a^3-3*b*c*(b+c)-a*(b^2+b*c+c^2))
+
+Y(13121) lies on these lines: {21, 522}, {81, 21173}, {523, 1325}, {661, 1021}, {1014, 16755}, {1817, 27486}, {3737, 4041}, {4228, 48239}, {4777, Y12705}, {7253, 15776}, {13588, 48242}, {14005, 48243}, {17418, Z12853}, {17551, 48228}, {17557, 48173}, {21225, Y9998}, {28183, 42741}, {47318, Z10037}, {Y13119, Z38300}
+
+Y(13121) = intersection, other than A, B, C, of circumconics {{A, B, C, X(21), X(5260)}}, {{A, B, C, X(4581), X(50346)}}
+
+Y(13121) = perspector of circumconic {{A, B, C, X(14534), X(40430)}}
+
+Y(13121) = X(i)-isoconjugate-of-X(j) for these {i, j}: {65, Z33134}, {649, Z71376}, {1402, Z80484}, {4551, Z1999}, {7178, Z14621}, {7180, Z56032}, {Z10002, Z38838}
+
+Y(13121) = X(i)-Dao conjugate of X(j) for these {i, j}: {4560, 693}, {5375, Z71376}, {40602, Z33134}, {40605, Z80484}, {40625, Z38838}
+
+Y(13121) = X(i)-Ceva conjugate of X(j) for these {i, j}: {100, 21}
+
+Y(13121) = barycentric product X(i)*X(j) for these (i, j): {100, 40625}, {333, 50346}, {4560, 5260}, {24224, 643}
+
+Y(13121) = barycentric quotient X(i)/X(j) for these (i, j): {100, Z71376}, {284, Z33134}, {333, Z80484}, {643, Z56032}, {692, Z27051}, {4560, Z38838}, {5260, 4552}, {7252, Z1999}, {24224, 4077}, {40625, 693}, {50346, 226}, {Z1087, Z14621}
+
+Y(13121) = triaxial point of ABC, the X(1)-circumconcevian triangle of X(21), and the circumcevian triangle of X(21)
+

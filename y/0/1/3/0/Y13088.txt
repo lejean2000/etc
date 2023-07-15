@@ -1,0 +1,22 @@
+Y(13088)
+
+X(81)X(693)∩X(448)X(525)
+
+Barycentrics    a*(a+b)*(a-b-c)*(b-c)*(a+c)*(a^4-a^3*(b+c)+a*(b-c)^2*(b+c)-b*c*(b+c)^2-a^2*(b^2+b*c+c^2))
+
+Y(13088) lies on these lines: {21, Z1506}, {81, 693}, {190, Z56043}, {448, 525}, {650, 2287}, {661, 1021}, {3287, 3700}, {6332, Z12853}, {17494, 40571}, {23617, 40582}, {47729, Z34788}, {Y12912, Z20446}
+
+Y(13088) = perspector of circumconic {{A, B, C, X(40412), X(40430)}}
+
+Y(13088) = X(i)-isoconjugate-of-X(j) for these {i, j}: {7178, Z14632}, {7180, Z56043}
+
+Y(13088) = X(i)-Dao conjugate of X(j) for these {i, j}: {3737, 514}
+
+Y(13088) = X(i)-Ceva conjugate of X(j) for these {i, j}: {190, 21}
+
+Y(13088) = barycentric product X(i)*X(j) for these (i, j): {24235, 643}
+
+Y(13088) = barycentric quotient X(i)/X(j) for these (i, j): {643, Z56043}, {24235, 4077}, {Z1087, Z14632}
+
+Y(13088) = triaxial point of ABC, the X(1)-circumconcevian triangle of X(21), and the X(2)-circumconcevian triangle of X(21)
+

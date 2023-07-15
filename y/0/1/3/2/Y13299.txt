@@ -1,0 +1,26 @@
+Y(13299)
+
+X(42)X(810)∩X(10)X(3907)
+
+Barycentrics    a*(b-c)*(b+c)*(a^4+a^3*(b+c)-b*c*(b+c)^2-a^2*(b^2+b*c+c^2)-a*(b^3+b^2*c+b*c^2+c^3))
+
+Y(13299) lies on these lines: {10, 3907}, {37, 42653}, {42, 810}, {191, Y13261}, {521, 34975}, {647, 48395}, {650, 667}, {788, 50504}, {905, 2533}, {3743, Y13251}, {4036, 48181}, {4560, 26115}, {4651, 21300}, {4824, 47965}, {4983, 21894}, {8043, 38469}, {9508, 22320}, {16751, 47836}, {17166, 24900}, {17734, 31947}, {17989, 42661}, {21727, 23655}, {21789, 52139}, {27648, 47814}, {29232, 52326}, {40978, Y13228}, {47956, 50489}, {50487, 50501}
+
+Y(13299) = midpoint of X(i) and X(j) for these {i,j}: {4705, 7234}, {810, 4041}
+
+Y(13299) = perspector of circumconic {{A, B, C, X(2250), X(2298)}}
+
+Y(13299) = X(i)-isoconjugate-of-X(j) for these {i, j}: {163, Z69894}, {662, Z25832}
+
+Y(13299) = X(i)-Dao conjugate of X(j) for these {i, j}: {115, Z69894}, {1084, Z25832}, {4036, 850}
+
+Y(13299) = X(i)-Ceva conjugate of X(j) for these {i, j}: {110, 37}
+
+Y(13299) = barycentric product X(i)*X(j) for these (i, j): {38871, 523}
+
+Y(13299) = barycentric quotient X(i)/X(j) for these (i, j): {512, Z25832}, {523, Z69894}, {38871, 99}
+
+Y(13299) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {4705, 7234, 8678}
+
+Y(13299) = triaxial point of ABC, the X(3)-circumconcevian triangle of X(37), and the X(6)-circumconcevian triangle of X(37)
+

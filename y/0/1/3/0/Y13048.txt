@@ -1,0 +1,14 @@
+Y(13048)
+
+X(2)X(52591)∩X(512)X(9147)
+
+Barycentrics    -((b-c)*(b+c)*(b^4*c^4-2*a^6*(b^2+c^2)+3*a^2*b^2*c^2*(b^2+c^2)+a^4*(2*b^4+5*b^2*c^2+2*c^4)))
+
+Y(13048) lies on these lines: {2, 52591}, {512, 9147}, {826, 7757}, {3267, 7799}, {7786, Z73869}, {9494, 18105}, {12150, Z27707}, {35146, 43094}, {43098, Z581}
+
+Y(13048) = reflection of X(i) in X(j) for these {i,j}: {2, 52591}, {52618, 2}
+
+Y(13048) = perspector of circumconic {{A, B, C, X(34384), Z(42552)}}
+
+Y(13048) = isotomic conjugate of tripole of line between centroids of cevian triangles of X(4) and X(76)
+

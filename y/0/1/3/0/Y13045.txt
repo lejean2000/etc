@@ -1,0 +1,12 @@
+Y(13045)
+
+X(3267)X(7799)∩X(7809)X(23285)
+
+Barycentrics    b^2*(b-c)*c^2*(b+c)*(a^6+2*a^4*(b^2+c^2)-3*b^2*c^2*(b^2+c^2)-a^2*(3*b^4+5*b^2*c^2+3*c^4))
+
+Y(13045) lies on these lines: {2, Z66600}, {3267, 7799}, {7757, Y13037}, {7809, 23285}, {25423, Z44607}, {43665, Z38879}, {44173, Y13034}, {53196, Z7053}, {Y13032, Z22831}, {Y13042, Z58481}, {Z41023, Z82578}
+
+Y(13045) = perspector of circumconic {{A, B, C, X(34384), Z(44195)}}
+
+Y(13045) = isotomic conjugate of tripole of line between centroids of cevian triangles of X(4) and X(6)
+

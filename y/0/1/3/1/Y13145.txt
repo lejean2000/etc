@@ -1,0 +1,22 @@
+Y(13145)
+
+X(88)X(1022)∩X(513)X(9326)
+
+Barycentrics    a*(a+b-2*c)*(b-c)*(a-2*b+c)*(7*a^2+4*b^2-b*c+4*c^2-7*a*(b+c))
+
+Y(13145) lies on these lines: {88, 1022}, {100, Y5342}, {513, 9326}, {3315, 14421}, {4491, 23352}, {4893, Z26962}, {4945, 21297}, {6548, 44902}, {21786, Z1748}, {23345, Y12969}, {40594, 47777}
+
+Y(13145) = intersection, other than A, B, C, of circumconics {{A, B, C, X(88), Z(9459)}}, {{A, B, C, X(1022), X(44009)}}
+
+Y(13145) = X(i)-isoconjugate-of-X(j) for these {i, j}: {44, Y5342}, {519, Z28733}, {902, Z74483}
+
+Y(13145) = X(i)-Dao conjugate of X(j) for these {i, j}: {6548, 693}, {40594, Z74483}, {40595, Y5342}
+
+Y(13145) = X(i)-Ceva conjugate of X(j) for these {i, j}: {100, 88}
+
+Y(13145) = barycentric product X(i)*X(j) for these (i, j): {44009, 88}
+
+Y(13145) = barycentric quotient X(i)/X(j) for these (i, j): {88, Z74483}, {106, Y5342}, {9456, Z28733}, {44009, 4358}
+
+Y(13145) = triaxial point of ABC, the X(1)-circumconcevian triangle of X(88), and the circumcevian triangle of X(88)
+

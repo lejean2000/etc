@@ -1,0 +1,22 @@
+Y(13044)
+
+X(2)X(15414)∩X(3267)X(14638)
+
+Barycentrics    -(b^2*(b-c)*c^2*(b+c)*(-2*a^8+5*a^6*(b^2+c^2)-a^2*(b^2-c^2)^2*(b^2+c^2)+(b^2-c^2)^2*(b^4+c^4)-a^4*(3*b^4+4*b^2*c^2+3*c^4)))
+
+Y(13044) lies on these lines: {2, 15414}, {317, Z11839}, {520, Z74235}, {3267, 14638}, {8057, Z37028}, {14618, Z39973}, {18314, Y13032}, {23290, 42331}, {33294, Z36979}, {35522, Z75211}, {41079, Z64183}, {45198, Z82709}, {Z35632, Z65683}, {Z36730, Z52558}, {Z47232, Z48811}, {Z48810, Z64211}
+
+Y(13044) = perspector of circumconic {{A, B, C, X(41530), Z(551)}}
+
+Y(13044) = X(i)-isoconjugate-of-X(j) for these {i, j}: {15319, Z12136}
+
+Y(13044) = X(i)-Dao conjugate of X(j) for these {i, j}: {36901, 15319}
+
+Y(13044) = X(i)-reciprocal conjugate of X(j) for these {i, j}: {850, 15319}, {10282, 1576}, {44173, Z43337}, {Z48121, 110}, {Z66586, Z21836}
+
+Y(13044) = barycentric product X(i)*X(j) for these (i, j): {850, Z48121}, {10282, 44173}
+
+Y(13044) = barycentric quotient X(i)/X(j) for these (i, j): {850, 15319}, {10282, 1576}, {44173, Z43337}, {Z48121, 110}, {Z66586, Z21836}
+
+Y(13044) = isotomic conjugate of tripole of line between centroids of cevian triangles of X(3) and X(20)
+

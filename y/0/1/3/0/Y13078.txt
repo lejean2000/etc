@@ -1,0 +1,14 @@
+Y(13078)
+
+X(6)X(692)∩X(101)X(16483)
+
+Barycentrics    a^2*(4*a^4+b^4+3*a^2*(b-c)^2-2*b^3*c+6*b^2*c^2-2*b*c^3+c^4-2*a^3*(b+c)-2*a*(b^3+c^3))
+
+Y(13078) lies on these lines: {6, 692}, {101, 16483}, {106, Z18862}, {902, 6184}, {1015, 21764}, {1017, 3230}, {2112, 5008}, {Z2039, Z27302}, {Z9332, Z9334}
+
+Y(13078) = intersection, other than A, B, C, of circumconics {{A, B, C, X(1438), Z(15204)}}, {{A, B, C, Z(675), Z(19855)}}
+
+Y(13078) = perspector of circumconic {{A, B, C, X(919), Z(20116)}}
+
+Y(13078) = X^2 + Y^2 + XY for X=X(1) and Y=X(44)
+

@@ -1,0 +1,20 @@
+Y(13319)
+
+X(75)X(44173)∩X(814)X(7255)
+
+Barycentrics    b*c*(-(b^5*c^3)+b^3*c^5+a^5*(b^3-c^3)+a^3*(-b^5+c^5))
+
+Y(13319) lies on these lines: {75, 44173}, {814, 7255}, {1577, 21763}, {1909, 16754}, {6373, 7199}, {6376, Z35688}, {20948, 21259}, {23145, Y13201}, {Z9953, Z37671}
+
+Y(13319) = perspector of circumconic {{A, B, C, X(38810), Z(37939)}}
+
+Y(13319) = X(i)-isoconjugate-of-X(j) for these {i, j}: {32, Y5443}
+
+Y(13319) = X(i)-Dao conjugate of X(j) for these {i, j}: {6376, Y5443}, {20948, 850}
+
+Y(13319) = X(i)-Ceva conjugate of X(j) for these {i, j}: {110, 75}
+
+Y(13319) = barycentric quotient X(i)/X(j) for these (i, j): {75, Y5443}
+
+Y(13319) = triaxial point of ABC, the X(3)-circumconcevian triangle of X(75), and the X(6)-circumconcevian triangle of X(75)
+
