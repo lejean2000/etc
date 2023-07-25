@@ -1,0 +1,18 @@
+Y(50)
+
+(unnamed)
+
+Barycentrics    a*(a^6*(b^2-2*c^2)-2*b^2*c^2*(b^2-c^2)^2+a^4*(-2*b^4+2*b^2*c^2+4*c^4)+a^2*(b^6+2*b^4*c^2-b^2*c^4-2*c^6))*(2*b^2*c^2*(b^2-c^2)^2+a^6*(2*b^2-c^2)-2*a^4*(2*b^4+b^2*c^2-c^4)+a^2*(2*b^6+b^4*c^2-2*b^2*c^4-c^6))
+
+Y(50) lies on these lines: {2173, Z33970}, {3682, Y10}, {3990, Z31079}
+
+Y(50) = intersection, other than A, B, C, of circumconics {{A, B, C, X(1), X(48)}}, {{A, B, C, X(31), X(2616)}}, {{A, B, C, X(92), X(656)}}, {{A, B, C, X(1821), Y(27)}}, {{A, B, C, X(1953), X(9255)}}, {{A, B, C, X(2173), Y(71)}}, {{A, B, C, X(2635), Y(19)}}, {{A, B, C, X(24297), Z(10719)}}
+
+Y(50) = X(i)-isoconjugate-of-X(j) for these {i, j}: {2, Y11305}, {6, 47383}
+
+Y(50) = X(i)-Dao conjugate of X(j) for these {i, j}: {9, 47383}, {32664, Y11305}
+
+Y(50) = barycentric product X(i)*X(j) for these (i, j): {1, Y10}, {75, Z31079}
+
+Y(50) = barycentric quotient X(i)/X(j) for these (i, j): {1, 47383}, {31, Y11305}, {Y10, 75}, {Z31079, 1}
+

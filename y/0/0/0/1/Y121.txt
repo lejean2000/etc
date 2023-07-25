@@ -1,0 +1,14 @@
+Y(121)
+
+Barycentrics    a*(2*a^5+2*b^5+a^4*(2*b-3*c)-3*b^4*c+2*b*c^4-c^5+2*a^3*b*(-2*b+c)+2*a^2*b^2*(-2*b+c)+2*a*(b^4+b^3*c-3*b*c^3+c^4))*(2*a^5-b^5+2*b^4*c+2*a^3*(b-2*c)*c+2*a^2*(b-2*c)*c^2-3*b*c^4+2*c^5+a^4*(-3*b+2*c)+2*a*(b^4-3*b^3*c+b*c^3+c^4))
+
+Y(121) lies on these lines: 
+
+Y(121) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2), X(7045)}}, {{A, B, C, X(19), Z(18012)}}, {{A, B, C, X(27), X(21508)}}, {{A, B, C, X(33), X(81)}}, {{A, B, C, X(57), X(9442)}}, {{A, B, C, X(89), Z(569)}}, {{A, B, C, X(14953), X(37295)}}, {{A, B, C, X(34018), Z(2303)}}, {{A, B, C, X(34919), Z(23775)}}, {{A, B, C, X(39721), Z(2069)}}, {{A, B, C, Y(4960), Z(11584)}}, {{A, B, C, Z(9358), Z(9722)}}
+
+Y(121) = trilinear pole of line {Y12737, Y12945}
+
+Y(121) = barycentric product X(i)*X(j) for these (i, j): {92, Y6544}
+
+Y(121) = barycentric quotient X(i)/X(j) for these (i, j): {Y6544, 63}
+

@@ -1,0 +1,20 @@
+Y(13337) = X(1)X(104)∩X(55)X(947)
+
+Barycentrics    a^2*(a^8-a^7*(b+c)+a*(b-c)^4*(b+c)^3+b*(b-c)^2*c*(b+c)^4+a^6*(-3*b^2+5*b*c-3*c^2)-a^2*(b-c)^4*(b^2+b*c+c^2)+a^5*(3*b^3+b^2*c+b*c^2+3*c^3)-a^3*(b-c)^2*(3*b^3+5*b^2*c+5*b*c^2+3*c^3)+a^4*(3*b^4-9*b^3*c+4*b^2*c^2-9*b*c^3+3*c^4))
+
+Y(13337) lies on these lines: {1, 104}, {47, 1728}, {55, 947}, {221, 18237}, {580, 1771}, {960, 46974}, {963, 51476}, {1167, 1376}, {1777, 7952}, {1935, 51375}, {2192, 12330}, {2328, Z3017}, {7079, 36049}, {10944, 18339}, {11109, 36037}, {15622, Z1353}, {38674, Y11394}
+
+Y(13337) = intersection, other than A, B, C, of circumconics {{A, B, C, X(104), X(38870)}}, {{A, B, C, X(947), X(15501)}}
+
+Y(13337) = X(i)-isoconjugate-of-X(j) for these {i, j}: {4, Z25831}, {25, Z69893}
+
+Y(13337) = X(i)-Dao conjugate of X(j) for these {i, j}: {6505, Z69893}, {36033, Z25831}
+
+Y(13337) = barycentric product X(i)*X(j) for these (i, j): {38870, 63}
+
+Y(13337) = barycentric quotient X(i)/X(j) for these (i, j): {48, Z25831}, {63, Z69893}, {38870, 92}
+
+Y(13337) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {55, 7335, 947}
+
+Y(13337) = crosssum of incircle intercepts of tripolar of isotomic conjugate of  X(63)
+

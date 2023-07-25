@@ -1,0 +1,12 @@
+Y(150)
+
+Barycentrics    (a^7*b-a^6*c^2+a*b^2*c*(b+c)^2*(b^2+2*b*c-3*c^2)+b*c^3*(b^2-c^2)^2-a^5*b*(2*b^2+3*b*c+2*c^2)-a^2*c*(b+c)^2*(-4*b^3+3*b^2*c+c^3)+a^4*c*(-4*b^3-4*b^2*c+b*c^2+2*c^3)+a^3*b*(b^4+2*b^3*c-2*b^2*c^2-2*b*c^3+c^4))*(-(a^6*b^2)+a^7*c+b^3*c*(b^2-c^2)^2-a*b*c^2*(b+c)^2*(3*b^2-2*b*c-c^2)-a^5*c*(2*b^2+3*b*c+2*c^2)+a^4*b*(2*b^3+b^2*c-4*b*c^2-4*c^3)-a^2*b*(b+c)^2*(b^3+3*b*c^2-4*c^3)+a^3*c*(b^4-2*b^3*c-2*b^2*c^2+2*b*c^3+c^4))
+
+Y(150) lies on these lines: 
+
+Y(150) = intersection, other than A, B, C, of circumconics {{A, B, C, X(57), Y(2266)}}, {{A, B, C, X(71), X(81)}}, {{A, B, C, X(189), X(1821)}}, {{A, B, C, X(1903), Z(28190)}}, {{A, B, C, X(2221), Z(16297)}}, {{A, B, C, X(14621), X(37142)}}, {{A, B, C, X(40395), Z(295)}}, {{A, B, C, Z(438), Z(18130)}}
+
+Y(150) = barycentric product X(i)*X(j) for these (i, j): {1, Y4454}
+
+Y(150) = barycentric quotient X(i)/X(j) for these (i, j): {Y4454, 75}
+

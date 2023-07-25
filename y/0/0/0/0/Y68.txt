@@ -1,0 +1,20 @@
+Y(68)
+
+X(30)X(306)∩X(1)X(52955)
+
+Barycentrics    a*(2*a^6+a^5*(b+c)+a^4*(-2*b^2+b*c+c^2)+a*(b+c)^2*(b^3-b^2*c+5*b*c^2-5*c^3)-2*a^3*(b^3+b^2*c-2*b*c^2-2*c^3)+(b+c)^2*(2*b^4-3*b^3*c+5*b^2*c^2-3*b*c^3-c^4)-2*a^2*(b^4+b^3*c-3*b^2*c^2-2*b*c^3+c^4))*(2*a^6+a^5*(b+c)+a^4*(b^2+b*c-2*c^2)+a^3*(4*b^3+4*b^2*c-2*b*c^2-2*c^3)-a*(b+c)^2*(5*b^3-5*b^2*c+b*c^2-c^3)-(b+c)^2*(b^4+3*b^3*c-5*b^2*c^2+3*b*c^3-2*c^4)-2*a^2*(b^4-2*b^3*c-3*b^2*c^2+b*c^3+c^4))
+
+Y(68) lies on these lines: {1, 52955}, {28, 2349}, {30, 306}, {63, 51420}, {72, 2173}, {513, Z55833}, {1214, 51654}
+
+Y(68) = intersection, other than A, B, C, of circumconics {{A, B, C, X(1), X(63)}}, {{A, B, C, X(28), X(30)}}, {{A, B, C, X(405), Z(1974)}}, {{A, B, C, X(1903), X(39439)}}, {{A, B, C, X(5174), X(17501)}}, {{A, B, C, X(37142), Y(2)}}, {{A, B, C, X(43733), X(54125)}}, {{A, B, C, X(52371), Z(10474)}}, {{A, B, C, Z(747), Z(16298)}}, {{A, B, C, Z(1277), Z(10477)}}, {{A, B, C, Z(7445), Z(10461)}}, {{A, B, C, Z(10387), Z(15241)}}
+
+Y(68) = trilinear pole of line {656, 14399}
+
+Y(68) = X(i)-isoconjugate-of-X(j) for these {i, j}: {6, 31153}, {71, Y11539}
+
+Y(68) = X(i)-Dao conjugate of X(j) for these {i, j}: {9, 31153}
+
+Y(68) = barycentric product X(i)*X(j) for these (i, j): {1, Z62759}, {75, Z20138}
+
+Y(68) = barycentric quotient X(i)/X(j) for these (i, j): {1, 31153}, {28, Y11539}, {Z20138, 1}, {Z62759, 75}
+

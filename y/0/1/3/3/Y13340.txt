@@ -1,0 +1,12 @@
+Y(13340) = X(55)X(6063)∩X(99)X(24264)
+
+Barycentrics    a^6+2*a^4*b*c+b^2*(b-c)^2*c^2-2*a^5*(b+c)+2*a^3*(b^3+c^3)-a^2*(b^4-b^2*c^2+c^4)
+
+Y(13340) lies on these lines: {2, Z40069}, {55, 6063}, {99, 24264}, {666, 14827}, {1621, 2481}, {10030, 15931}, {13577, 18821}, {16588, 40861}, {42697, Z39374}
+
+Y(13340) = X(i)-Ceva conjugate of X(j) for these {i, j}: {Z70033, 666}
+
+Y(13340) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {55, 6063, 40419}, {14827, 21218, 666}
+
+Y(13340) = crosssum of incircle intercepts of tripolar of isotomic conjugate of  X(76)
+

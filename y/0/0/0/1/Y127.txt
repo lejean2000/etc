@@ -1,0 +1,14 @@
+Y(127)
+
+Barycentrics    (a^5*b+b^4*c^2+a^3*b*(b^2+c^2)+2*a^2*b^2*(b^2+c^2)+a^4*(2*b^2+c^2)+a*(b^5+b^3*c^2-b*c^4))*(a^5*c+b^2*c^4+a^3*c*(b^2+c^2)+2*a^2*c^2*(b^2+c^2)+a^4*(b^2+2*c^2)+a*(-(b^4*c)+b^2*c^3+c^5))
+
+Y(127) lies on these lines: 
+
+Y(127) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2), Z(27225)}}, {{A, B, C, X(38), Z(12820)}}, {{A, B, C, X(39), X(81)}}, {{A, B, C, X(57), Y(1231)}}, {{A, B, C, X(1401), Z(12873)}}, {{A, B, C, X(14621), Z(420)}}, {{A, B, C, Z(438), Z(18147)}}, {{A, B, C, Z(8744), Z(14726)}}
+
+Y(127) = trilinear pole of line {Y12740, Y12944}
+
+Y(127) = barycentric product X(i)*X(j) for these (i, j): {1, Y3970}
+
+Y(127) = barycentric quotient X(i)/X(j) for these (i, j): {Y3970, 75}
+

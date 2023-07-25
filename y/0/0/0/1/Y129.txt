@@ -1,0 +1,14 @@
+Y(129)
+
+(unnamed)
+
+Barycentrics    (a^5*c+a*b^2*(b-c)^2*c+b^3*(b-c)^2*c-a^4*(b^2-b*c+2*c^2)+a^3*(2*b^3-2*b^2*c-2*b*c^2+c^3)+a^2*b*(-b^3-2*b^2*c+b*c^2+c^3))*(a^5*b+a*b*(b-c)^2*c^2+b*(b-c)^2*c^3-a^4*(2*b^2-b*c+c^2)+a^2*c*(b^3+b^2*c-2*b*c^2-c^3)+a^3*(b^3-2*b^2*c-2*b*c^2+2*c^3))
+
+Y(129) lies on these lines: {9446, Z26623}, {Y4147, Z42535}
+
+Y(129) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2), X(9446)}}, {{A, B, C, X(27), X(16915)}}, {{A, B, C, X(31), Z(12874)}}, {{A, B, C, X(41), X(81)}}, {{A, B, C, X(55), Z(12821)}}, {{A, B, C, X(57), Y(1564)}}, {{A, B, C, X(2221), Z(16312)}}, {{A, B, C, X(9372), X(14621)}}, {{A, B, C, Z(438), Z(18148)}}, {{A, B, C, Z(8745), Z(14727)}}
+
+Y(129) = barycentric product X(i)*X(j) for these (i, j): {1, Y4147}
+
+Y(129) = barycentric quotient X(i)/X(j) for these (i, j): {Y4147, 75}
+

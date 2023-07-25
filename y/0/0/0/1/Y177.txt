@@ -1,0 +1,10 @@
+Y(177)
+
+Barycentrics    a*(a-b)*(a+b)*(a-c)*(a+b-c)*(a+c)*(a-b+c)*(a^3*b-2*a^2*(b^2-c^2)+2*c^2*(b^2-c^2)+a*(b^3-b*c^2))*(-2*b^4+a^3*c+2*b^2*c^2+2*a^2*(b^2-c^2)+a*(-(b^2*c)+c^3))
+
+Y(177) lies on these lines: 
+
+Y(177) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2), Z(55546)}}, {{A, B, C, X(57), Y(2756)}}, {{A, B, C, X(81), X(107)}}, {{A, B, C, X(100), X(666)}}, {{A, B, C, X(110), X(41206)}}, {{A, B, C, X(648), Z(34260)}}, {{A, B, C, X(653), X(4565)}}, {{A, B, C, X(677), Z(76683)}}, {{A, B, C, X(823), X(46639)}}, {{A, B, C, X(4566), X(37137)}}, {{A, B, C, X(4598), X(29163)}}, {{A, B, C, X(4603), X(4635)}}, {{A, B, C, X(24016), Y(7354)}}
+
+Y(177) = trilinear pole of line {1001, 10571}
+

@@ -1,0 +1,18 @@
+Y(42)
+
+X(38)X(2244)∩X(4156)X(15523)
+
+Barycentrics    a*(2*a^4+2*b^4+3*b^2*c^2-c^4+3*a^2*(b^2+c^2))*(2*a^4-b^4+3*b^2*c^2+2*c^4+3*a^2*(b^2+c^2))
+
+Y(42) lies on these lines: {38, 2244}, {82, Z424}, {896, Z33967}, {3954, Z20153}, {4156, 15523}
+
+Y(42) = intersection, other than A, B, C, of circumconics {{A, B, C, X(1), X(38)}}, {{A, B, C, X(39), Z(30663)}}, {{A, B, C, X(82), X(661)}}, {{A, B, C, X(1964), Z(9917)}}, {{A, B, C, X(9285), X(17469)}}, {{A, B, C, X(43763), Y(35)}}, {{A, B, C, X(46150), Z(3665)}}, {{A, B, C, Z(747), Z(16311)}}, {{A, B, C, Z(15081), Z(20152)}}
+
+Y(42) = X(i)-isoconjugate-of-X(j) for these {i, j}: {6, 31168}, {39, Y11566}
+
+Y(42) = X(i)-Dao conjugate of X(j) for these {i, j}: {9, 31168}
+
+Y(42) = barycentric product X(i)*X(j) for these (i, j): {1, Z62773}, {75, Z20153}
+
+Y(42) = barycentric quotient X(i)/X(j) for these (i, j): {1, 31168}, {82, Y11566}, {Z20153, 1}, {Z62773, 75}
+

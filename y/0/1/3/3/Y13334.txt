@@ -1,0 +1,20 @@
+Y(13334) = X(55)X(7054)∩X(210)X(5546)
+
+Barycentrics    a^2*(a+b)*(a-b-c)*(a+c)*(a^4+a^3*(b+c)-b*c*(b+c)^2-a^2*(b^2+b*c+c^2)-a*(b^3+b^2*c+b*c^2+c^3))
+
+Y(13334) lies on these lines: {55, 7054}, {200, 35192}, {210, 5546}, {1011, 14575}, {1576, 52139}, {2328, 2342}, {4220, 19164}, {4640, Y7427}, {5269, Z28548}, {17126, Z27582}
+
+Y(13334) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2342), Z(27271)}}
+
+Y(13334) = X(i)-isoconjugate-of-X(j) for these {i, j}: {226, Z25832}, {1400, Z69894}
+
+Y(13334) = X(i)-Dao conjugate of X(j) for these {i, j}: {40582, Z69894}
+
+Y(13334) = barycentric product X(i)*X(j) for these (i, j): {21, 38871}, {4612, Y13299}
+
+Y(13334) = barycentric quotient X(i)/X(j) for these (i, j): {21, Z69894}, {2194, Z25832}, {38871, 1441}, {Y13299, Z38302}
+
+Y(13334) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {55, Z22458, Z27271}
+
+Y(13334) = crosssum of incircle intercepts of tripolar of isotomic conjugate of  X(21)
+

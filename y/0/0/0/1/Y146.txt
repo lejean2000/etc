@@ -1,0 +1,20 @@
+Y(146)
+
+X(1211)X(17256)∩X(1829)X(13739)
+
+Barycentrics    a*(a^4+b^4-a^3*c-b^3*c-b^2*c^2-c^4-a*b*c*(2*b+3*c)-a^2*(2*b^2+2*b*c+c^2))*(a^4-a^3*b-b^4-b^2*c^2-b*c^3+c^4-a*b*c*(3*b+2*c)-a^2*(b^2+2*b*c+2*c^2))
+
+Y(146) lies on these lines: {1211, 17256}, {1829, 13739}, {2292, 34772}, {3666, Z74175}
+
+Y(146) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2), X(13739)}}, {{A, B, C, X(42), Z(17930)}}, {{A, B, C, X(57), X(1247)}}, {{A, B, C, X(65), X(81)}}, {{A, B, C, X(89), X(897)}}, {{A, B, C, X(1509), Z(8720)}}, {{A, B, C, X(2221), Z(16295)}}, {{A, B, C, X(2349), X(6625)}}, {{A, B, C, X(3218), X(17494)}}, {{A, B, C, X(14534), Y(4933)}}, {{A, B, C, X(14621), X(37142)}}, {{A, B, C, X(16706), X(32849)}}, {{A, B, C, X(32009), Z(285)}}, {{A, B, C, X(37128), Z(32994)}}, {{A, B, C, X(39273), X(41909)}}, {{A, B, C, X(42467), Z(24654)}}, {{A, B, C, X(54119), Z(12814)}}, {{A, B, C, Z(438), Z(18128)}}, {{A, B, C, Z(1239), Z(8719)}}, {{A, B, C, Z(9305), Z(32967)}}, {{A, B, C, Z(10456), Z(28945)}}, {{A, B, C, Z(14715), Z(16342)}}, {{A, B, C, Z(15749), Z(16485)}}, {{A, B, C, Z(16985), Z(17641)}}
+
+Y(146) = trilinear pole of line {6003, 50330}
+
+Y(146) = X(i)-isoconjugate-of-X(j) for these {i, j}: {9, Y11440}
+
+Y(146) = X(i)-Dao conjugate of X(j) for these {i, j}: {478, Y11440}
+
+Y(146) = barycentric product X(i)*X(j) for these (i, j): {92, Y6663}
+
+Y(146) = barycentric quotient X(i)/X(j) for these (i, j): {56, Y11440}, {Y6663, 63}
+

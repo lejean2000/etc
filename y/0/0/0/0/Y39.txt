@@ -1,0 +1,8 @@
+Y(39)
+
+Barycentrics    a*(a^5*(b-2*c)+a^4*b*c-2*b*c*(b^2-c^2)^2+a^2*b*c*(b^2+3*b*c+c^2)+a^3*(-2*b^3+b^2*c+4*b*c^2+4*c^3)+a*(b^5+b^4*c+4*b^3*c^2+b^2*c^3-5*b*c^4-2*c^5))*(a^5*(2*b-c)-a^4*b*c+2*b*c*(b^2-c^2)^2-a^2*b*c*(b^2+3*b*c+c^2)-a^3*(4*b^3+4*b^2*c+b*c^2-2*c^3)+a*(2*b^5+5*b^4*c-b^3*c^2-4*b^2*c^3-b*c^4-c^5))
+
+Y(39) lies on these lines: 
+
+Y(39) = intersection, other than A, B, C, of circumconics {{A, B, C, X(1), X(35)}}, {{A, B, C, X(36), Z(1308)}}, {{A, B, C, X(79), X(650)}}, {{A, B, C, X(17501), Z(1252)}}, {{A, B, C, X(24624), X(39963)}}, {{A, B, C, X(43680), Y(16)}}, {{A, B, C, Y(81), Z(6847)}}, {{A, B, C, Z(125), Z(24892)}}
+

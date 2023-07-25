@@ -1,0 +1,16 @@
+Y(13335) = X(31)X(24010)∩X(268)X(3052)
+
+Barycentrics    a^2*(a^3+a^2*(b-c)-a*(b-c)^2-(b-c)*(b+c)^2)*(a^3-a*(b-c)^2+a^2*(-b+c)+(b-c)*(b+c)^2)*(a^4+a^3*(b+c)-b*c*(b+c)^2-a^2*(b^2+3*b*c+c^2)-a*(b^3-3*b^2*c-3*b*c^2+c^3))
+
+Y(13335) lies on these lines: {31, 24010}, {268, 3052}, {595, 52389}, {1433, Z5821}, {1497, 3341}, {2192, 51476}, {2357, 51508}, {3744, 52037}, {5255, 39130}, {5264, 40836}
+
+Y(13335) = intersection, other than A, B, C, of circumconics {{A, B, C, X(51476), Z(778)}}
+
+Y(13335) = X(i)-isoconjugate-of-X(j) for these {i, j}: {198, Z69892}, {329, Z25830}, {6129, Y5808}
+
+Y(13335) = barycentric product X(i)*X(j) for these (i, j): {189, Y13330}, {8059, Y13180}, {38869, 84}
+
+Y(13335) = barycentric quotient X(i)/X(j) for these (i, j): {84, Z69892}, {2208, Z25830}, {36049, Y5808}, {38869, 322}, {Y13180, Z41270}, {Y13330, 329}
+
+Y(13335) = crosssum of incircle intercepts of tripolar of isotomic conjugate of  X(40)
+

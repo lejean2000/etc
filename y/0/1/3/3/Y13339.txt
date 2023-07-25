@@ -1,0 +1,20 @@
+Y(13339) = X(1)X(951)∩X(42)X(1783)
+
+Barycentrics    a*(a^2+b^2-c^2)*(a^2-b^2+c^2)*(a^4-3*a^3*(b+c)+b*c*(b+c)^2-a^2*(b^2+b*c+c^2)+3*a*(b^3+b^2*c+b*c^2+c^3))
+
+Y(13339) lies on these lines: {1, 951}, {25, Z1072}, {28, 37573}, {33, 37553}, {42, 1783}, {162, Z22581}, {200, 17916}, {281, Z19707}, {461, 17905}, {1013, 17018}, {1897, 27804}, {1957, 42042}, {3931, 4231}, {5174, Z20446}, {7412, 37529}, {7952, Z979}, {29814, 35994}
+
+Y(13339) = intersection, other than A, B, C, of circumconics {{A, B, C, X(951), Z(777)}}
+
+Y(13339) = X(i)-isoconjugate-of-X(j) for these {i, j}: {3, 30101}, {905, Y5339}
+
+Y(13339) = X(i)-Dao conjugate of X(j) for these {i, j}: {36103, 30101}
+
+Y(13339) = barycentric product X(i)*X(j) for these (i, j): {19, Z61802}, {92, Z19349}
+
+Y(13339) = barycentric quotient X(i)/X(j) for these (i, j): {19, 30101}, {8750, Y5339}, {Z19349, 63}, {Z61802, 304}
+
+Y(13339) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {42, 4183, 1783}
+
+Y(13339) = crosssum of incircle intercepts of tripolar of isotomic conjugate of  X(72)
+

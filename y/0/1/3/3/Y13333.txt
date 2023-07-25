@@ -1,0 +1,22 @@
+Y(13333) = X(100)X(905)∩X(663)X(3939)
+
+Barycentrics    a^2*(a-b)*(a-c)*(a-b-c)*(a^2+2*b^2-3*b*c+2*c^2-a*(b+c))
+
+Y(13333) lies on these lines: {1, Z14443}, {100, 905}, {644, 4162}, {663, 3939}, {4560, 36802}, {5546, 21789}, {Z9135, Z28312}, {Z19718, Z28315}
+
+Y(13333) = intersection, other than A, B, C, of circumconics {{A, B, C, X(644), Z(14443)}}, {{A, B, C, X(3939), Z(28686)}}, {{A, B, C, X(5546), X(32028)}}
+
+Y(13333) = X(i)-isoconjugate-of-X(j) for these {i, j}: {57, Z63575}, {85, Z20787}, {513, 43948}, {3669, 36954}, {3676, Z682}, {24002, Z17173}, {30725, Y5341}, {43924, Z37362}, {53528, Z52368}
+
+Y(13333) = X(i)-Dao conjugate of X(j) for these {i, j}: {5452, Z63575}, {17780, Z35859}, {39026, 43948}
+
+Y(13333) = X(i)-Ceva conjugate of X(j) for these {i, j}: {1318, 5548}
+
+Y(13333) = barycentric product X(i)*X(j) for these (i, j): {101, Z74425}, {190, Z28686}, {3315, 644}, {3699, Z24243}, {20042, 5548}, {27191, 3939}, {32028, 55}
+
+Y(13333) = barycentric quotient X(i)/X(j) for these (i, j): {55, Z63575}, {101, 43948}, {644, Z37362}, {2175, Z20787}, {3315, 24002}, {3939, 36954}, {5548, Z52368}, {20042, Z39095}, {27191, 52621}, {32028, 6063}, {Z14425, Z682}, {Z24243, 3676}, {Z28686, 514}, {Z34975, Z17173}, {Z74425, 3261}
+
+Y(13333) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {663, 3939, 6065}, {663, 6065, 5548}
+
+Y(13333) = crosssum of incircle intercepts of tripolar of isotomic conjugate of  X(11)
+

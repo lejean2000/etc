@@ -1,0 +1,18 @@
+Y(30)
+
+(unnamed)
+
+Barycentrics    a*(a^3*(b-2*c)+2*a^2*b*c-2*b*c*(b^2+c^2)+a*(b^3+2*b^2*c-b*c^2-2*c^3))*(a^3*(2*b-c)-2*a^2*b*c+2*b*c*(b^2+c^2)+a*(2*b^3+b^2*c-2*b*c^2-c^3))
+
+Y(30) lies on these lines: {612, 4670}, {1460, Y6063}
+
+Y(30) = intersection, other than A, B, C, of circumconics {{A, B, C, X(1), X(25)}}, {{A, B, C, X(69), X(2522)}}, {{A, B, C, X(89), X(4670)}}, {{A, B, C, X(899), X(29616)}}, {{A, B, C, X(4373), Z(18153)}}, {{A, B, C, X(7241), X(8047)}}, {{A, B, C, X(10013), Z(1330)}}, {{A, B, C, X(35058), Z(15571)}}, {{A, B, C, X(40406), Z(6140)}}, {{A, B, C, X(51561), Z(9340)}}, {{A, B, C, Y(29), Y(35)}}, {{A, B, C, Z(747), Z(16285)}}, {{A, B, C, Z(1615), Z(16651)}}, {{A, B, C, Z(9349), Z(19064)}}, {{A, B, C, Z(18119), Z(24761)}}, {{A, B, C, Z(18170), Z(18190)}}
+
+Y(30) = X(i)-isoconjugate-of-X(j) for these {i, j}: {2, Y11343}
+
+Y(30) = X(i)-Dao conjugate of X(j) for these {i, j}: {32664, Y11343}
+
+Y(30) = barycentric product X(i)*X(j) for these (i, j): {1, Y2873}, {92, Y6063}
+
+Y(30) = barycentric quotient X(i)/X(j) for these (i, j): {31, Y11343}, {Y2873, 75}, {Y6063, 63}
+

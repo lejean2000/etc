@@ -1,0 +1,14 @@
+Y(84)
+
+X(47)X(897)∩X(91)X(896)
+
+Barycentrics    a*(2*a^6+(b^2-c^2)^2*(2*b^2-c^2)-a^4*(2*b^2+5*c^2)-2*a^2*(b^4-2*c^4))*(2*a^6-(b^2-2*c^2)*(b^2-c^2)^2-a^4*(5*b^2+2*c^2)+a^2*(4*b^4-2*c^4))
+
+Y(84) lies on these lines: {47, 897}, {65, Y6092}, {91, 896}
+
+Y(84) = intersection, other than A, B, C, of circumconics {{A, B, C, X(1), X(10)}}, {{A, B, C, X(47), X(896)}}, {{A, B, C, X(2349), Z(12493)}}, {{A, B, C, X(9255), Z(34382)}}, {{A, B, C, X(52186), Z(10046)}}, {{A, B, C, Z(404), Z(425)}}, {{A, B, C, Z(8869), Z(9163)}}
+
+Y(84) = barycentric product X(i)*X(j) for these (i, j): {92, Y6092}
+
+Y(84) = barycentric quotient X(i)/X(j) for these (i, j): {Y6092, 63}
+

@@ -1,0 +1,18 @@
+Y(46)
+
+X(42)X(2234)∩X(213)X(3231)
+
+Barycentrics    a*(-2*b^2*c^2-3*a*b*c*(b+c)+a^2*(b^2-3*b*c-2*c^2))*(2*b^2*c^2+3*a*b*c*(b+c)+a^2*(2*b^2+3*b*c-c^2))
+
+Y(46) lies on these lines: {42, 2234}, {86, 37132}, {213, 3231}, {899, Z33969}, {2107, 30950}, {4724, Z14446}
+
+Y(46) = intersection, other than A, B, C, of circumconics {{A, B, C, X(1), X(31)}}, {{A, B, C, X(37), X(50520)}}, {{A, B, C, X(81), X(49749)}}, {{A, B, C, X(86), X(649)}}, {{A, B, C, X(89), X(4670)}}, {{A, B, C, X(876), X(30588)}}, {{A, B, C, X(893), X(3720)}}, {{A, B, C, X(896), X(4724)}}, {{A, B, C, X(899), X(4784)}}, {{A, B, C, X(2664), X(30950)}}, {{A, B, C, X(10013), X(30650)}}, {{A, B, C, X(16606), Z(1080)}}, {{A, B, C, X(30712), Z(5650)}}, {{A, B, C, X(40438), Z(14835)}}, {{A, B, C, X(40747), Z(29169)}}, {{A, B, C, Z(747), Z(16289)}}, {{A, B, C, Z(1732), Z(14913)}}, {{A, B, C, Z(1973), Z(29795)}}, {{A, B, C, Z(2222), Z(11079)}}, {{A, B, C, Z(10456), Z(14161)}}, {{A, B, C, Z(15070), Z(30673)}}, {{A, B, C, Z(17769), Z(83449)}}
+
+Y(46) = X(i)-isoconjugate-of-X(j) for these {i, j}: {2, Y11366}
+
+Y(46) = X(i)-Dao conjugate of X(j) for these {i, j}: {32664, Y11366}
+
+Y(46) = barycentric product X(i)*X(j) for these (i, j): {1, Y2886}
+
+Y(46) = barycentric quotient X(i)/X(j) for these (i, j): {31, Y11366}, {Y2886, 75}
+
