@@ -1,17 +1,12 @@
-<h3 id="X4230">X(4230)&nbsp;=&nbsp;INTERSECTION OF LINES X(2)X(3) AND
-X(99)X(107)</h3>
-Barycentrics&nbsp;&nbsp; f(a,b,c) : f(b,c,a) :
-f(c,a,b), where f(a,b,c) = a<sup>2</sup>(b<sup>4</sup> + c<sup>4</sup>
-- a<sup>2</sup>b<sup>2</sup> -
-a<sup>2</sup>c<sup>2</sup>)/[(b<sup>2</sup> -
-c<sup>2</sup>)(b<sup>2</sup> + c<sup>2</sup> - a<sup>2</sup>)]
+<h3 id="X4230">X(4230)&nbsp;=&nbsp;INTERSECTION OF LINES X(2)X(3) AND X(99)X(107)</h3>
+Barycentrics&nbsp;&nbsp; a^2*(a-b)*(a+b)*(a-c)*(a+c)*(a^2+b^2-c^2)*(a^2-b^2+c^2)*(a^2*b^2-b^4+a^2*c^2-c^4) : :
 <p>
-As a point on the Euler line, X(4230) has Shinagawa coefficients ((E + F)(E - 2F)F - 2FS<sup>2</sup>, 2(E + F)<sup>2</sup>F - (E - 2F)S<sup>2</sup>).
+As a point on the Euler line, X(4230) has Shinagawa coefficients ((E + F)(E - 2F)F - 2FS<sup>2</sup>, 2(E + F)<sup>2</sup>F - (E - 2F)S<sup>2</sup>).<br>
+Side intersections of X(3)-pedal triangle of X(1625) and X(3)-antipedal triangle of X(1625) are collinear on a line with tripole X(14592). (Ivan Pavlov, 13 Aug 2023)
 </p>
 <p>
 X(4230) lies on these lines:
-{2, 3}, {99, 107}, {110, 112}, {476, 935}, {648, 1634}, {691, 1304},
-{827, 933}, {877, 2396}, {925, 1289}, {1286, 1288}, {1301, 3565}
+{2, 3}, {99, 107}, {110, 112}, {476, 935}, {648, 1634}, {691, 1304}, {827, 933}, {877, 2396}, {925, 1289}, {1286, 1288}, {1301, 3565}
 </p>
 <p>
 X(4230) = isogonal conjugate of X(879)<br>

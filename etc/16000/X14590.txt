@@ -2,8 +2,9 @@
 Barycentrics &nbsp;&nbsp; a^2*(a - b)*(a + b)*(a - c)*(a + c)*(a^2 + b^2 - c^2)*(a^2 - b^2 - b*c - c^2)*(a^2 - b^2 + b*c - c^2)*(a^2 - b^2 + c^2) : :
 <p>
 X(14590) lies on these lines: {2, 95}, {4, 10414}, {50, 340}, {99, 112}, {250, 4230}, {691, 10098}, {1304, 10420}, {3098, 8541}<br>
-</p>
-<p>
+</p><p>
+Side intersections of X(3)-pedal triangle of X(110) and X(3)-antipedal triangle of X(110) are collinear on a line with tripole X(14590). (Ivan Pavlov, 13 Aug 2023)
+</p><p>
 X(14590) = isogonal conjugate of X(14582)<br>
 X(14590) = isotomic conjugate of X(14592)<br>
 X(14590) = X(687)-Ceva conjugate of X(648)<br>
