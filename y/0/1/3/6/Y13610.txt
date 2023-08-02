@@ -1,16 +1,14 @@
-Y(13610) = X(2)X(3)∩X(17)X(42515)
+Y(13610) = X(76)X(141)∩X(10)X(21803)
 
-Barycentrics    109*a^4-77*(b^2-c^2)^2-32*a^2*(b^2+c^2)
+Barycentrics    (b+c)*(b^2*c^2*(b^2+b*c+c^2)+a^3*(b^3+b^2*c+b*c^2+c^3)+a*b*c*(2*b^3+b^2*c+b*c^2+2*c^3)+a^2*(b^4+b^3*c+3*b^2*c^2+b*c^3+c^4))
 
-Y(13610) linear combinations: -4*X[50866]+Y[13382]
+Y(13610) lies on these lines: {10, 21803}, {76, 141}, {3661, 31023}, {15983, 17499}, {17152, 27040}, {26771, 29593}
 
-Y(13610) lies on these lines: {2, 3}, {17, 42515}, {18, 42514}, {5349, 33605}, {5350, 33604}, {11224, Y13357}, {22236, 43501}, {22238, 43502}, {28232, Y13392}, {28234, Y13378}, {34627, 50870}, {34631, 50869}, {42516, 42973}, {42517, 42972}, {43699, Z8041}, {50865, Y13374}, {50866, Y13382}, {50874, Y13361}, {51029, Z28535}
+Y(13610)  = intersection, other than A, B, C, of circumconics {{A, B, C, X(6385), Z(10015)}}
 
-Y(13610) = intersection, other than A, B, C, of circumconics {{A, B, C, X(15685), X(43699)}}, {{A, B, C, X(37934), Z(25619)}}, {{A, B, C, Z(8041), Z(28554)}}
+Y(13610) = barycentric product X(i)*X(j) for these (i, j): {75, Y13604}
 
-Y(13610) = reflection of X(i) in X(j) for these {i,j}: {10304, 3843}, {15692, 14269}, {17538, 3545}
+Y(13610) = barycentric quotient X(i)/X(j) for these (i, j): {Y13604, 1}
 
-Y(13610) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {30, 14269, 15692}, {30, 3545, 17538}, {30, 3843, 10304}, {382, 15683, 15682}, {382, 3627, 3523}, {3522, 5079, 631}, {3830, 15684, 5079}, {3839, 5055, 3855}, {5055, 15716, 11539}, {14890, 15710, 3524}, {15682, 17578, 5071}, {15697, 17578, 15687}
-
-Y(13610) = Orthology center of { (1-t)*A+t*G, ...} and ABC for t=-16/15
+Y(13610) = perspector of the cross-cevian triangle of X(76) and X(10) and the X(10)-circumconcevian triangle of X(76)
 

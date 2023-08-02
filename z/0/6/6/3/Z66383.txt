@@ -1,0 +1,20 @@
+Z(66383)
+
+(unnamed)
+
+Barycentrics    (-2*a^3+(b-c)^2*(b+c)+a*(b^2+c^2))^(-2)
+
+Z(66383) lies on these lines: {17768, 35141}, {Z23003, Z73596}
+
+Z(66383) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2), X(17768)}}, {{A, B, C, X(75), X(4590)}}, {{A, B, C, X(335), Z(23345)}}, {{A, B, C, X(1016), X(32018)}}, {{A, B, C, X(1268), X(1275)}}, {{A, B, C, X(18160), Z(7410)}}, {{A, B, C, X(47318), Z(26403)}}
+
+Z(66383) = X(i)-isoconjugate-of-X(j) for these {i, j}: {31, 35066}
+
+Z(66383) = X(i)-Dao conjugate of X(j) for these {i, j}: {2, 35066}
+
+Z(66383) = X(i)-cross conjugate of X(j) for these {i, j}: {2, 35141}
+
+Z(66383) = barycentric product X(i)*X(j) for these (i, j): {76, Z23003}, {35141, 35141}
+
+Z(66383) = barycentric quotient X(i)/X(j) for these (i, j): {2, 35066}, {28471, Z23062}, {35141, 17768}, {Z23003, 6}
+

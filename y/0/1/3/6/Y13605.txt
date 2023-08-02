@@ -1,14 +1,20 @@
-Y(13605) = X(2)X(3)∩X(4701)X(50870)
+Y(13605) = X(75)X(158)∩X(63)X(2148)
 
-Barycentrics    155*a^4-109*(b^2-c^2)^2-46*a^2*(b^2+c^2)
+Barycentrics    a*(a^2-b^2-c^2)*(a^6*(b^2+c^2)+3*a^2*(b^2-c^2)^2*(b^2+c^2)-(b^2-c^2)^2*(b^4-b^2*c^2+c^4)-a^4*(3*b^4+b^2*c^2+3*c^4))
 
-Y(13605) lies on these lines: {2, 3}, {4701, 50870}, {8972, 43258}, {13941, 43259}, {35510, Z48466}, {36836, 54581}, {36843, 54580}, {48884, 51178}, {51213, Z28535}, {Z48479, Z66687}
+Y(13605) lies on these lines: {63, 2148}, {75, 158}, {255, Z37120}, {307, Z40294}, {24031, Z74215}
 
-Y(13605) = intersection, other than A, B, C, of circumconics {{A, B, C, X(15691), X(35510)}}
+Y(13605) = perspector of circumconic {{A, B, C, Z(35581), Z(36885)}}
 
-Y(13605) = reflection of X(i) in X(j) for these {i,j}: {15689, 3857}, {15698, 14269}
+Y(13605) = X(i)-isoconjugate-of-X(j) for these {i, j}: {25, Z731}, {1974, Z37565}
 
-Y(13605) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {2, 5059, 15691}, {30, 14269, 15698}, {30, 3857, 15689}, {382, 15686, 15682}, {3522, 5054, 15705}, {3627, 10124, 3830}
+Y(13605) = X(i)-Dao conjugate of X(j) for these {i, j}: {6505, Z731}
 
-Y(13605) = Orthology center of { (1-t)*A+t*G, ...} and ABC for t=-23/21
+Y(13605)  = intersection, other than A, B, C, of circumconics {{A, B, C, X(158), X(2148)}}, {{A, B, C, X(1969), Z(407)}}, {{A, B, C, X(2167), Z(34819)}}, {{A, B, C, X(4100), X(44706)}}, {{A, B, C, Z(1069), Z(12170)}}
+
+Y(13605) = barycentric product X(i)*X(j) for these (i, j): {75, Y13506}, {304, 3567}
+
+Y(13605) = barycentric quotient X(i)/X(j) for these (i, j): {63, Z731}, {304, Z37565}, {3567, 19}, {Y13506, 1}
+
+Y(13605) = perspector of the cross-cevian triangle of X(75) and X(63) and the X(63)-circumconcevian triangle of X(75)
 

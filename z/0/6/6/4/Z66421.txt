@@ -1,0 +1,22 @@
+Z(66421)
+
+X(5853)X(35160)∩X(10029)X(36807)
+
+Barycentrics    1/((-a+b+c)^2*(2*a^2+(b-c)^2-a*(b+c))^2)
+
+Z(66421) lies on these lines: {7, Z586}, {5853, 35160}, {10029, 36807}, {40704, Z81918}
+
+Z(66421) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2), X(5853)}}, {{A, B, C, X(7), X(1275)}}, {{A, B, C, X(85), X(1016)}}, {{A, B, C, X(21446), Z(30143)}}, {{A, B, C, X(31618), X(31625)}}, {{A, B, C, X(52156), Z(23345)}}
+
+Z(66421) = trilinear pole of line {35160, 43042}
+
+Z(66421) = X(i)-isoconjugate-of-X(j) for these {i, j}: {31, 35111}, {41, 3021}, {2348, 8647}
+
+Z(66421) = X(i)-Dao conjugate of X(j) for these {i, j}: {2, 35111}, {3160, 3021}
+
+Z(66421) = X(i)-cross conjugate of X(j) for these {i, j}: {2, 35160}, {4468, Z3886}
+
+Z(66421) = barycentric product X(i)*X(j) for these (i, j): {7, Z37147}, {76, Z23038}, {1477, Z41837}, {6063, Z586}, {35160, 35160}, {43760, Z36678}
+
+Z(66421) = barycentric quotient X(i)/X(j) for these (i, j): {2, 35111}, {7, 3021}, {1477, 8647}, {35160, 5853}, {43760, 2348}, {Z586, 55}, {Z23038, 6}, {Z36678, Z74241}, {Z37147, 8}, {Z41837, Z35974}
+

@@ -1,0 +1,24 @@
+Z(50033)
+
+(unnamed)
+
+Barycentrics    1/((b-c)^2*(b+c)^2*(a^2-2*(b^2+c^2))^2)
+
+Z(50033) lies on these lines: {3906, 35138}, {Z9431, Z41488}
+
+Z(50033) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2), X(3849)}}, {{A, B, C, X(83), Z(26403)}}, {{A, B, C, X(187), X(40871)}}, {{A, B, C, X(316), X(40877)}}, {{A, B, C, X(2770), X(3407)}}, {{A, B, C, X(4590), Z(4073)}}, {{A, B, C, X(11636), Z(3779)}}, {{A, B, C, X(31621), Z(1855)}}, {{A, B, C, X(44168), X(52940)}}, {{A, B, C, Z(3465), Z(21923)}}
+
+Z(50033) = trilinear pole of line {35138, 35356}
+
+Z(50033) = X(i)-isoconjugate-of-X(j) for these {i, j}: {31, 17416}
+
+Z(50033) = X(i)-vertex conjugate of X(j) for these {i, j}: {32, Z26403}
+
+Z(50033) = X(i)-Dao conjugate of X(j) for these {i, j}: {2, 17416}
+
+Z(50033) = X(i)-cross conjugate of X(j) for these {i, j}: {2, 35138}
+
+Z(50033) = barycentric product X(i)*X(j) for these (i, j): {76, Z9431}, {598, Z41488}, {11636, Z50032}, {35138, 35138}, {40826, Z3779}
+
+Z(50033) = barycentric quotient X(i)/X(j) for these (i, j): {2, 17416}, {598, 8288}, {11636, 17414}, {35138, 3906}, {Z3779, 574}, {Z9431, 6}, {Z41488, 599}, {Z50032, Z44607}
+

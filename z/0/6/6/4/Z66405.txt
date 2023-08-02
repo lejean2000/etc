@@ -1,0 +1,20 @@
+Z(66405)
+
+(unnamed)
+
+Barycentrics    1/(a^2*(b^4+a^3*(b-c)-c^4+a^2*(-b^2+c^2)+a*(-b^3+c^3))^2)
+
+Z(66405) lies on these lines: {8674, 35156}, {Z23025, Z50360}
+
+Z(66405) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2), X(8674)}}, {{A, B, C, X(1016), X(15455)}}, {{A, B, C, X(4554), X(4590)}}, {{A, B, C, X(6331), X(31625)}}, {{A, B, C, X(18023), Z(26401)}}, {{A, B, C, X(54235), Z(26403)}}
+
+Z(66405) = X(i)-isoconjugate-of-X(j) for these {i, j}: {31, 35090}
+
+Z(66405) = X(i)-Dao conjugate of X(j) for these {i, j}: {2, 35090}
+
+Z(66405) = X(i)-cross conjugate of X(j) for these {i, j}: {2, 35156}, {Z81565, Z73211}
+
+Z(66405) = barycentric product X(i)*X(j) for these (i, j): {76, Z23025}, {1290, Z73211}, {35156, 35156}, {Z39069, Z81565}
+
+Z(66405) = barycentric quotient X(i)/X(j) for these (i, j): {2, 35090}, {1290, 42670}, {35156, 8674}, {Z23025, 6}, {Z39069, 51470}, {Z73211, Z35840}, {Z81565, 5520}
+

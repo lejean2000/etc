@@ -1,0 +1,22 @@
+Z(66394)
+
+(unnamed)
+
+Barycentrics    1/((b-c)^2*(a^3+a*b*c-b*c*(b+c))^2)
+
+Z(66394) lies on these lines: {2787, 35147}, {17946, Z23014}
+
+Z(66394) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2), X(2787)}}, {{A, B, C, X(99), X(31625)}}, {{A, B, C, X(668), X(4590)}}, {{A, B, C, X(1016), X(27805)}}, {{A, B, C, X(1916), Z(6502)}}, {{A, B, C, X(3227), Z(26403)}}, {{A, B, C, X(4554), X(44168)}}, {{A, B, C, X(11611), X(17946)}}, {{A, B, C, X(31619), Z(23346)}}
+
+Z(66394) = trilinear pole of line {18015, 35147}
+
+Z(66394) = X(i)-isoconjugate-of-X(j) for these {i, j}: {31, 35079}
+
+Z(66394) = X(i)-Dao conjugate of X(j) for these {i, j}: {2, 35079}
+
+Z(66394) = X(i)-cross conjugate of X(j) for these {i, j}: {2, 35147}
+
+Z(66394) = barycentric product X(i)*X(j) for these (i, j): {76, Z23014}, {2703, Z38643}, {35147, 35147}
+
+Z(66394) = barycentric quotient X(i)/X(j) for these (i, j): {2, 35079}, {2703, 5040}, {35147, 2787}, {Z23014, 6}, {Z38643, Z36967}
+

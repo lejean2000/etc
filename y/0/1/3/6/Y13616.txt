@@ -1,14 +1,10 @@
-Y(13616) = X(2)X(3)∩X(36969)X(43778)
+Y(13616) = X(37)X(256)∩X(190)X(4584)
 
-Barycentrics    151*a^4-107*(b^2-c^2)^2-44*a^2*(b^2+c^2)
+Barycentrics    a*(a-b)*(a-c)*(b+c)*(a*b*c*(b+c)+a^2*(b^2-b*c+c^2)+b*c*(b^2-b*c+c^2))
 
-Y(13616) lies on these lines: {2, 3}, {36969, 43778}, {36970, 43777}, {42140, 43232}, {42141, 43233}, {43501, 43770}, {43502, 43769}, {50804, Y13382}
+Y(13616) lies on these lines: {37, 256}, {190, 4584}, {798, 21295}, {3888, 4079}, {21887, 24722}, {53581, Y13615}
 
-Y(13616) = intersection, other than A, B, C, of circumconics {{A, B, C, X(11737), X(18847)}}
+Y(13616)  = intersection, other than A, B, C, of circumconics {{A, B, C, X(256), X(4623)}}, {{A, B, C, X(694), Z(30268)}}, {{A, B, C, X(4601), Z(10045)}}
 
-Y(13616) = reflection of X(i) in X(j) for these {i,j}: {3528, 3839}
-
-Y(13616) = {X(i),X(j)}-harmonic conjugate of X(k) for these (i,j,k): {4, 11001, 11737}, {30, 3839, 3528}, {381, 15698, 3090}, {382, 3627, 5068}, {3522, 15702, 15698}, {3627, 15691, 3830}, {7486, 15712, 3525}, {12101, 15704, 381}, {12812, 15688, 15708}
-
-Y(13616) = Orthology center of { (1-t)*A+t*G, ...} and ABC for t=-22/21
+Y(13616) = perspector of the cross-cevian triangle of X(190) and X(37) and the X(37)-circumconcevian triangle of X(190)
 

@@ -1,0 +1,22 @@
+Z(15332)
+
+(unnamed)
+
+Barycentrics    (a-b)^2*(a+b)^2*(a-c)^2*(a+c)^2*(a^4+b^4-b^2*c^2-c^4+a^2*(b^2-c^2))^2*(a^4-b^4-b^2*c^2+c^4+a^2*(-b^2+c^2))^2
+
+Z(15332) lies on these lines: {5989, Z76947}, {9479, Z1893}, {11646, 17949}, {Z56767, Z76538}
+
+Z(15332) = intersection, other than A, B, C, of circumconics {{A, B, C, X(2), X(9479)}}, {{A, B, C, X(98), X(9483)}}, {{A, B, C, X(804), X(52395)}}, {{A, B, C, X(1989), X(9477)}}, {{A, B, C, X(4577), X(4590)}}, {{A, B, C, X(5989), X(19571)}}, {{A, B, C, X(8290), X(15588)}}, {{A, B, C, X(11606), X(17949)}}, {{A, B, C, X(44168), Z(24352)}}
+
+Z(15332) = trilinear pole of line {17941, Z1893}
+
+Z(15332) = X(i)-isoconjugate-of-X(j) for these {i, j}: {1, 24973}
+
+Z(15332) = X(i)-Dao conjugate of X(j) for these {i, j}: {3, 24973}
+
+Z(15332) = X(i)-cross conjugate of X(j) for these {i, j}: {2, Z1893}, {15588, 4577}
+
+Z(15332) = barycentric product X(i)*X(j) for these (i, j): {6, Z56767}, {46970, Z38708}, {Z1893, Z1893}
+
+Z(15332) = barycentric quotient X(i)/X(j) for these (i, j): {6, 24973}, {46970, 5113}, {Z1893, 9479}, {Z38708, Z77182}, {Z56767, 76}
+
